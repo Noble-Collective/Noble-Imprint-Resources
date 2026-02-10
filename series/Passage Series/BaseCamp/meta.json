@@ -1,0 +1,12 @@
+{
+  "title": "BaseCamp",
+  "subtitle": "A Rite of Passage into Christian Responsibility and Accountability",
+  "order": 1,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Preview"
+}

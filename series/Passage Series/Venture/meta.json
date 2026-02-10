@@ -1,0 +1,12 @@
+{
+  "title": "Venture",
+  "subtitle": "A Rite of Passage into Christian Risk and Valor",
+  "order": 2,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Preview"
+}
