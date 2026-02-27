@@ -34,13 +34,13 @@ Study the Text: _Christian disciples ground themselves in God’s inspired word.
 
 Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation.
 
-<Question id=TheBondSes1-Hearing-Q1>1. **Read Genesis 15:1–21**: When God appeared to Abram, what did God promise him, and how did these promises get confirmed?</Question>  
-<Question id=TheBondSes1-Hearing-Q2>2. **Read Genesis 16:1–16**: What actions did Abram and Sarai take to try to have a child, and what were the results?</Question>  
-<Question id=TheBondSes1-Hearing-Q3>3. **Read Genesis 17:1–27**: How did God establish his covenant with Abraham? What was the sign of this covenant, and how did Abraham respond to God’s instructions?</Question>  
-<Question id=TheBondSes1-Hearing-Q4>4. **Read Genesis 18:1–15**: What took place when three visitors appeared before Abraham?</Question>  
-<Question id=TheBondSes1-Hearing-Q5>5. **Read Genesis 18:16–33**: What was God planning to do to Sodom, and how did Abraham respond?</Question>  
-<Question id=TheBondSes1-Hearing-Q6>6. **Read Genesis 19:1–29**: How did the destruction of Sodom (and rescue of Lot) take place?</Question>  
-<Question id=TheBondSes1-Hearing-Q7>7. **Read Genesis 19:30–38**: What happened to Lot and his daughters after being rescued from Sodom?</Question>
+<Question id=TheOpenSes1-Hearing-Q1>1. **Read Genesis 15:1–21**: When God appeared to Abram, what did God promise him, and how did these promises get confirmed?</Question>  
+<Question id=TheOpenSes1-Hearing-Q2>2. **Read Genesis 16:1–16**: What actions did Abram and Sarai take to try to have a child, and what were the results?</Question>  
+<Question id=TheOpenSes1-Hearing-Q3>3. **Read Genesis 17:1–27**: How did God establish his covenant with Abraham? What was the sign of this covenant, and how did Abraham respond to God’s instructions?</Question>  
+<Question id=TheOpenSes1-Hearing-Q4>4. **Read Genesis 18:1–15**: What took place when three visitors appeared before Abraham?</Question>  
+<Question id=TheOpenSes1-Hearing-Q5>5. **Read Genesis 18:16–33**: What was God planning to do to Sodom, and how did Abraham respond?</Question>  
+<Question id=TheOpenSes1-Hearing-Q6>6. **Read Genesis 19:1–29**: How did the destruction of Sodom (and rescue of Lot) take place?</Question>  
+<Question id=TheOpenSes1-Hearing-Q7>7. **Read Genesis 19:30–38**: What happened to Lot and his daughters after being rescued from Sodom?</Question>
 
 ### Storycraft
 
@@ -56,11 +56,11 @@ Explore the Text: _We grow as Christ’s disciples when we root our lives in the
 
 Have someone in your community share their summary of the biblical story. As a community, discuss the following questions together.
 
-<Question id=TheBondSes1-TheoDialogue-Q1>1. **Faith Foundations**: How is faith in God’s promises a critical foundation to godly family life? How does Abram’s family story show the importance of faith?</Question>  
-<Question id=TheBondSes1-TheoDialogue-Q2>2. **Dysfunctional Families**: How do families become dysfunctional, and what sorts of dysfunctions exist? How was Abraham’s family dysfunctional in this story?</Question>  
-<Question id=TheBondSes1-TheoDialogue-Q3>3. **Covenant Relationship**: What does it mean to have one’s family in a covenant relationship with God? How did God establish his covenant with Abraham and his family?</Question>  
-<Question id=TheBondSes1-TheoDialogue-Q4>4. **Missional Family Life**: How should the family be engaged in God’s mission in the world? In what ways was Abraham to be engaged in God’s work in the world?</Question>  
-<Question id=TheBondSes1-TheoDialogue-Q5>5. **Cultural Turmoil**: What cultural values are currently threatening the integrity of the family today? How was the family under attack by the surrounding culture in this story?</Question>
+<Question id=TheOpenSes1-TheoDialogue-Q1>1. **Faith Foundations**: How is faith in God’s promises a critical foundation to godly family life? How does Abram’s family story show the importance of faith?</Question>  
+<Question id=TheOpenSes1-TheoDialogue-Q2>2. **Dysfunctional Families**: How do families become dysfunctional, and what sorts of dysfunctions exist? How was Abraham’s family dysfunctional in this story?</Question>  
+<Question id=TheOpenSes1-TheoDialogue-Q3>3. **Covenant Relationship**: What does it mean to have one’s family in a covenant relationship with God? How did God establish his covenant with Abraham and his family?</Question>  
+<Question id=TheOpenSes1-TheoDialogue-Q4>4. **Missional Family Life**: How should the family be engaged in God’s mission in the world? In what ways was Abraham to be engaged in God’s work in the world?</Question>  
+<Question id=TheOpenSes1-TheoDialogue-Q5>5. **Cultural Turmoil**: What cultural values are currently threatening the integrity of the family today? How was the family under attack by the surrounding culture in this story?</Question>
 
 ### Biblical Commentary
 
@@ -224,10 +224,10 @@ Apply the Text: _God calls his people to follow what the Bible teaches. In this 
 
 Encourage one person to share how this story has impacted. Use the reflection questions to examine your life in light of this biblical passage.
 
-<Question id=TheBondSes1-EnteringStory-Q1>1. **Family Experience**: What was your experience like in your family of upbringing? What were positive and negative experiences?</Question>
-<Question id=TheBondSes1-EnteringStory-Q1>2. **Abraham’s Family**: What aspects of Abraham’s family story did you find most challenging and encouraging?</Question>
-<Question id=TheBondSes1-EnteringStory-Q1>3. **Household Corrections**: What are the present aspects of your family life that are misaligned with God’s plan and that need to be established?</Question>
-<Question id=TheBondSes1-EnteringStory-Q1>4. **Reordering Family**: How is God inviting you to further establish your family after God’s design?</Question>
+<Question id=TheOpenSes1-EnteringStory-Q1>1. **Family Experience**: What was your experience like in your family of upbringing? What were positive and negative experiences?</Question>
+<Question id=TheOpenSes1-EnteringStory-Q2>2. **Abraham’s Family**: What aspects of Abraham’s family story did you find most challenging and encouraging?</Question>
+<Question id=TheOpenSes1-EnteringStory-Q3>3. **Household Corrections**: What are the present aspects of your family life that are misaligned with God’s plan and that need to be established?</Question>
+<Question id=TheOpenSes1-EnteringStory-Q4>4. **Reordering Family**: How is God inviting you to further establish your family after God’s design?</Question>
 
 ### Spiritual Practice
 
@@ -243,10 +243,10 @@ Minister the Text:_God wants us to use his word to edify the Christian community
 
 Look at the infographic below. Use the questions to think about how to minister this text to other believers.
 
-<Question id=TheBondSes1-RehearseScript-Q1>1. How is this passage an encouragement to disciples of Jesus Christ?</Question>
-<Question id=TheBondSes1-RehearseScript-Q2>2. How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
-<Question id=TheBondSes1-RehearseScript-Q3>3. How will you minister this text to other believers?</Question>
-<Question id=TheBondSes1-RehearseScript-Q4>4. What was the experience like when you used this passage to minister to other disciples?</Question>
+<Question id=TheOpenSes1-RehearseScript-Q1>1. How is this passage an encouragement to disciples of Jesus Christ?</Question>
+<Question id=TheOpenSes1-RehearseScript-Q2>2. How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
+<Question id=TheOpenSes1-RehearseScript-Q3>3. How will you minister this text to other believers?</Question>
+<Question id=TheOpenSes1-RehearseScript-Q4>4. What was the experience like when you used this passage to minister to other disciples?</Question>
 
 ## Missional Outreach: Publicizing the Truth
 
@@ -256,7 +256,7 @@ Witness the Text: _In word and deed, God calls his people to testify about the g
 
 Look at the infographic below. Use the questions to think about how to use this teach to reach out to unbelievers.
 
-<Question id=TheBondSes1-PublicizeTruth-Q1>1. How can you use this passage as a way to share the gospel of Jesus with others?</Question>
-<Question id=TheBondSes1-PublicizeTruth-Q2>2. How does this biblical passage inform your participation in God’s mission?</Question>
-<Question id=TheBondSes1-PublicizeTruth-Q3>3. How will you use this text to reach out to unbelievers?</Question>
-<Question id=TheBondSes1-PublicizeTruth-Q4>4. What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
+<Question id=TheOpenSes1-PublicizeTruth-Q1>1. How can you use this passage as a way to share the gospel of Jesus with others?</Question>
+<Question id=TheOpenSes1-PublicizeTruth-Q2>2. How does this biblical passage inform your participation in God’s mission?</Question>
+<Question id=TheOpenSes1-PublicizeTruth-Q3>3. How will you use this text to reach out to unbelievers?</Question>
+<Question id=TheOpenSes1-PublicizeTruth-Q4>4. What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
