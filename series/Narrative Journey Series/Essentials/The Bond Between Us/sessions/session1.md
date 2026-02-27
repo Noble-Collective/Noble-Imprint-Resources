@@ -32,14 +32,14 @@ Study the Text: _Christian disciples ground themselves in God’s inspired word.
 
 Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation.
 
-<Question id=TheOpenSes1-Hearing-Q1>1. **Read Luke 2:21–24**: After Jesus’ birth, what did his parents do that showed their devotion to God?</Question>  
-<Question id=TheOpenSes1-Hearing-Q2>2. **Read Luke 2:25–38**: What happened when Mary and Joseph brought baby Jesus into the temple? Who did they meet, and how did these people respond?</Question>  
-<Question id=TheOpenSes1-Hearing-Q3>3. **Read Luke 2:39–41**: How does this passage describe the faith of Jesus’ family and Jesus’ own growth?</Question>  
-<Question id=TheOpenSes1-Hearing-Q4>4. **Read Luke 2:41–52**: When Jesus was twelve years old, how did he get separated from his family when they left Jerusalem after the Passover Feast? What was Jesus doing in Jerusalem during this time, and how did his parents respond when they found him?</Question>
+<Question id=TheBondSes1-Hearing-Q1>1. **Read Luke 2:21–24**: After Jesus’ birth, what did his parents do that showed their devotion to God?</Question>  
+<Question id=TheBondSes1-Hearing-Q2>2. **Read Luke 2:25–38**: What happened when Mary and Joseph brought baby Jesus into the temple? Who did they meet, and how did these people respond?</Question>  
+<Question id=TheBondSes1-Hearing-Q3>3. **Read Luke 2:39–41**: How does this passage describe the faith of Jesus’ family and Jesus’ own growth?</Question>  
+<Question id=TheBondSes1-Hearing-Q4>4. **Read Luke 2:41–52**: When Jesus was twelve years old, how did he get separated from his family when they left Jerusalem after the Passover Feast? What was Jesus doing in Jerusalem during this time, and how did his parents respond when they found him?</Question>
 
 ### Storycraft
 
-<Question id=TheOpenSes1-Storycraft>Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place. Retell this story in your own words. Try to tell the story in a way that is _accurate_ (true to the Bible), _natural_ (words that common people would use), and _reproducible_ (memorable for someone listening to repeat it on their own). After crafting this story, retell it in your family, your church community, or to some other person God has placed in your life.</Question>
+<Question id=TheBondSes1-Storycraft>Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place. Retell this story in your own words. Try to tell the story in a way that is _accurate_ (true to the Bible), _natural_ (words that common people would use), and _reproducible_ (memorable for someone listening to repeat it on their own). After crafting this story, retell it in your family, your church community, or to some other person God has placed in your life.</Question>
 
 ## Theological Dialogue: Discussing the Plot
 
@@ -49,11 +49,11 @@ Explore the Text: _We grow as Christ’s disciples when we root our lives in the
 
 Have someone in your community share their summary of the biblical story. As a community, discuss the following questions together.
 
-<Question id=TheOpenSes1-TheoDialogue-Q1>1. **The Journey of Faith**: How is the Christian life like a spiritual pilgrimage? What role did pilgrimage have in Jesus’ development and in serving as a metaphor for the Christian life?</Question>
-<Question id=TheOpenSes1-TheoDialogue-Q2>2. **Faith Practices**: What kinds of practices help us grow in our faith? What were the various practices, disciplines, and customs in this story?</Question>
-<Question id=TheOpenSes1-TheoDialogue-Q3>3. **Spiritual Progress**: What does it look like to grow toward maturity? How does this passage describe the domains and phases of Jesus’ development?</Question>
-<Question id=TheOpenSes1-TheoDialogue-Q4>4. **Spheres of the Christian Life**: How should personal responsibility, family, and community factor in our spiritual growth? How were these dynamics evident in Jesus’ own life and upbringing?</Question>
-<Question id=TheOpenSes1-TheoDialogue-Q5>5. **Wholehearted Devotion**: What does it mean to be fully devoted to God? How did Jesus and his family model devotion to God and maturity in the faith?</Question>
+<Question id=TheBondSes1-TheoDialogue-Q1>1. **The Journey of Faith**: How is the Christian life like a spiritual pilgrimage? What role did pilgrimage have in Jesus’ development and in serving as a metaphor for the Christian life?</Question>
+<Question id=TheBondSes1-TheoDialogue-Q2>2. **Faith Practices**: What kinds of practices help us grow in our faith? What were the various practices, disciplines, and customs in this story?</Question>
+<Question id=TheBondSes1-TheoDialogue-Q3>3. **Spiritual Progress**: What does it look like to grow toward maturity? How does this passage describe the domains and phases of Jesus’ development?</Question>
+<Question id=TheBondSes1-TheoDialogue-Q4>4. **Spheres of the Christian Life**: How should personal responsibility, family, and community factor in our spiritual growth? How were these dynamics evident in Jesus’ own life and upbringing?</Question>
+<Question id=TheBondSes1-TheoDialogue-Q5>5. **Wholehearted Devotion**: What does it mean to be fully devoted to God? How did Jesus and his family model devotion to God and maturity in the faith?</Question>
 
 ### Biblical Commentary
 
@@ -194,11 +194,11 @@ Apply the Text: _God calls his people to follow what the Bible teaches. In this 
 
 Encourage one person to share how this story has impacted. Use the reflection questions to examine your life in light of this biblical passage.
 
-<Question id=TheOpenSes1-EnteringStory-Q1>1. **Challenges in Faith Formation**: What challenges are you facing in your spiritual life? How are you feeling stuck? What is keeping you from making progress in your faith?</Question>
-<Question id=TheOpenSes1-EnteringStory-Q2>2. **Needed Change**: What would need to change in order for you to model your life after Jesus?</Question>
-<Question id=TheOpenSes1-EnteringStory-Q3>3. **Key Relationships**: What nurturing relationships do you need to surround yourself with in order to realize these life priorities?</Question>
-<Question id=TheOpenSes1-EnteringStory-Q4>4. **Spiritual Practices**: How can you incorporate spiritual practices into your life? What practices would most help you grow in your faith?</Question>
-<Question id=TheOpenSes1-EnteringStory-Q5>5. **Living in God’s Presence**: How would your life change if you consciously lived in the presence of God on a daily basis?</Question>
+<Question id=TheBondSes1-EnteringStory-Q1>1. **Challenges in Faith Formation**: What challenges are you facing in your spiritual life? How are you feeling stuck? What is keeping you from making progress in your faith?</Question>
+<Question id=TheBondSes1-EnteringStory-Q2>2. **Needed Change**: What would need to change in order for you to model your life after Jesus?</Question>
+<Question id=TheBondSes1-EnteringStory-Q3>3. **Key Relationships**: What nurturing relationships do you need to surround yourself with in order to realize these life priorities?</Question>
+<Question id=TheBondSes1-EnteringStory-Q4>4. **Spiritual Practices**: How can you incorporate spiritual practices into your life? What practices would most help you grow in your faith?</Question>
+<Question id=TheBondSes1-EnteringStory-Q5>5. **Living in God’s Presence**: How would your life change if you consciously lived in the presence of God on a daily basis?</Question>
 
 ### Spiritual Practice
 
@@ -224,10 +224,10 @@ Minister the Text:_God wants us to use his word to edify the Christian community
 
 Look at the infographic below. Use the questions to think about how to minister this text to other believers.
 
-<Question id=TheOpenSes1-RehearseScript-Q1>1. How is this passage an encouragement to disciples of Jesus Christ?</Question>
-<Question id=TheOpenSes1-RehearseScript-Q2>2. How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
-<Question id=TheOpenSes1-RehearseScript-Q3>3. How will you minister this text to other believers?</Question>
-<Question id=TheOpenSes1-RehearseScript-Q4>4. What was the experience like when you used this passage to minister to other disciples?</Question>
+<Question id=TheBondSes1-RehearseScript-Q1>1. How is this passage an encouragement to disciples of Jesus Christ?</Question>
+<Question id=TheBondSes1-RehearseScript-Q2>2. How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
+<Question id=TheBondSes1-RehearseScript-Q3>3. How will you minister this text to other believers?</Question>
+<Question id=TheBondSes1-RehearseScript-Q4>4. What was the experience like when you used this passage to minister to other disciples?</Question>
 
 ## Missional Outreach: Publicizing the Truth
 
@@ -237,7 +237,7 @@ Witness the Text: _In word and deed, God calls his people to testify about the g
 
 Look at the infographic below. Use the questions to think about how to use this teach to reach out to unbelievers.
 
-<Question id=TheOpenSes1-PublicizeTruth-Q1>1. How can you use this passage as a way to share the gospel of Jesus with others?</Question>
-<Question id=TheOpenSes1-PublicizeTruth-Q2>2. How does this biblical passage inform your participation in God’s mission?</Question>
-<Question id=TheOpenSes1-PublicizeTruth-Q3>3. How will you use this text to reach out to unbelievers?</Question>
-<Question id=TheOpenSes1-PublicizeTruth-Q4>4. What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
+<Question id=TheBondSes1-PublicizeTruth-Q1>1. How can you use this passage as a way to share the gospel of Jesus with others?</Question>
+<Question id=TheBondSes1-PublicizeTruth-Q2>2. How does this biblical passage inform your participation in God’s mission?</Question>
+<Question id=TheBondSes1-PublicizeTruth-Q3>3. How will you use this text to reach out to unbelievers?</Question>
+<Question id=TheBondSes1-PublicizeTruth-Q4>4. What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
