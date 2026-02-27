@@ -24,40 +24,47 @@ By equipping disciples—old and young, men and women, rich and poor, oral and l
 
 For disciples who are devoted to following Christ, leaders who are vested with the care of the flock, and churches that are seeking to represent Christ in their communities, we hope that this series will provide a simple yet open passage into the rich storehouse of God’s redemptive work. If even a portion of this vision comes to reality, we pray it comes in the form of transformed lives, established churches, and empowered leaders. May the testimony of its fruit be “written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts” (2 Corinthians 3:3). To that end: “Let the favor of the Lord our God be upon us, and establish the work of our hands upon us; yes, establish the work of our hands” (Psalm 90:17).
 
+
 ### Series Outline
 
----
 
-| Narrative Journey FOUNDATIONS                         |                                                                                                                                                                                  |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _**Faith Fundamentals for New Believers**_             | _The Narrative Journey begins with orienting new believers to the basic elements of the Christian faith. This multi-session study through Acts 2 explores key aspects to being a follower of Jesus as it prepares disciples to join the Christian community through baptism._  |
-| **The Call of Christ**                              | Explores the basic content of the Christian faith— orienting new believers from Acts 2.
+#### Narrative Journey FOUNDATIONS
 
-<br>
-<br>
+| Topic | Description |
+| :--- | :--- |
+| _**Faith Fundamentals for New Believers**_ | _The Narrative Journey begins with orienting new believers to the basic elements of the Christian faith. This multi-session study through Acts 2 explores key aspects to being a follower of Jesus as it prepares disciples to join the Christian community through baptism._ |
+| **The Call of Christ** | Explores the basic content of the Christian faith— orienting new believers from Acts 2. |
 
----
-
-| Narrative Journey ESSENTIALS                         |                                                                                                                                                                                  |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _**Core Discipleship for Local Churches**_             | _The second set of books in the Narrative Journey series establishes believers and churches in the essentials of the Christian faith. Exploring carefully selected biblical narratives (arranged under the topics of Christiain belief, living, habits, community, and devotion), the community of faith grows deep roots in core Christian teaching._  |
-| **The Story Behind it All**                              | Addresses the doctrinal fountainheads of Christian belief— built upon the Apostles’ Creed.
-|**The Best Possible Life**                                | Illuminates the moral substructure of Christian living— structured around the Ten Commandments.
-|**The Bond Between Us**                                   | Commends vital characteristics of Christian community— envisioned as the household of God.
-|**The Glory Due His Name**                                |Rediscovers the distinctive center of Christian devotion— rooted in baptism and the Lord’s Supper
-
-<br>
 <br>
 
 ---
 
-| Narrative Journey PATHWAYS                         |                                                                                                                                                                                  |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _**basic training for emerging leaders**_             | _The third set of books in the Narrative Journey series equips emerging leaders with a rudimentary understanding of Christian ministry. Teaching mature believers how to participate in God’s work, these books explore the fundamental nature of Christian mission, the unfolding design of the biblical (meta) narrative, the vital landscape of godly leadership, and the elementary principles of formational teaching._  |
-| **The Ends of the Earth**                              | Enjoins God’s people to worldwide Christian mission— inspired by the Book of Acts.
-|**The Sacred Script**                                | Offers a biblical foundation to a Christian worldview— rendered through the scriptural metanarrative.
-|**The Making of a Shepherd**                                   | Presents an inspiring profile on Christian leadership— shown through biblical exemplars.
-|**The Aim of Our Charge**                                |Develops a sound pedagogy of Christian instruction— traversing through key biblical narratives
+#### Narrative Journey ESSENTIALS
+
+| Topic | Description |
+| :--- | :--- |
+| _**Core Discipleship for Local Churches**_ | _The second set of books in the Narrative Journey series establishes believers and churches in the essentials of the Christian faith. Exploring carefully selected biblical narratives (arranged under the topics of Christian belief, living, habits, community, and devotion), the community of faith grows deep roots in core Christian teaching._ |
+| **The Story Behind it All** | Addresses the doctrinal fountainheads of Christian belief— built upon the Apostles’ Creed. |
+| **The Best Possible Life** | Illuminates the moral substructure of Christian living— structured around the Ten Commandments. |
+| **The Bond Between Us** | Commends vital characteristics of Christian community— envisioned as the household of God. |
+| **The Glory Due His Name** | Rediscovers the distinctive center of Christian devotion— rooted in baptism and the Lord’s Supper. |
+
+<br>
+
+---
+
+#### Narrative Journey PATHWAYS
+
+| Topic | Description |
+| :--- | :--- |
+| _**basic training for emerging leaders**_ | _The third set of books in the Narrative Journey series equips emerging leaders with a rudimentary understanding of Christian ministry. Teaching mature believers how to participate in God’s work, these books explore the fundamental nature of Christian mission, the unfolding design of the biblical (meta) narrative, the vital landscape of godly leadership, and the elementary principles of formational teaching._ |
+| **The Ends of the Earth** | Enjoins God’s people to worldwide Christian mission— inspired by the Book of Acts. |
+| **The Sacred Script** | Offers a biblical foundation to a Christian worldview— rendered through the scriptural metanarrative. |
+| **The Making of a Shepherd** | Presents an inspiring profile on Christian leadership— shown through biblical exemplars. |
+| **The Aim of Our Charge** | Develops a sound pedagogy of Christian instruction— traversing through key biblical narratives. |
+
+
+
 
 ## Foundations Overview
 
