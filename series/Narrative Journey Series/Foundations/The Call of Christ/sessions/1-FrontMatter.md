@@ -27,15 +27,11 @@ _Pathways_
 <br>
 <br>
 <br>
-
+<br>
 The Call of Christ:
 A Narrative Journey of Christian Faith
-
 <br>
 <br>
-<br>
-<br>
-
 **Matthew R. Lynskey**
 
 <br>
