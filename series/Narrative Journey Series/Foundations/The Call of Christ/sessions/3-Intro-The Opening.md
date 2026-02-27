@@ -102,13 +102,12 @@ The Scriptures are the only reliable guide for life. In the Bible, God outlines 
 
 Taking first steps in the faith, disciples of Jesus devote themseles to an ordered process of growth and learning. Use the following calendar to plan your journey through this study of the fundamentals of the Christian faith.
 
-| Biblical Passage                              | Meeting Details | Date |
-|----------------------------------------------|----------------|------|
-| **Introduction**                             |                |      |
-| **Session 1: The Gospel**  <br>(Acts 2:1–36) |                |      |
-| **Session 2: The Water**  <br>(Acts 2:37–41) |                |      |
-| **Session 3: The Way**  <br>(Acts 2:42–47)   |                |      |
-| **Conclusion**                               |                |      |
+<Question id=TheCallIntro-Calendar-Q1> **Introduction** - Meeting Details & Date: </Question>
+<Question id=TheCallIntro-Calendar-Q2> **Session 1: The Gospel** (Acts 2:1–36) - Meeting Details & Date: </Question>
+<Question id=TheCallIntro-Calendar-Q3> **Session 2: The Water** (Acts 2:37–41) - Meeting Details & Date: </Question>
+<Question id=TheCallIntro-Calendar-Q4> **Session 3: The Way**  (Acts 2:42–47) - Meeting Details & Date: </Question>
+<Question id=TheCallIntro-Calendar-Q5> **Conclusion** - Meeting Details & Date: </Question>
+
 
 ### Community Context
 
