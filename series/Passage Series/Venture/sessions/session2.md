@@ -128,10 +128,10 @@ _After reading this biblical passage together, discuss the following questions. 
 
 #### Evaluating Our Lives
 
-<Question id=VentureSes1-SeekingTruth-Q1>1. How would you have responded if you were one of the Israelites or David?</Question>
-<Question id=VentureSes1-SeekingTruth-Q2>2. What things do we put our confidence in that compete with us putting our full confidence in the Lord? </Question>
-<Question id=VentureSes1-SeekingTruth-Q3>3. How can you testify to God’s unexpected work in your own life? How can your past experiences of God’s work grow your faith for future challenges?</Question>
-<Question id=VentureSes1-SeekingTruth-Q4>4. What specific truths of this story are important for you to grow in faith and courage?</Question>
+<Question id=VentureSes1-EvalLives-Q1>1. How would you have responded if you were one of the Israelites or David?</Question>
+<Question id=VentureSes1-EvalLives-Q2>2. What things do we put our confidence in that compete with us putting our full confidence in the Lord? </Question>
+<Question id=VentureSes1-EvalLives-Q3>3. How can you testify to God’s unexpected work in your own life? How can your past experiences of God’s work grow your faith for future challenges?</Question>
+<Question id=VentureSes1-EvalLives-Q4>4. What specific truths of this story are important for you to grow in faith and courage?</Question>
 
 #### Biblical Commentary
 
@@ -271,7 +271,7 @@ _Review and reflect on the passages you just read. Identify verses that you find
 
 <Question id=VentureSes1-ConcludingRef-Q1>This verse convicted me of my shortcomings...</Question>
 
-<Question id=VentureSes1-ConcludingRef-Q1>This verse challenged me to grow in my faith...</Question>
+<Question id=VentureSes1-ConcludingRef-Q2>This verse challenged me to grow in my faith...</Question>
 
 ### Art Observation
 
