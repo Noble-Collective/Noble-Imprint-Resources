@@ -63,7 +63,7 @@ Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard 
 <br>
 <br>
 
-### Quotation Page
+### Key Quotes
 
 The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried.  
 << G. K. Chesterton, _What's Wrong with the World_
@@ -77,6 +77,7 @@ A few days, and our work will be done. And when it is once done, it is done to a
 If you are Christians, be consistent. Be Christians out and out; Christians every hour, in every part. Beware of halfhearted discipleship, of compromise with evil, of conformity to the world, of trying to serve two masters – to walk in two ways, the narrow and the broad, at once. It will not do. Halfhearted Christianity will only dishonor God, while it makes you miserable.  
 << Horatius Bonar, _Light and Truth_
 
+<br>
 <br>
 <br>
 
