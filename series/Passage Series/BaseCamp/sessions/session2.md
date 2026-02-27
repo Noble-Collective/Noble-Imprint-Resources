@@ -116,9 +116,9 @@ The foundation of personal responsibility is genuine trust in God. The biblical 
 <Question id=BaseCampSes1-SeekingTruth-Q3>3. Based upon this story, how does a person’s understanding of God affect the way they live their lives?</Question>
 
 #### Evaluating Our Lives
-<Question id=BaseCampSes1-SeekingTruth-Q1>1. How would you evaluate your relationship with God? What amount of accountability and responsibility before God characterizes your life?</Question>
-<Question id=BaseCampSes1-SeekingTruth-Q2>2. Why are you interested in living a life that is responsible to God? What most excites you and concerns you about this kind of life?</Question>
-<Question id=BaseCampSes1-SeekingTruth-Q3>3. What would change in your life if you took your responsibility before God more seriously?</Question>
+<Question id=BaseCampSes1-EvalLives-Q1>1. How would you evaluate your relationship with God? What amount of accountability and responsibility before God characterizes your life?</Question>
+<Question id=BaseCampSes1-EvalLives-Q2>2. Why are you interested in living a life that is responsible to God? What most excites you and concerns you about this kind of life?</Question>
+<Question id=BaseCampSes1-EvalLives-Q3>3. What would change in your life if you took your responsibility before God more seriously?</Question>
 
 #### Biblical Commentary
 
@@ -273,7 +273,7 @@ For His eyes are on the ways of a man, and He sees his every step. There is no d
 <Question id=BaseCampSes1-ConcludingRef-Q1>This verse convicted me of my shortcomings...</Question>
 
 
-<Question id=BaseCampSes1-ConcludingRef-Q1>This verse challenged me to grow in my faith...</Question>
+<Question id=BaseCampSes1-ConcludingRef-Q2>This verse challenged me to grow in my faith...</Question>
 
 
 ### Art Observation
