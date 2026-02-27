@@ -46,9 +46,7 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 
 ### Storycraft
 
-<Question id=TheGlorySes1-Storycraft>Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place.
-
-Retell this story in your own words. Try to tell the story in a way that is *accurate* (true to the Bible), *natural* (words that common people would use), and *reproducible* (memorable for someone listening to repeat it on their own). After crafting this story, retell it in your family, your church community, or to some other person God has placed in your life.</Question>
+<Question id=TheGlorySes1-Storycraft>Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place. Retell this story in your own words. Try to tell the story in a way that is *accurate* (true to the Bible), *natural* (words that common people would use), and *reproducible* (memorable for someone listening to repeat it on their own). After crafting this story, retell it in your family, your church community, or to some other person God has placed in your life.</Question>
 
 ## Theological Dialogue: Discussing the Plot
 Explore the Text: *We grow as Christ’s disciples when we root our lives in the truth. In this movement, you will explore the important teachings of this biblical passage.*
