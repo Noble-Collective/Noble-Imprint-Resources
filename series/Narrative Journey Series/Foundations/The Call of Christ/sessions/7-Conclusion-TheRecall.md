@@ -129,8 +129,8 @@ _The narrative of how you came to follow Jesus is a powerful story that can help
 Record your faith journey below, combining your work in the previous sessions to write a final draft of your story of coming to believe in Jesus. Use the following three categories as a guide/outline. Use additional space or pages as needed for this project.
 
 - <Question id=TheCallConc-PersNarr1>**Gospel Summary:** This is a summary of the gospel.</Question>
-- <Question id=TheCallConc-PersNarr1>**Personal Testimony:** This is your story of how God has changed your life and your understanding of baptism.</Question>
-- <Question id=TheCallConc-PersNarr1>**Church Commitment:** This is your intention to commit to God’s people.</Question>
+- <Question id=TheCallConc-PersNarr2>**Personal Testimony:** This is your story of how God has changed your life and your understanding of baptism.</Question>
+- <Question id=TheCallConc-PersNarr3>**Church Commitment:** This is your intention to commit to God’s people.</Question>
 
 ## Faith Practice: Following the Way 
 
