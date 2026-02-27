@@ -41,7 +41,7 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 
 <Question id=TheStorySes1-Hearing-Q1>1. **Read Job 1:1–5**: What kind of man was Job? How is he described in this passage? (Focus on Job 1:1–5)</Question>
 <Question id=TheStorySes1-Hearing-Q2>2. **Read Job 1:6–12; 2:1–6**: What did God and Satan talk about during the two meetings recorded in this story? (Focus on Job 1:6–12)</Question>
-<Queston id=TheStorySes1-Hearing-Q3>3. **Read Job 1:13–19; 2:7–9**: What kind of suffering did Job experience? (Focus on Job 1:13–19; 2:7–8)</Question>
+<Question id=TheStorySes1-Hearing-Q3>3. **Read Job 1:13–19; 2:7–9**: What kind of suffering did Job experience? (Focus on Job 1:13–19; 2:7–8)</Question>
 <Question id=TheStorySes1-Hearing-Q4>4. **Read Job 1:20–22; 2:9–10**: How did Job respond to his suffering? How is his response different than the response of his wife? (Focus on Job 1:20–22)</Question>
 <Question id=TheStorySes1-Hearing-Q5>5. **Read Job 2:11–13**: How did Job’s three friends respond to Job’s suffering? (Focus on Job 2:11–13)</Question>
 
