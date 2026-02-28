@@ -146,22 +146,22 @@ At its core, the gospel promises unending life to all who place their trust in C
 
 Your life will be defined by your relationship to Jesus. If you place your faith in Christ, forgiveness, pardon, and salvation are guaranteed to you. Jesus alone can transform your present life of sin and make you innocent before a holy God. However, if you reject Christ, you face the consequences of eternal judgment. Humans are incapable of resolving the perilous predicament of human sin. But, Christ has already paved the way to redemption, healing the fractured relationship with God. By faith in Christ, you can respond to Jesus’ call to follow him, a response to enter the paths of life.
 
-#### Session Synopsis
+#### Session 1 Synopsis
 
-| SESSION 1 SYNOPSIS                         |                                                                                                                                                                                  |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Heeding the Gospel Message**             | In this passage, Peter’s sermon records the essence of the gospel. He recounts the narrative of Jesus saving sinful humanity. A summary of the gospel message is outlined below. |
-| **Human Sin**                              | All humans are sinful and guilty before a holy God and in need of salvation (2:21, 23)                                                                                           |
-| **Prophesied Coming**                      | God promised to send a deliverer who would rescue sinful people from divine judgment. (2:30; cf. 2:23)                                                                           |
-| **Birth/Incarnation**                      | Jesus entered the world and took on human flesh (became a human being). Jesus is fully man (i.e., Jesus of Nazareth; 2:22, 30) and fully God (i.e., Lord and Christ; 2:36)       |
-| **Person**                                 | Jesus is fully God and fully man in one person (2:22, 27, 34, 36)                                                                                                                |
-| **Life/Ministry**                          | During his life and ministry, Jesus performed mighty works and miracles (2:22)                                                                                                   |
-| **Crucifixion**                            | According to God’s plan, people crucified Jesus on the cross (2:23, 36)                                                                                                          |
-| **Resurrection**                           | Jesus was raised from the dead (2:24-32)                                                                                                                                         |
-| **Appearance**                             | Jesus appeared to his disciples (2:33)                                                                                                                                           |
-| **Ascension**                              | Jesus was exalted to the right hand of God (2:33)                                                                                                                                |
-| **Holy Spirit**                            | Jesus sent the Holy Spirit to empower God’s people (2:33                                                                                                                         |
-| **Intercession, Reign, and Future Return** | Jesus reigns in heaven at the right hand of God the Father and one day will return to earth to bring God’s kingdom to full fruition (2:34-35)                                    |
+| **Heeding the Gospel Message** | In this passage, Peter’s sermon records the essence of the gospel. He recounts the narrative of Jesus saving sinful humanity. A summary of the gospel message is outlined below. |
+| :--- | :--- |
+| **Human Sin** | All humans are sinful and guilty before a holy God and in need of salvation (2:21, 23) |
+| **Prophesied Coming** | God promised to send a deliverer who would rescue sinful people from divine judgment. (2:30; cf. 2:23) |
+| **Birth/Incarnation** | Jesus entered the world and took on human flesh (became a human being). Jesus is fully man (i.e., Jesus of Nazareth; 2:22, 30) and fully God (i.e., Lord and Christ; 2:36) |
+| **Person** | Jesus is fully God and fully man in one person (2:22, 27, 34, 36) |
+| **Life/Ministry** | During his life and ministry, Jesus performed mighty works and miracles (2:22) |
+| **Crucifixion** | According to God’s plan, people crucified Jesus on the cross (2:23, 36) |
+| **Resurrection** | Jesus was raised from the dead (2:24-32) |
+| **Appearance** | Jesus appeared to his disciples (2:33) |
+| **Ascension** | Jesus was exalted to the right hand of God (2:33) |
+| **Holy Spirit** | Jesus sent the Holy Spirit to empower God’s people (2:33) |
+| **Intercession, Reign, and Future Return** | Jesus reigns in heaven at the right hand of God the Father and one day will return to earth to bring God’s kingdom to full fruition (2:34-35) |
+
 
 ## Personal Reflection: Entering the Story
 
