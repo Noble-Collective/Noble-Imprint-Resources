@@ -4,9 +4,11 @@
 
 ### Confessional Statement
 
-Disciples of Christ earnestly receive God's salvation by repenting from sin and pledging faith in Christ, publicly declare their faith commitment and community participation through baptism, and get established in faith essentials as part of a Christian community.
-
-_The Path of Discipleship_
+>Disciples of Christ:
+>earnestly receive God's salvation by repenting from sin and pledging faith in Christ,
+>publicly declare their faith commitment and community participation through baptism,
+>and get established in faith essentials as part of a Christian community.
+<< _The Path of Discipleship_
 <br>
 <br>
 ### Key Elements
