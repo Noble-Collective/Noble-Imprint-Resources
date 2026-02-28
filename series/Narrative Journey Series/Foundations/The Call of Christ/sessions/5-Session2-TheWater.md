@@ -5,13 +5,9 @@
 ### Confessional Statement
 
 > Disciples of Christ:
-
 > earnestly receive God's salvation by repenting from sin and pledging faith in Christ,
-
 > **publicly declare their faith commitment and community participation through baptism,**
-
 > and get established in faith essentials as part of a Christian community.
-
 << _The Path of Discipleship_
 
 ### Key Elements
@@ -145,11 +141,10 @@ In response to Peter’s gospel message, the crowd of listeners responded in mas
 
 Peter’s instruction and the response of the crowd become instructive for us today. Not responding to the gospel amounts to a rejection of Jesus. Every person bears responsibility for how they will respond to the good news of the gospel. Dismissing the gospel will result in God’s righteous judgment; acceptance brings blessing, joy, and life only available from God’s gracious hand. God is calling people to be reconciled to himself through Christ. <Callout>For those who reject Jesus, they face God’s wrath. For those who turn from sin and place their faith in the gospel, they enjoy God’s divine favor.</Callout> A free gift that can only be received by surrendering one’s life to Christ, the promise of the gospel is available to any and all who will respond. For those who do respond, baptism is a visible way to acknowledge one’s guilt before God, renounce the life of sin, bear witness to God’s transforming grace, publicize one’s faith to the watching world, and join the family of believers. In the gospel, God is calling you to himself. How will you respond?
 
-#### Session Synopsis
+#### Session 2 Synopsis
 
-| SESSION 2 SYNOPSIS                         | |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Preparing for Baptism**    | In this passage, thousands come to faith in Christ and get baptized. This section of the story teaches us the basic meaning of baptism. A summary of the meaning of baptism is outlined below. |
+| :--- | :--- |
 | **Public Profession** | Baptism is a public profession of belief in Christ for those who have “received the word” (2:41) |
 | **Obedience** | Baptism is an act of obedience to God and repentance from sin, declaring that you want to follow Christ with all of your life and forsake your old sinful life (2:38) |
 | **Washing** | Baptism is a sign that our sins have already been forgiven (2:38) |
