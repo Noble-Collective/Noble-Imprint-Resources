@@ -174,7 +174,8 @@ Apply the Text: _Use the reflection questions to examine your life in light of t
 << **John Angell James, _The Christian Life_**
 
 Jesus is calling us to follow him by fully surrendering our lives to his leading. When we surrender our lives to Christ in genuine faith, we come to enjoy spiritual blessings that God alone can provide: forgiveness of sins, identification with Christ, the indwelling presence of the Holy Spirit, reconciled relationship with God, and salvation from divine judgment. These promises are available to those who have genuine faith in Christ. A sincere faith in Christ involves deep conviction of sin, sincere belief in the gospel, repentance and renunciation of evil, and belonging to the community of faith. These elements are integral to experiencing the new life that God offers. More than a casual offer for life improvement, God is calling people to return to himself and be saved from condemnation. The act of baptism is a means to express the multilayered implications of faith in Christ: returning to God and receiving his offer of salvation. Use the following exercise as a means to consider what it means to personally respond to Jesus in genuine faith.
-
+<br>
+<br>
 #### Personal Testimony
 
 <Question id=TheCallSes2-PersonalTestimony>_Meditate on the narrative recorded in Acts 2:37–41. Reflect on what a genuine response to the gospel entails. Record your own story of life transformation and your understanding of baptism._</Question>
