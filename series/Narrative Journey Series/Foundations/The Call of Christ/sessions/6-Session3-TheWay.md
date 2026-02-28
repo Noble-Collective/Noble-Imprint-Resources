@@ -5,13 +5,9 @@
 ### Confessional Statement
 
 >Disciples of Christ:
-
 >earnestly receive God's salvation by repenting from sin and pledging faith in Christ,
-
 >publicly declare their faith commitment and community participation through baptism,
-
 >**and get established in faith essentials as part of a Christian community.**
-
 << _The Path of Discipleship_
 
 ### Key Elements
@@ -136,17 +132,17 @@ The early Christians practiced their faith with sincerity. Their belief in Chris
 
 <Callout>The community life of the early Christians is an inspiration and instruction to us today.</Callout> Their devotion is a model of wholehearted commitment to Christ which resulted in a dedication to God, God’s ways, God’s people, and God’s mission in the world. If you have come to faith in Christ and publicly dedicated yourself to this faith in baptism, God invites us to mature in our faith by reordering our lives after God’s design. The summary of the early Christian community life in Acts 2:42–47 is a roadmap to guide us on that journey. May God cause you to flourish as your life (more and more) comes wholly under submission to Christ!
 
-#### Session Synopsis
+#### Session 3 Synopsis
 
-| SESSION 3 SYNOPSIS                         | |
-| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Essentials of a Devoted Christian Life**    | In this passage, the early Christians fully devoted themselves to the ways of Christ. They practiced their devotion to Christ in the context of Christian community and as a witness to the wider world. This section of the story teaches us what it looks like for Christian communities to become established in the essentials of the faith and to grow in their devotion to Christ in every sphere of life. A summary of an established faith is outlined below. |
+| **Essentials of a Devoted Christian Life** | In this passage, the early Christians fully devoted themselves to the ways of Christ. They practiced their devotion to Christ in the context of Christian community and as a witness to the wider world. This section of the story teaches us what it looks like for Christian communities to become established in the essentials of the faith and to grow in their devotion to Christ in every sphere of life. A summary of an established faith is outlined below. |
+| :--- | :--- |
 | **Christian Belief** | The early Christians devoted themselves to _right beliefs._ They gave themselves to the apostles’ teaching and were defined by their belief in the truth. (2:42, 44) |
 | **Christian Living** | The early Christians devoted themselves to _godly conduct._ The apostles’ teaching taught them how to live (as much as what to believe) and experienced God’s transforming power in their midst. (2:42–43) |
-| **Christian Formation** |The early Christians devoted themselves to _faith habits_. They practiced such habits as table fellowship, stewardship of possessions, prayer, biblical instruction, fellowship, and worship. (2:42, 44–46) |
-| **Christian Community** | The early Christians devoted themselves to _God-honoring interpersonal relationships_. Their faith in Christ impacted every sphere of life: individual, family, church, and world. (2:42, 45–47)|
+| **Christian Formation** | The early Christians devoted themselves to _faith habits_. They practiced such habits as table fellowship, stewardship of possessions, prayer, biblical instruction, fellowship, and worship. (2:42, 44–46) |
+| **Christian Community** | The early Christians devoted themselves to _God-honoring interpersonal relationships_. Their faith in Christ impacted every sphere of life: individual, family, church, and world. (2:42, 45–47) |
 | **Christian Devotion** | The early Christians devoted themselves to God in _faithful worship_. The practice of _baptism_ (initiation rite whereby disciples pledge their allegiance to Christ and enter the family of believers) and _communion_ (sacred meal of bread and drink to commemorate Jesus’ saving work on the cross) highlight this devotion. Full devotion to Christ involved a commitment to God, God’s ways, God’s people, and God’s world. (2:42–43, 46–47; cf. 2:37–41) |
 | **Christian Mission** | The early Christians devoted themselves to _gospel progress_. Through their life and public testimony, disciples bore witness to the gospel, calling others to faith in Christ. (2:47; cf. 2:22–41) |
+
 
 ## Personal Reflection: Entering the Story
 
@@ -169,7 +165,8 @@ Apply the Text: _Use the reflection questions to examine your life in light of t
 << **William Law, _A Serious Call_**
 
 Part of the path of discipleship is to align our goals and aspirations with God’s will for our lives. In essence, we want to have God’s priorities become our priorities. Offering our whole lives to God in worship involves dedicating every sphere of life to him: allowing God to recalibrate what should be important to us. In effect, we are striving to make God “first and foremost” in our lives. God desires to unleash his blessing in our lives as we make him our all in all. As the early Christians were fully devoted in their commitment to God, so God calls us to a life of worship by being fully devoted to his priorities. In order to aid in this process, the exercise below is meant to help you think of your life in light of God’s priorities. Prayerfully consider the upcoming phase of your life and try to come up with a concrete and measurable goal for each sphere of your life: individual, family, church, and world. Take the time to think about what goals in each sphere would align your life around God’s priorities. Then, discuss these priorities and plans with others in your church community.
-
+<br>
+<br>
 #### Community Covenant/Intentions
 
 <Question id=TheCallSes3-Covenant>_Reflect on the way the early Christians lived a devoted life of faith in the context of gospel community in Acts 2:42–47. Write out your expressed desire to follow Jesus and record commitments/intentions you are making in the areas of individual, family, church, and world as you begin your journey of faith._</Question>
