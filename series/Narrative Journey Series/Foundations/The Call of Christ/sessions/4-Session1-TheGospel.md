@@ -5,13 +5,9 @@
 ### Confessional Statement
 
 >Disciples of Christ:
-
 >**earnestly receive God's salvation by repenting from sin and pledging faith in Christ,**
-
 >publicly declare their faith commitment and community participation through baptism,
-
 >and get established in faith essentials as part of a Christian community.
-
 << _The Path of Discipleship_
 
 ### Key Elements
@@ -25,8 +21,8 @@
 > _He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed._
 << **1 Peter 2:24–25**
 
-> _Christ [is] the very essence of all delights and pleasures, the very soul and substance of them. As all the rivers are gathered into the ocean, which is congregation or meeting-place of all waters in the world: so Christ is that ocean in which all true delights and pleasures meet.
-<< _**John Flavel, _The Method of Grace_**
+> _Christ [is] the very essence of all delights and pleasures, the very soul and substance of them. As all the rivers are gathered into the ocean, which is congregation or meeting-place of all waters in the world: so Christ is that ocean in which all true delights and pleasures meet._
+<< **John Flavel, _The Method of Grace_**
 
 Jesus is calling you to follow him. Christianity is more than an idea, a philosophy, or a belief system. At its very core, the Christian life involves faithful submission to Jesus Christ in every area of one’s life. A true disciple—a follower of Christ—no longer lives for one’s own interests and no longer prioritizes one’s own self-will. Rather, disciples recognize Jesus as sovereign king of the universe and therefore as rightful king of their own lives. Said simply, the life of a Christian disciple begins by trusting Jesus as one’s Savior and submitting to him as one’s Master and Lord. In this act, disciples escape the ruin of the present world by entrusting themselves to Jesus for the forgiveness of their sins.
 
@@ -181,11 +177,12 @@ Apply the Text: _Use the reflection questions to examine your life in light of t
 > _Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him._ 
 << **Hebrews 9:28**
 
-> _I do believe and confess that Christ’s condemnation is my absolution [pardon], that His crucifying is my deliverance, His descending into hell is my ascending into heaven, His death is my life, His blood is my cleansing and purging, by whom only I am washed, purified and cleansed from all my sins ... the blood of Jesus Christ ... purged and made clean forever .... Jesus Christ, by the sacrifice of his body, which he offered upon the tree of the cross, hath defaced and destroyed sin, death and the devil, with all his kingdom; and hath wholly performed the work of our salvation.
-<< _**John Hooper, _The Christian Faith_**
+> _I do believe and confess that Christ’s condemnation is my absolution [pardon], that His crucifying is my deliverance, His descending into hell is my ascending into heaven, His death is my life, His blood is my cleansing and purging, by whom only I am washed, purified and cleansed from all my sins ... the blood of Jesus Christ ... purged and made clean forever .... Jesus Christ, by the sacrifice of his body, which he offered upon the tree of the cross, hath defaced and destroyed sin, death and the devil, with all his kingdom; and hath wholly performed the work of our salvation._
+<< **John Hooper, _The Christian Faith_**
 
 God sent his Son, Jesus, as his promised deliverer to rescue sinful humans from pending judgment. Jesus is fully God: he is Lord and Christ. When Jesus was born into the world, he became fully human: he was born as Jesus of Nazareth. Jesus lived a perfect and holy life. In his ministry, he performed miraculous deeds. He was crucified, rose again from the dead, appeared to his disciples, ascended into heaven, sent the Holy Spirit, and will one day return to establish God’s full and final reign over all things. All who place their faith in Christ and believe in this message receive the forgiveness of sins and life unending. Use the following exercise to clarify your understanding of this gospel message and to internalize its truth in your own heart.
 
+<br>
 #### Gospel Summary
 
 <Question id=TheCallSes1-GospelSummary>Review Peter’s sermon in Acts 2:22–36. Reflect on the key elements of the gospel message. Write a summary of the gospel in your own words.</Question>
