@@ -1,0 +1,12 @@
+{
+  "title": "L’Appel du Christ",
+  "subtitle": "Un voyage narratif de la foi chrétienne",
+  "order": 1,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Pre-Release"
+}
