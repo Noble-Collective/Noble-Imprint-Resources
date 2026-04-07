@@ -1,28 +1,22 @@
 # Série Orientation
 
 
-### Table des matières
-
-| Série Orientation 9        |  |
-|----------------------------|--|
-| L'ouverture25              |  |
-| L'Evangile (session1)39    |  |
-| L'Eau (session2)71         |  |
-| Le Chemin (session3)99     |  |
-| Le Rappel129               |  |
-| Les Ressources prochain143 |  |
-
-
 ## Introduction de la série
 
 Bienvenue dans le Parcours Narratif! Cette série est une œuvre d'amour offerte à la gloire de Dieu, pour l'amour du Christ et dans une humble dépendance envers le Saint-Esprit. À l'origine, le Parcours Narratif visait à établir des disciples et des communautés ecclésiales dans les fondements de la foi chrétienne. Aux deux extrémités de ce processus d'établissement fondamental, nous avons conçu la série pour orienter les nouveaux croyants vers les fondements de la foi et former les futurs responsables aux bases du ministère chrétien. De plus, bien que cet outil fonctionne comme un processus de discipulat centré sur l'Église, il invite également ceux qui s'intéressent au christianisme à explorer la puissance transformatrice du Christ. En bref, le Parcours Narratif est un catéchisme moderne pour l'Église en mission. S'inspirant du ministère du Christ, enraciné dans la pratique historique du catéchisme, adapté à l'établissement et à l'expansion de l'Église, et repensé pour une société postmoderne, le Parcours Narratif facilite un dialogue à l'échelle de l'Église autour des récits bibliques clés, éclairant les éléments fondamentaux de la vie chrétienne. Dans son ensemble, le Parcours Narratif est divisé en trois sous-séries — Fondements, Essentiels et Voies qui correspondent généralement au processus de croissance d'un chrétien en pleine maturation. Les Fondements orientent les nouveaux croyants aux bases de la foi chrétienne, les préparant au baptême. Les Essentiels établissent les disciples et les Églises dans l'enseignement biblique fondamental, couvrant les thèmes de la croyance chrétienne, de la vie chrétienne, de la formation, de la communauté et de la dévotion. Les Voies équipent les futurs responsables des fondements de la mission chrétienne, de la vision du monde, du leadership et du ministère. À l'image des sources d'où jaillit l'eau vive, chacune de ces sous-séries et les domaines thématiques qui s'y rattachent sert de source d'inspiration pour les chrétiens et les Églises dans leur cheminement de disciple.
 
 En général, ces thèmes développent une longue tradition de catéchisme dans l'histoire de l'Église, qui enseignait les fondements de la foi à travers des résumés clés : le Symbole des Apôtres, les Dix Commandements, le Notre Père, les sacrements (baptême et communion) et le récit biblique. Tout au long de l'histoire de l'Église, chacune de ces déclarations synthétiques s'est concentrée sur un domaine vital, un contenu essentiel de la vie chrétienne. Le Symbole des Apôtres résume l'essence de la foi chrétienne. Les Dix Commandements offrent un résumé de la vie pieuse. Le Notre Père guide les croyants dans leurs habitudes et leur relation à Dieu. Les sacrements du baptême et de la communion instruisent l'Église dans le culte chrétien. Et le métarécit biblique offre un cadre global pour comprendre l'œuvre de Dieu dans son monde. Dans le cadre du Parcours narratif, nous avons bâti notre processus catéchétique sur ce cadre, tout en l'enrichissant.
 
+### Sommaire de la série
+
+#### Fondements du Parcours Narratif
+
 | Les fondements du parcours narratif                          |                                                                                                                                                                                                                                                                                                                                             |  |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Les fondements<br>de la foi pour les<br>nouveaux<br>croyants | Le Parcours Narratif commence par une introduction<br>aux éléments fondamentaux de la foi chrétienne pour les<br>nouveaux croyants. Cette étude en plusieurs séances,<br>basée sur les Actes 2, explore les aspects clés de la vie<br>de disciple de Jésus et prépare les disciples à rejoindre<br>la communauté chrétienne par le baptême. |  |
 | L'appel du Christ                                            | Explore le contenu fondamental de la foi chrétienne, en<br>présentant aux nouveaux croyants les Actes 2.                                                                                                                                                                                                                                    |  |
+
+#### Essentiels du Parcours Narratif
 
 | L'Essentiels du parcours narrative                |                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
@@ -39,6 +33,8 @@ En général, ces thèmes développent une longue tradition de catéchisme dans 
 | La Gloire Dû à | Redécouvre le cœur même de la dévotion chrétienne, |
 |----------------|----------------------------------------------------|
 | Son Nom        | enraciné dans le baptême et la Sainte Cène.        |
+
+#### Parcours du Parcours Narratif
 
 |                                                        | Les Parcours Narratifs                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

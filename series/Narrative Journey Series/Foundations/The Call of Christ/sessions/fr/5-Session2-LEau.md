@@ -2,23 +2,19 @@
 
 ## Aperçu de la session
 
-PASSAGE CLE : Actes2V37-41
+### Éléments clés
 
-Mémoire scripturaire : « Ignorez-vous que nous tous qui avons été baptisés en Jésus Christ, c'est en sa mort que nous avons été baptisés ?. Nous avons été donc avec lui par le baptème en sa mort, afin que comme Christ est résuscité des morts par la gloire du Père, de meme nous aussi nous marchions en nouveauté de vie. En effet, si nous sommes devenus une meme plante avec lui par la conformité a sa mort, nous le serons aussi par la conformité a sa resurrection » Romain6V3-6
-
-Catéchisme : Comment le disciple atteste sa foi en Christ ?
-
-Reponse : A travers le Bapteme
-
-Il y a un seul corps et un seul Esprit, comme vous avez été appelés à une seule espérance, celle de votre vocation : un seul Seigneur, une seule foi,un seul baptême, un seul Dieu et Père de tous, qui est au-dessus de tous,par tous et en tous.
-
-<< **Éphésiens 4:4-6**
-
-Être un vrai chrétien a un prix. N'oublions jamais cela. Être un chrétien de nom seulement et aller à l'église, est facile et peu coûteux. Mais entendre la voix du Christ, suivre le Christ, croire en lui et le confesser, exige beaucoup d'abnégation. Cela nous coûtera nos péchés, notre propre justice, notre confort et notre mondanité. Il faut tout abandonner. Nous devons combattre un ennemi qui s'attaque à nous avec des milliers de partisans. Nous devons bâtir une tour dans les temps troublés. Notre Seigneur Jésus-Christ veut que nous comprenions pleinement cela. Il nous exhorte à « évaluer le coût ».
-
-J. C. Ryle, Réflexions exégétiques sur les Évangiles : Luc
+- **Passage clé** : Actes 2v37-41
+- **Mémoire scripturaire** : Romains 6v3-6 — « Ignorez-vous que nous tous qui avons été baptisés en Jésus Christ, c'est en sa mort que nous avons été baptisés ? Nous avons été donc avec lui par le baptème en sa mort, afin que comme Christ est résuscité des morts par la gloire du Père, de meme nous aussi nous marchions en nouveauté de vie. En effet, si nous sommes devenus une meme plante avec lui par la conformité a sa mort, nous le serons aussi par la conformité a sa resurrection »
+- **Catéchisme** : Q : Comment le disciple atteste sa foi en Christ ? R : À travers le baptême
 
 ## Introduction
+
+> _« Il y a un seul corps et un seul Esprit, comme vous avez été appelés à une seule espérance, celle de votre vocation : un seul Seigneur, une seule foi, un seul baptême, un seul Dieu et Père de tous, qui est au-dessus de tous, par tous et en tous. »_
+<< **Éphésiens 4:4-6**
+
+> _« Être un vrai chrétien a un prix. N'oublions jamais cela. Être un chrétien de nom seulement et aller à l'église, est facile et peu coûteux. Mais entendre la voix du Christ, suivre le Christ, croire en lui et le confesser, exige beaucoup d'abnégation. Cela nous coûtera nos péchés, notre propre justice, notre confort et notre mondanité. Il faut tout abandonner. Nous devons combattre un ennemi qui s'attaque à nous avec des milliers de partisans. Nous devons bâtir une tour dans les temps troublés. Notre Seigneur Jésus-Christ veut que nous comprenions pleinement cela. Il nous exhorte à « évaluer le coût ». »_
+<< **J. C. Ryle, _Réflexions exégétiques sur les Évangiles : Luc_**
 
 Lorsque l'Évangile est proclamé, les positions se cristallisent. Nous sommes soit pour Jésus, soit contre lui. La réalité bouleversante de l'Évangile est que nul ne peut rester neutre face aux affirmations du Christ. Le fait que Jésus soit pleinement Dieu et pleinement homme, et qu'il soit venu sur terre pour sauver l'humanité pécheresse en mourant sur la croix et en ressuscitant, oblige tous les êtres humains à choisir de suivre ce Jésus ou de le rejeter. Tel était le cas au premier siècle et tel qu'il l'a été à chaque génération et dans chaque culture depuis lors. Le message de l'Évangile n'est pas une simple campagne d'information pour améliorer la vie ; c'est un appel urgent à renoncer à ses voies pécheresses et à déclarer son allégeance au Fils de Dieu, Jésus-Christ.
 
@@ -112,7 +108,9 @@ Récit biblique (Actes 2.38-40). Après avoir exhorté la foule à s'engager ple
 
 Principes bibliques. Par la foi et la repentance, les disciples obtiennent le pardon de leurs péchés. Notre registre de péché, d'iniquité et de rébellion est effacé lorsque nous répondons à Christ avec une foi sincère. Dieu ne dirige plus son jugement courroucé contre nous, pécheurs, car il a satisfait ce jugement par la mort de son Fils, Jésus, sur la croix. N'étant plus séparés de Dieu, les disciples reçoivent la présence intérieure du Saint-Esprit. Dieu lui-même demeure dans le chrétien croyant, apportant purification, renouveau, force et proximité avec Dieu. Perdue dans un flot incessant de tentations et de péchés, l'humanité est incapable de trouver par elle-même son chemin vers Dieu. Dieu ouvre la voie du salut par Jésus et prend l'initiative d'appeler son peuple à lui.
 
-La grâce de Dieu opère une transformation profonde et durable dans la vie de tous ceux qui font allégeance au Christ. Le baptême est un moyen de témoigner publiquement de la manière dont Dieu a transformé nos vies. Chaque personne a une histoire. Ceux qui deviennent disciples du Christ témoignent de la façon dont Dieu a radicalement changé le cours de leur vie. Le moment du baptême est un moment idéal pour faire connaître cette transformation : combien la vie est différente lorsqu'on se soumet à Jésus. C'est seulement en Jésus que l'on peut obtenir le pardon des péchés, la réconciliation avec Dieu et échapper à sa colère. Ceux qui ont reçu sa Parole : Profession publique de foi
+La grâce de Dieu opère une transformation profonde et durable dans la vie de tous ceux qui font allégeance au Christ. Le baptême est un moyen de témoigner publiquement de la manière dont Dieu a transformé nos vies. Chaque personne a une histoire. Ceux qui deviennent disciples du Christ témoignent de la façon dont Dieu a radicalement changé le cours de leur vie. Le moment du baptême est un moment idéal pour faire connaître cette transformation : combien la vie est différente lorsqu'on se soumet à Jésus. C'est seulement en Jésus que l'on peut obtenir le pardon des péchés, la réconciliation avec Dieu et échapper à sa colère.
+
+#### Ceux qui ont reçu sa Parole : Profession publique de foi
 
 Récit biblique (Actes 2:41). Les personnes baptisées étaient « celles qui reçurent la parole de Pierre » (2,41). Cette « parole » englobe le contenu du message de l'Évangile (cf. 2,22-36) et l'appel à y répondre (cf. 2,38-40). La parole étant un appel pressant à recevoir l'Évangile, les membres de la foule qui croyaient à la bonne nouvelle de Jésus furent baptisés dans l'eau. L'acte du baptême était une manière visible de manifester publiquement qu'ils avaient « reçu sa parole » et s'étaient alignés sur le Christ par la foi.
 
@@ -151,6 +149,8 @@ Cette communauté de foi est un lieu d'entraide, de soutien opportun, d'encourag
 En réponse au message de l'Évangile de Pierre, la foule des auditeurs a répondu en grand nombre et de manière appropriée. Éprouvant une profonde conviction de péché, la foule a demandé à Pierre comment elle devait réagir. Pierre leur a dit de se repentir, de se faire baptiser, de s'aligner sur le Christ et de recevoir le salut offert dans l'Évangile. Il leur annonça les bénédictions offertes à tous ceux qui répondent avec une foi sincère: le pardon des péchés, une nouvelle identité en Christ, le don promis du Saint-Esprit, la réconciliation avec Dieu et la délivrance du châtiment divin. La foule entendit l'appel pressant de Pierre. Ils accueillirent l'Évangile avec foi, renoncèrent à leur ancienne vie de péché, furent baptisés et rejoignirent la communauté des croyants. L'enseignement de Pierre et la réaction de la foule sont instructifs pour nous aujourd'hui. Ne pas répondre à l'Évangile équivaut à rejeter Jésus. Chacun est responsable de sa réaction à la bonne nouvelle de l'Évangile. Rejeter l'Évangile entraînera le juste jugement de Dieu; l'accepter apporte la bénédiction, la joie et la vie que seul Dieu peut offrir dans sa grâce. Dieu appelle les hommes à se réconcilier avec lui-même par le Christ. Ceux qui rejettent Jésus s'exposent à la colère de Dieu. Ceux qui se détournent du péché et placent leur foi dans l'Évangile bénéficient de la grâce divine de Dieu. Don gratuit qui ne peut être reçu qu'en remettant sa vie à Christ, la promesse de l'Évangile est offerte à tous ceux qui y répondent. Pour ceux qui y répondent, le baptême est un moyen visible de reconnaître sa culpabilité devant Dieu, de renoncer à la vie de péché, de témoigner de la grâce transformatrice de Dieu, de proclamer sa foi au monde entier et de rejoindre la famille des croyants.
 
 Dans l'Évangile, Dieu vous appelle à lui. Comment allez-vous répondre?
+
+#### Synopsis de la Session 2
 
 | Tableau synoptique de la session 2 |                                                                                                                                                                                                                                                                    |  |  |
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|

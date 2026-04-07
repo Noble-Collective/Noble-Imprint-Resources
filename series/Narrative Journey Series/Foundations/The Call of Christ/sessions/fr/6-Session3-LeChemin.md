@@ -2,25 +2,19 @@
 
 ## Aperçu de la session
 
-LE CHEMIN
+### Éléments clés
 
-Passage clé : Actes2v42-47
-
-Mémoire scripturaire : « Puis il dit à tous : Si quelqu'un veut venir après moi, qu'il renonce à lui-meme, qu'il se charge de sa croix, et qu'il me suive »
-
-Luc9v23
-
-Catéchisme : A quoi ressemble une soumission à Christ ?
-
-Reponse : La Dévotion
-
-« Je vous exhorte donc, frères, par la miséricorde de Dieu, à offrir vos corps comme un sacrifice vivant, saint et agréable à Dieu, ce qui est votre culte spirituel. Ne vous conformez pas à ce monde, mais soyez transformés par le renouvellement de votre esprit, afin de discerner quelle est la volonté de Dieu, ce qui est bon, agréable et parfait. »
-
-<< **Romains 12:1-2**
-
-« Sa croix est le plus doux fardeau que j'aie jamais porté ; c'est un tel fardeau que les ailes d'un oiseau, ou les voiles d'un navire, pour me porter en avant vers mon port. Je n'ai guère de raison de m'attacher au monde, mais plutôt de souhaiter que Celui qui siège sur les déluges ramène mon navire brisé à terre et garde ma conscience en ces temps périlleux ; car la colère du Seigneur s'abat sur cette terre de péché. » Samuel Rutherford, Lettres
+- **Passage clé** : Actes 2v42-47
+- **Mémoire scripturaire** : Luc 9v23 — « Puis il dit à tous : Si quelqu'un veut venir après moi, qu'il renonce à lui-meme, qu'il se charge de sa croix, et qu'il me suive »
+- **Catéchisme** : Q : À quoi ressemble une soumission à Christ ? R : La dévotion
 
 ## Introduction
+
+> _« Je vous exhorte donc, frères, par la miséricorde de Dieu, à offrir vos corps comme un sacrifice vivant, saint et agréable à Dieu, ce qui est votre culte spirituel. Ne vous conformez pas à ce monde, mais soyez transformés par le renouvellement de votre esprit, afin de discerner quelle est la volonté de Dieu, ce qui est bon, agréable et parfait. »_
+<< **Romains 12:1-2**
+
+> _« Sa croix est le plus doux fardeau que j'aie jamais porté ; c'est un tel fardeau que les ailes d'un oiseau, ou les voiles d'un navire, pour me porter en avant vers mon port. »_
+<< **Samuel Rutherford, _Lettres_**
 
 Les disciples du Christ font du plan de Dieu leur priorité absolue. De même que Jésus nous appelle d'abord à lui faire confiance par la foi et à exprimer cette foi par le baptême, il nous appelle ensuite à soumettre tous les aspects de notre vie à la volonté de Dieu. Souvent appelé discipulat, le réalignement des croyances, des comportements, des habitudes, des relations, des priorités et du but de notre vie est un processus de réorganisation de notre existence selon les voies de Dieu. Une telle œuvre exige une soumission totale et un engagement complet envers Dieu. Dieu désire que nous lui abandonnions nos vies sans distraction, sans compétition ni hésitation. Avec une confiance profonde et inébranlable, les véritables disciples vivent sous le règne de Dieu, souverain de l'univers et de leur vie. En tant que chrétiens, nos vies deviennent une offrande entièrement consacrée à Dieu dans l'adoration et entièrement tournées vers lui dans la dévotion.
 
@@ -176,7 +170,9 @@ La vie communautaire des premiers chrétiens est une source d'inspiration et d'e
 
 Que Dieu vous fasse prospérer à mesure que votre vie se soumet pleinement à Christ!
 
-| TABLEAU SYSNOPTIQUE DE LA SESSION 3              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |  |  |  |
+#### Synopsis de la Session 3
+
+| Tableau synoptique de la Session 3              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |  |  |  |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
 | Fondements<br>d'une vie<br>chrétienne<br>dévouée | Dans ce passage, les premiers chrétiens se sont pleinement<br>consacrés aux voies du Christ. Ils ont vécu leur dévotion au<br>Christ au sein de la communauté chrétienne et comme<br>témoignage pour le monde entier. Cette partie du récit<br>nous enseigne comment les communautés chrétiennes<br>s'enracinent dans les fondements de la foi et grandissent<br>dans leur dévotion au Christ dans tous les aspects de la vie.<br>Un résumé d'une foi établie est présenté ci-dessous |  |  |  |
 | Croyance<br>chrétienne                           | Les premiers chrétiens se sont consacrés aux croyances<br>justes. Ils se sont consacrés à l'enseignement des apôtres et<br>étaient définis par leur foi en la vérité. (2:42, 44)                                                                                                                                                                                                                                                                                                      |  |  |  |

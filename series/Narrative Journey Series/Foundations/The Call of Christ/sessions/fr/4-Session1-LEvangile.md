@@ -2,13 +2,15 @@
 
 ## Aperçu de la session
 
-Section1
+### Éléments clés
 
-1pierre 2v23-24 « Lui qui a porté lui-même nos péchés en son corps sur le bois, afin que mort aux péchés nous vivions pour la justice ! Lui par les meurtrissures duquel vous avez été guéris. Car vous étiez comme des brebis errantes. Mais vous êtes retourné vers le pasteur et le gardien de vos âmes »
-
-« Christ est l'essence même de toutes les délices et plaisirs, l'âme et la substance même de ceux-ci. De même que toutes les rivières se jettent dans l'océan, qui est le rassemblement ou le lieu de rencontre de toutes les eaux du monde : ainsi Christ est cet océan dans lequel tous les vrais délices et plaisirs se rencontrent » John Flavel, La méthode de Grace
+- **Passage clé** : Actes 2v1-36
+- **Mémoire scripturaire** : 1 Pierre 2v23-24 — « Lui qui a porté lui-même nos péchés en son corps sur le bois, afin que mort aux péchés nous vivions pour la justice ! Lui par les meurtrissures duquel vous avez été guéris. Car vous étiez comme des brebis errantes. Mais vous êtes retourné vers le pasteur et le gardien de vos âmes »
 
 ## Introduction
+
+> _« Christ est l'essence même de toutes les délices et plaisirs, l'âme et la substance même de ceux-ci. De même que toutes les rivières se jettent dans l'océan, qui est le rassemblement ou le lieu de rencontre de toutes les eaux du monde : ainsi Christ est cet océan dans lequel tous les vrais délices et plaisirs se rencontrent »_
+<< **John Flavel, _La méthode de Grâce_**
 
 Jésus vous appelle à le suivre. Le christianisme est plus qu'une idée, une philosophie ou un système de croyances. À son cœur même, la vie chrétienne implique une soumission fidèle à Jésus-Christ dans tous les domaines de la vie. Un véritable disciple ne vit plus pour ses propres intérêts et ne donne plus la priorité à sa propre volonté. Au contraire, les disciples reconnaissent Jésus comme le Souverain Roi de l'univers et donc comme le Roi légitime de leur propre vie. Pour le dire plus simplement, la vie d'un disciple chrétien commence par la confiance en Jésus en tant que Sauveur et par la soumission à lui en tant que Maître et Seigneur. En se faisant, les disciples échappent à la ruine du monde présent en se confiant à Jésus pour le pardon de leurs péchés.
 
@@ -91,13 +93,13 @@ Ce récit biblique relate un moment crucial de l'histoire de l'humanité. À ce 
 
 #### Cela arrivera : Dieu accomplit son plan de salut
 
-#### Récit biblique (Actes 2:1-21).
+_Récit biblique (Actes 2:1-21)._
 
 Pendant la fête de la Pentecôte (une fête juive appelée la Fête des Semaines, célébrée pendant 50 jours [sept semaines et un jour] après la Pâque, au cours de laquelle les Juifs se réjouissaient de la moisson divine), des Juifs de divers pays se rendaient à Jérusalem pour participer aux festivités. Juste avant Jusqu'alors, Jésus était ressuscité et était apparu à plusieurs de ses disciples pendant quarante jours (Actes 1:1-3). Quelques jours avant la Pentecôte, Jésus monta au ciel sous les yeux de ses disciples (1:4-11). Il fut dit aux disciples d'attendre à Jérusalem jusqu'à ce que Dieu envoie le Saint-Esprit sur eux (1:4-5, 8). Dieu promit d'envoyer son Saint-Esprit pour donner à ses disciples la force d'être témoins de Jésus dans le monde entier (1:6-8).
 
  Le jour de la Pentecôte, les disciples étaient réunis dans une maison (2:1). Soudain, le Saint-Esprit descendit sur la communauté des disciples avec « un bruit comme celui d'un violent coup de vent… et il remplit toute la maison où ils étaient assis » (2:2). Lors de cet événement miraculeux, le Saint-Esprit donna aux disciples le pouvoir de parler en d'autres langues (2:3-4). Des gens de divers pays (cf. 2:7-11) entendirent les disciples parler des langues qu'ils comprenaient (2:5-6). La foule était stupéfaite (2:6), émerveillée (2:7, 12),et perplexe (2:12). Elle se demandait comment ces disciples de Galilée pouvaient parler les langues de tant de pays différents (2:7-11). Les gens s'émerveillaient de la façon dont un tel miracle avait pu se produire (2:8) et se demandaient ce que cet événement miraculeux signifiait (2:12). Certains se moquèrent du groupe de disciples et dirent qu'ils étaient ivres (2:13). En réponse, Pierre se leva et s'adressa à la foule. Il dit à la foule qu'ils n'étaient pas ivres, mais que cet événement miraculeux accomplissait une prophétie que Dieu avait donnée il y a longtemps (2:14-16). Pierre expliqua que Dieu avait promis qu'un jour viendrait où il « répandrait [son] Esprit sur toute chair » (2:17) et que son peuple prophétiserait (2:17-18). Dieu accomplirait des prodiges et des signes avant le jour du jugement dernier (2:19-20). Cela accomplirait la promesse de Dieu : « Quiconque invoquera le nom du Seigneur sera sauvé » (2:21). La venue de l'Esprit, le parler en langues et les signes et prodiges de cet événement montraient que Dieu accomplissait ses promesses de délivrer tous ceux qui l'invoqueraient sincèrement pour leur salut.
 
-#### Principes bibliques.
+_Principes bibliques._
 
  Les événements dramatiques d'Actes 2:1-21 témoignent de la main puissante et souveraine de Dieu intervenant dans les affaires humaines. Sans l'intervention de Dieu, les hommes seraient tragiquement condamnés. En vérité, le salut n'est possible que par la grâce de Dieu.
 
@@ -200,6 +202,8 @@ est un avertissement sur les conséquences du péché, le récit de l'œuvre sal
 #### Conclusion
 
 Au fond, l'Évangile promet la vie éternelle à tous ceux qui placent leur confiance en Christ. Jésus est le Sauveur des perdus, le Rédempteur des brisés, le Libérateur des pécheurs, et le Seigneur des égarés. L'Évangile est une bonne nouvelle car Dieu a pourvu à une solution pleine de grâce à notre condition de pécheurs. Sans l'intervention miséricordieuse de Dieu pour notre salut, la tragédie du péché humain entraînerait certainement la mort éternelle et des tourments sans fin. Plutôt que de laisser les humains à la destruction, Dieu, dans son amour,a assuré le salut des perdus en faisant reposer son jugement sur son Fils. En Christ, Dieu offre un remède sûr au péché humain. Votre vie sera définie par votre relation avec Jésus. Si vous placez votre foi en Christ, le pardon et le salut vous sont garantis. Jésus seul peut transformer votre vie actuelle de péché et vous rendre innocent devant un Dieu saint. Cependant, si vous rejetez le Christ, vous en subirez les conséquences du jugement éternel. L'être humain est incapable de résoudre le péril que représente le péché. Mais, Christ a déjà ouvert la voie de la rédemption, guérissant la relation brisée avec Dieu. Par la foi en Christ, vous pouvez répondre à l'appel de Jésus à le suivre, une réponse pour s'engager sur les chemins de la vie.
+
+#### Synopsis de la Session 1
 
 | Session synoptique                        |                                                                                                                                                                                                                 |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

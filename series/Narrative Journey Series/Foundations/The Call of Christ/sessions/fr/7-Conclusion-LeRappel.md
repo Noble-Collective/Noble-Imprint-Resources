@@ -2,23 +2,19 @@
 
 ## Aperçu de la session
 
-Passage clé : Actes2V1-47
+### Éléments clés
 
-Mémoire biblique : « Puis il leur dit à tous : Si quelqu'un veut me suivre, qu'il renonce à lui-meme, qu'il se charge chaque jour de sa croix et qu'il me suive. »
-
-Catéchisme : Quel est le processus de croissance dans notre foi chrétienne ?
-
-Réponse: Le discipolat
-
-
-
-« Ainsi donc, comme vous avez reçu le Seigneur Jésus-Christ, marchez en lui, étant enracinés et fondés en lui et affermis par la foi, d'après les instructions qui vous ont été données et abondez en action de grace.»
-
-« Les vrais chrétiens ne se considèrent pas comme satisfaisant un créancier rigoureux, mais comme s'acquittant d'une dette de gratitude. »
-
-<< **William Wilberforce, _Le vrai christianisme_**, Le vrai christianisme
+- **Passage clé** : Actes 2v1-47
+- **Mémoire scripturaire** : Luc 9v23 — « Puis il leur dit à tous : Si quelqu'un veut me suivre, qu'il renonce à lui-meme, qu'il se charge chaque jour de sa croix et qu'il me suive. »
+- **Catéchisme** : Q : Quel est le processus de croissance dans notre foi chrétienne ? R : Le discipolat
 
 ## Introduction
+
+> _« Ainsi donc, comme vous avez reçu le Seigneur Jésus-Christ, marchez en lui, étant enracinés et fondés en lui et affermis par la foi, d'après les instructions qui vous ont été données et abondez en action de grâce. »_
+<< **Colossiens 2:6-7**
+
+> _« Les vrais chrétiens ne se considèrent pas comme satisfaisant un créancier rigoureux, mais comme s'acquittant d'une dette de gratitude. »_
+<< **William Wilberforce, _Le vrai christianisme_**
 
 Jésus appelle les hommes pécheurs à recevoir librement le pardon de leurs péchés et la réconciliation avec Dieu en lui confiant leur vie dans une dépendance totale, une confiance sincère et une allégeance complète. Jésus a accompli ce que tous les humains désirent le plus profondément (le salut et la rédemption du péché), mais que nul ne peut accomplir par ses propres forces. Puisque les humains se sont éloignés de Dieu dans le péché et la rébellion, Jésus est le seul chemin qui les ramène à Dieu. Sa naissance, sa vie, son ministère, sa mort, sa résurrection, son ascension et son second avènement rendent le salut possible. Jésus appelle les pécheurs à recevoir l'offre du salut et à devenir disciples du Christ. Les disciples chrétiens répondent à l'appel de Jésus en remettant toute leur vie à son autorité et à sa protection. Devenir chrétien implique bien plus que adhérer à un ensemble de croyances, tenter de se conformer à un code moral exigeant, pratiquer des rituels spirituels particuliers, assister à des offices religieux réguliers, ou accomplir des rites de culte officiels. Si les croyances, la conduite, les habitudes, la participation communautaire et l'engagement collectif sont des éléments essentiels de la foi chrétienne, ils ne valent rien si l'on ne connaît pas Jésus avec une foi authentique.
 
@@ -29,8 +25,6 @@ Jésus appelle les hommes pécheurs à recevoir librement le pardon de leurs pé
  Bien que riche et instructif, ce court récit biblique ne dit pas tout sur ce que signifie être chrétien. S'il établit le cadre général de la foi, sa structure nécessitera davantage d'approfondissement et de développement. En tant que disciple du Christ, vous aurez encore beaucoup à apprendre tout au long de votre vie. Dieu continuera de vous faire grandir, de vous changer et de vous transformer. Plutôt que d'avancer sans but précis, la sagesse biblique suggère qu'il est prudent de participer à un processus structuré et intentionnellement conçu. Les études suivantes, dans la collection « Les essentiels du parcours narratif », visent cet objectif en vous guidant plus en détail à travers ces enseignements fondamentaux de la foi chrétienne. Tout au long de votre chemin de vie, ayez confiance: en tant que chrétien, disciple du Christ vivant et ressuscité vous n'êtes pas seul, Jésus vous guide
 
 ## Aperçu du livre : Explorer le terrain
-
-### Vue d'ensemble
 
 Les disciples mûrs sont ancrés dans les fondements de la foi chrétienne. Dans cette section, résumez l'idée principale du discipulat, reprenez le récit des Actes 2.1-47 et identifiez les observations ou réflexions importantes tirées de cette étude.
 
@@ -71,11 +65,9 @@ Notez ci-dessous les réflexions et questions issues de ces conversations.
 
 ## Plan d'apprentissage : Tracer le parcours
 
-Tracer la voie
-
 La vie de disciple est un cheminement de toute une vie. Consultez la liste des ressources et des lectures recommandées, identifiez les prochaines étapes de votre croissance et utilisez un calendrier de planification pour tracer un parcours d'apprentissage et de maturité continus.
 
-RESSOURCES RECOMMANDÉES
+### Ressources recommandées
 
 La Parole de Dieu est notre guide suffisant en matière de foi et de vie pieuse. Jetez un coup d'œil aux ressources d'étude biblique suivantes qui abordent les questions essentielles de la foi chrétienne. Discutez avec votre responsable d'église et votre communauté des sujets qui pourraient vous être les plus utiles à étudier pour vos prochaines étapes de foi.
 

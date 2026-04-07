@@ -2,22 +2,19 @@
 
 ## Aperçu de la session
 
-Passage clé : Actes 2v1-47
-
-Mémoire scripturaire : ''Mes brebis entendent ma voix, je les connais et elles me suivent. Je leur donne la vie éternelle; et elles ne périront jamais et personne ne les ravira de ma main'' Jean 10v27-28
-
-Catéchisme : Q : comment est appelé celui qui suit le Christ ?
-
-R : Un disciple
-
-
 ### Éléments clés
 
-'' Jésus leur parla de nouveau et dit : je suis la lumière du monde ; celui qui me suit ne marchera pas dans les ténèbres mais il aura la lumière de la vie'' Jean 8v1
-
-''Il est bon d'être fatigué et las de la vaine recherche du vrai bonheur avant de tendre le bras vers le rédempteur.'' Blaise Pascal
+- **Passage clé** : Actes 2v1-47
+- **Mémoire scripturaire** : ''Mes brebis entendent ma voix, je les connais et elles me suivent. Je leur donne la vie éternelle; et elles ne périront jamais et personne ne les ravira de ma main'' Jean 10v27-28
+- **Catéchisme** : Q : comment est appelé celui qui suit le Christ ? R : Un disciple
 
 ## Introduction
+
+> _''Jésus leur parla de nouveau et dit : je suis la lumière du monde ; celui qui me suit ne marchera pas dans les ténèbres mais il aura la lumière de la vie''_
+<< **Jean 8v12**
+
+> _''Il est bon d'être fatigué et las de la vaine recherche du vrai bonheur avant de tendre le bras vers le rédempteur.''_
+<< **Blaise Pascal**
 
 Jésus appelle les hommes à le suivre sur le chemin de la vie. En tant que Sauveur, Jésus a obtenu le salut pour les hommes pécheurs. Les hommes cherchent ardemment un sens, un but et une harmonie dans leur vie. Cet instinct est inscrit dans notre nature humaine. Cependant, le fait que nos recherches nous laissent souvent vides et perdus signifie que quelque chose a terriblement mal tourné avec la condition humaine. L'invitation de Jésus à devenir son disciple est une invitation à trouver ce que nous avons cherché pendant longtemps : une relation restaurée et réconciliée avec notre Créateur. Jésus lui-même est la réponse à toutes nos plus grandes afflictions et l'accomplissement de nos plus profonds désirs. Il est venu pour nous délivrer de la voie du péché et de la misère, une voie qui mène à la mort et à la destruction et nous mettre sur le chemin de la joie et de la plénitude. Un chemin qui mène à la vie et à la bénédiction. L'homme pécheur est une réalité évidente. Le brisement et le disfonctionnement du monde (et de l'expérience humaine) sont évidentes tout autour de nous. La plupart des gens admettraient volontiers que le monde ne semble pas fonctionner comme il devrait. Bien qu'il y ait beaucoup à apprécier au niveau interpersonnel, les relations humaines sont souvent confrontées à la déception, à la tension et au conflit. Les nations et les gouvernements s'engagent dans des luttes apparemment sans fin. Les leaders politiques nourrissent souvent des appétits de cupidité qui conduisent à l'exploitation des autres. Les systèmes de valeurs et les idéologies culturelles vont souvent à l'encontre des valeurs bibliques. Ce n'est pas mieux à l'intérieur de nos propres vies personnelles. Au niveau individuel, les hommes subissent des souffrances et des épreuves qui sont physiques, émotionnelles, mentale et comportementale. Seul Jésus peut apporter le salut et le soulagement au fardeau et du chaos provoqués par l'homme pécheur. Cette étude présente les fondements de ce que signifie suivre Jésus sur le chemin de la vie. Elle est basée sur le récit biblique d'Actes 2:1-47. Le contenu de ce passage scripturaire sert d'esquisse des bases de la foi chrétienne. Les événements historiques enregistrés dans ce passage biblique marquent la naissance de l'Église.
 
@@ -33,7 +30,7 @@ Jésus appelle les hommes à le suivre en tant que ses disciples. Comme des pier
 
 Un aperçu de l'enseignement chrétien est comme une carte pour le voyage de la foi. Explorez les trois sections principales et les thèmes associés de ce passage scripturaire. Discutez des sections de ce récit qui vous semblent les plus intéressantes.
 
-### Les bases de la foi chrétienne
+**Les bases de la foi chrétienne**
 
 - Session 1: L'Évangile (Actes 2:1-36): Pierre annonce la bonne nouvelle de l'Évangile.
 - Session 2: L'Eau (Actes 2:37-41): Pierre explique l'importance du baptême.
