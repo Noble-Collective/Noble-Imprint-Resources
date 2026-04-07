@@ -58,7 +58,7 @@ Actes 2:42-47
 |                                                                                                                                         |  |  |
 |                                                                                                                                         |  |  |
 
-### RACONTER L'HISTOIRE DANS SES PROPRE MOTS
+### Raconter l'histoire dans ses propres mots
 
 Racontez cette histoire avec vos propres mots. Essayez de la raconter de manière précise (fidèle à la Bible), naturelle (avec des mots que les gens ordinaires utiliseraient) et facile à mémoriser (pour que l'auditeur puisse la répéter). Après avoir rédigé cette histoire, partagez-la avec votre famille, votre communauté religieuse ou avec une autre personne que Dieu a placée sur votre chemin
 
@@ -78,9 +78,11 @@ Exploration du texte: Discutez des questions suivantes en communauté. Pour vous
 
 Principe de l'éducation pieuse
 
-Idée Clé : Jésus appelle sa communauté de disciples à s'établir sur les fondements de la foi en se consacrant pleinement à Lui dans tous les aspects de leur vie.
+#### Idée clé
 
-Introduction
+_Jésus appelle sa communauté de disciples à s'établir sur les fondements de la foi en se consacrant pleinement à Lui dans tous les aspects de leur vie._
+
+#### Introduction
 
 En général, la dévotion sincère envers quelqu'un implique plus qu'un engagement superficiel, une implication nonchalante ou une simple fréquentation. Lorsqu'il s'agit de dévotion, envers Dieu, cela est d'autant plus vrai. La véritable dévotion envers Dieu implique un engagement diligent, sacrificiel et inébranlable: un engagement dans lequel on remet pleinement à Dieu tous les aspects de sa vie.Dieu n'attend rien de moins. Dans une foi authentique, les croyants confient leur vie à Jésus. Par le baptême, les disciples manifestent leur allégeance au Christ. Au sein de la communauté ecclésiale, les croyants baptisés s'enracinent dans les fondements de la foi chrétienne, réorganisant leur vie selon le dessein de Dieu.
 
@@ -90,7 +92,7 @@ En général, la dévotion sincère envers quelqu'un implique plus qu'un engagem
 
  En explorant Actes 2.42-47, nous découvrons les aspects fondamentaux de la dévotion chrétienne. La vie chrétienne ne s'arrête pas au baptême. Au contraire, le baptême lance les nouveaux croyants dans un processus structuré d'enracinement dans la foi et la communauté chrétienne. Nous ne sommes pas laissés sans guide pour cette prochaine étape de notre cheminement de foi. Dieu a consigné comment les premiers membres de l'Église chrétienne ont accompli cette même tâche. Puisse l'exemple des premiers chrétiens nous servir de modèle pour notre propre cheminement dans les jours à venir!
 
-Un peuple pieux: entièrement dévoué à Dieu
+#### Un peuple pieux : Entièrement dévoué à Dieu
 
 Récit biblique (Actes 2.42). Remplie et fortifiée par le Saint-Esprit, l'Église primitive « persévérait dans l'enseignement des apôtres, dans la communion fraternelle, dans la fraction du pain et dans les prières » (2:42). Dans ce passage, nous voyons que les premiers disciples étaient loyaux, engagés et fidèles. Leur engagement envers Jésus les a conduits à s'investir pleinement dans les priorités de Dieu. De plus, leur engagement envers le Christ les a amenés à s'engager les uns envers les autres. Quatre de ces priorités – les pratiques de la foi – sont décrites ci-dessous : l'enseignement apostolique, la communion fraternelle, la fraction du pain et les prières.
 
@@ -106,7 +108,7 @@ Principes bibliques. Ce verset d'ouverture donne une première image des premier
 
  L'engagement envers le Christ exige une soumission totale ; la foi en Christ implique la soumission à l'autorité de Dieu dans tous les domaines de la vie. Cet engagement envers Dieu se traduit également par un engagement envers les autres croyants. Dieu lui-même étant une Communauté Divine — un seul Dieu qui existe éternellement en trois personnes : Père, Fils et Saint-Esprit appelle son peuple à vivre une vie commune les uns avec les autres. Cette vie commune s'épanouit autour de la vérité, de la communion fraternelle, des repas et la prière.
 
-La crainte s'empara de tous: s'ouvrir au bras tendu de Dieu
+#### La crainte s'empara de tous : S'ouvrir au bras tendu de Dieu
 
 Récit biblique (Actes 2:43). Alors que les premiers chrétiens se soumettaient aux priorités de Dieu (cf. 2:42), ils expérimentaient l'œuvre transformatrice et puissante de Dieu parmi eux. Dans la vie fervente de l'Église primitive, « la crainte s'empara de tous, et beaucoup de prodiges et de signes s'accomplissaient par les apôtres » (2:43). Dieu agissait puissamment. Des prodiges se réalisaient. Des signes s'accomplissaient. Dieu accomplissait ces œuvres « par les apôtres » (2:43). Le résultat de ces hauts faits fut une grande estime et un profond respect pour Dieu. Les gens répondirent par une profonde révérence envers Dieu, car il accomplissait des miracles parmi eux.
 
@@ -118,7 +120,7 @@ Le salut des humains du péché par Dieu est un événement miraculeux, qui ne p
 
 Pour vraiment ressentir la puissance de Dieu à l'œuvre, la crainte et l'admiration naissent dans nos cœurs. Quels que furent ces miracles et ces prodiges pour les premiers chrétiens, ils témoignaient pour eux (et pour nous) que la transformation, le renouveau et la restauration de la vie sont possibles par la puissance de Dieu.
 
-Comme pour tous les besoins : Répondre aux besoins de la communauté avec un engagement sacrificiel
+#### Comme pour tous les besoins : Répondre aux besoins de la communauté avec un engagement sacrificiel
 
 Récit biblique (Actes 2:44-45). Alors que les premiers chrétiens ressentaient puissamment l'action transformatrice de Dieu au sein de leur communauté, cette dernière éprouvait un profond sentiment d'engagement mutuel. Tous les croyants « étaient ensemble et mettaient tout en commun » (2:44), au point
 
@@ -126,7 +128,7 @@ qu'« ils vendaient leurs biens et leurs possessions et en distribuaient le prod
 
 Principes bibliques. Les liens profonds de la communion chrétienne se renforcent lorsque les chrétiens répondent concrètement aux besoins pressants de leurs frères et sœurs en la foi. Ce qui a été donné en exemple par l'Église primitive dans Actes 2:44-45 devrait devenir un manifeste personnel pour chaque croyant. Chaque disciple devrait être pleinement intégré à la vie d'une communauté de croyants afin de pouvoir participer à la satisfaction des besoins des autres et voir ses propres besoins satisfaits. Pour ce faire, les Églises doivent incarner un caractère de vulnérabilité et de transparence afin que les croyants puissent être connus des autres membres de confiance. De même, les membres de la communauté doivent être interconnectés à un tel point qu'ils puissent agir avec générosité et abnégation pour répondre aux besoins de leurs frères et sœurs dans la famille de Dieu. Encore une fois, au fond, l'engagement envers Dieu implique une implication significative et un investissement mutuel dans la vie des autres croyants.
 
-Au plus profond du cœur: Vivre une vie profonde de transformation
+#### Au plus profond du cœur : Vivre une vie profonde de transformation
 
 Récit biblique (Actes 2:46). Les premiers croyants se réunissaient régulièrement. Dans le résumé qui nous est présenté, il est dit que « chaque jour, ils se rendaient ensemble au temple et, rompant le pain dans leurs maisons, ils prenaient leur nourriture avec joie et simplicité de cœur » (2:46). Les premiers chrétiens étaient en contact fréquent et constant les uns avec les autres. En tant que chrétiens d'origine juive, ils se réunissaient pour les offices habituels au temple. Ces rassemblements plus importants permettaient à la communauté de croyants de ressentir un lien fort entre eux. Ensuite, ils se réunissaient dans les maisons, formant une communauté de croyants très unie. Ces rencontres plus intimes offraient un lieu propice à l'approfondissement des
 
@@ -138,7 +140,7 @@ Principes bibliques. La vie chrétienne n'a pas été conçue pour l'existence i
 
 dévotion à Dieu – les racines du croyant peuvent mûrir et s'approfondir, ce qui se traduit à la fois par une croissance personnelle et par l'édification de toute la communauté ecclésiale.
 
-Un double amour : Louer Dieu et gagner la faveur du peuple
+#### Un double amour : Louer Dieu et gagner la faveur du peuple
 
 Récit biblique (Actes 2.47). Les premiers chrétiens entretenaient des relations justes avec Dieu et avec les autres. Dans le contexte d'une vie communautaire dynamique et empreinte de louange, ces disciples du Christ « louaient Dieu et étaient bien vus de tout le peuple » (2.47a). En louant Dieu, les premiers chrétiens célébraient sa bonté, proclamaient sa valeur, estimaient sa grandeur et se réjouissaient de sa gloire. Grâce à la faveur du peuple, les premiers chrétiens étaient respectés et estimés par les membres de la communauté environnante. L'Église jouissait d'une bonne réputation, même auprès des noncroyants. En effet, même lorsque l'Église subit la persécution, par la qualité de sa vie communautaire, les croyants gagnèrent la faveur de la société. L'orientation du culte chrétien vers Dieu a façonné les premiers chrétiens en un peuple distinct et remarquable qui a captivé l'attention du monde environnant.
 
@@ -146,7 +148,7 @@ Principes bibliques. Le peuple de Dieu est un peuple qui adore. Le fondement du 
 
 Ces communautés de foi sont remarquées par le monde, non pas pour leur ressemblance avec la culture environnante, mais pour la différence marquée avec laquelle elles vivent. Les chrétiens établis adorent Dieu sans complexe et, par cette dévotion sans retenue, deviennent un témoignage convaincant de l'Évangile pour le monde entier.
 
-Jour après jour: L'augmentation du nombre des fidèles
+#### Jour après jour : L'augmentation du nombre des fidèles
 
 Récit biblique (Actes 2:47). Le culte des premiers chrétiens a entraîné un grand afflux de nouveaux convertis. À la fin de ce résumé du culte et de la dévotion de l'Église primitive, nous notons que « le Seigneur ajoutait chaque jour à leur nombre ceux qui étaient sauvés » (2:47). Au fil du récit, il semble y avoir une correspondance possible entre les rassemblements communautaires quotidiens de l'Église primitive — « Et chaque jour, ils se rendaient ensemble au temple et, dans leurs maisons, ils rompaient le pain » (2:46) — et les conversions quotidiennes qu'ils vivaient — « Et le Seigneur ajoutait chaque jour à leur nombre ceux qui étaient sauvés » (2:47). En se consacrant à Christ et les uns aux autres, l'Église a témoigné de l'Évangile du Christ. La vie communautaire dynamique de l'Église primitive était l'une des stratégies
 
@@ -154,7 +156,7 @@ d'évangélisation de Dieu pour répandre l'Évangile dans sa sphère d'influenc
 
 Principes bibliques. L'Église exprimait sa dévotion au Christ en participant à la mission de Dieu dans le monde. La dévotion à Dieu implique la participation à l'évangélisation (c'est-à-dire le partage de la foi avec autrui). La dévotion à Dieu conduit à une transformation personnelle et à un dynamisme dans la vie de la communauté chrétienne. Cette dévotion alimente notre témoignage de l'Évangile dans d'autres sphères d'influence. Lorsque nous louons Dieu, privilégions ses voies, nous sacrifions pour les besoins des autres, partageons une vie commune d'entraide, manifestons un engagement ferme envers la vérité et témoignons de la joie profonde et de la générosité de la vie communautaire, nous nous formons en tant que communauté de foi. Ainsi formée, le caractère de la communauté chrétienne devient attrayant pour le monde. En paroles et en actes, l'Église exprime sa dévotion au Christ en participant à la propagation de l'Évangile. Les chrétiens mûrs, établis et enracinés dans la foi, sont des acteurs actifs dans la diffusion de la bonne nouvelle de l'Évangile. Par le caractère de leur vie et la proclamation verbale du message de l'Évangile, les disciples mûrs de Jésus se multiplient, et les Églises dévouées multiplient les communautés chrétiennes.
 
-EN BREF : Comprendre la véritable dévotion dans le contexte de la communauté chrétienne
+#### En bref : Comprendre la véritable dévotion dans le contexte de la communauté chrétienne
 
 Jésus appelle sa communauté de disciples à s'enraciner dans les choses essentielles de la foi en se consacrant pleinement à Lui dans tous les aspects de leur vie. La vie des premiers chrétiens était centrée sur la louange de Dieu, la recherche de lui dans une prière empreinte de dépendance et l'entrée fidèle en sa présence. Dans nos propres vies et dans nos Églises, nous devrions nous souvenir qu'une foi chrétienne mature s'exprime par une dévotion croissante envers Dieu.
 
@@ -216,7 +218,7 @@ Offrir toute notre vie à Dieu dans l'adoration implique de lui consacrer chaque
 
 votre vie et essayez de définir un objectif concret et mesurable pour chaque sphère de votre vie : personnelle, familiale, ecclésiale et mondiale. Prenez le temps de réfléchir aux objectifs qui, dans chaque sphère, aligneraient votre vie sur les priorités de Dieu. Ensuite, discutez de ces priorités et de ces projets avec les autres membres de votre communauté ecclésiastique.
 
-### Alliance communautaire/intentions
+#### Alliance communautaire/intentions
 
 Réfléchissez à la manière dont les premiers chrétiens vivaient une vie de foi dévouée dans le contexte de la communauté évangélique, selon les Actes 2.42- 47. Écrivez votre désir exprimé de suivre Jésus et notez les engagements/intentions que vous prenez sur le plan personnel, familial, ecclésial et mondial, alors que vous entamez votre chemin de foi.
 
@@ -228,4 +230,4 @@ Répéter le texte: Partager le texte : Imaginez des façons de partager ce text
 
 Témoigner du texte: Réfléchissez à la manière dont vous pouvez utiliser ce passage pour témoigner auprès de votre entourage. Inspirez-vous des idées proposées pour stimuler votre imagination. Ensuite, élaborez un plan pour partager ce passage avec les non-croyants. Enfin, prenez un moment pour méditer sur cette expérience missionnaire.
 
-### CONCLUSION
+

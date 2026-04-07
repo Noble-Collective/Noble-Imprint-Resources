@@ -52,7 +52,7 @@ Bien que chacun doive prendre sa propre décision concernant Jésus, la vie chr�
 
 4. Comment le peuple a-t-il réagi aux instructions de Pierre? Combien de personnes ont réagi ainsi? Actes 2:41
 
-### RACONTEZ L'HISTOIRE DANS VOS PROPRE MOTS
+### Racontez l'histoire dans vos propres mots
 
 Racontez cette histoire avec vos propres mots. Essayez de la raconter de manière précise (fidèle à la Bible), naturelle (avec des mots que les gens ordinaires utiliseraient) et facile à mémoriser (pour que quelqu'un puisse la répéter). Après avoir rédigé cette histoire, partagez-la avec votre famille, votre communauté religieuse ou avec une autre personne que Dieu a placée sur votre chemin.
 
@@ -66,9 +66,13 @@ Analyse du récit: Exploration du texte: Discutez des questions suivantes en com
 
 3. Signification du baptême: Pourquoi le baptême est-il important? Comment l'acte du baptême exprime-t-il la foi en Christ? Actes 2:37-41
 
- COMMENTAIRE Idée Principale : Jesus appelle les hommes à montrer leur allegence totale à travers l'acte du bapteme.
+### Commentaire
 
-## Introduction
+#### Idée principale
+
+_Jésus appelle les hommes à montrer leur allégeance totale à travers l'acte du baptême._
+
+#### Introduction
 
 La bonne nouvelle de l'Évangile, c'est que Dieu a pourvu au pardon des péchés, à la réconciliation avec Dieu et à la délivrance du jugement divin. Ce pardon est offert gratuitement par Jésus. Lorsque l'Évangile est prêché, il appelle les gens à répondre. En réalité, nul ne peut rester neutre face au message de l'Évangile. Même un rejet désinvolte de l'Évangile équivaut à renier le Christ. On ne peut bénéficier de la grâce du salut que si elle est sincèrement reçue, acceptée et accueillie. Lorsque les gens répondent à l'Évangile avec une foi authentique, ils reçoivent gratuitement les bénédictions promises par Dieu. On peut aussi refuser la bonne nouvelle de l'Évangile. En rejetant les affirmations du Christ – en niant, en rejetant ou en ignorant l'Évangile – on refuse l'offre de salut de Dieu. Accablés par leur culpabilité, leur péché et leur honte, ces personnes font face au jugement imminent de Dieu. L'Évangile parlant de réalités éternelles, l'enjeu est trop important pour ignorer sa relation avec Jésus. Comme mentionné précédemment, chacun entretient une relation avec Jésus.
 
@@ -80,7 +84,7 @@ C'est le moment idéal pour examiner votre propre cœur. Bien que Jésus offre g
 
 vous : il explique comment vous pouvez recevoir les bénédictions promises par les Évangiles.
 
-Toucher le cœur: Reconnaître sa culpabilité et la conviction de péché
+#### Toucher le cœur : Reconnaître sa culpabilité et la conviction de péché
 
 Récit biblique (Actes 2:37). Le message de l'Évangile de Pierre a profondément touché la foule. Décrivant l'impact profond et la conviction pénétrante ressentis par les auditeurs, le récit rapporte : « Quand ils entendirent cela, ils furent profondément touchés » (2:37). Être « profondément touché », c'est ressentir le poids et le fardeau de sa culpabilité. Dans son message, Pierre a clairement souligné que le peuple était coupable devant Dieu. Ils avaient été témoins des miracles du Christ (2:22), mais ils l'avaient crucifié et mis à mort. En rejetant Jésus, ils étaient tout aussi « sans foi ni loi » et coupables que ceux qui l'avaient mis à mort. En participant à cette iniquité, la foule était coupable de la crucifixion de Jésus (2:36). En effet, Pierre dira plus tard que le peuple faisait partie de « cette génération perverse » (2:40), vouée au châtiment divin. Ayant ressenti le poids de l'accusation de Pierre, le peuple reconnut sa culpabilité devant Dieu. Cette réalité était si profondément ressentie que la foule demanda à Pierre et aux apôtres : « Frères, que devons-nous faire ? » (2:37).
 
@@ -136,13 +140,13 @@ enseignements parce qu'ils le servent comme Seigneur et Sauveur. Un critère ess
 
 Troisièmement, le baptême symbolise la purification liée au pardon des péchés (2:38). Comme mentionné précédemment, les eaux du baptême n'ont aucun pouvoir magique pour sauver une personne. Le baptême est un acte symbolique de purification qui témoigne du pardon des péchés des disciples et de leur libération de la honte et de la culpabilité liées à leurs fautes. En s'immergeant dans l'eau – un élément naturel utilisé pour la purification –, les disciples symbolisent (comme le bain) la purification du mal, de l'injustice et de la rébellion. Les actions pécheresses (et la condition pécheresse) de l'humanité déchue sont effacées lorsque l'on place sa foi en Christ. Les chrétiens ne sont plus confrontés au jugement et à la colère de Dieu. Au contraire, ils sont reconnus comme justes devant Dieu. L'utilisation d'un support tangible comme l'eau confère au baptême une force symbolique capable de communiquer la transformation qui s'opère lorsque des êtres humains pécheurs deviennent disciples de Christ. Envisageant une quatrième signification, le baptême témoigne de l'identification à Christ (2:38). Les croyants sont baptisés « au nom de Jésus-Christ » (2:38) pour manifester leur allégeance et leur communion avec le Christ. De plus, être baptisé « au nom du Père, du Fils et du Saint-Esprit » (Matthieu 28:19) pour manifester leur foi et leur soumission au Dieu unique qui existe éternellement en
 
-#### trois personnes : Père, Fils et Saint-Esprit.
+trois personnes : Père, Fils et Saint-Esprit.
 
 L'acte même d'être immergé dans l'eau symbolise la mort et la résurrection. Tout comme Jésus est mort et ressuscité, les croyants reçoivent une vie nouvelle lorsqu'ils placent leur foi en Christ. Lorsqu'une personne place sa foi en Christ, son ancienne nature pécheresse meurt et une nouvelle personne reçoit une vie nouvelle. Le baptême est un moyen de représenter la réalité de la vie nouvelle qui se produit lorsqu'une personne place sa foi en Christ. Enfin, le baptême est un moyen d'initier les nouveaux disciples à la communauté de foi (2:41). L'engagement envers le Christ implique un engagement envers les autres croyants. La vie d'un disciple doit être vécue au sein d'une communauté authentique avec d'autres chrétiens.
 
 Cette communauté de foi est un lieu d'entraide, de soutien opportun, d'encouragement constant, de responsabilité bienveillante et de soins pastoraux. Si la foi en Christ est ce qui fait de quelqu'un un disciple, le baptême est un moyen d'intégrer les membres au corps du Christ en confirmant la foi des nouveaux disciples. En somme, le baptême offre aux disciples et aux Églises une manière concrète et visible de représenter des réalités spirituelles intangibles et invisibles.
 
-Conclusion
+#### Conclusion
 
 En réponse au message de l'Évangile de Pierre, la foule des auditeurs a répondu en grand nombre et de manière appropriée. Éprouvant une profonde conviction de péché, la foule a demandé à Pierre comment elle devait réagir. Pierre leur a dit de se repentir, de se faire baptiser, de s'aligner sur le Christ et de recevoir le salut offert dans l'Évangile. Il leur annonça les bénédictions offertes à tous ceux qui répondent avec une foi sincère: le pardon des péchés, une nouvelle identité en Christ, le don promis du Saint-Esprit, la réconciliation avec Dieu et la délivrance du châtiment divin. La foule entendit l'appel pressant de Pierre. Ils accueillirent l'Évangile avec foi, renoncèrent à leur ancienne vie de péché, furent baptisés et rejoignirent la communauté des croyants. L'enseignement de Pierre et la réaction de la foule sont instructifs pour nous aujourd'hui. Ne pas répondre à l'Évangile équivaut à rejeter Jésus. Chacun est responsable de sa réaction à la bonne nouvelle de l'Évangile. Rejeter l'Évangile entraînera le juste jugement de Dieu; l'accepter apporte la bénédiction, la joie et la vie que seul Dieu peut offrir dans sa grâce. Dieu appelle les hommes à se réconcilier avec lui-même par le Christ. Ceux qui rejettent Jésus s'exposent à la colère de Dieu. Ceux qui se détournent du péché et placent leur foi dans l'Évangile bénéficient de la grâce divine de Dieu. Don gratuit qui ne peut être reçu qu'en remettant sa vie à Christ, la promesse de l'Évangile est offerte à tous ceux qui y répondent. Pour ceux qui y répondent, le baptême est un moyen visible de reconnaître sa culpabilité devant Dieu, de renoncer à la vie de péché, de témoigner de la grâce transformatrice de Dieu, de proclamer sa foi au monde entier et de rejoindre la famille des croyants.
 
@@ -192,7 +196,7 @@ La main de la foi, lorsqu'elle s'ouvre pour saisir le Christ, laisse tomber le p
 
 Jésus nous appelle à le suivre en nous abandonnant pleinement à sa direction. Lorsque nous abandonnons notre vie au Christ avec une foi sincère, nous recevons des bénédictions spirituelles que Dieu seul peut donner: le pardon des péchés, l'union avec le Christ, la présence du Saint-Esprit en nous, une relation réconciliée avec Dieu, et le salut du jugement divin. Ces promesses sont accessibles à ceux qui ont une foi authentique en Christ. Une foi sincère en Christ implique une profonde conviction de péché, une croyance sincère en l'Évangile, la repentance et le renoncement au mal, et l'appartenance à la communauté de foi. Ces éléments sont essentiels à l'expérience de la vie nouvelle que Dieu offre. Plus qu'une simple proposition d'amélioration de vie, Dieu appelle les hommes à revenir à lui et à être sauvés de la condamnation. Le baptême est un moyen d'exprimer les multiples implications de la foi en Christ: revenir à Dieu et recevoir son offre de salut. L'exercice suivant vous permettra de réfléchir à ce que signifie répondre personnellement à Jésus avec une foi authentique.
 
-### Témoignage personnel
+#### Témoignage personnel
 
 Méditez sur le récit des Actes 2.37-41. Réfléchissez à ce qu'implique une réponse authentique à l'Évangile. Racontez votre propre histoire de vie transformer et votre compréhension du baptême
 

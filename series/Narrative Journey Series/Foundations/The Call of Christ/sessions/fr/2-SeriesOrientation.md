@@ -92,7 +92,7 @@ que les efforts d'évangélisation se poursuivent, et cherche à faciliter la di
 
 La structure de chaque séance a été conçue dans l'optique de la formation chrétienne. Les cinq mouvements de l'introduction et de la conclusion fournissent un cadre pédagogique permettant aux chrétiens et aux Églises de s'enraciner dans la foi. La structure de ces séances d'ouverture et de clôture aidera les communautés de foi à s'organiser et à s'orienter vers la croissance chrétienne. Les cinq mouvements de chacune des séances principales enseignent aux disciples à aborder collectivement des textes bibliques spécifiques de manière transformatrice. Grâce à cette conception formative appliquée de manière cohérente à chaque séance, un tel processus herméneutique (ou interprétatif) permet à l'Église de développer sa capacité à lire et interpréter les Écritures avec compétence, au-delà du cadre de cette série. Au fur et à mesure que chaque séance se déroule, sa conception ciblée contribue à la maturité de l'Église grâce à un processus solide sur le plan pédagogique, collaboratif dans son expérience et résolument chrétien dans son caractère Applicable dans un contexte oral ou écrit (ou un mélange des deux), ce processus vise à situer la lecture transformatrice de la Bible dans le contexte de l'Église. À cette fin, la structure de la session intègre l'exégèse (ou l'étude) des Écritures, la discussion théologique, l'application personnelle, la formation ministérielle et l'engagement missionnaire. Elle est organisée de manière à cultiver une réflexion significative sur la Bible, Dieu, soi-même, l'Église et le monde. Dans ce qui suit, nous passons brièvement en revue ces cadres de lecture formative des Écritures.
 
-CADRE D'INTRODUCTION/CONCLUSION
+### Cadre d'introduction/conclusion
 
 L'introduction (« L'ouverture ») et la conclusion (« Le rappel ») se reflètent l'une l'autre dans leur structure. La conception de base des sessions d'ouverture et de clôture est de cultiver un environnement propice à la croissance chrétienne communautaire. Ce cadre partagé établit un contexte permettant à la communauté chrétienne de passer en revue le contenu principal de l'étude, d'explorer les idées essentielles de l'enseignement, d'élaborer un plan d'apprentissage continu, de valider la croissance dans la foi et de mettre en œuvre l'apprentissage dans la vie réelle. Les détails de ce cadre sont décrits cidessous.
 
@@ -129,8 +129,6 @@ La Parole révélée de Dieu à son peuple est le seul guide fiable et sûr pour
 
 #### Dialogue théologique : Discussion de l'intrigue
 
-#### Dialogue théologique : Discussion de l'intrigue
-
 En tant que Parole divinement inspirée de Dieu, l'Écriture nous enseigne comment comprendre correctement la réalité. Pour chaque session du Voyage narratif, une portion narrative (ou quasi-narrative) de l'Écriture a été soigneusement sélectionnée en fonction de la manière dont le passage aborde un aspect particulier de la foi chrétienne. Bien que de nombreux thèmes pertinents soient abordés par tout texte biblique donné, chaque session concentre son attention sur un sujet particulier lié au passage d'Écriture sélectionné. À cet égard, le deuxième mouvement de chaque session est appelé Dialogue théologique: Discussion de l'intrigue. Ce mouvement aide la communauté
 
 chrétienne à explorer l'histoire globale du récit biblique à un niveau théologique, permettant au déroulement de chaque histoire d'éclairer de manière unique une approche spécifiquement chrétienne de la vie de foi. À travers des questions de discussion, la réflexion narrative et le commentaire textuel, les disciples chrétiens explorent le texte biblique pour mieux connaître Dieu et comprendre la réalité avec plus de précision en s'appropriant le programme théologique du passage spécifique étudié. Fondés sur la signification théologique du passage, les lecteurs chrétiens devraient apprendre à l'appliquer à leur propre vie.
@@ -142,13 +140,9 @@ Autant la Parole de Dieu offre un cadre de croyance chrétienne, autant elle tra
 
 #### Pratique du ministère : Répéter le passage
 
-#### Pratique du ministère : Répéter le passage
-
  La parole de Dieu est un instrument vivifiant de révélation divine. Dans la mesure où la Bible influence notre propre formation chrétienne, les Écritures devraient également servir la maturité de toute l'Église. Dans la mesure où nous appliquons sincèrement la vérité à nos propres vies, nous serons mieux équipés
 
 pour transmettre la vérité aux autres d'une manière qui édifie la communauté de foi. À cette fin, le quatrième mouvement à chaque session, la Pratique du ministère: Répéter le scénario, alloue un espace pour les disciples afin qu'ils utilisent chaque passage des Écritures sélectionné dans une forme ou une autre dans le ministère. Afin de rendre cette série explicitement ancrée dans l'Église, nous avons conçu un processus qui place la communauté de foi au centre de son processus catéchétique. Par la réflexion pratique, des idées de ministère suggérées, une conception collaborative et une mise en œuvre stratégique, les disciples examinent comment chaque passage sert l'Église. Afin de tenir compte des différents niveaux de maturité chrétienne et des différents rôles au sein de la communauté ecclésiale, les disciples doivent réfléchir à la manière dont ce passage peut être utilisé dans un contexte familial, une relation de mentorat, une réunion à domicile, une réunion d'Église, une structure de réseau ou un contexte mondial. À mesure que l'Église se fortifie, le peuple de Dieu est équipé pour témoigner de la vérité de Dieu au monde entier.
-
-#### Action missionnaire : Publier la vérité
 
 #### Action missionnaire : Publier la vérité
 

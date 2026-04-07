@@ -71,7 +71,11 @@ Explorer le texte: Discuter des questions suivantes en communauté
 
 3. Secour divin: Comment ce message annonce-t-il la bonne nouvelle de Dieu qui apporte le salut aux pécheurs? Comment Jésus sauve-t-il et restaure-t-il les gens du péché? Actes 2:22-36
 
-COMMENTAIRE Idée principale: Jésus-Christ appelle les hommes a lui faire confiance comme leur Seigneur et Sauveur.
+### Commentaire
+
+#### Idée clé
+
+_Jésus-Christ appelle les hommes à lui faire confiance comme leur Seigneur et Sauveur._
 
 #### Introduction
 
@@ -84,8 +88,6 @@ En Christ, les hommes pécheurs peuvent être restaurés dans une relation joyeu
 Ce récit biblique relate un moment crucial de l'histoire de l'humanité. À ce moment-là, Dieu envoya son Saint-Esprit sur les premiers disciples de Jésus. Par l'Esprit, ils reçurent miraculeusement le pouvoir de parler des langues étrangères. Pierre, un des chefs parmi les disciples de Jésus, se leva et expliqua à la foule qui l'entourait que cet événement miraculeux était un signe que Dieu accomplissait ses promesses antérieures, qu'il menait à bien son plan de salut. Après avoir expliqué la signification de cet événement, Pierre prononça un sermon dans lequel il résuma les éléments essentiels de l'Évangile.
 
  Le message de Pierre relate le récit fondateur du salut accompli par Jésus pour l'humanité pécheresse. Bien que les événements de l'œuvre salvatrice de Jésus se soient déroulés il y a plus de deux mille ans, la repentance transformatrice et la foi enracinée dans ces événements demeurent le seul chemin de la réconciliation avec Dieu. Bien que Pierre ait prêché ce message à un public du premier siècle, son récit dans la Bible est un message direct qui nous est adressé, nous demandant de placer notre foi en Christ. En étudiant ce récit, puissiez-vous entendre et accueillir ce message ancien comme l'invitation de Dieu pour vous aujourd'hui, par laquelle Jésus vous appelle à vous détourner de la vie vide et creuse du péché et à le suivre, recevant ainsi les promesses de la vie éternelle et du pardon des péchés.
-
-### Commentaire
 
 #### Cela arrivera : Dieu accomplit son plan de salut
 
@@ -103,19 +105,19 @@ Pendant la fête de la Pentecôte (une fête juive appelée la Fête des Semaine
 
 avertissement préalable — c'est-à-dire qu'il a annoncé ses intentions salvatrices par des prophéties — qu'il sauverait les hommes de leur péché. Dans le récit qui nous occupe, Dieu accomplissait ses promesses de sauver les hommess pécheurs. Dès la rébellion de l'humanité (et même avant), Dieu a conçu un plan pour sauver sa création déchue. La venue du Saint-Esprit dans les Actes 2.1-21 était un signe que Dieu accomplissait ses promesses que « quiconque invoquera le nom du Seigneur sera sauvé » (2.21). Désormais, le salut était possible grâce à tout ce que Jésus a accompli. En tant que Seigneur et Christ, la naissance, la vie, le ministère, la mort, la résurrection, l'apparition, l'ascension et le règne de Jésus de Nazareth constituent la grande œuvre qui a permis la délivrance et le salut des hommes. Cette œuvre de rédemption avait déjà été relatée par Luc dans son récit précédent (cf. Luc 1.1–24.53 ; Actes 1.1–26) et elle serait ensuite rapportée par Pierre dans son message d'évangélisation en Actes 2.22–36. Dieu a accompli son plan de salut dans l'histoire humaine. Les événements qui ont marqué le séjour de Jésus sur terre sont des événements historiques réels qui se sont déroulés dans le monde. De même, la venue du Saint-Esprit a été l'apogée de cette grande œuvre de rédemption. Elle a signifié que Dieu menait le salut à son terme et rendait possible la réconciliation des hommes pécheurs avec Dieu. Parce que ces événements ont été inscrits dans l'histoire humaine, la promesse de salut de Dieu est accessible à tous ceux qui sont disposés à invoquer « le nom du Seigneur » (2.21).
 
-Le plan précis de Dieu : Dieu accomplit ses promesses en Christ.
+#### Le plan précis de Dieu : Dieu accomplit ses promesses en Christ
 
 Récit biblique (Actes 2.23, 25-31, 33-35 ; cf. 2.14-21). La venue de Jésus sur terre a accompli les nombreuses promesses de Dieu (cf. 2.14-21). Dieu avait promis d'envoyer un libérateur dans le monde. Jadis, « Dieu avait juré par serment… qu'il ferait asseoir sur son trône un descendant de David » (2.30). Puisque Jésus était né dans la lignée de David, il a accompli cette prophétie. Jésus a également accompli les promesses de Dieu par sa mort. Il a été crucifié « selon le plan arrêté et la préscience de Dieu » (2.23). En référence à la résurrection de Jésus, David fit une prédiction dans le Psaume 16:8-11 concernant le retour de Jésus à la vie. Ainsi, David était « un prophète » (2:30), « prévu et annoncé la résurrection du Christ » (2:31) lorsqu'il écrivit le Psaume 16:10 (cf. 2:27, 31). De plus, Jésus fut exalté à la droite de Dieu (2:34) et accomplit les prophéties de la résurrection de Jésus et la promesse de Dieu d'établir son règne. Lorsque Jésus est monté au ciel, il a accompli la « promesse du Saint-Esprit » (2:33), accomplissant ainsi les prophéties de l'Ancien Testament selon lesquelles l'Esprit de Dieu donnerait la puissance à son peuple (cf. 2:16-21). De même, la prophétie de David selon laquelle Jésus vaincra tous les ennemis de Dieu (2:35) s'est accomplie.
 
 Principes bibliques. Dieu annonçait la bonne nouvelle de l'Évangile depuis des siècles avant que Jésus ne vienne sur terre accomplir son plan de rédemption. Les prophètes ont prédit que Dieu enverrait un libérateur promis pour sauver l'humanité pécheresse (cf. 2 Samuel 7:12-16 ; Isaïe 11:1-5, 10 ; 52:13-53:12 ; Jérémie 23:5-6 ; Ézéchiel 37:24-28 ; Michée 5:2 ; Zacharie 9:9 ; 12:10-13:1). Dans Actes 2:22-36, Pierre mentionne plusieurs manières dont la venue de Jésus a accompli les promesses de Dieu : l'incarnation de Jésus (c'est-à-dire sa naissance en tant qu'être humain) (2:30 ; cf. 2:22), sa crucifixion (2:23), sa résurrection (2:25-31), son ascension et son exaltation (2:30, 33), et la venue du Saint-Esprit (2:33 ; cf. 2:17-21). L'humanité aspirait à un Messie – le libérateur divin annoncé depuis longtemps – pour racheter le monde pécheur de la souffrance. Cette attente grandissante a trouvé son accomplissement avec la venue du Christ. En cette personne particulière – pleinement Dieu et pleinement homme –, Dieu a mené à son apogée son plan de salut promis (2:22-23, 32, 36). Dans ce plan de salut se trouvent d'autres promesses – des assurances pour l'avenir – pour tous ceux qui placent leur foi en Christ: le pardon des péchés, la proximité de Dieu, la résurrection des morts, la vie éternelle et un monde parfait à venir. La fidélité éprouvée de Dieu à tenir ses promesses anciennes – celles accomplies par la venue du Christ – donne une profonde confiance dans le fait que toutes les promesses de l'Évangile de Dieu ont un avenir radieux, glorieux et garanti!.
 
-Au milieu de vous: Dieu se révèle en Jésus
+#### Au milieu de vous : Dieu se révèle en Jésus
 
 Récit biblique (Actes 2:22). Durant sa vie terrestre, Jésus a accompli de nombreux actes extraordinaires en servant les autres. Pierre a expliqué que Jésus était « attesté… par Dieu par des œuvres puissantes, des prodiges et des signes » (2:22). Durant son ministère, Jésus a accompli des guérisons, des exorcismes et d'autres miracles. Pierre expliqua à la foule que ces œuvres puissantes, ces prodiges et ces signes s'étaient accomplis « au milieu de vous, comme vous le savez vous-mêmes » (2:22). Bien que l'acte ultime de salut de Jésus ait été son œuvre sur la croix (la crucifixion et la résurrection), les miracles ont révélé sa puissance, son identité et son dessein rédempteur. Par ces actes, Jésus a servi les autres, a révélé l'essence du règne du royaume de Dieu et a confirmé qu'il était le Libérateur choisi par Dieu.
 
 Principes bibliques. Dans un acte de grâce et d'humilité, le Fils éternel de Dieu, Jésus, est né dans le monde en tant qu'être humain. Il a vécu et expérimenté l'existence humaine en tout point, à ceci près que Jésus est resté parfait et sans péché. Il était véritablement le « Saint » (2:27). Mais Jésus a manifesté une grande compassion et un grand amour envers les hommes. Durant ses années sur terre, Jésus a exercé son ministère auprès de nombreuses personnes. Par ses œuvres puissantes, ses prodiges et ses signes (2:22), Jésus a pris soin des personnes dans des situations difficiles et éprouvantes. En prenant soin des autres par ses actes miraculeux et ses bonnes œuvres, Jésus a également révélé son dessein pour le royaume et son identité divine. L'Évangile est une bonne nouvelle parce que Jésus est venu à l'humanité brisée. Dieu ne comptait pas sur l'humanité brisée — chancelante dans le péché et la rébellion — pour prendre l'initiative de revenir à Lui. Bien que le ministère de Jésus sur terre ait eu lieu il y a près de deux mille ans, la délivrance, la restauration, la guérison et le renouveau qu'il a accomplis durant son ministère terrestre sont promis à ceux qui se détournent de leurs péchés et font allégeance au Christ. La même puissance divine dont ont été témoins ceux qui ont vécu au temps de Jésus est accessible à tous ceux qui placent leur foi en Christ. Que cette guérison soit vécue dans cette vie ou dans la vie promise dans le monde à venir, les disciples chrétiens chérissent la bonne nouvelle que seul Jésus accomplit pleinement et définitivement la réalité du royaume de Dieu, la promesse de restauration et de renouveau de toutes choses.
 
-La crucifixion de Jésus
+#### La crucifixion de Jésus
 
 Récit biblique (Actes 2:23, 36). Le ministère de Jésus a culminé avec sa crucifixion sur une croix.
 
@@ -145,7 +147,7 @@ Principes bibliques.
 
  Lorsque Jésus est ressuscité, il a publiquement et universellement validé sa place légitime de roi. Lorsqu'il vivait sur terre, Jésus n'était pas traité avec la majesté d'un roi, mais Il est le vrai roi, le roi juste. Les apparitions de Jésus ressuscité, son ascension au ciel, son exaltation à la droite de Dieu et son règne (2:30, 33-34) sont des éléments essentiels du message de l'Évangile. Dans toutes les générations et dans toutes les cultures, les disciples continuent de placer leur foi en Christ. Mais cette foi en Jésus ne se limite pas à croire en l'idée de Jésus. Il s'agit plutôt d'une allégeance profonde et indéfectible au Roi Jésus, qui est vivant et règne aujourd'hui depuis le ciel. Pour les disciples du Christ, il est réconfortant de savoir que son règne juste sur le cosmos implique de protéger, de préserver et de mettre à l'abri son peuple à travers les épreuves et les souffrances de cette vie.
 
-Le retour de Jésus
+#### Le retour de Jésus
 
 Récit biblique (Actes 2:35).
 
@@ -159,7 +161,7 @@ Un jour, Jésus reviendra sur terre. Lors de sa première venue, Jésus est né 
 
  À son retour, il détruira le mal, enlèvera le péché, restaurera le monde et transformera son peuple en un être glorifié où il vivra en parfaite harmonie avec Dieu pour toujours. Le retour de Jésus est l'apogée du message de l'Évangile. Il promet que les disciples du Christ aujourd'hui ont la garantie d'une vie pleine et épanouie dans le monde à venir.
 
-L'identité de Jésus
+#### L'identité de Jésus
 
 Récit biblique (Actes 2.22-23, 27, 30-31, 34, 36).
 
@@ -175,7 +177,7 @@ Au cœur du message de l'Évangile se trouve le message de Jésus.
 
 Pierre le souligne clairement dans son sermon. À plusieurs reprises, il attire l'attention de son auditoire sur qui est Jésus. L'opinion que l'on se fait de Jésus (pour ou contre lui) est ce qu'il y a de plus important à son sujet. Si Jésus n'est qu'un maître moral, un faiseur de miracles extraordinaire ou un guide spirituel perspicace, il ne peut être le Sauveur de l'humanité. Jésus ne peut être le Sauveur de l'humanité pécheresse – le libérateur divin promis – que s'il est pleinement Dieu et pleinement homme en une seule personne. Sa sainteté devant Dieu lui permet d'être offert en sacrifice sur la croix comme un sacrifice suffisant, une offrande parfait et sans péché, accepter par Dieu. La pleine humanité de Jésus lui permet d'être un substitut approprié pour les humains étant puni pour le péché à la place de l'humanité pécheresse. En Jésus, les exigences d'un Dieu saint sont satisfaites de telle sorte que la miséricorde puisse être étendue aux hommes, en pardonnant leurs péchés. Les actions de Jésus sur la terre — sa vie, son ministère, sa crucifixion, sa résurrection, son ascension, son exaltation et son règne — sont d'une importance salvatrice en raison de qui est Jésus. De cette manière, la bonne nouvelle de l'Évangile — le message joyeux annoncé aux hommes déchus — est contenue en Jésus lui-même.
 
-EN BREF : Le salut au cœur de la foi chrétienne
+#### En bref : Le salut au cœur de la foi chrétienne
 
 L'Évangile peut se résumer en quatre idées fondamentales. Tout d'abord, la bonne nouvelle de l'Évangile commence par une mauvaise nouvelle : les hommes sont pécheurs et coupables devant un Dieu saint et juste. La rébellion des premiers hommes(Adam et Eve) et nos proper péché nous séparent de Dieu, multiplient les souffrances dans le monde, brisent les relations avec autrui et corrompent notre nature humaine. Tous les humains naissent dans un monde déchu. Nous méritons tous la colère et le châtiment de Dieu pour notre péché. La création déchue de Dieu a un besoin désespéré et urgent du salut et du pardon. Malgré notre péché, Dieu ne nous a pas laissés dans cet état brisé et dysfonctionnel.
 
@@ -244,18 +246,16 @@ John Hooper, La Foi Chrétienne
 
 Dieu a envoyé son Fils, Jésus, comme son libérateur promis pour sauver les humains pécheurs du jugement imminent. Jésus est pleinement Dieu: il est Seigneur et Christ. Lorsque Jésus est né dans le monde, il est devenu pleinement humain: il est né comme Jésus de Nazareth. Jésus a vécu une vie parfaite et sainte. Dans son ministère, il a accompli des miracles. Il a été crucifié, est ressuscité des morts, est apparu à ses disciples, est monté au ciel, a envoyé le Saint-Esprit et reviendra un jour pour établir le règne plein et final de Dieu sur toutes choses. Tous ceux qui placent leur foi en Christ et croient en ce message reçoivent le pardon des péchés et la vie éternelle. Utilisez l'exercice suivant pour clarifier votre compréhension de ce message de l'Évangile et pour intérioriser sa vérité dans votre propre cœur.
 
-### Résumé de l'Évangile
+### Pratique spirituelle : Écouter ces paroles
+
+#### Résumé de l'Évangile
 
 Relisez le sermon de Pierre dans Actes 2.22-36. Réfléchissez aux éléments clés du message de l'Évangile. Rédigez un résumé de l'Évangile dans vos propres mots.
 
 ## Pratique ministérielle : Répéter le texte
 
-### Répéter le texte
-
 Partager le texte : Partagez l'histoire biblique et ce que vous avez appris de cette session avec un autre membre de la communauté ecclésiale. Vous pouvez utiliser ce que vous avez écrit pour votre construction narrative et pratique spirituelle pour cette conversation.
 
 ## Action missionnaire : Publier la vérité
-
-### Diffuser la vérité
 
 Témoigner du texte: Partagez le récit biblique et ce que vous avez appris de cette session avec une personne non croyante. Pensez à utiliser ce que vous avez écrit pour votre atelier de narration et la pratique spirituelle pour cette conversation.

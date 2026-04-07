@@ -49,13 +49,21 @@ Quelles sont vos pensées sur ce résumé? Quels aspects du discipolat vous int�
 
 ### Expérience passée
 
+d'une Église?
+
 Avant de devenir disciples de Christ, les gens ont généralement eu des interactions et des perspectives sur la foi chrétienne. Réfléchissez sur votre expérience passée de la religion, du christianisme et de l'Église.
 
-1. Avez-vous grandi dans un environnement religieux? Quels types d'intérêts spirituels et d'implication avez-vous eu dans le passé? Comment avez-vous répondu aux "grandes questions" de la vie?
+| 1. Avez-vous grandi dans un environnement religieux? Quels types d'intérêts<br>spirituels et d'implication avez-vous eu dans le passé? Comment avez-vous<br>répondu aux "grandes questions" de la vie? |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                        |
+| 2. Quelle a été votre expérience passée avec les chrétiens et la foi chrétienne?                                                                                                                       |
+|                                                                                                                                                                                                        |
+| 3. Quelle a été votre expérience précédente avec l'Église? Avez-vous eu des                                                                                                                            |
 
-2. Quelle a été votre expérience passée avec les chrétiens et la foi chrétienne?
+Prenez un moment pour réfléchir à ces questions et partagez vos pensées. Cela vous aidera à mieux comprendre votre point de départ et à préparer le terrain pour votre voyage de discipolat.
 
-3. Quelle a été votre expérience précédente avec l'Église? Avez-vous eu des expériences positives ou négatives avec l'Église? Avez-vous déjà été membre d'une Église?
+expériences positives ou négatives avec l'Église? Avez-vous déjà été membre
+
 
 ## Fondation de la foi : Explorer le terrain
 
@@ -63,12 +71,14 @@ Lorsque Jésus invite les gens à le suivre, il les appelle à lui faire confian
 
 ### Questions de discussion
 
-Les chrétiens s'engagent envers Dieu, les voies de Dieu, le peuple de Dieu et le monde de Dieu. Discutez les questions suivantes comme un moyen de s'introduire aux engagements à la foi chretienne.
+Les chrétiens s'engagent envers Dieu, les voies de Dieu, le peuple de Dieu et le monde de Dieu. Discutez les questions suivantes comme un moyen de s'introduire aux engagements à la foi chretienne?
 
 - 1. Évangile: Qu'est-ce que cela signifie pour vous d'être un disciple de Jésus? Quelle est votre compréhension de l'Évangile? Pourquoi voulez-vous être un disciple de Christ?
 - 2. Style de vie: Comment Dieu veut-il que les chrétiens vivent leur vie? Quelle est votre compréhension de ce que signifie vivre un style de vie chrétien? Comment voulez-vous que votre vie change?
 - 3. Église: Qu'est-ce que cela signifie pour vous d'être membre de l'Église? Quelle est votre compréhension de l'importance de l'Église et de votre participation à celle-ci? Quels sont vos espoirs et vos craintes d'être membre de la communauté de foi?
 - 4. Mission: Comment les chrétiens peuvent-ils servir Dieu dans le monde? Quelle est votre compréhension de la mission de Dieu dans le monde? Comment Dieu pourrait-il vouloir vous utiliser pour ses objectifs globaux?
+
+Prenez un moment pour réfléchir à ces questions et partagez vos pensées. Cela vous aidera à mieux comprendre vos engagements envers Christ et à préparer le terrain pour votre voyage de discipolat.
 
 ### Citation importante
 
@@ -78,47 +88,61 @@ La foi est le fondement de la vie d'un disciple. Lisez la citation suivante et d
 
 Horatius Bonar, Justification éternelle
 
+Qu'est-ce que cette citation vous inspire? Comment pouvez-vous appliquer cela à votre propre vie de foi?
+
+
 ## Plan d'apprentissage : Tracer le parcours
 
 Jésus appelle ses disciples à s'engager dans l'étude de sa Parole.
 
+APERÇU DU CADRE DE L'ÉTUDE
+
 Les Écritures sont le seul guide fiable pour la vie. Dans la Bible, Dieu présente les fondements de la foi chrétienne. Pour aider les nouveaux disciples à étudier la Bible de manière fructueuse, les mouvements suivant présente un processus d'interprétation biblique. Ce processus invite les disciples à lire la Bible pour comprendre ce qu'elle dit, à saisir ce qu'elle signifie, à obéir à ce qu'elle commande, à mettre en pratique ce qu'elle enseigne et à témoigner de ce qu'elle proclame. Ces cinq mouvements forment le cadre de ce processus d'étude biblique. Il vous aidera à comprendre le passage central de cette étude et à vous équiper pour étudier les Écritures indéfiniment à l'avenir.
 
-### Les cinq mouvements
+### Cadre de la session
 
 1. Lire: Comprendre ce que le texte dit
+
 2. Comprendre: Saisir ce que le texte signifie
+
 3. Obéir: Obéir à ce que le texte commande
+
 4. Mettre en pratique: Mettre en pratique ce que le texte enseigne
+
 5. Témoigner: Témoigner de ce que le texte proclame
 
 ### Calendrier de planification
 
-Prenez les premiers pas dans la foi, les disciples de Jésus s'engagent dans un processus ordonné de croissance et d'apprentissage. Utilisez le calendrier suivant pour planifier votre voyage à travers cette étude des fondements de la foi chrétienne.
+Prenez les premiers pas dans la foi, les disciples de Jésus s'engagent dans un processus ordonné de croissance et d'apprentissage. Utilisez le calendrier suivant pour planifier votre voyage à travers cette étude des fondements de la foi chrétienne
 
-| Passage biblique | Détails des rencontres | Date |
-|---|---|---|
-| Introduction | | |
-| Session 1: L'Évangile (Actes 2v1-36) | | |
-| Session 2: L'Eau (Actes 2v37-41) | | |
-| Session 3: La Voie (Actes 2v42-47) | | |
-| Conclusion | | |
+| Passage biblique     | Détails des rencontres | Date |
+|----------------------|------------------------|------|
+| Introduction         |                        |      |
+| Session1: l'Evangile |                        |      |
+| (actes2v1-36)        |                        |      |
+| Session2: L'Eau      |                        |      |
+| (actes2v37-41)       |                        |      |
+
+| Session 3: la<br>Voie(actes2v42-47) |  |
+|-------------------------------------|--|
+| Conclusion                          |  |
+
 
 ### Contexte communautaire
 
-Les disciples suivent Jésus dans le contexte de la communauté. Si vous ne l'avez pas déjà fait, identifiez un leader d'église pour vous encadrer et vous guider à travers ce processus. Identifiez également un groupe d'autres croyants avec lesquels vous pouvez entreprendre ce voyage ensemble.
+Les disciples suivent Jésus dans le contexte de la communauté. Si vous ne l'avez pas déjà fait, identifiez un leader d'église pour vous encadrer et vous guider à travers ce processus. Identifiez également un groupe d'autres croyants avec lesquels vous pouvez entreprendre ce voyage ensemble. Ecris leur noms cidessous:
 
 ## Projet central : Synthétiser la foi
 
-_Chacun de nous a une histoire. Dieu veut que nous partagions avec les autres comment nous en sommes venus à suivre Jésus. Dans cette section, vous allez découvrir une façon simple de raconter votre propre récit personnel et imaginer ce que sera la vie en tant que disciple de Christ._
+Chacun de nous a une histoire. Dieu veut que nous partagions avec les autres comment nous en sommes venus à suivre Jésus. Dans cette section, vous allez découvrir une façon simple de raconter votre propre récit personnel et imaginer ce que sera la vie en tant que disciple de Christ.
 
 ### Rédigez votre récit personnel
 
-Au cours de cette étude, vous réfléchirez aux façons dont Dieu a changé votre vie. En travaillant sur chaque session principale, vous clarifierez le contenu fondamental de l'Évangile, articulerez votre propre histoire et explorerez ce que signifie être un membre actif et engagé de l'Église. Dans la session de conclusion, vous compilerez ce travail en un seul récit qui pourra être partagé lors d'un baptême ou d'un engagement de membre. Le plan suivant présente les principales sections de votre récit personnel.
+Au cours de cette étude, vous réfléchirez aux façons dont Dieu a changé votre vie. En travaillant sur chaque session principale, vous clarifierez le contenu fondamental de l'Évangile, articulerez votre propre histoire et explorerez ce que signifie être un membre actif et engagé de l'Église. Dans la session de conclusion, vous compilerez ce travail en un seul récit qui pourra être partagé lors d'un baptême ou d'un engagement de membre. Le plan suivant présente les principales sections de votre récit personnel. Voir les points suivants:
 
-- **Résumé de l'Évangile** : Dans la Session 1, vous résumerez la bonne nouvelle de l'Évangile en vos propres mots.
-- **Témoignage personnel** : Dans la Session 2, vous raconterez l'histoire de comment vous êtes venu à la foi en Jésus et vous partagerez votre compréhension du baptême.
-- **Engagement envers l'Église** : Dans la Session 3, vous déclarerez votre intention de vous engager envers le peuple de Dieu.
+- Résumé de l'Évangile : Dans la Session 1, vous résumerez la bonne nouvelle de l'Évangile en vos propres mots.
+- Témoignage personnel : Dans la Session 2, vous raconterez l'histoire de comment vous êtes venu à la foi en Jésus et vous partagerez votre compréhension du baptême.
+- Engagement envers l'Église : Dans la Session 3, vous déclarerez votre intention de vous engager envers le peuple de Dieu.
 
 ### Récit imaginatif
 
@@ -126,16 +150,17 @@ Pensez à la prochaine saison de vie dans laquelle Dieu vous invite. Imaginez vo
 
 ## Pratique de la foi : Suivre la Voie
 
-_Les disciples suivent Jésus tout au long de leur vie. Familiarisez-vous avec les engagements fondamentaux du christianisme, identifiez des demandes de prière spécifiques et priez pour que Dieu opère une transformation dans les semaines à venir._
+Les disciples suivent Jésus tout au long de leur vie. Familiarisez-vous avec les engagements fondamentaux du christianisme, identifiez des demandes de prière spécifiques et priez pour que Dieu opère une transformation dans les semaines à venir.
+
 
 ### Engagements chrétiens
 
 Les disciples de Jésus s'engagent pleinement à Christ. Les déclarations suivantes résument quatre engagements majeurs impliqués dans le fait d'être un disciple de Jésus.
 
-- **Engagement envers Dieu:** Les disciples de Jésus s'engagent pleinement à Dieu, plaçant leur foi en Christ comme leur seul Sauveur et Roi, croyant que Jésus "est venu pour qu'ils aient la vie et qu'ils l'aient en abondance" (Jean 10:10).
-- **Engagement envers les voies de Dieu:** Les disciples de Jésus s'engagent pleinement aux voies de Dieu, s'efforçant de vivre une vie pieuse "afin de marcher d'une manière digne du Seigneur, pour lui plaire en toutes choses, portant du fruit en toute bonne œuvre et croissant dans la connaissance de Dieu" (Colossiens 1:10).
-- **Engagement envers le peuple de Dieu:** Les disciples de Jésus s'engagent pleinement au peuple de Dieu, devenant un membre actif du corps de Christ afin de "savoir comment il faut se comporter dans la maison de Dieu, qui est l'Église du Dieu vivant, la colonne et le fondement de la vérité" (1 Timothée 3:15).
-- **Engagement envers l'œuvre de Dieu:** Les disciples de Jésus s'engagent pleinement à l'œuvre de Dieu, embrassant leur rôle dans la mission de Dieu pour son monde afin de "marcher avec sagesse envers ceux qui sont dehors, en faisant le meilleur usage du temps" (Colossiens 4:5).
+- Engagement envers Dieu: Les disciples de Jésus s'engagent pleinement à Dieu, plaçant leur foi en Christ comme leur seul Sauveur et Roi, croyant que Jésus "est venu pour qu'ils aient la vie et qu'ils l'aient en abondance" (Jean 10:10).
+- Engagement envers les voies de Dieu: Les disciples de Jésus s'engagent pleinement aux voies de Dieu, s'efforçant de vivre une vie pieuse "afin de marcher d'une manière digne du Seigneur, pour lui plaire en toutes choses, portant du fruit en toute bonne œuvre et croissant dans la connaissance de Dieu" (Colossiens 1:10).
+- Engagement envers le peuple de Dieu: Les disciples de Jésus s'engagent pleinement au peuple de Dieu, devenant un membre actif du corps de Christ afin de "savoir comment il faut se comporter dans la maison de Dieu, qui est l'Église du Dieu vivant, la colonne et le fondement de la vérité" (1 Timothée 3:15).
+- Engagement envers l'œuvre de Dieu: Les disciples de Jésus s'engagent pleinement à l'œuvre de Dieu, embrassant leur rôle dans la mission de Dieu pour son monde afin de "marcher avec sagesse envers ceux qui sont dehors, en faisant le meilleur usage du temps" (Colossiens 4:5).
 
 ### Demande de prière
 
@@ -143,4 +168,4 @@ Après avoir lu les engagements fondamentaux du christianisme ci-dessus, identif
 
 ### Prière communautaire
 
-Nous dépendons de la puissance de Dieu pour grandir à chaque étape de notre voyage chrétien. Prions pour que Dieu réponde aux demandes mentionnées ci-dessus.
+Nous dépendons de la puissance de Dieu pour grandir à chaque étape de notre voyage chrétien. Prions pour que Dieu réponde aux demandes mentionnées cidessus.
