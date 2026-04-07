@@ -2,6 +2,14 @@
 
 ## Aperçu de la session
 
+### Déclaration confessionnelle
+
+> _Les disciples du Christ :_
+> _reçoivent avec ferveur le salut de Dieu en se repentant de leurs péchés et en plaçant leur foi en Christ,_
+> _déclarent publiquement leur engagement de foi et leur appartenance à la communauté par le baptême,_
+> _et s'enracinent dans les fondements de la foi au sein d'une communauté chrétienne._
+<< _La voie du discipulat_
+
 ### Éléments clés
 
 - **Passage clé** : Actes 2v1-47
