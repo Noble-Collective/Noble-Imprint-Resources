@@ -27,6 +27,9 @@
   <rect x="220.46" y="146.61" width="122.98" height="16.11" style="fill: #4a5960;"/>
   <text x="281.95" y="157.5" text-anchor="middle" style="fill: #fff; font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: 7.2px; letter-spacing: 1.2px;">MATTHEW R. LYNSKEY</text>
 
+  <!-- Translator credit -->
+  <text x="281.95" y="175" text-anchor="middle" style="fill: #fff; font-family: 'Montserrat', sans-serif; font-weight: 400; font-size: 6.5px; letter-spacing: 0.8px;">Traduit par Ibrahim Salifou</text>
+
   <!-- Cross symbol with circle -->
   <g style="clip-path: url(#clippath);">
     <path d="M321.47,299.39c21.01,0,38.03-17.03,38.03-38.03s-17.03-38.04-38.03-38.04-38.03,17.03-38.03,38.04,17.03,38.03,38.03,38.03Z" style="fill: none; stroke: #768a93;"/>
