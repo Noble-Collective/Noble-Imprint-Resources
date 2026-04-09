@@ -76,51 +76,24 @@ La vie de disciple est un cheminement de toute une vie. Consultez la liste des r
 
 La Parole de Dieu est notre guide suffisant en matière de foi et de vie pieuse. Jetez un coup d'œil aux ressources d'étude biblique suivantes qui abordent les questions essentielles de la foi chrétienne. Discutez avec votre responsable d'église et votre communauté des sujets qui pourraient vous être les plus utiles à étudier pour vos prochaines étapes de foi.
 
-| L'essentiel du parcours narrative |                                                         |  |  |  |  |  |
-|-----------------------------------|---------------------------------------------------------|--|--|--|--|--|
-| Fondements du                     | Le deuxième ensemble de livres de la série « Le         |  |  |  |  |  |
-| discipulat pour                   | parcours narratif » établit les croyants et les églises |  |  |  |  |  |
-| les églises                       | dans les fondements de la foi chrétienne. En            |  |  |  |  |  |
-| locales                           | explorant des récits bibliques soigneusement            |  |  |  |  |  |
-|                                   | sélectionnés (organisés selon les thèmes de la foi      |  |  |  |  |  |
-|                                   | chrétienne, de la vie, des habitudes, de la             |  |  |  |  |  |
-|                                   | communauté et de la dévotion), la communauté de         |  |  |  |  |  |
-|                                   | foi s'enracine profondément dans l'enseignement         |  |  |  |  |  |
-|                                   | chrétien fondamental.                                   |  |  |  |  |  |
-| L'Histoire À la                   | Aborde les fondements doctrinaux de la foi              |  |  |  |  |  |
-| Source                            | chrétienne, fondés sur le Symbole des Apôtres.          |  |  |  |  |  |
-| La Meilleure                      | Éclaire le fondement moral de la vie chrétienne,        |  |  |  |  |  |
-| Vie Possible                      | structuré autour des Dix Commandements.                 |  |  |  |  |  |
-| L'Invitation                      | Cultive les habitudes pieuses de la formation           |  |  |  |  |  |
-| Ouverte                           | chrétienne, inspirées par le Notre Père.                |  |  |  |  |  |
-| Le Lien Entre                     | Mérite les caractéristiques essentielles de la          |  |  |  |  |  |
-| nous                              | communauté chrétienne, conçue comme la maison           |  |  |  |  |  |
-|                                   | de Dieu.                                                |  |  |  |  |  |
-| La Gloire Dûe à                   | Redécouvre le cœur même de la dévotion                  |  |  |  |  |  |
-| son Nom                           | chrétienne, enraciné dans le baptême et la Sainte       |  |  |  |  |  |
-|                                   | Cène.                                                   |  |  |  |  |  |
-|                                   |                                                         |  |  |  |  |  |
+| L'essentiel du parcours narratif | Description |
+| :--- | :--- |
+| **Fondements du discipulat pour les églises locales** | Le deuxième ensemble de livres de la série « Le parcours narratif » établit les croyants et les églises dans les fondements de la foi chrétienne. En explorant des récits bibliques soigneusement sélectionnés (organisés selon les thèmes de la foi chrétienne, de la vie, des habitudes, de la communauté et de la dévotion), la communauté de foi s'enracine profondément dans l'enseignement chrétien fondamental. |
+| **L'Histoire À la Source** | Aborde les fondements doctrinaux de la foi chrétienne, fondés sur le Symbole des Apôtres. |
+| **La Meilleure Vie Possible** | Éclaire le fondement moral de la vie chrétienne, structuré autour des Dix Commandements. |
+| **L'Invitation Ouverte** | Cultive les habitudes pieuses de la formation chrétienne, inspirées par le Notre Père. |
+| **Le Lien Entre nous** | Présente les caractéristiques essentielles de la communauté chrétienne, conçue comme la maison de Dieu. |
+| **La Gloire Dûe à son Nom** | Redécouvre le cœur même de la dévotion chrétienne, enraciné dans le baptême et la Sainte Cène. |
 
-| Parcours du récit |                                                       |  |  |  |  |
-|-------------------|-------------------------------------------------------|--|--|--|--|
-| Formation de      | Le troisième volume de la série « Parcours du récit » |  |  |  |  |
-| base pour les     | offre aux futurs leaders une compréhension            |  |  |  |  |
-| futurs leaders    | fondamentale du ministère chrétien. Ces livres, qui   |  |  |  |  |
-|                   | enseignent aux croyants confirmés comment             |  |  |  |  |
-|                   | participer à l'œuvre de Dieu, explorent la nature     |  |  |  |  |
-|                   | fondamentale de la mission chrétienne, le             |  |  |  |  |
-|                   | déploiement du récit biblique, le contexte essentiel  |  |  |  |  |
 
-|                | du leadership pieux et les principes élémentaires de<br>la formation. |
-|----------------|-----------------------------------------------------------------------|
-| Les extrémités | Incitent le peuple de Dieu à la mission chrétienne                    |
-| de la terre    | mondiale, inspirée par le livre des Actes.                            |
-| Le texte sacré | Offre un fondement biblique à une vision chrétienne                   |
-|                | du monde, à travers le récit biblique.                                |
-| Devenir un     | Présente un portrait inspirant du leadership                          |
-| berger         | chrétien, illustré par des exemples bibliques.                        |
-| Objectif de    | Développer une pédagogie solide de l'instruction                      |
-| Notre mission  | chrétienne en parcourant les récits bibliques clés.                   |
+| Parcours du récit | Description |
+| :--- | :--- |
+| **Formation de base pour les futurs leaders** | Le troisième volume de la série « Parcours du récit » offre aux futurs leaders une compréhension fondamentale du ministère chrétien. Ces livres, qui enseignent aux croyants confirmés comment participer à l'œuvre de Dieu, explorent la nature fondamentale de la mission chrétienne, le déploiement du récit biblique, le contexte essentiel du leadership pieux et les principes élémentaires de la formation. |
+| **Les extrémités de la terre** | Incitent le peuple de Dieu à la mission chrétienne mondiale, inspirée par le livre des Actes. |
+| **Le texte sacré** | Offre un fondement biblique à une vision chrétienne du monde, à travers le récit biblique. |
+| **Devenir un berger** | Présente un portrait inspirant du leadership chrétien, illustré par des exemples bibliques. |
+| **Objectif de Notre mission** | Développer une pédagogie solide de l'instruction chrétienne en parcourant les récits bibliques clés. |
+
 
 ### Prochaines étapes
 
