@@ -154,14 +154,14 @@ Dans l'Évangile, Dieu vous appelle à lui. Comment allez-vous répondre?
 
 #### Synopsis de la Session 2
 
-| Tableau synoptique de la session 2 |                                                                                                                                                                                                                                                                    |  |  |
-|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Préparation<br>au Baptême          | Dans ce passage, des milliers de personnes se<br>convertissent au christianisme et reçoivent le baptême.<br>Cette section du récit nous enseigne la signification<br>fondamentale du baptême. Un résumé de la signification<br>du baptême est présenté ci-dessous. |  |  |
-| Confession<br>publique             | Le baptême est une profession publique de foi en Christ<br>pour ceux qui ont « reçu la parole » (2:41)                                                                                                                                                             |  |  |
-| Obéissance                         | Le baptême est un acte d'obéissance à Dieu et de<br>repentance du péché, déclarant vouloir suivre Christ de<br>tout son être et abandonner sa vie de péché (2:38)                                                                                                  |  |  |
-| Lavage                             | Le baptême est un signe que nos péchés ont déjà été<br>pardonnés (2:38)                                                                                                                                                                                            |  |  |
-| Identification                     | Le baptême « au nom de Jésus-Christ » signifie que les<br>croyants s'identifient à Christ : ils sont morts au péché et<br>vivants avec Christ (2:38)                                                                                                               |  |  |
-| Famille                            | Le baptême est une initiation – un accueil – dans la<br>famille de Dieu(2:41)                                                                                                                                                                                      |  |  |
+| Tableau synoptique de la session 2 | Description |
+| :--- | :--- |
+| **Préparation au Baptême** | Dans ce passage, des milliers de personnes se convertissent au christianisme et reçoivent le baptême. Cette section du récit nous enseigne la signification fondamentale du baptême. Un résumé de la signification du baptême est présenté ci-dessous. |
+| **Confession publique** | Le baptême est une profession publique de foi en Christ pour ceux qui ont « reçu la parole » (2:41) |
+| **Obéissance** | Le baptême est un acte d'obéissance à Dieu et de repentance du péché, déclarant vouloir suivre Christ de tout son être et abandonner sa vie de péché (2:38) |
+| **Lavage** | Le baptême est un signe que nos péchés ont déjà été pardonnés (2:38) |
+| **Identification** | Le baptême « au nom de Jésus-Christ » signifie que les croyants s'identifient à Christ : ils sont morts au péché et vivants avec Christ (2:38) |
+| **Famille** | Le baptême est une initiation – un accueil – dans la famille de Dieu (2:41) |
 
 ## Réflexion personnelle : Entrer dans l'histoire
 
@@ -185,13 +185,11 @@ Témoignage
 
 « Car je suis le moindre des apôtres, indigne d'être appelé apôtre, parce que j'ai persécuté l'Église de Dieu. Mais par la grâce de Dieu, je suis ce que je suis, et sa grâce envers moi n'a pas été vaine"
 
-1
-
 << **1 Corinthiens 15:9-10**
 
 La main de la foi, lorsqu'elle s'ouvre pour saisir le Christ, laisse tomber le péché qu'elle tenait auparavant. Vous devez vous séparer de votre péché, ou du Christ.
 
-<< **John Angell James, _La Vie chrétienne_**, La Vie chrétienne
+<< **John Angell James, _La Vie chrétienne_**
 
 Jésus nous appelle à le suivre en nous abandonnant pleinement à sa direction. Lorsque nous abandonnons notre vie au Christ avec une foi sincère, nous recevons des bénédictions spirituelles que Dieu seul peut donner: le pardon des péchés, l'union avec le Christ, la présence du Saint-Esprit en nous, une relation réconciliée avec Dieu, et le salut du jugement divin. Ces promesses sont accessibles à ceux qui ont une foi authentique en Christ. Une foi sincère en Christ implique une profonde conviction de péché, une croyance sincère en l'Évangile, la repentance et le renoncement au mal, et l'appartenance à la communauté de foi. Ces éléments sont essentiels à l'expérience de la vie nouvelle que Dieu offre. Plus qu'une simple proposition d'amélioration de vie, Dieu appelle les hommes à revenir à lui et à être sauvés de la condamnation. Le baptême est un moyen d'exprimer les multiples implications de la foi en Christ: revenir à Dieu et recevoir son offre de salut. L'exercice suivant vous permettra de réfléchir à ce que signifie répondre personnellement à Jésus avec une foi authentique.
 
