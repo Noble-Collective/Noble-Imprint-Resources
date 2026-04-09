@@ -46,8 +46,7 @@ L'Appel du Christ :
 Un voyage narratif de la foi chrétienne
 <br>
 **Matthew R. Lynskey**
-
-
+<br>
 York, Pennsylvanie
 <br>
 Noble Imprint
