@@ -44,12 +44,17 @@ _Parcours_
 <br>
 L'Appel du Christ :
 Un voyage narratif de la foi chrétienne
-**Mathieu R. Lynskey**
+<br>
+**Matthew R. Lynskey**
+
 
 York, Pennsylvanie
+<br>
 Noble Imprint
+<br>
 2024
 <br>
+*Traduit par Ibrahim Salifou*
 <br>
 <br>
 <br>
