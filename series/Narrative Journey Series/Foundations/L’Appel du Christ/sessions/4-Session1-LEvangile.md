@@ -44,22 +44,20 @@ Etude de texte : Lisez le passage biblique. Réponds aux questions suivantes pou
 
 <Question id=TheCallSes1-Hearing-Q3-FR>3. Quelles sont les choses que Pierre a dites sur le Seigneur Jésus-Christ ? Actes 2v22-36</Question>
 
-| Section synoptique 1                      |                                                                                                                                                                                                                                                   |
-|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Obéissance au<br>message de<br>l'évangile | Dans ce passage, le sermon de Pierre présente<br>l'essence de l'évangile. Il raconte le récit de Jésus<br>sauvant l'humanité pécheresse. Un résumé de<br>l'Evangile est présenté ci-dessous.                                                      |
-| Hommes<br>pécheresse                      | Tous les Hommes sont pécheurs et coupable devant<br>un Dieu Saint et ont besoin du Salut Actes 2v21                                                                                                                                               |
-| La venue<br>prophétisée                   | Dieu a promis d'envoyer un libérateur qui délivrerait<br>l'homme pécheur du jugement divin. Actes 2v23 et<br>30                                                                                                                                   |
-| Naissance ou<br>Incarnation               | Jésus est rentré dans le monde en prenant un corps<br>humain (en devenant un être humain). Jésus est<br>pleinement homme (c'est-à-dire jésus de nazarette<br>Actes2V22 et 30) et pleinement Dieu (c'est-à-dire<br>Seigneur et Christ : Actes2v36) |
-| Un homme                                  | Jésus est pleinement Dieu et pleinement homme en<br>une seule personne. Actes2v22 et 27                                                                                                                                                           |
-| La vie et le<br>Ministère                 | Pendant sa vie et son ministère, Jésus a accompli des<br>œuvres puissantes et des miracles. Actes 2v22                                                                                                                                            |
-| La crucifixion                            | Les Hommes ont crucifié Jésus sur la croix selon le<br>plan de Dieu. Actes2v24-36                                                                                                                                                                 |
-| Résurrection                              | Jésus a été ressuscité des morts. Actes24-32                                                                                                                                                                                                      |
-
-| Apparition                                | Jésus est apparu à ses disciples. Actes2v33                                                                                                                  |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ascension                                 | Jésus a été exalté à la droite de Dieu. Actes2v33                                                                                                            |
-| Saint-Esprit                              | Jésus a envoyé le Saint-Esprit pour donner de la<br>puissance au peuple de Dieu. Actes2v33                                                                   |
-| Intercession,<br>Règne et<br>Retour futur | Jésus règne au ciel à la droite de Dieu le Père et<br>reviendra un jour sur terre pour amener le royaume<br>de Dieu à son plein épanouissement. Actes2v34-35 |
+| Section synoptique 1 | Description |
+| :--- | :--- |
+| **Obéissance au message de l'évangile** | Dans ce passage, le sermon de Pierre présente l'essence de l'évangile. Il raconte le récit de Jésus sauvant l'humanité pécheresse. Un résumé de l'Evangile est présenté ci-dessous. |
+| **L'humanité pécheresse** | Tous les hommes sont pécheurs et coupables devant un Dieu Saint et ont besoin du Salut (Actes 2:21). |
+| **La venue prophétisée** | Dieu a promis d'envoyer un libérateur qui délivrerait l'homme pécheur du jugement divin (Actes 2:23 et 30). |
+| **Naissance ou Incarnation** | Jésus est entré dans le monde en prenant un corps humain (en devenant un être humain). Jésus est pleinement homme (c'est-à-dire Jésus de Nazareth : Actes 2:22 et 30) et pleinement Dieu (c'est-à-dire Seigneur et Christ : Actes 2:36). |
+| **Un homme** | Jésus est pleinement Dieu et pleinement homme en une seule personne (Actes 2:22 et 27). |
+| **La vie et le Ministère** | Pendant sa vie et son ministère, Jésus a accompli des œuvres puissantes et des miracles (Actes 2:22). |
+| **La crucifixion** | Les hommes ont crucifié Jésus sur la croix selon le plan de Dieu (Actes 2:24-36). |
+| **Résurrection** | Jésus a été ressuscité des morts (Actes 2:24-32). |
+| **Apparition** | Jésus est apparu à ses disciples (Actes 2:33). |
+| **Ascension** | Jésus a été exalté à la droite de Dieu (Actes 2:33). |
+| **Saint-Esprit** | Jésus a envoyé le Saint-Esprit pour donner de la puissance au peuple de Dieu (Actes 2:33). |
+| **Intercession, Règne et Retour futur** | Jésus règne au ciel à la droite de Dieu le Père et reviendra un jour sur terre pour amener le royaume de Dieu à son plein épanouissement (Actes 2:34-35). |
 
 ### Récit en vos propres mots
 
@@ -207,20 +205,21 @@ Au fond, l'Évangile promet la vie éternelle à tous ceux qui placent leur conf
 
 #### Synopsis de la Session 1
 
-| Session synoptique                        |                                                                                                                                                                                                                 |
-|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Écouter le<br>message de<br>l'Évangile    | Dans ce passage, le sermon de Pierre relate l'essence<br>de l'Évangile. Il raconte l'histoire de Jésus sauvant<br>l'humanité pécheresse. Un résumé du message de<br>l'Évangile est présenté ci-dessous.         |
-| Le péché de<br>l'homme                    | Tous les hommes sont pécheurs et coupables devant un<br>Dieu saint et ont besoin du salut (2:21)                                                                                                                |
-| Venue<br>prophétisée                      | Dieu a promis d'envoyer un libérateur qui sauverait les<br>pécheurs du jugement divin. (2:30 ; cf. 2:23)                                                                                                        |
-| Naissance ou<br>Incarnation               | Jésus est entré dans le monde et a pris chair humaine<br>(est devenu un être humain). Jésus est pleinement<br>homme (cà-d. Jésus de Nazareth, 2:22, 30) et<br>pleinement Dieu (cà-d. Seigneur et Christ ; 2:36) |
-| Personne                                  | Jésus est pleinement Dieu et pleinement homme en une<br>seule personne (2:22, 27, 34, 36)                                                                                                                       |
-| Vie/Ministère                             | Durant sa vie et son ministère, Jésus a accompli des<br>œuvres puissantes et des miracles (2:22)                                                                                                                |
-| Crucifixion                               | Selon le plan de Dieu, Jésus a été crucifié sur la croix<br>(2:23, 36)                                                                                                                                          |
-| Résurrection                              | Jésus est ressuscité des morts (2:24-32)                                                                                                                                                                        |
-| Apparition                                | Jésus est apparu à ses disciples (2:33)                                                                                                                                                                         |
-| Ascension                                 | Jésus a été exalté à la droite de Dieu (2:33)                                                                                                                                                                   |
-| Saint-Esprit                              | Jésus a envoyé le Saint-Esprit pour donner de la force<br>au peuple de Dieu (2:33)                                                                                                                              |
-| Intercession,<br>règne et retour<br>futur | Jésus règne au ciel à la droite de Dieu le Père et<br>reviendra un jour sur terre pour amener le royaume de<br>Dieu à son plein épanouissement (2:34-35)                                                        |
+
+| Session synoptique | Description |
+| :--- | :--- |
+| **Écouter le message de l'Évangile** | Dans ce passage, le sermon de Pierre relate l'essence de l'Évangile. Il raconte l'histoire de Jésus sauvant l'humanité pécheresse. Un résumé du message de l'Évangile est présenté ci-dessous. |
+| **Le péché de l'homme** | Tous les hommes sont pécheurs et coupables devant un Dieu saint et ont besoin du salut (2:21) |
+| **Venue prophétisée** | Dieu a promis d'envoyer un libérateur qui sauverait les pécheurs du jugement divin. (2:30 ; cf. 2:23) |
+| **Naissance ou Incarnation** | Jésus est entré dans le monde et a pris chair humaine (est devenu un être humain). Jésus est pleinement homme (cà-d. Jésus de Nazareth, 2:22, 30) et pleinement Dieu (cà-d. Seigneur et Christ ; 2:36) |
+| **Personne** | Jésus est pleinement Dieu et pleinement homme en une seule personne (2:22, 27, 34, 36) |
+| **Vie/Ministère** | Durant sa vie et son ministère, Jésus a accompli des œuvres puissantes et des miracles (2:22) |
+| **Crucifixion** | Selon le plan de Dieu, Jésus a été crucifié sur la croix (2:23, 36) |
+| **Résurrection** | Jésus est ressuscité des morts (2:24-32) |
+| **Apparition** | Jésus est apparu à ses disciples (2:33) |
+| **Ascension** | Jésus a été exalté à la droite de Dieu (2:33) |
+| **Saint-Esprit** | Jésus a envoyé le Saint-Esprit pour donner de la force au peuple de Dieu (2:33) |
+| **Intercession, règne et retour futur** | Jésus règne au ciel à la droite de Dieu le Père et reviendra un jour sur terre pour amener le royaume de Dieu à son plein épanouissement (2:34-35) |
 
 ## Réflexion personnelle : Entrer dans l'histoire
 
