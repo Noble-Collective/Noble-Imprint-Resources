@@ -1,0 +1,12 @@
+{
+  "title": "Test Book",
+  "subtitle": "A test book for development",
+  "order": 3,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "status": "public"
+}
