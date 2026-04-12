@@ -8,5 +8,6 @@
     "####": "#000000",
     "#####": "#000000"
   },
-  "banner": "Preview"
+  "banner": "Preview",
+  "status": "public"
 }
