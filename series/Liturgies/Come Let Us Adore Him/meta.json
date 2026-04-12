@@ -9,5 +9,6 @@
     "#####": "#6D6B6A"
     
   },
-  "banner": "Pre-Release"
+  "banner": "Pre-Release",
+  "status": "public"
 }
