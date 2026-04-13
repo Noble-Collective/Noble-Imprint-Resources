@@ -7,7 +7,7 @@
 >Disciples of Christ:
 >**earnestly receive God's salvation by repenting from sin and pledging faith in Christ,**
 >publicly declare their faith commitment and community participation through baptism,
->and get established in faith essentials as part of a Christian community.
+>and get established in faith essentials as part of a Christian community every day!
 << _The Path of Discipleship_
 
 ### Key Elements
