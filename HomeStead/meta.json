@@ -1,0 +1,13 @@
+{
+  "title": "HomeStead",
+  "subtitle": "A Rite of Passage into Christian Hearth and Home",
+  "order": 3,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Pre-Release",
+  "status": "public"
+}

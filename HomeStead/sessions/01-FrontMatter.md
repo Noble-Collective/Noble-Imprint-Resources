@@ -1,0 +1,140 @@
+# Front Matter
+
+Series Titles
+
+Passage: Crossing Thresholds in the Sojourn of Life
+
+- *HomeStead: A Rite of Passage into Christian Hearth and Home*
+- *BaseCamp: A Rite of Passage into Christian Responsibility and Accountability*
+- *Venture: A Rite of Passage into Christian Risk and Valor*
+- *Summit: A Rite of Passage into Christian Identity and Self-Understanding*
+- *BushCraft: A Rite of Passage into Christian Artisanship and Enterprise*
+- *Covenant: A Rite of Passage into Christian Family and Fidelity*
+- *Sunset: A Rite of Passage into Christian Retirement and Legacy*
+
+HomeStead:
+A Rite of Passage into Christian
+Hearth and Home
+
+**Matthew R. Lynskey**
+**Bryan D. Platania**
+
+HomeStead:
+A Rite of Passage into Christian
+Hearth and Home
+
+*Passage: Crossing Thresholds in the Sojourn of Life*
+
+**Matthew R. Lynskey**
+**Bryan D. Platania**
+
+York, Pennsylvania
+Noble Imprint
+2026
+
+*HomeStead: A Rite of Passage into Christian Hearth and Home*
+
+Series: Passage: Crossing Thresholds in the Sojourn of Life © 2026 by Matthew R. Lynskey and Bryan D. Platania, with a Creative Commons AttributionShareAlike license (CC BY-SA), version 4.0.
+
+Published by Noble Imprint (www.nobleimprint.com).
+
+This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+
+Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
+
+> I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.
+
+<< 2 Corinthians 6:18
+
+> Which of you, if his son asks for bread, will give him a stone? Or if he asks for a fish, will give him a snake? So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
+
+<< Matthew 7:9–11
+
+> I am the *everlasting* Father, and I will be a Father to you; I take you for my sons and daughters. Behold, I will receive you not as servants, but as sons, to abide in my house for ever; whatever love or care children may look for from *their father*, that may you expect from me; and *so much more as I am wiser, and greater and better* than any earthly parents. If earthly fathers will give good things to their children, much more will I give to you. If such *cannot forget* their children, much less will I forget you. What *would my children have*? Your Father's *heart*, and your Father's *house*; your Father's *care*, and your Father's *ear*; Your Father's *bread*, and your Father's *rod*, these shall be all yours.
+
+<< Joseph Alleine, *The Voice of God*
+
+> If parents do this by rightly training them to God's service, they will indeed have their hands full of good works. For what are the hungry, the thirsty, the naked, the sick, the alien if not the souls of your own children? With these God makes a hospital of your own house. He sets you over them as the hospital superintendent, to wait on them, to give them the food and drink of good words and works. [He sets you over them] that they may learn to trust God, to believe in him, to fear him, and to set their whole hope upon him; to honor his name and never curse or swear; to mortify themselves by praying, fasting, watching, working; to go to church, wait on the word of God, and observe the sabbath. [He sets you over them] that they may learn to despise temporal things, to bear misfortune without complaint, and neither fear death nor love this life. Just think what a great lesson this is! How many good works you have at hand in your own home with your own child who needs all such things as these like a hungry, thirsty, naked, poor, imprisoned, sick soul! O what a blessed marriage and home that would be with such parents! That home would indeed be a true church, a chosen cloister, yes, a paradise!
+
+<< Martin Luther, *Treatise on Good Works*
+
+for
+
+Noble City Church-
+our family of fellow
+sojourners and exiles
+
+![Playing with Baby](zampighi_playing_with_baby)
+
+<< Zampighi, Eugenio. *Playing with Baby*. 1880. Oil on canvas, 61 × 45.7 cm.
+
+## Series' Preface
+
+#### Passage: Crossing Thresholds in the Sojourn of Life
+
+##### Series' Preface
+
+> These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron. At the Lord's command, Moses recorded the stages of their journey. These are the stages listed by their starting points.
+
+<< Numbers 33:1–2
+
+> Moses wrote their goings out—When they set out, God ordered him to keep a journal of all the remarkable occurrences in the way, that it might be a satisfaction to himself and an instruction to Others. It may be of use to Christians, to preserve an account of the providences of God concerning them, the constant series of mercies they have experienced, and especially those turns which have made some days of their lives more remarkable.
+
+<< *John Wesley, Explanatory Notes upon the Old Testament*
+
+Growth in life and faith occurs in stages of development. Just as there are common markers for biological maturity, so can we discern noteworthy milestones in spiritual formation. In order to help individuals and communities mature, we do well to mark and celebrate these milestones. Even better, to foster intentional spiritual formation that coincides with natural life development is a compelling vision to help establish believers and churches in the faith. Such a process would offer a helpful means of passing down "the faith entrusted once for all to the saints" (Jude 3). Certainly, maturity in the faith has an intergenerational scope: delivering the ancient faith intact and unalloyed to the future generation. As such, processes and strategies of Christian formation must pay special attention to natural phases of human development and commonly discerned dynamics of spiritual growth.
+
+With this vision of Christian spirituality, one can imagine a number of ways to foster Christian maturity across the generations. In fact, faithful disciples and church leaders have diligently discharged this duty through the ages. We must learn from them as humble apprentices while we also consider the unique context of our contemporary world. Christians have a duty to both preservation and innovation. On the one hand, we must heed Paul's instructions to Timothy: "guard the treasure entrusted to you, with the help of the Holy Spirit who dwells in us" (2 Timothy 1:14). On the other hand, we must be like the men of Issachar "who understood the times and knew what Israel should do" (1 Chronicles 12:32). The Christian life is lived at the intersection of timeless truth and contemporary dilemma, where God's inspired word addresses the great need of mankind. Until the return of Christ, a time we long for with great anticipation, we will constantly live at this crossroads. And, the complexity of the crossroads for each age serves as a fortuitous opportunity—an ever-ripe ministry occasion—to prove the relevance and veracity of God's timeless truth in all cultures, for all generations, and in all developmental stages.
+
+To this end, we offer this series as a tool in Christian formation. Essentially, it is a *Christian approach to rites of passage*. The title of the series speaks of its fundamental aims: *Passage: Crossing Thresholds in the Sojourn of Life*. At its core, this tool views the Christian life as a sojourn. More than a temporary excursion or one-time outing, the voyage of life is an extended pilgrimage that encompasses our whole life. This sojourn is also a journey of advancement, development, and maturation across successive stages. The overall forward movement of the Christian life—even if it is necessarily fraught with its detours, roundabouts, diversions, and wanderings—occurs across various phases of progress. Because there are phases of development in life and faith, we are (at times) able to mark the thresholds when we cross from one phase into the next, from one region into another.
+
+To become aware of your current location in the journey and to be cognizant of upcoming legs of the pilgrimage is quite helpful. It can provide encouragement for the weary, humility for the proud, motivation for the slothful, and hope for all. Crossing thresholds together with other travelers—a company of trusted fellow pilgrims—provides camaraderie, companionship, and solidarity for the difficult terrain that we must traverse. As we cross these thresholds together, we are making passage into new territory. These passages will be myriad in life. To mark the successful arrival at each juncture in a journey affords a time of reflection on the past, celebration in the present, and preparation for the future. Marking these milestones of life and faith helps pilgrims remain oriented to the road ahead, focused on the final destination, and vigilant against many dangers and snares they might face. Said shortly, this series aims to help Christian disciples mark, measure, and make passage through important milestones for life and faith.
+
+Many cultures and societies have rites of passage. Typically, these ritualbased experiences assist a person (and the community) in explicitly marking a change of status in life and development. Broadly speaking, these rites of passage can mark many seasons of life: birth, puberty (coming of age), marriage, childbearing, graduation, vocational achievement, eldership, and death. Commonly, the rite itself involves a temporary separation from society, an initiation through a challenge, and a reintegration with the community under a new status.
+
+It must be said that Christians are not beholden to cultural rites, rituals, and ceremonies. In Christ, believers have been set free from the man-made tradition (Matthew 15:1–20) and man-made religion (Colossians 2:20–23). Nevertheless, to ritualize an experience is nothing other than attempting to invite community members to participate in an experience with regularity, repetition, and patterned form. Participation in such an experience helps to shape us. For the church, Christ has only commanded two ritual practices: baptism and the Lord's Supper (communion or the eucharist). Baptism is a one-time initiation rite into the community of faith. The Lord's Supper is an ongoing revitalizing ritual to sustain and support God's people through an act of covenant renewal. Even though other rituals are not commanded in Scripture, we offer this Christian approach to rites of passage as a way of marking major milestones of life and faith. These are not ever to be held with the same status as baptism and the Lord's Supper. Nevertheless, they offer a concrete way to guide people and communities in faith formation.
+
+By labeling this series *Passage*, this curricular approach to rites of passage focuses on the borderlands: *the liminal moments and crucial junctures when we cross over into a new phase of our faith journey*. Different than an establishing process or catechetical course, this series aims to measure, mark, and commemorate transitions across seasons of life and faith. Sometimes people cross into new life seasons without realizing it. Other times they venture across a major life threshold without guide or escort. When we remain unaware that a major life milestone has been reach or unguided across its threshold, we can unnecessarily prolong immature habits and life patterns from an earlier phase of life. On the contrary, to prematurely encumber a person with responsibilities before they are ready can be overwhelming (at least) and detrimental (at worst). Consequently, this series has a *preparatory* and *demarcating* function. It seeks to help a person understand to consider what an upcoming season of life might entail while it also helps to make this seasonal transition explicit and noticeable.
+
+Over the course of this series, we hope to provide concrete and flexible tools for navigating the transitions in life and faith. This curriculum is unapologetically Christian. While people may be able to use the tools to discern general principles of life formation, this series is explicitly a summons to faithful Christian pilgrimage across life's thresholds. As such, the composition of this tool is designed to be church-based, family-oriented, biblically-rooted, and theologically-reflective. In the end, we humbly offer this as a gift to the church so that believers and communities might join the psalmist's words as a refrain of life: God's "statutes are songs to me in the house of my pilgrimage" (Psalm 119:54).
+
+<< July 2024
+<< York, Pennsylvania
+
+## Preface
+
+#### HomeStead: Building Christian Hearth and Home
+
+##### Preface
+
+> Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace.
+
+<< Psalm 144:12
+
+> The power for good or evil that resides in a little child is great beyond all human calculation. A child rightly trained may be a world-wide blessing, with an influence reaching onward to eternal years. But a neglected or misdirected child may live to blight and blast mankind, and leave influences of evil which shall roll on in increasing volume till they plunge into the gulf of eternal perdition.
+
+<< George Müller, *A Brief Narrative*
+
+Cultivating Christian hearth and home is honorable and holy work. Parents, who are the primary overseers of this work, must view their parenting responsibilities as a sacred and solemn duty, consecrating their children and household to the Lord. Two main scriptural examples explicitly narrative this act of dedication and consecration. In the Old Testament, when Hannah devoted young Samuel to the Lord, she was acknowledging that her child was a gracious gift from God (cf. 1 Samuel 1:1–2:26). She modeled for us the importance of raising children in the faith and for God's service. In the New Testament, when Jesus' parents dedicated the infant Christ to God, they were also surrendering their home to the Lord (Luke 2:21–40). Their example of dedication is a compelling example for us to cultivate a home devoted to God.
+
+In this study, we want to consider what it means for us to devote our homes to the Lord, bringing our marriages, families, houses, and children as an offering to God. Some of us may have children already and others may be looking forward to the start of the parenting journey. Some are grandparents who are envisioning this last season of life as an investment into future generations, which means pouring into younger parents in their efforts to establish a godly home. Other are part of the general community of faith and realize their own duty to help families become strong and healthy. Young or old, these faithful saints engage this study to support families, knowing that parenting is intrinsically a community venture. You are here to help God's people raise children to be devoted saints. Wherever you are in this journey, we invite you to consider what it means to cross a major life milestone and threshold into the world of parenting—to build Christian hearth and home for the Lord.
+
+To help build a vision for biblical parenting, we have chosen a selection of psalms to guide our thinking about parenting. Really, the collection of these psalms offers *a theological vision for the life of faith*. The underlying principles in these psalms are general enough that they form a solid foundation for all ages to embrace a life devoted to the Lord. Precisely because they are common core elements to the life of faith they are fitting for a discussion on biblical parenting. As we will see, biblical parenting is primarily a matter of passing on the faith to the next generation. In these selected psalms, the enduring principles about the life of faith help to establish parents in their role before God, their duty toward their children, a work alongside the church, and a mission for the sake of the world. As we will see, a vision for life with God in the context of God's people and on God's mission provides a beautiful landscape upon which we can portray godly parenting.
+
+Assuredly, this selection of psalms is not haphazard. Even if in small detail, each of these psalms makes an explicit signal toward family life or parenting in some way. Psalm 103 depicts God as a compassionate father (103:13). Psalm 78 explicitly casts a vision of passing the faith to children and future generations (78:1–8). Psalm 23 describes God as a good shepherd who prepares a table in the midst of enemies (23:5). Psalm 34 directly summons children to learn the fear of God (34:11). Psalm 94 soberly describes the importance of discipline and instruction (94:10–12). Psalm 127 and 128 celebrate housebuilding, the blessing of children, and flourishing homes by painting an inspiring picture of a godly home that thrives under the Lord's favor (127:1, 3–5; 128:3–4, 6).
+
+The basic premise of this study is that *we should parent our children based upon God's divine care for us*. First, this means that God is *the ultimate example of parenting*. His love, care, faithfulness, discipline, instruction, protection, and house order should serve as a blueprint for how we raise and rear our children. But God is more than an example to his people. A more important second point is that God is *the source of all Christian parenting*. His compassion toward us is fuel that enables us to show sacrificial love and unconditional care toward our children. His unchanging truth is the only sure foundation of our instruction—a deposit that can fortify generations. His tender shepherding care supports us during our care of our children, as we recognize how weak and needy we really are. God's discipline and instruction in our own lives better equips us to teach our children the fear of God and model godly character. God's protection is the only means by which our children can find safety and security in a godless and wicked world. His blessing, favor, enablement, and strength are the only hope for building a home that honors the Lord.
+
+While we could have chosen many other psalms to serve as a biblical bedrock for godly parenting, we chose the following ones because of they present a fairly complete picture of major areas of faith formation, family life, and parenting duty. Psalm 103:1–22 highlights the importance of worship, the essence of divine compassion, God's gracious care of his people, and the foundation of covenant relationship with God. This psalm calls God's people to find rest under God's fatherly care. Godly parents rely upon God's divine compassion and model it in their homes. Psalm 78:1–72 casts a vision for teaching truth—the story of God's words and works—in an intergenerational and community context that leads people into devotion of God. This psalm shows that each generation stands between the ages in our life of faith and ministry work. Godly parents bear the responsibility of passing the faith to the next generation, with a vision of impacting many generations to come. Psalm 23:1–6 celebrates God as our shepherd, finding comfort in his provision, guidance, protection, correction, presence, and blessing. This psalm asserts God's sovereign and tender care over his flock. Godly parents should approach their parenting work as under-shepherds who are being shepherded by God care.
+
+Psalm 34:1–22 commends to us a life of continual worship in the fear of God, in which we grow in godly character and can embrace the vocation of a righteous sufferer. This psalm calls us to live life in the fear of God. Godly parents focus their parenting on faith formation and character development. Psalm 94:1–23 focuses on the godlessness of surrounding society, the need of divine discipline and instruction, and the comfort of divine protection. This psalm invites us to hide in God's sheltering protection. Godly parents raise their children in the discipline and instruction of the Lord. Psalm 127:1–5 and 128:1–6 offer a portrait of a godly family, emphasizing themes of meaningful work, genuine faith, divine blessing, and the central importance of family in God's work in the world. This psalm invites us to be for the world by being for the family. Godly parents treasure children as gifts from God and depend upon God's grace to build their house.
+
+What we will find in these psalms is not practical how-tos or parenting techniques for raising children. The collective of hymns offers something much bigger and much more important. These psalms offer *a theological vision for the Christian life*. Because these principles guide us in a life devoted to God, they are inextricably bound to parenting. Whatever else parenting and family life entail, they are at their core an effort to build a small-scale, home-based community that mirrors the the larger community of faith joining together in worship and devotion to God. These psalms are about *parenting* precisely because they are about *cultivating our life with God*.
+
+Although technique and tactic are helpful and have their place, they will not ultimately sustain you in the parenting work. Children are unique, circumstances change, cultural challenges multiply, daily needs fluctuate, and seasons of life demand different strategies and interventions. At the beginning of the parenting journey (and even as reminders throughout), what is needed is an unchanging vision for parenting that encapsulates the essence of our life with God. Such a theological vision for parenting can sustain you in suffering, comfort you in disappointment, focus you when confronted with cultural confusion, challenge you in your own personal formation, form tenacity in the face of opposition, and build stamina for the long haul of parenting work. It can also help you realize the deep joy of parenting work. A vision for life with God is the best starting point for entering into this most noble of ventures.
+
+The godly raising of children is to participate in God's work in the world. A theological vision for parenting is crucial because however long and unending parenting work feels (and the days do feel long), it will too soon be over (the years do go fast), and the foundations we laid will set our children on a path toward some eternal destiny. May we parent out of a life with God that enables us to establish hearth and home after God's designed and fueled by God's gracious supply and one that lays up our children as "treasures in heaven" (Matthew 6:20).
+
+<< March 2026
+<< York, Pennsylvania
+
