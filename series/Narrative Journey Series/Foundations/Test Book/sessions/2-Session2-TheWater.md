@@ -1,6 +1,6 @@
 # Session 2: The Wat
 
-## Session Overview
+## Session Ovview
 
 ### Confessional Statement
 
