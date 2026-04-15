@@ -8,7 +8,7 @@
 >**earnestly receive God's salvation by repenting from sin and pledging their faith in Christ,**
 >publicly declare their faith commitment and community participation through baptism,
 >and get established in faith essentials as part of a Christian community.
-<< _The Pat of Discipleship_
+<< _The Part of Discipleship_
 
 ### Key Elements
 
