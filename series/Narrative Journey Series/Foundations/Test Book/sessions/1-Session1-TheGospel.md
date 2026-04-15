@@ -1,8 +1,8 @@
 # Session 1: The Gospel
 
-## Session INTEGSECOND
+## Session Overview
 
-### ConfessionalX Statement
+### Confessional Statement
 
 >Disciples of Christ:
 >**earnestly receive God's salvation by repenting from sin and pledging their faith in Christ,**
@@ -14,7 +14,7 @@
 
 - **Key Passage**: Acts 2:1–36
 - **Scripture Memory**: For I delivered to you as of first importance what I also received: that Christ died for our sins in  with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures. **1 Corinthians 15:3–4**
-- **Catechism Question**: Q: What does Jesus call us to believe? A: The Gospel of Jesus Christ our Lord and Savior!
+- **Catechism Question**: Q: What does Jesus call us to believe? A: The Gospel of Jesus Christ.
 
 ## Introduction
 
@@ -24,7 +24,7 @@
 > _Christ [is] the very essence of all delights and pleasures, the very soul and substance of them. As all the rivers are gathered into the ocean, which is congregation or meeting-place of all waters in the world: so Christ is that ocean in which all true delights and pleasures meet._
 << **John Flavel, _The Method of Grace_**
 
-Jesus is calling you to follow him! Christianity is more than an idea, a INTEGFIRST, or a belief system. At its very core, the Christian life involves faithful submission to Jesus Christ in every area of one’s life. A true disciple—a follower of Christ—no longer lives for one’s own interests and no longer prioritizes one’s own self-will. Rather, disciples recognize Jesus as the sovereign king of the universe and therefore as rightful king of their own lives. Said simply, the life of a Christian disciple begins by trusting Jesus as one’s Savior and submitting to him as one’s Master and Lord. In this act, disciples escape the ruin of the present world by entrusting themselves to Jesus for the forgiveness of their sins.
+Jesus is calling you to follow him! Christianity is more than an idea, a philosophy, or a belief system. At its very core, the Christian life involves faithful submission to Jesus Christ in every area of one’s life. A true disciple—a follower of Christ—no longer lives for one’s own interests and no longer prioritizes one’s own self-will. Rather, disciples recognize Jesus as the sovereign king of the universe and therefore as rightful king of their own lives. Said simply, the life of a Christian disciple begins by trusting Jesus as one’s Savior and submitting to him as one’s Master and Lord. In this act, disciples escape the ruin of the present world by entrusting themselves to Jesus for the forgiveness of their sins.
 
 There are many ways to describe what is wrong with the present life. Disobeying God, humans have brought sorrow, pain, and death into God’s good world. Brokenness, dysfunction, and turmoil now characterize the world which God originally created to flourish and thrive. Human rebellion has injected enmity—a deeply fracturing hostility—between God and people. Now as enemies of Almighty God, humans are lost in spiritual exile, wandering through life on paths leading to destruction. Spiritually alienated, people are estranged from God: once enjoying deep and intimate fellowship with the Creator, the relationship between God and humans has ruptured. Against the purity of God’s perfect and holy character, even the slightest sin amounts to cosmic treachery and spiritual infidelity. All humans are born into this broken world infected and diseased by sin, stained by moral wrongdoing, and burdened by the curse. In this sinful state, all of us are naturally inclined to seek our own pleasure, prone to a self-indulgence that produces self-destructive patterns and unfruitful life habits. Effectively, we have become the captains of our own ruin.
 
@@ -70,7 +70,7 @@ In Christ, sinful humans can be restored to a joyous and satisfying relationship
 
 This message of salvation forms the foundation of the Christian life. To help us understand this foundational message, we will explore Acts 2:1–36. This biblical narrative recounts a crucial moment in human history. At this time, God sent his Holy Spirit to come upon Jesus’ earliest disciples. Through the Spirit, they were supernaturally empowered to speak foreign languages. Peter, a leader among Jesus’ disciples, stood up and explained to the surrounding crowd that this miraculous event was a sign that God was fulfilling his former promises, that God was bringing his plan of salvation to fruition. After explaining the significance of this event, Peter preached a sermon in which he summarized the core elements of the gospel.
 
-Peter’s gospel message records the foundational narrative of Jesus accomplishing salvation for sinful humanity. Although the events of Jesus’ saving work took place over two thousand years ago, transformative repentance and belief rooted in these events remain the only way for humans to be reconciled to God. Even though Peter preached this message to a first century audience, its record in the Bible is a direct message to us,  us to place our faith in Christ. As we study this narrative, may you hear and heed this ancient message as God’s invitation to you today in which Jesus is calling you to turn from the empty, hollow life of sin and instead to follow him, receiving the promises of eternal life and forgiveness of sins.
+Peter’s gospel message records the foundational narrative of Jesus accomplishing salvation for sinful humanity. Although the events of Jesus’ saving work took place over two thousand years ago, transformative repentance and belief rooted in these events remain the only way for humans to be reconciled to God. Even though Peter preached this message to a first century audience, its record in the Bible is a direct message to us, enjoining us to place our faith in Christ. As we study this narrative, may you hear and heed this ancient message as God’s invitation to you today in which Jesus is calling you to turn from the empty, hollow life of sin and instead to follow him, receiving the promises of eternal life and forgiveness of sins.
 
 #### It Shall Come to Pass: God Bringing His Plan of Salvation to Fruition
 
@@ -124,7 +124,7 @@ _Biblical Principles._ One day, Jesus will return to earth. In his first coming,
 
 #### Jesus’ Identity
 
-_Biblical Narrative (Acts 2:22–23, 27, 30–31, 34, 36)._ After explaining how the coming of the Holy Spirit upon the disciples (cf. 2:1–13) was a sign of God fulfilling his redemptive promises (cf. 2:14–21), Peter recounted how God achieved salvation on behalf of sinful humanity. In the speech that followed, Peter delivered a message that recounted God’s *saving work in the gospel. At the beginning of his gospel message, Peter summoned his listeners to “hear these words” (2:22). The next words define the basic subject matter of the gospel: “Jesus of Nazareth” (2:22). At its core, the gospel message is about Jesus. The essence of the Christian life is a matter of devoting one’s life to following Jesus. Since this is the case, it is crucial to understand “this Jesus” (2:23; cf. 2:32) for who he really is.
+_Biblical Narrative (Acts 2:22–23, 27, 30–31, 34, 36)._ After explaining how the coming of the Holy Spirit upon the disciples (cf. 2:1–13) was a sign of God fulfilling his redemptive promises (cf. 2:14–21), Peter recounted how God achieved salvation on behalf of sinful humanity. In the speech that followed, Peter delivered a message that recounted God’s saving work in the gospel. At the beginning of his gospel message, Peter summoned his listeners to “hear these words” (2:22). The next words define the basic subject matter of the gospel: “Jesus of Nazareth” (2:22). At its core, the gospel message is about Jesus. The essence of the Christian life is a matter of devoting one’s life to following Jesus. Since this is the case, it is crucial to understand “this Jesus” (2:23; cf. 2:32) for who he really is.
 
 Jesus is God’s eternal Son (fully God for all time) who came to earth by taking on human flesh (born as a human). At the beginning of Peter’s speech, he identified Jesus as “a man attested to you by God” (2:22). When God sent his Son to the world, he became a man. While Jesus became fully human, Jesus is simultaneously “both Lord and Christ” (2:36). Peter quotes from Psalm 110:1 in which “the Lord said to my Lord” (2:34). This is God (i.e., “the Lord”) speaking to another person with an equal status of God (i.e., “my Lord”). Jesus is identified as distinct from God the Father but equal to God the Father. Jesus is the divine Lord and the promised deliverer (2:30–31, 36) of sinful humanity. Jesus is also referred to as the “Holy One” (2:27). Jesus is perfect, without sin, and set apart for God’s work. In sum, Jesus is fully God and fully human in one person.
 
