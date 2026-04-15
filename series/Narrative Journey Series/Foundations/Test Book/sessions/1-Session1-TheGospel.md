@@ -19,7 +19,7 @@
 ## Introduction
 
 > _He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed._
-<< **1 Peter 2:24–25**
+<< **1 Peter 1:24–25**
 
 > _Christ [is] the very essence of all delights and pleasures, the very soul and substance of them. As all the rivers are gathered into the ocean, which is congregation or meeting-place of all waters in the world: so Christ is that ocean in which all true delights and pleasures meet._
 << **John Flavel, _The Method of Grace_**
