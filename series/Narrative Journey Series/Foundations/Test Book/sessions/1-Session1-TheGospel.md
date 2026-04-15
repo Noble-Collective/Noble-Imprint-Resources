@@ -22,7 +22,7 @@
 << **1 Peter 1:24–25**
 
 > _Christ [is] the very essence of all delights and pleasures, the very soul and substance of them. As all the rivers are gathered into the ocean, which is congregation or meeting-place of all waters in the world: so Christ is that ocean in which all true delights and pleasures meet._
-<< **John Flavellllll, _The Method of Grace_**
+<< **John Flavel, _The Method of Grace_**
 
 Jesus is calling you to follow him! Christianity is more than an idea, a philosophy, or a belief system. At its very core, the Christian life involves faithful submission to Jesus Christ in every area of one’s life. A true disciple—a follower of Christ—no longer lives for one’s own interests and no longer prioritizes one’s own self-will. Rather, disciples recognize Jesus as sovereign king of the universe and therefore as rightful king of their own lives. Said simply, the life of a Christian disciple begins by trusting Jesus as one’s Savior and submitting to him as one’s Master and Lord. In this act, disciples escape the ruin of the present world by entrusting themselves to Jesus for the forgiveness of their sins.
 
