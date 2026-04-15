@@ -1,6 +1,6 @@
 # Session 1: The Gospel
 
-## Session Overview
+## Session OverviewX
 
 ### Confessional Statement
 
@@ -14,7 +14,7 @@
 
 - **Key Passage**: Acts 2:1–36
 - **Scripture Memory**: For I delivered to you as of first importance what I also received: that Christ died for our sins in  with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures. **1 Corinthians 15:3–4**
-- **Catechism Question**: Q: What does Jesus call us to believe? A: The Gospel of Jesus Christ.
+- **Catechism Question**: Q: What does Jesus call us to believe? A: The Gospel of Jesus Christ our Lord and Savior!
 
 ## Introduction
 
@@ -70,7 +70,7 @@ In Christ, sinful humans can be restored to a joyous and satisfying relationship
 
 This message of salvation forms the foundation of the Christian life. To help us understand this foundational message, we will explore Acts 2:1–36. This biblical narrative recounts a crucial moment in human history. At this time, God sent his Holy Spirit to come upon Jesus’ earliest disciples. Through the Spirit, they were supernaturally empowered to speak foreign languages. Peter, a leader among Jesus’ disciples, stood up and explained to the surrounding crowd that this miraculous event was a sign that God was fulfilling his former promises, that God was bringing his plan of salvation to fruition. After explaining the significance of this event, Peter preached a sermon in which he summarized the core elements of the gospel.
 
-Peter’s gospel message records the foundational narrative of Jesus accomplishing salvation for sinful humanity. Although the events of Jesus’ saving work took place over two thousand years ago, transformative repentance and belief rooted in these events remain the only way for humans to be reconciled to God. Even though Peter preached this message to a first century audience, its record in the Bible is a direct message to us, enjoining us to place our faith in Christ. As we study this narrative, may you hear and heed this ancient message as God’s invitation to you today in which Jesus is calling you to turn from the empty, hollow life of sin and instead to follow him, receiving the promises of eternal life and forgiveness of sins.
+Peter’s gospel message records the foundational narrative of Jesus accomplishing salvation for sinful humanity. Although the events of Jesus’ saving work took place over two thousand years ago, transformative repentance and belief rooted in these events remain the only way for humans to be reconciled to God. Even though Peter preached this message to a first century audience, its record in the Bible is a direct message to us,  us to place our faith in Christ. As we study this narrative, may you hear and heed this ancient message as God’s invitation to you today in which Jesus is calling you to turn from the empty, hollow life of sin and instead to follow him, receiving the promises of eternal life and forgiveness of sins.
 
 #### It Shall Come to Pass: God Bringing His Plan of Salvation to Fruition
 
@@ -124,7 +124,7 @@ _Biblical Principles._ One day, Jesus will return to earth. In his first coming,
 
 #### Jesus’ Identity
 
-_Biblical Narrative (Acts 2:22–23, 27, 30–31, 34, 36)._ After explaining how the coming of the Holy Spirit upon the disciples (cf. 2:1–13) was a sign of God fulfilling his redemptive promises (cf. 2:14–21), Peter recounted how God achieved salvation on behalf of sinful humanity. In the speech that followed, Peter delivered a message that recounted God’s saving work in the gospel. At the beginning of his gospel message, Peter summoned his listeners to “hear these words” (2:22). The next words define the basic subject matter of the gospel: “Jesus of Nazareth” (2:22). At its core, the gospel message is about Jesus. The essence of the Christian life is a matter of devoting one’s life to following Jesus. Since this is the case, it is crucial to understand “this Jesus” (2:23; cf. 2:32) for who he really is.
+_Biblical Narrative (Acts 2:22–23, 27, 30–31, 34, 36)._ After explaining how the coming of the Holy Spirit upon the disciples (cf. 2:1–13) was a sign of God fulfilling his redemptive promises (cf. 2:14–21), Peter recounted how God achieved salvation on behalf of sinful humanity. In the speech that followed, Peter delivered a message that recounted God’s *saving work in the gospel. At the beginning of his gospel message, Peter summoned his listeners to “hear these words” (2:22). The next words define the basic subject matter of the gospel: “Jesus of Nazareth” (2:22). At its core, the gospel message is about Jesus. The essence of the Christian life is a matter of devoting one’s life to following Jesus. Since this is the case, it is crucial to understand “this Jesus” (2:23; cf. 2:32) for who he really is.
 
 Jesus is God’s eternal Son (fully God for all time) who came to earth by taking on human flesh (born as a human). At the beginning of Peter’s speech, he identified Jesus as “a man attested to you by God” (2:22). When God sent his Son to the world, he became a man. While Jesus became fully human, Jesus is simultaneously “both Lord and Christ” (2:36). Peter quotes from Psalm 110:1 in which “the Lord said to my Lord” (2:34). This is God (i.e., “the Lord”) speaking to another person with an equal status of God (i.e., “my Lord”). Jesus is identified as distinct from God the Father but equal to God the Father. Jesus is the divine Lord and the promised deliverer (2:30–31, 36) of sinful humanity. Jesus is also referred to as the “Holy One” (2:27). Jesus is perfect, without sin, and set apart for God’s work. In sum, Jesus is fully God and fully human in one person.
 
