@@ -1,4 +1,4 @@
-# Session 1: The GosPEL!
+# Session 1: The INTEGSECOND!
 
 ## Sessionssss Overview
 
