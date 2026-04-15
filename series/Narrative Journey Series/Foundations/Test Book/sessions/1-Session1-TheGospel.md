@@ -1,4 +1,4 @@
-# Session 1: The Gospel
+# Session 1: The Gos
 
 ## Sessionssss Overview
 
