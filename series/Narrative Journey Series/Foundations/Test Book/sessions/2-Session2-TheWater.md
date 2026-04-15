@@ -1,4 +1,4 @@
-# Session 2: The Wat
+# Session 2: The Waterrr
 
 ## Session Ovview
 
