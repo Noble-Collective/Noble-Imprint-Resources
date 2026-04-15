@@ -1,4 +1,4 @@
-# Session 1: The Gos
+# Session 1: The GosPEL!
 
 ## Sessionssss Overview
 
