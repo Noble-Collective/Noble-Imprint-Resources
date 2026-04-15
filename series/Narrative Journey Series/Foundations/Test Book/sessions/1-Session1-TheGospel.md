@@ -10,7 +10,7 @@
 >and get established in faith essentials as part of a Christian community.
 << _The Path of Discipleship_
 
-### Key Elements
+### Key ElementsX
 
 - **Key Passage**: Acts 2:1–36
 - **Scripture Memory**: For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures. **1 Corinthians 15:3–4**
