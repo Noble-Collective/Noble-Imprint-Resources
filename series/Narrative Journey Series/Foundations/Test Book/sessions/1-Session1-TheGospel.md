@@ -1,6 +1,6 @@
 # Session 1: The Gospel
 
-## Sessions Overview
+## Session Overview
 
 ### Confessional Statement
 
