@@ -1,4 +1,4 @@
-# Session 12: The Gospel
+# Session 1: The Gospel
 
 ## Session Overviews
 
