@@ -1,4 +1,4 @@
-# Session 111: The Gospel
+# Session 12: The Gospel
 
 ## Session Overviews
 
