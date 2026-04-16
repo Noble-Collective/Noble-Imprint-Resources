@@ -1,6 +1,6 @@
 # Session 1: The Gospel
 
-## Session Overviews
+## Session INTEGSECOND
 
 ### Confessional Statement
 
