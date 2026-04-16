@@ -1,6 +1,6 @@
 # Session 12: The Gospel
 
-## Session OverviewsX
+## Session Overviews
 
 ### Confessional Statement
 
