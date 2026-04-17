@@ -1,4 +1,4 @@
-# Session 1: The Gospel
+# Session 1: FOR TESTING DO NOT EDIT MANUALLY
 
 ## Session Overviews
 
