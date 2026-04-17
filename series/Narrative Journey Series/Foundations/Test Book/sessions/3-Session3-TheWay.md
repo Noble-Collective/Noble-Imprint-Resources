@@ -10,7 +10,7 @@
 >**and get established in faith essentials as part of a Christian community.**
 << _The Path of Discipleship_
 
-### Key Elements
+### Key Test Elements
 
 - **Key Passage**: Acts 2:42-47
 - **Scripture Memory**: “If anyone would come after me, let him deny himself and take up his cross daily and follow me.” **Luke 9:23-26**
