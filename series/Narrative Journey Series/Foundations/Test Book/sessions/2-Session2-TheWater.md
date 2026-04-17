@@ -13,7 +13,7 @@
 ### Key Elements
 
 - **Key Passage**: Acts 2:37–41
-- **Scripture Memory**: Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his. **Romans 6:3–5**
+- **Scripture Memory**: Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life. For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his. **Romans 6:3–10**
 - **Catechism Question**: Q: How does a disciple publicize faith in Christ? A: Baptism.
 
 ## Introduction
