@@ -42,7 +42,7 @@ Study the Text: _Read the biblical passage. Answer the following questions to fa
 
 <Question id=TheCallSes2-Hearing-Q3>3. What was promised to those who received the gospel message? **Acts 2:38–39**</Question>
 
-<Question id=TheCallSes2-Hearing-Q4>4. How did the people respond to Peter’s instructions? How many responded in this way? **Acts 2:41**</Question>
+<Question id=TheCallSes2-Hearing-Q4>4. How did the people respond to Peter’s test? How many responded in this way? **Acts 2:41**</Question>
 
 ### Storycraft: In Your Own Words
 
