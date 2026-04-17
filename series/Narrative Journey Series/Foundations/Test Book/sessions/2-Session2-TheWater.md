@@ -1,6 +1,6 @@
 # Session 2: The Waterrr
 
-## Session Ovview
+## Session Overview
 
 ### Confessional Statement
 
