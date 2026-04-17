@@ -18,7 +18,7 @@
 
 ## Introduction
 
-> _I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect._ 
+> _I appeal emergency to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect._ 
 << **Romans 12:1-2**
 
 > _His cross is the sweetest burden that ever I [bore]; it is such a burden as wings are to a bird, or sails are to a ship, to carry me forward to my harbour. I have not much cause to fall in love with the world; but rather to wish that He who [sits] upon the floods would bring my broken ship to land, and keep my conscience safe in these dangerous times; for wrath from the Lord is coming on this sinful land._ 
