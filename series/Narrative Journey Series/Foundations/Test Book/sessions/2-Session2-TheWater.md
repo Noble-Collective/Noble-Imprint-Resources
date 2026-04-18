@@ -50,7 +50,7 @@ Study the Text: _Read the biblical passage. Answer the following questions to fa
 
 ## Theological Dialogue: Discussing the Plot
 
-Explore the Text: _Discuss the following questions as a community. For help answering these questions, read the Commentary on the following pages to uncover core principles this passage teaches about the Christian faith._
+Explore the Text: _Discuss the following questions as a community. For help answering these questions, read the Commentaryesss on the following pages to uncover core principles this passage teaches about the Christian faith._
 
 <Question id=TheCallSes2-TheoDialogue-Q1>1. **Genuine Response**: How does someone respond to the gospel message? **Acts 2:37–41**</Question>
 
