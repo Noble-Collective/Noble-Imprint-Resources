@@ -196,4 +196,3 @@ God sent his Son, Jesus, as his promised deliverer to rescue sinful humans from 
 <Question id=TheCallSes1-MissionalOutreach>Witness the Text: _Share the biblical story and what you have learned from this session with someone who is not a believer. Consider using what you wrote for your Storycraft and the Spiritual Practice for this conversation._</Question>
 
 <!-- draft-save-test -->
-<!-- draft-fail-test -->
