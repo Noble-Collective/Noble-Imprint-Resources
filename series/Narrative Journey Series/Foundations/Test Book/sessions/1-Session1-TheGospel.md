@@ -1,6 +1,6 @@
 # Session 1: FOR TESTING DO NOT EDIT 
 
-## Session OverviewsX
+## Session Overviews
 
 ### Confessional Statement
 
