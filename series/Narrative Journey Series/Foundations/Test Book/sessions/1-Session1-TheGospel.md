@@ -1,8 +1,8 @@
 # Session 1: FOR TESTING DO NOT EDIT MANUALLY
 
-## Session OverviewsX
+## Session Overviews
 
-### ConfessionalCHANGED Statement
+### Confessional Statement
 
 >Disciples of Christ:
 >**earnestly receive God's salvation by repentingtest from sin and pledging their faith in Christ,**
