@@ -44,7 +44,7 @@ Study the Text: _Read the biblical passage. Answer the following questions to fa
 
 <Question id=TheCallSes2-Hearing-Q4>4. How did the people respond to Peter’s test? How many responded in this way? **Acts 2:41**</Question>
 
-### Storycraft: In Your Own Words
+### Storycraft101010: In Your Own Words
 
 <Question id=TheCallSes2-Storycraft>Retell this story in your own words. Try to tell the story in a way that is _accurate_ (true to the Bible), _natural_ (words that common people would use), and _reproducible_ (memorable for someone listening to repeat it on their own). After crafting this story, retell it in your family, your church community, or to some other person God has placed in your life.</Question>
 
