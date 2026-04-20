@@ -1,4 +1,4 @@
-# Session 2: The Water
+# Session : The Water
 
 ## Session Overview
 
