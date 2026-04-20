@@ -1,6 +1,6 @@
 # Session 2: The Water
 
-## Session Overviewayes
+## Session Overview
 
 ### Confessional Statement
 
