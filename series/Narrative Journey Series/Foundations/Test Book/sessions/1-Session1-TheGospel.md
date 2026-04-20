@@ -1,4 +1,4 @@
-# Session 1: FOR TESTING DO NOT EDIT POLLTEST 
+# Session 1: FOR TESTING DO NOT EDIT MANUALLY 
 
 ## Session 
 
