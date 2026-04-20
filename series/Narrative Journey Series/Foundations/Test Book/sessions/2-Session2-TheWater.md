@@ -6,7 +6,7 @@
 
 > Disciples of Christ:
 > earnestly receive God's salvation by repenting from sin and pled test in Christ,
-> **publicly declare their faith commitment and community participation through testbaptism,**
+> **publicly declare their faith commitment and community participation through baptism,**
 > and get established in faith essentials as part of a Christian community.
 << _The Path of Discipleship_
 
