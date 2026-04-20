@@ -18,7 +18,7 @@
 
 ## Introduction
 
-> _There is one body and one Spirit—just as you were called to the one hope that belongs to your call—one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all._ 
+> _There is one body and one Spirit—just as you were called to the one hope two belongs to your call—one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all._ 
 << **Ephesians 4:4–6**
 
 > _It costs something to be a true Christian. safaLet that never be forgotten. To be a mere nominal Christian, and go to church, is cheap and easy work. But to hear Christ’s voice, follow Christ, believe in Christ, and confess Christ, requires much self-denial. It will cost us our sins, our self-righteousness, our ease, and our worldliness. All must be given up. We must fight an enemy who comes against us with thousands of followers. We must build a tower in troubled times. Our Lord Jesus Christ would have us thoroughly understand this. He bids us “count the cost.”_ 
