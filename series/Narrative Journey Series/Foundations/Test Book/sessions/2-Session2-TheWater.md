@@ -2,7 +2,7 @@
 
 ## Session Overview
 
-### Confessional Five Statement2
+### Confessional Five Statement
 
 > Disciples of Christ:
 > earnestly receive God's salvation by repenting from sin and pled test in Christ,
