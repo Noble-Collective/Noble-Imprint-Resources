@@ -1368,7 +1368,7 @@ Early let us seek Thy favor, Early let us do Thy will; Blessed Lord and only Sav
 
 Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth before Ephraim, Benjamin, and Manasseh. Rally Your mighty power and come to save us. Restore us, O God, and cause Your face to shine upon us, that we may be saved.
 
-<< Pslam 80:1–3
+<< Psalm 80:1–3
 
 ##### Responsive Call
 
