@@ -2067,7 +2067,7 @@ Heavenly Lord, we have tasted and we have seen that you are good. We have experi
 
 **Deuteronomy 6:6–9** 
 
-These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.  Tie them as reminders on your hands and bind them on your foreheads.  Write them on the doorposts of your houses and on your gates.
+These words I am commanding you today are to be upon your hearts. And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up. Tie them as reminders on your hands and bind them on your foreheads.  Write them on the doorposts of your houses and on your gates.
 
 **Deuteronomy 11:18–21**
 
