@@ -743,7 +743,7 @@ Every good and perfect gift is from above, coming down from the Father of the he
 
 ##### Imagining Life the Other Way
 
-*Use the imaginative question to consider life outside of God's care. Let this excercise stir gratitude and praise in your heart.*
+*Use the imaginative question to consider life outside of God's care. Let this exercise stir gratitude and praise in your heart.*
 
 <Question id="Home-ParOnePre-SesOne-Ses1WeeDis-SpiPra-ImaLifOthWay-1">- Without God's tender care, this is where my life would be...</Question>
 
