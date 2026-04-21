@@ -12,7 +12,7 @@ In **Part One** of this rite of passage, you will study selected psalms that giv
 
 << 1 Samuel 1:27–28
 
-> Parents, consider the condition of your children; and the loud cry of their condition unto you, to endeavour their salvation! .... Know you not, that your children have precious and immortal souls within them? The are not all flesh. You That are the parents of their flesh, must know, that your children have spirits also ... Are you solicitous that their bodies may be fed? You should be more solicitous that their souls may not be starved, or go without the Bread of Life. Are you solicitous that their bodies may be cloath'd: you should be more solicitous, that their souls may not be naked, or go without the garments of righteousness.
+> Parents, consider the condition of your children; and the loud cry of their condition unto you, to endeavour their salvation! .... Know you not, that your children have precious and immortal souls within them? They are not all flesh. You That are the parents of their flesh, must know, that your children have spirits also ... Are you solicitous that their bodies may be fed? You should be more solicitous that their souls may not be starved, or go without the Bread of Life. Are you solicitous that their bodies may be cloath'd: you should be more solicitous, that their souls may not be naked, or go without the garments of righteousness.
 
 << Cotton Mather, *A Family Well-Ordered*
 
