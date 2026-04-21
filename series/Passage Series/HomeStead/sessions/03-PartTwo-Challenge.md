@@ -662,7 +662,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 ###### Searching the Text
 
 <Question id="Home-ParTwoCha-ComBui-MenSesOne-ProRev-DisQue-SeaTex-1">1. What areas of your projects do you feel most confident? What areas need help and refinement?</Question>
-<Question id="Home-ParTwoCha-ComBui-MenSesOne-ProRev-DisQue-SeaTex-2">2. What feedback did you mentor give you on your projects? How will you revise your projects to make them better?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesOne-ProRev-DisQue-SeaTex-2">2. What feedback did your mentor give you on your projects? How will you revise your projects to make them better?</Question>
 
 ##### Reflections or Observations
 
