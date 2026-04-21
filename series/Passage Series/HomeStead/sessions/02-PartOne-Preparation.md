@@ -1289,7 +1289,7 @@ Mom and Dad, I am grateful for your faithfulness to the Lord in raising us as ch
 
 <Question id="Home-ParOnePre-SesTwo-Ses2RefPro-ParPro-DisSpo-1">- **Reflecting on Your Past**: What traditions did you have growing? How did these traditions shape you? How was your upbringing different than your spouse?</Question>
 
-<Question id="Home-ParOnePre-SesTwo-Ses2RefPro-ParPro-DisSpo-2">- **Discussing Core Values**: How will you tradition your children in the words and works of God? How will your traditions be Godcentered and faith-building and not just human-centered and nostalgic?</Question>
+<Question id="Home-ParOnePre-SesTwo-Ses2RefPro-ParPro-DisSpo-2">- **Discussing Core Values**: How will you tradition your children in the words and works of God? How will your traditions be God-centered and faith-building and not just human-centered and nostalgic?</Question>
 
 <Question id="Home-ParOnePre-SesTwo-Ses2RefPro-ParPro-DisSpo-3">- **Anticipating the Future**: What are some of your greatest concerns about viewing yourself as a steward of the truth? What excites you about this work? How can you better prepare yourself fo the work?</Question>
 
