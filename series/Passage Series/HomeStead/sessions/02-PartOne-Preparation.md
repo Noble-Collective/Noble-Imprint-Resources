@@ -2546,7 +2546,7 @@ So know in your heart that just as a man disciplines his son, so the Lord your G
 
 **2 Samuel 7:11–15**
 
-The Lord declares to you that He Himself will establish a house for you.And when your days are fulfilled and you rest with your fathers, I will raise up your descendant after you, who will come from your own body, and I will establish his kingdom. He will build a house for My Name, and I will establish the throne of his kingdom forever. I will be his Father, and he will be My son. When he does wrong, I will discipline him with the rod of men and with the blows of the sons of men. But My loving devotion will never be removed from him as I removed it from Saul, whom I moved out of your way.
+The Lord declares to you that He Himself will establish a house for you. And when your days are fulfilled and you rest with your fathers, I will raise up your descendant after you, who will come from your own body, and I will establish his kingdom. He will build a house for My Name, and I will establish the throne of his kingdom forever. I will be his Father, and he will be My son. When he does wrong, I will discipline him with the rod of men and with the blows of the sons of men. But My loving devotion will never be removed from him as I removed it from Saul, whom I moved out of your way.
 
 **Job 5:17**
 
