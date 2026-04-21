@@ -44,8 +44,8 @@ These daily devotionals serve as guides during your family camp experience. Each
 
 *Reflect on the meaning of the biblical text you read above. Use the following prompts to guide your thinking. Record your thoughts in the space below.*
 
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-ConTex-1">1. What does this passage tell children to do? What does this text tell fathers do to?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-ConTex-2">2. Why is it important for children and parents to relate to each other in this way.</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-ConTex-1">1. What does this passage tell children to do? What does this text tell fathers to do?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-ConTex-2">2. Why is it important for children and parents to relate to each other in this way?</Question>
 <Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-ConTex-3">3. How well are we following these commands in our family? How do we need to grow?</Question>
 
 ##### Praying the Text
@@ -54,7 +54,7 @@ These daily devotionals serve as guides during your family camp experience. Each
 
 Example: "God, help me to 'honor your father and mother'"
 
-Example: "God, help me to raise my children 'in the discipline and instruction of the Lord.'"
+Example: "God, help me to raise my children in the discipline and instruction of the Lord.'"
 
 ##### Walking with God
 
@@ -327,7 +327,7 @@ I will praise God's name in song and exalt Him with thanksgiving.
 
 ##### Looking Ahead in Hope
 
-*Anticipate what tomorrow will be like and could be like. Think about how you want to live differently this next day. Consider how you want to keep in step with the Spirit more attentively. Identify specific commitments that you want to embrace. Name what you are most hopeful about for the next day. Prayerfully read the following passage and record your anticipations below.*
+*Anticipate what tomorrow will be like and could be like. Think about how you want to live this next day differently. Consider how you want to keep in step with the Spirit more attentively. Identify specific commitments that you want to embrace. Name what you are most hopeful about for the next day. Prayerfully read the following passage and record your anticipations below.*
 
 Rest in God alone, O my soul, for my hope comes from Him.
 
@@ -385,7 +385,7 @@ This section of the rite of passage will help reflect on your duty as a godly pa
 
 << Cotton Mather, *A Family Well-Ordered*
 
-The house represents the family—its present life, past lineage, and future legacy. Christian parenting involves establishing home according to God's design. Order in a home fosters peace, harmony, stability, and maturity. In a well-ordered home, we cultivate a context in which our children—and our guests—can grow in the gospel and in God's grace. The physical activity of setting up camp will help you reflect on the spiritual duty of ordering your home.
+The house represents the family—its present life, past lineage, and future legacy. Christian parenting involves establishing a home according to God's design. Order in a home fosters peace, harmony, stability, and maturity. In a well-ordered home, we cultivate a context in which our children—and our guests—can grow in the gospel and in God's grace. The physical activity of setting up camp will help you reflect on the spiritual duty of ordering your home.
 
 ##### Implementation: Fulfilling Our Family Duty
 
