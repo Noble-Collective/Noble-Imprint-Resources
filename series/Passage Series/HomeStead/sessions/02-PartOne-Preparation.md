@@ -1222,7 +1222,7 @@ But as for you, continue in the things you have learned and firmly believed, sin
 
 *After several minutes of silence, offer this prayer to God. Pray with open hands facing upwards to symbolize you stand before God in complete openness.*
 
-> Almighty God, you know my end from my beginning. In your sovereignty, you placed me in my family of origins. By your grace, I am now having a family of my own. I recognize that my parents were not perfect. But I also acknowledge that I was not blameless either. Help me to accept my upbrining with gratitude, thankful for the ways you preserved me. Assist me to order my own family according to your will, humbly seeking to honor you in all things. In this journey of parenting, thanks be to you that you are my loving heavenly Father and the church is my faith family. Form and shape our family as you see fit. I submit myself and surrender my family to you. Amen!
+> Almighty God, you know my end from my beginning. In your sovereignty, you placed me in my family of origins. By your grace, I am now having a family of my own. I recognize that my parents were not perfect. But I also acknowledge that I was not blameless either. Help me to accept my upbringing with gratitude, thankful for the ways you preserved me. Assist me to order my own family according to your will, humbly seeking to honor you in all things. In this journey of parenting, thanks be to you that you are my loving heavenly Father and the church is my faith family. Form and shape our family as you see fit. I submit myself and surrender my family to you. Amen!
 
 ##### Family Picture
 
