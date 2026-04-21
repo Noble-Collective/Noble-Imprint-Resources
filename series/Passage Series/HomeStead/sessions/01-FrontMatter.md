@@ -34,7 +34,7 @@ Noble Imprint
 
 *HomeStead: A Rite of Passage into Christian Hearth and Home*
 
-Series: Passage: Crossing Thresholds in the Sojourn of Life © 2026 by Matthew R. Lynskey and Bryan D. Platania, with a Creative Commons AttributionShareAlike license (CC BY-SA), version 4.0.
+Series: Passage: Crossing Thresholds in the Sojourn of Life © 2026 by Matthew R. Lynskey and Bryan D. Platania, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
 
 Published by Noble Imprint (www.nobleimprint.com).
 
