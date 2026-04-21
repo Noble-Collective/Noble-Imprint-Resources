@@ -3208,7 +3208,7 @@ Think about the responsibilities God has given you as a disciple, spouse, and pa
 
 ##### Discuss with Your Spouse
 
-| • | Reflecting on Your Past: Did you family of upbringing have a clear |
+| • | Reflecting on Your Past: Did your family of upbringing have a clear |
 |---|--------------------------------------------------------------------|
 |   | vision and mission? What were the driving purposes for your family |
 |   | of upbringing? Looking back, what did you appreciate and not       |
