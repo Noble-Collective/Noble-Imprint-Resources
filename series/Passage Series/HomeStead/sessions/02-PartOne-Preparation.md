@@ -958,7 +958,7 @@ Parenting takes place in the midst of the generations. We are recipients of the 
 
 ###### Seeking the Truth
 
-<Question id="Home-ParOnePre-SesTwo-Ses2ComStu-ExpBibTex-DisQue-SeeTru-1">1. **Stewards of Truth**: Why is it important for Christian parents to view themselves as stewards of the truth? How is parenting a matter passing the faith to the next generations?</Question>
+<Question id="Home-ParOnePre-SesTwo-Ses2ComStu-ExpBibTex-DisQue-SeeTru-1">1. **Stewards of Truth**: Why is it important for Christian parents to view themselves as stewards of the truth? How is parenting a matter of passing the faith to the next generations?</Question>
 <Question id="Home-ParOnePre-SesTwo-Ses2ComStu-ExpBibTex-DisQue-SeeTru-2">2. **Generations**: How should we think about previous and future generations? What biblical principles in this text will help make our parenting intentionally intergenerational?</Question>
 <Question id="Home-ParOnePre-SesTwo-Ses2ComStu-ExpBibTex-DisQue-SeeTru-3">3. **Community**: What is the role of the community in faith formation? How should the church and the family work together in passing the faith to the next generation?</Question>
 <Question id="Home-ParOnePre-SesTwo-Ses2ComStu-ExpBibTex-DisQue-SeeTru-4">4. **Devotion to God**: How can we tell when the faith has been passed on the to next generation? What should be the overarching goal parents have for their children?</Question>
