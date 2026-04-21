@@ -4,7 +4,7 @@ Series Titles
 
 Passage: Crossing Thresholds in the Sojourn of Life
 
-- *HomeStead: A Rite of Passage into Christian Hearth and Home*
+- *HomeStead: A Rite of Passage ina life that is earneest to Christian Hearth and Home*
 - *BaseCamp: A Rite of Passage into Christian Responsibility and Accountability*
 - *Venture: A Rite of Passage into Christian Risk and Valor*
 - *Summit: A Rite of Passage into Christian Identity and Self-Understanding*
