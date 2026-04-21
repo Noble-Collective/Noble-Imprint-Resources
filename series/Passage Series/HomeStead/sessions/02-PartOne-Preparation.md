@@ -1504,7 +1504,7 @@ Godly parenting is grounded upon God's promises. Faithful parent-shepherds orien
 
 ###### Conclusion
 
-Godly parents follow God's example as a faithful and loving shepherd. But godly parents first recognize that their shepherding capacity to give care to their children is directly dependent upon them accepting God's shepherding care in their own lives. We can only give to others what we first receive from God. As faith-filled sheep we faithfully shepherd our children. In this way, God's shepherding example becomes a most helpful and holy paradigm for parenting. In our work of provision, our vocation of leading, our duty of protection, and our ministry of presence, may be emulate the strong and kind shepherding care we have experienced from God in our our own lives.
+Godly parents follow God's example as a faithful and loving shepherd. But godly parents first recognize that their shepherding capacity to give care to their children is directly dependent upon them accepting God's shepherding care in their own lives. We can only give to others what we first receive from God. As faith-filled sheep we faithfully shepherd our children. In this way, God's shepherding example becomes a most helpful and holy paradigm for parenting. In our work of provision, our vocation of leading, our duty of protection, and our ministry of presence, may be emulate the strong and kind shepherding care we have experienced from God in our own lives.
 
 ##### Session Summary
 
