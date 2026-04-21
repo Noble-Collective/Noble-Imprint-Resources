@@ -2966,7 +2966,7 @@ God's wisdom in the psalms is rich and rewarding. It not only offers us a bluepr
 
 ##### Corporate Prayer
 
-Gracious God, left to ourselves, we will fail at this great and noble work of parenting. We need your wisdom to guide us in the way of truth. We need your presence and power to enable us daily for this most important work. We need your grace to cover our sin, weakness, and insecurity. Make our family fit and faithful for your work. Establish our home in the service of your will. Fill our home with with favor and blessing. Make us fruitful and multiply the gospel through our children. Shape our children into sharpened arrows, ready to be launched into the world. Nurture our children like olive shoots, sincere in godly faith and bountiful in gospel fruit. What is built in our hearth and home, use as instruments for your eternal purpose. Help us Lord, we pray! Amen.
+Gracious God, left to ourselves, we will fail at this great and noble work of parenting. We need your wisdom to guide us in the way of truth. We need your presence and power to enable us daily for this most important work. We need your grace to cover our sin, weakness, and insecurity. Make our family fit and faithful for your work. Establish our home in the service of your will. Fill our home with favor and blessing. Make us fruitful and multiply the gospel through our children. Shape our children into sharpened arrows, ready to be launched into the world. Nurture our children like olive shoots, sincere in godly faith and bountiful in gospel fruit. What is built in our hearth and home, use as instruments for your eternal purpose. Help us Lord, we pray! Amen.
 
 ##### Next Steps
 
