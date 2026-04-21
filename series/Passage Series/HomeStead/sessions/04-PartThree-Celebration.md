@@ -16,7 +16,7 @@ In **Part Three** of this rite of passage, you will share your learning with you
 
 << Alexander Maclaren, *Expositions of Holy Scripture*
 
-God wants us to bear witness to his workings in our lives. As we grow in our faith, our transformed life (deed) and our verbal testimony (word) attest to God's gracious work in our lives. At this time, you will write a testimony of your experience through this rite of passage. Reflect on the community study and outdoor experiences. Remember where you were at the beginning of this process and how far God has brought you. Use your reflections in this study to write a personal testimony that you will share before your church community, bearing witness to God's gracious dealings with you and your earnest desire parent your children as a sacred and noble calling before the Lord and before the church.
+God wants us to bear witness to his workings in our lives. As we grow in our faith, our transformed life (deed) and our verbal testimony (word) attest to God's gracious work in our lives. At this time, you will write a testimony of your experience through this rite of passage. Reflect on the community study and outdoor experiences. Remember where you were at the beginning of this process and how far God has brought you. Use your reflections in this study to write a personal testimony that you will share before your church community, bearing witness to God's gracious dealings with you and your earnest desire to parent your children as a sacred and noble calling before the Lord and before the church.
 
 ### Personal Testimony
 
