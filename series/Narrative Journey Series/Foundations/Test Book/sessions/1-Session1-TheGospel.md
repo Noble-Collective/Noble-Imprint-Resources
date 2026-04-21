@@ -56,7 +56,7 @@ Explore the Text: _Discuss the following questions as a community. For help answ
 
 <Question id=TheCallSes1-TheoDialogue-Q2>2. **Gospel Message**: What are the core elements of the gospel? What is the message that Peter preached to the crowd? **Acts 2:22–36**</Question>
 
-<Question id=TheCallSes1-TheoDialogue-Q3>3. **Divine Rescue**: How does this message announce the good news of God bringing salvation to sinful people? How does Jesus rescue and restore people from sin? **Acts 2:22–36**</Question>
+<Question id=TheCallSes1-TheoDialogue-Q3>3. **Divine-edit Rescue**: How does this message announce the good news of God bringing salvation to sinful people? How does Jesus rescue and restore people from sin? **Acts 2:22–36**</Question>
 
 ### Commentary
 
