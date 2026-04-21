@@ -36,7 +36,7 @@ Jesus is calling people to follow him. Being a follower of Christ is to believe 
 
 ## Biblical Interpretation: Hearing the Word
 
-Study the Text: _Read the biblical passage. Answer the following questions to familiarize yourself with the scriptural narrative. Then in the Storycraft section, retell this story in your own words in a way that is accurate, natural, and reproducible._
+Study the Text: _Read the biblical passage. Answer-edit the following questions to familiarize yourself with the scriptural narrative. Then in the Storycraft section, retell this story in your own words in a way that is accurate, natural, and reproducible._
 
 <Question id=TheCallSes1-Hearing-Q1>1. What happened when the Holy Spirit came upon the Christians at the beginning of this story? **Acts 2:1–13**: </Question>
 
