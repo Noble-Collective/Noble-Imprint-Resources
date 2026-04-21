@@ -89,7 +89,7 @@ Example: "God, help me to raise my children 'in the discipline and instruction o
 
 > O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.
 
-<< Psalm 62:1
+<< Psalm 63:1
 
 ##### Committing to Memory
 
