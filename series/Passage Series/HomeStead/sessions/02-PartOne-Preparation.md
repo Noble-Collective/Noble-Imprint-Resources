@@ -640,7 +640,7 @@ And He said to me, 'Solomon your son is the one who will build My house and My c
 
 A father of the fatherless, and a defender of the widows, is God in His holy habitation. God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land.
 
-**Isaiah 43:15–16**
+**Isaiah 49:15–16**
 
 Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you! Behold, I have inscribed you on the palms of My hands; your walls are ever before Me.
 
