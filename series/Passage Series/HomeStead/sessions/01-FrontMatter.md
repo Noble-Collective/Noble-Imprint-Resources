@@ -4,7 +4,7 @@ Series Titles
 
 Passage: Crossing Thresholds in the Sojourn of Life
 
-- *HomeStead: A Rite of Passage ina life that is earneest to Christian Hearth and Home*
+- *HomeStead: A Rite of Passage into Christian Hearth and Home*
 - *BaseCamp: A Rite of Passage into Christian Responsibility and Accountability*
 - *Venture: A Rite of Passage into Christian Risk and Valor*
 - *Summit: A Rite of Passage into Christian Identity and Self-Understanding*
@@ -38,7 +38,7 @@ Series: Passage: Crossing Thresholds in the Sojourn of Life © 2026 by Matthew R
 
 Published by Noble Imprint (www.nobleimprint.com).
 
-This book is published under a CC BY-SA license, which means Spirit-empowered life that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
 
 Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
 
