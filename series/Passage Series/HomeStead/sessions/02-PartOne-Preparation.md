@@ -280,7 +280,7 @@ In the first part of this rite of passage, you will study six key roles of paren
 | Session 2                                                                                                                                                                                                | Between the Ages: Nurturing Faith in the Next Generation<br>• Key Idea: As stewards, we will pass on the faith of our fathers.<br>• Biblical Exploration: Psalm 78:1–72                       |  |  |  |
 | Session 3                                                                                                                                                                                                | Over the Flock: Tending to Our Children Like Shepherds<br>• Key Idea: As shepherds, we will lead our children as God<br>shepherds us.<br>• Biblical Exploration: Psalm 23:1–6                 |  |  |  |
 | In the Fear of God: Instructing Children in Godliness<br>• Key Idea: As teachers, we will instruct our household in the fear<br>Session 4<br>of the Lord.<br>• Biblical Exploration: Psalm 34:1–22 |                                                                                                                                                                                                     |  |  |  |
-| Session 5                                                                                                                                                                                                | Under God's Protection: Godly Discipline and Divine Protection<br>• Key Idea: As protectors, we will entrust our family to the God's<br>safekeeping.<br>• Biblical Exploration: Psalm 94:1–23 |  |  |  |
+| Session 5                                                                                                                                                                                                | Under God's Protection: Godly Discipline and Divine Protection<br>• Key Idea: As protectors, we will entrust our family to God's<br>safekeeping.<br>• Biblical Exploration: Psalm 94:1–23 |  |  |  |
 | Session 6                                                                                                                                                                                                | For the World: Leaving a Legacy in Society<br>• Key Idea: As overseers, we build Christian hearth and home as a<br>heritage from the Lord.<br>• Biblical Exploration: Psalm 127:1–5; 128:1–6  |  |  |  |
 | Conclusion                                                                                                                                                                                               | In the Service of the Lord: Consecrating Our Homes to God<br>• Key Idea: As for me and my house, we will serve the Lord.                                                                         |  |  |  |
 
@@ -349,7 +349,7 @@ As priests, we will nurture our children in God's fatherly care.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. **As priests, we will nurture our children in God's fatherly care.** As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to the God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
+By God's grace and through faith in Christ, our home belongs to the Lord. **As priests, we will nurture our children in God's fatherly care.** As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
 
 ##### Corporate Song
 
@@ -850,7 +850,7 @@ As stewards, we will pass on the faith of our fathers.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. **As stewards, we will pass on the faith of our fathers.** As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to the God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. **As stewards, we will pass on the faith of our fathers.** As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
 
 ##### Corporate Song
 
@@ -1342,7 +1342,7 @@ As shepherds, we will lead our children as God shepherds us.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. **As shepherds, we will lead our children as God shepherds us.** As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to the God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. **As shepherds, we will lead our children as God shepherds us.** As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
 
 ##### Corporate Song
 
@@ -1807,7 +1807,7 @@ As teachers, we will instruct our household in the fear of the Lord.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. **As teachers, we will instruct our household in the fear of the Lord.** As protectors, we will entrust our family to the God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. **As teachers, we will instruct our household in the fear of the Lord.** As protectors, we will entrust our family to God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
 
 ##### Corporate Song
 
@@ -2287,7 +2287,7 @@ The world is a threatening place. Dangers abound. Enemies lurk. Opposition schem
 
 ##### Key Idea
 
-As protectors, we will entrust our family to the God's safekeeping.
+As protectors, we will entrust our family to God's safekeeping.
 
 ### Session 5 Community Study
 
@@ -2297,7 +2297,7 @@ As protectors, we will entrust our family to the God's safekeeping.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. **As protectors, we will entrust our family to the God's safekeeping.** As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. **As protectors, we will entrust our family to God's safekeeping.** As overseers, we will build Christian hearth and home as a heritage from the Lord. As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
 
 ##### Corporate Song
 
@@ -2778,7 +2778,7 @@ As overseers, we will build Christian hearth and home as a heritage from the Lor
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to the God's safekeeping. **As overseers, we will build Christian hearth and home as a heritage from the Lord.** As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. **As overseers, we will build Christian hearth and home as a heritage from the Lord.** As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!
 
 ##### Corporate Song
 
@@ -3282,7 +3282,7 @@ As for me and my house, we will serve the Lord.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to the God's safekeeping. As watchmen, we will build Christian hearth and home as a heritage from the Lord. **As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!**
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. As watchmen, we will build Christian hearth and home as a heritage from the Lord. **As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!**
 
 ##### Corporate Song
 
