@@ -196,7 +196,7 @@ God, have mercy on me, a sinner!
 
 > But as for me, it is good to draw near to God. I have made the Lord God my refuge, that I may proclaim all Your works.
 
-<< Psalm 76:28
+<< Psalm 73:28
 
 ##### Reading the Text
 
