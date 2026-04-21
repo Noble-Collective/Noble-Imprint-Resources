@@ -741,7 +741,7 @@ Every good and perfect gift is from above, coming down from the Father of the he
 
 << Psalm 146:1–10
 
-##### Imaginging Life the Other Way
+##### Imagining Life the Other Way
 
 *Use the imaginative question to consider life outside of God's care. Let this excercise stir gratitude and praise in your heart.*
 
