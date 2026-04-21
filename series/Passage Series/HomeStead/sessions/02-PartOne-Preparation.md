@@ -2668,7 +2668,7 @@ Those I love, I rebuke and discipline. Therefore be earnest and repent.
 
 ##### Meditating on God's Tender Care
 
-*Take 10 minutes to sit out in the sun, reflecting on the dangers, difficulties, and threats that you and your familiy face. Then, take 10 minutes under the shade to reflect on how God is your protection and refuge.*
+*Take 10 minutes to sit out in the sun, reflecting on the dangers, difficulties, and threats that you and your family face. Then, take 10 minutes under the shade to reflect on how God is your protection and refuge.*
 
 <Question id="Home-ParOnePre-SesFiv-Ses5WeeDis-SpiPra-MedGodTenCar-1">- These are dangers and threats that we face...</Question>
 <Question id="Home-ParOnePre-SesFiv-Ses5WeeDis-SpiPra-MedGodTenCar-2">- This is how God is our protection and refuge...</Question>
