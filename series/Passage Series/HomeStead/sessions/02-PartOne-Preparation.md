@@ -1831,7 +1831,7 @@ What though the sorrows here they taste
 
 Are sharp and tedious too, The Lord, who saves them all at last, Is their supporter now.
 
-**Verse 2**
+**Verse 5**
 Evil shall smite the wicked dead; But God secures His own, Prevents the mischief when they slide, Or heals the broken bone.
 
 **Verse 6**
