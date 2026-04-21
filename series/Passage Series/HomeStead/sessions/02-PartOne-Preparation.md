@@ -158,7 +158,7 @@ required by the Law of the Lord, they returned to Galilee, to their own town of 
 ###### Searching the Text
 
 <Question id="Home-ParOnePre-Int-IntComStu-ExpBibTex-DisQue-SeaTex-1">1. **Family Devotion**: How dedicated were Jesus' parents to God? What did Mary and Joseph do that showed their devotion to God?</Question>
-<Question id="Home-ParOnePre-Int-IntComStu-ExpBibTex-DisQue-SeaTex-2">2. **Faith Community**: What do we learn about the the covenant community in the temple during the time of Jesus' dedication? What role can (and should) the community have in our parenting work?</Question>
+<Question id="Home-ParOnePre-Int-IntComStu-ExpBibTex-DisQue-SeaTex-2">2. **Faith Community**: What do we learn about the covenant community in the temple during the time of Jesus' dedication? What role can (and should) the community have in our parenting work?</Question>
 <Question id="Home-ParOnePre-Int-IntComStu-ExpBibTex-DisQue-SeaTex-3">3. **God's Promises**: How does this narrative highlight the importance of God's promises being fulfilled in Christ? What does it look like to have a family that is established on God's promises? What role should the gospel have in our parenting?</Question>
 <Question id="Home-ParOnePre-Int-IntComStu-ExpBibTex-DisQue-SeaTex-4">4. **Spiritual Growth**: How did Jesus grow and mature over the course of time? How can this provide an inspiring vision for our own children to grow in faith?</Question>
 
