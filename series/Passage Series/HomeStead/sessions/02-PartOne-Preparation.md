@@ -2103,7 +2103,7 @@ My son, pay attention to my words; incline your ear to my sayings. 21 Do not los
 
 **Proverbs 7:1–3**
 
-My son, keep my words and treasure my commandments within you. 2 Keep my commandments and live; guard my teachings as the apple b of your eye. 3 Tie them to your fingers; write them on the tablet of your heart.
+My son, keep my words and treasure my commandments within you. 2 Keep my commandments and live; guard my teachings as the apple of your eye. 3 Tie them to your fingers; write them on the tablet of your heart.
 
 **Proverbs 20:7**
 
