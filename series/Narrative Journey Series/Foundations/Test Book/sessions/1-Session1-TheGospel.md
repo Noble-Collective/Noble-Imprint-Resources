@@ -2,7 +2,7 @@
 
 ## Session 
 
-### ConfessionalCHANGED Statement
+### Confessional Statement
 
 >Disciples of Christ:
 >**earnestly receive God's salvation by repentingtest from sin and pledging their faith in Christ,**
