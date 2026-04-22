@@ -2091,7 +2091,7 @@ My son, do not forget my teaching, but let your heart keep my commandments; for 
 
 **Proverbs 4:1–5**
 
-Listen, my sons, to a father's instruction; pay attention and gain understanding. For I give you sound teaching; do not abandon my directive. When I was a son to my father, tender and the only child of my mother, 4 he taught me and said, "Let your heart lay hold of my words; keep my commands and you will live. Get wisdom, get understanding; do not forget my words or turn from them.
+Listen, my sons, to a father's instruction; pay attention and gain understanding. For I give you sound teaching; do not abandon my directive. When I was a son to my father, tender and the only child of my mother, he taught me and said, "Let your heart lay hold of my words; keep my commands and you will live. Get wisdom, get understanding; do not forget my words or turn from them.
 
 **Proverbs 4:20–22**
 
