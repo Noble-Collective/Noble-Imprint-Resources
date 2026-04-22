@@ -1,6 +1,6 @@
 # PART ONE: Preparation
 
-In **Part One** of this rite of passage, you will study selected psalms that give you a *theological vision for parenting*. Specifically, you will study these psalms to help you understand the core principles to a life devoted to God. These foundations will give you a solid base from which to understand the noble duty of parenting. The foundation of this study will be based upon six sessions that engage biblical teaching, cultivate community devotion, encourage personal reflection, and facilitate spiritual disciplines. As you explore these core sessions, you will discover six crucial areas of building Christian hearth and home: *worship*, *intergenerationality*, *shepherding care*, *character development*, *discipline*, and *mission*. These sessions will explore various parental duties: cultivating devotion to our heavenly Father, passing the faith tradition across generations, caring as shepherds of a family flock, moral formation in the fear of God, parental protection in godly discipline, and raising children for world impact. The introductory session helps you (and those in your support community) get oriented to this process. The concluding session provides a time for reflective review as well as preparing you for the next major part of the rite of passage.
+In **Part One** of this rite of passage, you will study selected psalms that give you a _theological vision for parenting_. Specifically, you will study these psalms to help you understand the core principles to a life devoted to God. These foundations will give you a solid base from which to understand the noble duty of parenting. The foundation of this study will be based upon six sessions that engage biblical teaching, cultivate community devotion, encourage personal reflection, and facilitate spiritual disciplines. As you explore these core sessions, you will discover six crucial areas of building Christian hearth and home: *worship*, *intergenerationality*, *shepherding care*, *character development*, *discipline*, and *mission*. These sessions will explore various parental duties: cultivating devotion to our heavenly Father, passing the faith tradition across generations, caring as shepherds of a family flock, moral formation in the fear of God, parental protection in godly discipline, and raising children for world impact. The introductory session helps you (and those in your support community) get oriented to this process. The concluding session provides a time for reflective review as well as preparing you for the next major part of the rite of passage.
 
 ## Introduction
 
@@ -2952,7 +2952,7 @@ God's wisdom in the psalms is rich and rewarding. It not only offers us a bluepr
 
 #### Charting the Path Ahead
 
-*Reflect on the session and envision next steps. Record key takeaways from the lesson. Conclude your time by praying as small groups and a whole community. Review next steps.*
+_Reflect on the session and envision next steps. Record key takeaways from the lesson. Conclude your time by praying as small groups and a whole community. Review next steps._
 
 ##### Final Review
 
