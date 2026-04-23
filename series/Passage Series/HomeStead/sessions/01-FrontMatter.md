@@ -13,7 +13,7 @@ Passage: Crossing Thresholds in the Sojourn of Life
 - *Sunset: A Rite of Passage into Christian Retirement and Legacy*
 
 HomeStead:
-A Rite of Passage into Christian Hearth and Home test
+A Rite of Passage into Christian Hearth and Home test 1
 
 **Matthew R. Lynskey**
 **Bryan D. Platania**
