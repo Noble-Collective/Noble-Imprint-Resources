@@ -703,7 +703,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ###### Searching the Text
 
-<Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeaTex-1">1. **Past Reflection**: How much did you family worship God together? What spiritual disciplines did you do as a family when you were growing up? Was your home a place of love and care?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeaTex-1">1. **Past Reflection**: How much did your family worship God together? What spiritual disciplines did you do as a family when you were growing up? Was your home a place of love and care?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeaTex-2">2. **Current Evaluation**: Would you describe your home as a place of where love and worship are prevalent? Is your family life focused on devotion to God? What spiritual habits do you practice as a family? (i.e., prayer, Scripture reading, song, fasting, etc.)?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeaTex-3">3. **Future Vision**: What would be your vision for becoming a family that worships God? How can you make steps now to lead your family in this way?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeaTex-4">4. **Personal Assessment**: How is your personal relationship with the Lord? Are you having difficulty in experiencing God's care as a loving father? How can you personally grow in worship to God?</Question>
