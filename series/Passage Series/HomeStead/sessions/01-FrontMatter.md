@@ -12,14 +12,12 @@ Passage: Crossing Thresholds in the Sojourn of Life
 - *Covenant: A Rite of Passage into Christian Family and Fidelity*
 - *Sunset: A Rite of Passage into Christian Retirement and Legacy*
 
-HomeStead:
-A Rite of Passage into Christian Hearth and Home
+HomeStead: A Rite of Passage into Christian Hearth and Home
 
 **Matthew R. Lynskey**
 **Bryan D. Platania**
 
-HomeStead:
-A Rite of Passage into Christian Hearth and Home
+HomeStead: A Rite of Passage into Christian Hearth and Home
 
 *Passage: Crossing Thresholds in the Sojourn of Life*
 
