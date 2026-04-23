@@ -682,7 +682,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 <Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-1">1. What are your greatest fears about parenting? What gets you most excited?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-2">2. What are your biggest burdens in parenting? What gives you the most joy?</Question>
-<Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-3">3. What are the biggest challenges? What are some of your greatest wins/success?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-3">3. What are the biggest challenges? What are some of your greatest wins/successes?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-4">4. What are biggest weaknesses? What are some ways you are seeing God's strength work through your weaknesses?</Question>
 
 ##### Reflections or Observations
