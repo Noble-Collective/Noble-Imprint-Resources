@@ -19,7 +19,7 @@ A Rite of Passage into Christian Hearth and Home
 **Bryan D. Platania**
 
 HomeStead:
-A Rite of Passage into Christian Hearth and Home TEST 4
+A Rite of Passage into Christian Hearth and Home
 
 *Passage: Crossing Thresholds in the Sojourn of Life*
 
