@@ -1,4 +1,4 @@
-# Session 1: FOR TESTING DO NOT EDIT  
+# Session 1: FOR ACCEPT_SYNC_TEST DO NOT EDIT  
 
 ## Session 
 
