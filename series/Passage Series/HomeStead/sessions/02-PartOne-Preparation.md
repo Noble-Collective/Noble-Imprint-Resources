@@ -3150,7 +3150,7 @@ And every house is built by someone, but God is the builder of everything.
 
 *Entrust yourself to the Lord's care, offering him praise and honor as your caretaker, provider, and deliverer.*
 
-> O Lord, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens. From the mouths of children and infants You have ordained praise e on account of Your adversaries, to silence the enemy and avenger.
+> O Lord, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens. From the mouths of children and infants You have ordained praise on account of Your adversaries, to silence the enemy and avenger.
 
 << Psalm 8:1–2
 
