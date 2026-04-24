@@ -27,7 +27,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 - Milton, John. *Milton's Tractate on Education*. Cambridge University Press, 1890.
 - Phillips, Samuel. *The Christian Home*. G. and F. Bill, 1860.
 - Poythress, Vern S. "How I Helped My Boys to Become Christian Men." The Works of John Frame and Vern Poythress, 1999.
-- Ryle, J. C. *How Should a Child Be Trained?* Mennonite Publishing House, 1844. 2024-01.
+- Ryle, J. C. *How Should a Child Be Trained?* Mennonite Publishing House, 1844.
 - Spring, Gardiner. *Hints to Parents: A Sermon on the Religious Education of Children*. Jonathan Leavitt, 1833.
 - Spurgeon, Charles. *Come, Ye Children: A Sermon Addressed to Sunday School*. Alabaster and Passmore, 1856.
 
