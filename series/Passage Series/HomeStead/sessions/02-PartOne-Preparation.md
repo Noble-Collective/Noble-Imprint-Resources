@@ -294,7 +294,7 @@ The challenge phase of this rite of passage is a *family camp experience*. Durin
 
 ###### Part Three: Celebration
 
-The third part of this rite of passage concludes with a time of celebration. In this final movement in your entrance to the parenting, each parent will give a personal testimony of God's work in their life over the course of this process. This will also be a time for each parent (and family unit) to express their commitment to build Christian hearth and home for the Lord. The time ends with a ceremony in which the church community surrounds the parents and families with encouragement. The basic overview of this final phase is summarized below.
+The third part of this rite of passage concludes with a time of celebration. In this final movement in your entrance to parenting, each parent will give a personal testimony of God's work in their life over the course of this process. This will also be a time for each parent (and family unit) to express their commitment to build Christian hearth and home for the Lord. The time ends with a ceremony in which the church community surrounds the parents and families with encouragement. The basic overview of this final phase is summarized below.
 
 | Part 3: Celebration     |                                                                                 |  |
 |-------------------------|---------------------------------------------------------------------------------|--|
