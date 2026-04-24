@@ -2188,7 +2188,7 @@ Children, obey your parents in the Lord, for this is right. "Honor your father a
 
 << Psalm 115:9–13
 
-##### Imaginging the Change
+##### Imagining the Change
 
 *Consider how your life would change if you no longer were controlled by your fears.*
 
