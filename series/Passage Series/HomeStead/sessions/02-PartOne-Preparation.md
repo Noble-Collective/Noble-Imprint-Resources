@@ -1615,7 +1615,7 @@ I am the good shepherd. The good shepherd lays down His life for the sheep. The 
 
 **1 Peter 5:1–4**
 
-As a fellow elder, a witness of Christ's sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you: Be shepherds of God's flock that is among you, watching over theme not out of compulsion, but because it is God's will; not out of greed, but out of eagerness; not lording it over those entrusted to you, but being examples to the flock. And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.
+As a fellow elder, a witness of Christ's sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you: Be shepherds of God's flock that is among you, watching over them not out of compulsion, but because it is God's will; not out of greed, but out of eagerness; not lording it over those entrusted to you, but being examples to the flock. And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.
 
 **Acts 20:28–29**
 
