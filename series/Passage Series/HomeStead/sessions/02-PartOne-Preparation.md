@@ -2081,7 +2081,7 @@ My son, if you accept my words and hide my commandments within you, if you incli
 
 **Proverbs 3:1–4**
 
-My son, do not forget my teaching, but let your heart keep my commandments; for they will add length to your days, years and peace to your life. Never let loving devotion a or faithfulness leave you; bind them around your neck, write them on the tablet of your heart. Then you will find favor and high regard in the sight of God and man
+My son, do not forget my teaching, but let your heart keep my commandments; for they will add length to your days, years and peace to your life. Never let loving devotion or faithfulness leave you; bind them around your neck, write them on the tablet of your heart. Then you will find favor and high regard in the sight of God and man
 
 **Proverbs 4:1–5**
 
