@@ -1854,7 +1854,7 @@ Teach me Your way, O Lord, that I may walk in Your truth. Give me an undivided h
 
 **All**: The fear of the Lord is a fountain of life, turning a man from the snares of death.
 
-Proverbs 8:13; Psalm 111:10; Psalm 33:8; Proverbs 14:27
+<< Proverbs 8:13; Psalm 111:10; Psalm 33:8; Proverbs 14:27
 
 ##### Opening Prayer
 
