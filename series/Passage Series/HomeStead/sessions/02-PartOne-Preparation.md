@@ -1698,7 +1698,7 @@ When they had finished eating, Jesus asked Simon Peter, "Simon son of John, do y
 
 << Psalm 147:1–6
 
-##### Imaginging the Investment
+##### Imagining the Investment
 
 *Consider what it will take to care for your family as shepherd. Reflect on what it will take to cultivate a family culture defined by godly values.*
 
