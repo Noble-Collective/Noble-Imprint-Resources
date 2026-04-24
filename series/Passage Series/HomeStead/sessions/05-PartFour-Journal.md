@@ -111,7 +111,7 @@ I have you fast in my fortress, And will not let you depart, But put you down in
 
 And there will I keep you forever, Yes, forever and a day, Till the walls shall crumble to ruin, And moulder in dust away!
 
-Henry Wadsworth Longfellow
+<< Henry Wadsworth Longfellow
 
 ##### The Familie
 
@@ -129,7 +129,7 @@ Joyes oft are there, and griefs as oft as joyes; But griefs without a noise: Yet
 
 This is thy house, with these it doth abound: And where these are not found, Perhaps thou com'st sometimes, and for a day; But not to make a constant stay.
 
-George Herbert
+<< George Herbert
 
 ##### Blest Is the Home Where Jesus Is
 
@@ -143,7 +143,7 @@ On all our homes let favor rest; Let love and virtue there abound; May true obed
 
 May all the homes on earth, dear Lord, Fountains of blessing prove to be,— Copies of that blest home above, Where ransomed souls Thy glory see.
 
-Joseph A. Seiss
+<< Joseph A. Seiss
 
 ##### My Mother's Prayer
 
@@ -157,25 +157,25 @@ Though years have gone, I can't forget Those words of love—I hear them yet; I 
 
 I never can forget the hour I felt the Savior's cleansing power; My sin and guilt He canceled there, 'Twas there He answered mother's prayer. Oh, praise the Lord for saving grace! We'll meet up yonder face to face, The home above together share, In answer to my mother's prayer. Amen.
 
-Judson W. Van De Venter
+<< Judson W. Van De Venter
 
 ##### Tell Them They Live Every Moment on God
 
 We should describe him [God] as not only the greatest, but the best of beings. We should teach them to know him by the most encouraging name of the Lord, the Lord God, merciful and gracious, long-suffering, and abundant in goodness and truth, keeping mercy for thousands, and forgiving iniquity, transgression and sin. We should represent him as the universal, kind, indulgent parent, who loves his creatures, and by all proper methods provides for their happiness. And we should particularly represent his goodness to them, with what more than parental tenderness he watched round their cradles; with what compassion he heard their feeble cries, before their infant thoughts could form themselves into prayer: We should tell them that they live every moment on God; and that all our affection for them is no more than he puts into our hearts; and all our power to help them is no more than he lodges in our hands. We should also solemnly remind them that in a very little while their spirits are to return to this God; that as he is now always with them and knows every thing they do, or speak, or think, so he will bring every work into judgment, and make them forever happy or miserable, as they on the whole are found obedient or rebellious. And here the most lively and pathetic descriptions, which the scriptures give us of Heaven and of Hell, should be laid before them, and urged on their consideration.
 
-Philip Doddridge, *Sermons on the Religious Education of Children*
+<< Philip Doddridge, *Sermons on the Religious Education of Children*
 
 ##### The Stream Not Rise Higher Than the Fountain
 
 The example of a father is acknowledged to be all-important. The stream must not be expected to rise higher than the fountain. The Christian householder will feel himself constrained to say: I am leading my family in solemn addresses to God; what manner of man should I be! how wise, holy, and exemplary! This undoubtedly has been, in cases innumerable, the direct operation of Family-Worship on the father. As we know that worldly men, and inconsistent professors, are deterred from performing this duty by the consciousness of a discrepance between their life and any acts of devotion, so humble Christians are led by the same comparison to be more circumspect, and to order their ways in such a manner as may edify their dependants. There cannot be too many motives to a holy life, nor too many safeguards to parental example. Establish the worship of God in any house, and you erect around it a new barrier against the irruption of the world, the flesh, and the devil.
 
-James W. Alexander, *Thoughts on Family-Worship*
+<< James W. Alexander, *Thoughts on Family-Worship*
 
 ##### Introduced to a World
 
 Very young children … require to be taught not so much anything as everything. Babies need not to be taught a trade, but to be introduced to a world. To put the matter shortly, woman is generally shut up in a house with a human being at the time when he asks all the questions that there are, and some that there aren't. It would be odd if she retained any of the narrowness of a specialist. Now if anyone says that this duty of general enlightenment (even when freed from modern rules and hours, and exercised more spontaneously by a more protected person) is in itself too exacting and oppressive, I can understand the view. I can only answer that our race has thought it worth while to cast this burden on women in order to keep common-sense in the world. But when people begin to talk about this domestic duty as not merely difficult but trivial and dreary, I simply give up the question. For I cannot with the utmost energy of imagination conceive what they mean. When domesticity, for instance, is called drudgery, all the difficulty arises from a double meaning in the word. If drudgery only means dreadfully hard work, I admit the woman drudges in the home, as a man might drudge at the Cathedral of Amiens or drudge behind a gun at Trafalgar. But if it means that the hard work is more heavy because it is trifling, colorless and of small import to the soul, then as I say, I give it up; I do not know what the words mean. To be Queen Elizabeth within a definite area, deciding sales, banquets, labors and holidays; to be Whiteley within a certain area, providing toys, boots, sheets, cakes, and books, to be Aristotle within a certain area, teaching morals, manners, theology, and hygiene; I can understand how this might exhaust the mind, but I cannot imagine how it could narrow it. How can it be a large career to tell other people's children about the Rule of Three, and a small career to tell one's own children about the universe? How can it be broad to be the same thing to everyone, and narrow to be everything to someone? No; a woman's function—is laborious, but because it is gigantic, not because it is minute. I will pity Mrs. Jones for the hugeness of her task; I will never pity her for its smallness.
 
-G. K. Chesterton, *What's Wrong with the World*
+<< G. K. Chesterton, *What's Wrong with the World*
 
 ##### Act Not the Tyrant
 
