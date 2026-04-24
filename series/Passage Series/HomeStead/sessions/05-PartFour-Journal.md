@@ -24,7 +24,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 - Chrysostom, John. "An Address on Vainglory and the Right Way for Parents to Bring up Their Children." In *Christianity and Pagan Culture in the Later Roman Empire; Together with an English Translation of John Chrysostom's Address on Vainglory and the Right Way for Parents to Bring up Their Children*, translated by M. L. W. Laistner. Cornell University Press, 1967.
 - Luther, Martin. *Luther on Education in the Christian Home and School*. Edited by P. E. Kretzmann. The Lutheran Literary Board, 1940.
 - Mather, Cotton. *A Family Well-Ordered*. B. Green and J. Allen, 1699.
-- Milton, John. *Milton's Tractate on Education*. Cambridge University Press, 1890. 2024-01.
+- Milton, John. *Milton's Tractate on Education*. Cambridge University Press, 1890.
 - Phillips, Samuel. *The Christian Home*. G. and F. Bill, 1860.
 - Poythress, Vern S. "How I Helped My Boys to Become Christian Men." The Works of John Frame and Vern Poythress, 1999.
 - Ryle, J. C. *How Should a Child Be Trained?* Mennonite Publishing House, 1844. 2024-01.
