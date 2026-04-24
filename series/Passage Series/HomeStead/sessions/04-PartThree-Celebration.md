@@ -83,7 +83,7 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 << William Wordsworth, "My Heart Leaps Up"
 
-This final moment of this rite of passage is a celebration ceremony for all that you completed over the course of the previous weeks and months. This is a time to give glory to God, encourage the church, and mark your transition into another phase of life and maturity. Use the following space to design the order of this ceremony.
+ final moment of this rite of passage is a celebration ceremony for all that you completed over the course of the previous weeks and months. This is a time to give glory to God, encourage the church, and mark your transition into another phase of life and maturity. Use the following space to design the order of this ceremony.
 
 ### Celebration Ceremony
 
