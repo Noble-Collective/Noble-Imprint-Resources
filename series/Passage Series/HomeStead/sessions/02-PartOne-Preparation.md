@@ -2295,7 +2295,7 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ##### Corporate Song
 
-###### A Might Fortress Is Our God
+###### A Mighty Fortress Is Our God
 
 **Verse 1**
 A mighty fortress is our God, A bulwark never failing; Our helper he, amid the flood Of mortal ills prevailing. For still our ancient foe Does seek to work us woe; His craft and power are great, And armed with cruel hate, On earth is not his equal.
