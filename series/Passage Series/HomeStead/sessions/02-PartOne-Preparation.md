@@ -1591,7 +1591,7 @@ He chose David His servant and took him from the sheepfolds; from tending the ew
 
 Behold, the Lord God comes with might, and His arm establishes His rule. His reward is with Him, and His recompense accompanies Him. He tends His flock like a shepherd; He gathers the lambs in His arms and carries them close to His heart. He gently leads the nursing ewes.
 
-**Jeremiah 3:15**
+**Jeremiah 3:14–15**
 
 "Return, O faithless children," declares the Lord, "for I am your master, and I will take you—one from a city and two from a family—and bring you to Zion.Then I will give you shepherds after My own heart, who will feed you with knowledge and understanding."
 
