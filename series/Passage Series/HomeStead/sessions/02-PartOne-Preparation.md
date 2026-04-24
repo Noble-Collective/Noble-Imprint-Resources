@@ -1236,7 +1236,7 @@ But as for you, continue in the things you have learned and firmly believed, sin
 
 *Come to God with humility and complete dependence. Ask him to cover the sins of the past and instruct you in the ways of his will for the future.*
 
-> Blessed is he whose transgressions are forgiven, whose sins are covered. Blessed is the man whose iniquity the Lord does not count against him, in whose spirit there is no deceit. When I kept silent, my bones became brittle from my groaning all day long. For day and night Your hand was heavy upon me; my strength was drained d as in the summer heat. Selah Then I acknowledged my sin to You and did not hide my iniquity. I said, "I will confess my transgressions to the Lord," and You forgave the guilt of my sin.
+> Blessed is he whose transgressions are forgiven, whose sins are covered. Blessed is the man whose iniquity the Lord does not count against him, in whose spirit there is no deceit. When I kept silent, my bones became brittle from my groaning all day long. For day and night Your hand was heavy upon me; my strength was drained as in the summer heat. Selah Then I acknowledged my sin to You and did not hide my iniquity. I said, "I will confess my transgressions to the Lord," and You forgave the guilt of my sin.
 
 << Psalm 32:1–5
 
