@@ -466,7 +466,7 @@ The foundation of all parenting is our relationship with the Lord. Few things li
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-1">1. **Family Worship**: Did you grow up in a family that worshiped God together? How will you make worship central to the life and culture of your home?</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-2">2. **Fatherly Love**: What wrong perspectives of God as Father need to be corrected in your own life? How do you need to experience God's fatherly love to better serve your family and children?</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-3">3. **Fatherly Care**: How would you want to grow in your care for your children, making it more like God?</Question>
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-4">4. **Covenant Relationship**: How will you cultivate your walk with God as Father as the source and foundation of all your parenting? How will your mark your home as a family under God's covenant care?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-4">4. **Covenant Relationship**: How will you cultivate your walk with God as Father as the source and foundation of all your parenting? How will you mark your home as a family under God's covenant care?</Question>
 
 ##### Nurturing Family Life in God's Fatherly Love
 
