@@ -101,5 +101,5 @@ In **Part Four** of this rite of passage, you are given blank space for your per
 
 ![The angelus](millet_the_angelus)
 
-<< Millet, Jean-François. *The angelus*. 1859 1857. Oil on canvas, 55.5 cm × 66 cm. Musée d'Orsay.
+<< Millet, Jean-François. *The Angelus*. 1857–1859. Oil on canvas, 55.5 cm × 66 cm. Musée d'Orsay.
 
