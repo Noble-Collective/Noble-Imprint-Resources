@@ -40,7 +40,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 | Day One |                                  |  |  |  |
 |---------|----------------------------------|--|--|--|
 | 3:00 pm | Arrival and Setup                |  |  |  |
-| 6:00 am | Family Dinner                    |  |  |  |
+| 6:00 pm | Family Dinner                    |  |  |  |
 | 7:00 pm | Community Fellowship and Singing |  |  |  |
 | 8:00 pm | Evening Family Devotions         |  |  |  |
 | 9:00 pm | Bedtime                          |  |  |  |
