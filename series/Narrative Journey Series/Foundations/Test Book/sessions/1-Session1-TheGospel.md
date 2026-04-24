@@ -50,7 +50,7 @@ Study the Text: _Read the biblical passage. Answer-edit the following questions 
 
 ## Theological Dialogue: Discussing the Plot
 
-Explore the Text: _Discuss the following questions as a community. For help answering these questions, read the Commentary on the following pages to uncoverEDIT core principles this passage teaches about the Christian faith._
+Explore the Text: _Discuss the following questions as a community. For help answering these questions, read the Commentary on the following pages to uncoverEDITEDIT core principles this passage teaches about the Christian faith._
 
 <Question id=TheCallSes1-TheoDialogue-Q1>1. **Fulfilled Promises**: What was so important about this time in human history? What kinds of things was God fulfilling? **Acts 2:1–21**</Question>
 
