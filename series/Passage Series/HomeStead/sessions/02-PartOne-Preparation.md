@@ -3140,7 +3140,7 @@ And every house is built by someone, but God is the builder of everything.
 
 << Psalm 148:1–4
 
-##### Imaginging Your Blessing
+##### Imagining Your Blessing
 
 *Use the imaginative question to consider life outside of God's care. Let this excercise stir gratitude and praise in your heart.*
 
