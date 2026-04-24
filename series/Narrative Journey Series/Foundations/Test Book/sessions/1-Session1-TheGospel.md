@@ -5,14 +5,14 @@
 ### Confessional Statement
 
 >Disciples of Christ:
->**earnestly receive God's salvation by repentingtest from sin and pledging their faith in Christ,**
+>**earnestly receive God's salvation by repenting from sin and pledging their faith in Christ,**
 >publicly declare their faith commitment and community participation through baptism,
 >and get established in faith essentials as part of a Christian community.
 << _The Part of Discipleship_
 
 ### Key Elements
 
-- **Key Passage**: Acts 2:1–36test22
+- **Key Passage**: Acts 2:1–36
 - **Scripture Memory**: For I delivered to you as of first importance  I also received: that Christ died for our sins in  with the Scriptures, that he was buried, that he was raised on the third day in accordance with the tt. **1 Corinthians 15:3–4**
 - **Catechism Question**: Q: What does Jesus call us to believe? A: The Gospel 22of Jesus Christ.
 
@@ -100,7 +100,7 @@ _Biblical Principles._ <Callout>In a gracious and humbling act, God’s eternal 
 
 #### Jesus’ Crucifixion
 
-_Biblical Narrative (Acts 2:23, 36)._ Jesus’ ministry climaxedXX in crucifixion on a cross. Although Jesus was innocent and sinless, he was “crucified and killed by the hands of lawless men” (2:23). It was not only those who crucified Jesus who were guilty (2:36). All humans are sinful, and the guilt of sinful humanity—sinful people from all generations and places—was responsible for Jesus’ death on the cross. Although it may seem like his death was a tragic end to a powerful ministry, Jesus’ death on the cross was an integral-edit part of God’s plan to save sinful humans. Jesus was “delivered up according to the definite plan and foreknowledge of God” (2:23). God punished his Son, Jesus, on the cross as a means to remove human guilt: Jesus was punished for human sin so that all who believe in Jesus can have their sins forgiven and escape divine punishment.
+_Biblical Narrative (Acts 2:23, 36)._ Jesus’ ministry climaxed in crucifixion on a cross. Although Jesus was innocent and sinless, he was “crucified and killed by the hands of lawless men” (2:23). It was not only those who crucified Jesus who were guilty (2:36). All humans are sinful, and the guilt of sinful humanity—sinful people from all generations and places—was responsible for Jesus’ death on the cross. Although it may seem like his death was a tragic end to a powerful ministry, Jesus’ death on the cross was an integral-edit part of God’s plan to save sinful humans. Jesus was “delivered up according to the definite plan and foreknowledge of God” (2:23). God punished his Son, Jesus, on the cross as a means to remove human guilt: Jesus was punished for human sin so that all who believe in Jesus can have their sins forgiven and escape divine punishment.
 
 _Biblical Principles._ <Callout>The good news of the gospel centers upon Jesus’ crucifixion on the cross.</Callout> This selfless and sacrificial act involved Jesus voluntarily offering his life as a sacrifice for sin. The innocent, sinless, and perfect Jesus was killed on a cross by guilty, sinful, and lawless humanity (2:23, 36). Importantly, Peter is calling the very people responsible for the death of Jesus to receive forgiveness of their sins by placing their faith in Jesus (cf. 2:37–41). In the greatest act of love and mercy ever performed, Jesus was punished for human sin (although he was without sin) so that human sinners who believe in him would not be punished. What may seem like tragic news—the promised Messiah brutally and unjustly killed on a cross—is actually the greatest news ever told. In this act of sacrifice and substitution, Jesus accomplished God’s plan to save sinful humanity.
 
