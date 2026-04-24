@@ -552,7 +552,7 @@ Christian homebuilding sets the table for close bonds of relationship and fellow
 
 *Read the following before you perform this outdoor activity.*
 
-> Then the lookout a shouted: "Day after day, my lord, I stand on the watchtower; night after night I stay at my post."
+> Then the lookout shouted: "Day after day, my lord, I stand on the watchtower; night after night I stay at my post."
 
 << Isaiah 21:8
 
