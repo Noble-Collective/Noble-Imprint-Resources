@@ -1758,7 +1758,7 @@ Consider how parenting is shepherding work. Write a job description for parentin
 
 <Question id="Home-ParOnePre-SesThr-Ses3RefPro-ParPro-DisSpo-2">- **Discussing Core Values**: What values do you want to define your home? How would you want someone to describe the culture of your home from the inside and the outside?</Question>
 
-<Question id="Home-ParOnePre-SesThr-Ses3RefPro-ParPro-DisSpo-3">- **Anticipating the Future**: What are some of your greatest concerns about viewing yourself as a shepherd of your family? What excites you about this work? How can you better prepare yourself fo the work?</Question>
+<Question id="Home-ParOnePre-SesThr-Ses3RefPro-ParPro-DisSpo-3">- **Anticipating the Future**: What are some of your greatest concerns about viewing yourself as a shepherd of your family? What excites you about this work? How can you better prepare yourself for the work?</Question>
 
 ##### Project Explanation
 
