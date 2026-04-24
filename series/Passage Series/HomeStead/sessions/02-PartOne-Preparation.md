@@ -1605,9 +1605,7 @@ Woe to the shepherds of Israel, who only feed themselves! Should not the shepher
 
 **Ezekiel 34:11–16**
 
-For this is what the Lord God says: 'Behold, I Myself will search for My flock and seek them out. As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness. I will bring them out from the peoples,
-
-> gather them from the countries, and bring them into their own land. I will feed them on the mountains of Israel, in the ravines, and in all the settlements of the land. I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel. I will tend My flock and make them lie down, declares the Lord God. I will seek the lost, bring back the strays, bind up the broken, and strengthen the weak; but the sleek and strong I will destroy. I will shepherd them with justice.'
+For this is what the Lord God says: 'Behold, I Myself will search for My flock and seek them out. As a shepherd looks for his scattered sheep when he is among the flock, so I will look for My flock. I will rescue them from all the places to which they were scattered on a day of clouds and darkness. I will bring them out from the peoples, gather them from the countries, and bring them into their own land. I will feed them on the mountains of Israel, in the ravines, and in all the settlements of the land. I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel. I will tend My flock and make them lie down, declares the Lord God. I will seek the lost, bring back the strays, bind up the broken, and strengthen the weak; but the sleek and strong I will destroy. I will shepherd them with justice.'
 
 **John 10:11–15**
 
@@ -2069,7 +2067,7 @@ Fix these words of mine in your hearts and minds; tie them as reminders on your 
 
 **Deuteronomy 31:12–13**
 
-Assemble the people—men, women, children, and the foreigners within your gates so that they may listen and learn to fear the Lord your God and to follow carefully all the words of this law. 13 Then their children who do not know the law will listen and learn to fear the Lord your God, as long as you live in the land that you are crossing the Jordan to possess.
+Assemble the people—men, women, children, and the foreigners within your gates so that they may listen and learn to fear the Lord your God and to follow carefully all the words of this law. Then their children who do not know the law will listen and learn to fear the Lord your God, as long as you live in the land that you are crossing the Jordan to possess.
 
 **Proverbs 1:8–9**
 
@@ -2089,15 +2087,15 @@ Listen, my sons, to a father's instruction; pay attention and gain understanding
 
 **Proverbs 4:20–22**
 
-My son, pay attention to my words; incline your ear to my sayings. 21 Do not lose sight of them; keep them within your heart. 22 For they are life to those who find them, and health to the whole body.
+My son, pay attention to my words; incline your ear to my sayings. Do not lose sight of them; keep them within your heart. For they are life to those who find them, and health to the whole body.
 
 **Proverbs 6:20–23**
 
-20 My son, keep your father's commandment, and do not forsake your mother's teaching. 21 Bind them always upon your heart; tie them around your neck. 22 When you walk, they will guide you; when you lie down, they will watch over you; when you awake, they will speak to you. 23 For this commandment is a lamp, this teaching is a light, and the reproofs of discipline are the way to life,
+My son, keep your father's commandment, and do not forsake your mother's teaching. Bind them always upon your heart; tie them around your neck. When you walk, they will guide you; when you lie down, they will watch over you; when you awake, they will speak to you. For this commandment is a lamp, this teaching is a light, and the reproofs of discipline are the way to life,
 
 **Proverbs 7:1–3**
 
-My son, keep my words and treasure my commandments within you. 2 Keep my commandments and live; guard my teachings as the apple of your eye. 3 Tie them to your fingers; write them on the tablet of your heart.
+My son, keep my words and treasure my commandments within you. Keep my commandments and live; guard my teachings as the apple of your eye. Tie them to your fingers; write them on the tablet of your heart.
 
 **Proverbs 20:7**
 
@@ -2105,7 +2103,7 @@ The righteous man walks with integrity; blessed are his children after him.
 
 **Proverbs 23:22–25**
 
-22 Listen to your father who gave you life, and do not despise your mother when she is old. 23 Invest in truth and never sell it— in wisdom and instruction and understanding. 24 The father of a righteous man will greatly rejoice, and he who fathers a wise son will delight in him. 25 May your father and mother be glad, and may she who gave you birth rejoice!
+Listen to your father who gave you life, and do not despise your mother when she is old. Invest in truth and never sell it—in wisdom and instruction and understanding. The father of a righteous man will greatly rejoice, and he who fathers a wise son will delight in him. May your father and mother be glad, and may she who gave you birth rejoice!
 
 **Proverbs 28:7**
 
@@ -2117,7 +2115,7 @@ As for the eye that mocks a father and scorns obedience to a mother, may the rav
 
 **Isaiah 54:13–14**
 
-Then all your sons will be taught by the Lord, and great will be their prosperity. 14 In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you.
+Then all your sons will be taught by the Lord, and great will be their prosperity. In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you.
 
 **Ephesians 6:1–4**
 
@@ -2562,9 +2560,9 @@ For the Lord gives wisdom; from His mouth come knowledge and understanding. He s
 
 My son, do not reject the discipline of the Lord, and do not loathe His rebuke; for the Lord disciplines the one He loves, as does a father the son in whom he delights.
 
-<< Proverbs 4:5–6
+**Proverbs 4:5–6**
 
-> Get wisdom, get understanding; do not forget my words or turn from them. Do not forsake wisdom, and she will preserve you; love her, and she will guard you.
+Get wisdom, get understanding; do not forget my words or turn from them. Do not forsake wisdom, and she will preserve you; love her, and she will guard you.
 
 **Proverbs 12:1**
 
@@ -3042,8 +3040,7 @@ But I am like an olive tree flourishing in the house of God; I trust in the lovi
 **Psalm 92:12–15**
 
 The righteous will flourish like a palm tree, and grow like a cedar in Lebanon. Planted
-
-> in the house of the Lord, they will flourish in the courts of our God. In old age they will still bear fruit; healthy and green they will remain, to proclaim, "The Lord is upright; He is my Rock, and in Him there is no unrighteousness."
+in the house of the Lord, they will flourish in the courts of our God. In old age they will still bear fruit; healthy and green they will remain, to proclaim, "The Lord is upright; He is my Rock, and in Him there is no unrighteousness."
 
 **Psalm 132:11**
 
