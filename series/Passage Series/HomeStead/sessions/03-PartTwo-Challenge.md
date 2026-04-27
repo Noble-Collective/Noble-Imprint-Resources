@@ -770,7 +770,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 <Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeaTex-1">1. **Past Reflection**: How were you disciplined when you grew up? Do you look back on this with positive or negative emotions?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeaTex-2">2. **Current Evaluation**: What discipline challenges are you facing in the home? What is God showing you about yourself through this parenting work? What is God showing you about himself?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeaTex-3">3. **Future Vision**: What are some of your greatest fears about the future? How can you now entrust your family to God's safekeeping?</Question>
-<Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeaTex-4">4. **Personal Assessment**: What is God revealing in your own life that needs to change? What discipline and instruction are you experiencing from the Lord</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeaTex-4">4. **Personal Assessment**: What is God revealing in your own life that needs to change? What discipline and instruction are you experiencing from the Lord?</Question>
 
 ###### Family Mission and Vision
 
