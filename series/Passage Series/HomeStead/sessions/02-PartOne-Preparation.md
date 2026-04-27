@@ -2302,7 +2302,7 @@ Did we in our own strength confide, our striving would be losing, were not the r
 **Verse 3**
 And though this world, with devils filled, Should threaten to undo us, We will not fear, for God has willed His truth to triumph through us. The prince of darkness grim, We tremble not for him; His rage we can endure, For lo! his doom is sure; One little word shall fell him.
 
-**Verse 5**
+**Verse 4**
 That Word above all earthly powers No thanks to them abideth; The Spirit and the gifts are ours Through him who with us sideth. Let goods and kindred go, This mortal life also; The body they may kill: God's truth abideth still; His kingdom is forever!
 
 ##### Scripture Reading
