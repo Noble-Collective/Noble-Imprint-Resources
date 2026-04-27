@@ -2223,7 +2223,7 @@ Children, obey your parents in the Lord, for this is right. "Honor your father a
 
 ##### Project Instructions
 
-Reflect on the sacred call of parenting as a vocation in faith formation. As you recall the biblical passage studied in this session, contemplate the responsibilities involved in this work. Write a series of resolutions (short statements of commitment and intent) that describe your aspiration to fulfill your parental calling. As you write your resolutions, incorporate the principles/teachings of the passage in your statements of commitment.
+Reflect on the sacred call of parenting as a vocation in faith formation. As you recall the biblical passage studied in this session, contemplate the responsibilities involved in this work. Write a series of resolutions (short statements of commitment and intent) that describe your aspiration to fulfill your parental calling. As you write your resolutions, incorporate the principles and teachings of the passage in your statements of commitment.
 
 ##### Example Resolutions
 
