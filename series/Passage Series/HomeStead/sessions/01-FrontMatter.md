@@ -74,7 +74,7 @@ sojourners and exiles
 
 << Numbers 33:1–2
 
-> Moses wrote their goings out—When they set out, God ordered him to keep a journal of all the remarkable occurrences in the way, that it might be a satisfaction to himself and an instruction to Others. It may be of use to Christians, to preserve an account of the providences of God concerning them, the constant series of mercies they have experienced, and especially those turns which have made some days of their lives more remarkable.
+> Moses wrote their goings out—When they set out, God ordered him to keep a journal of all the remarkable occurrences in the way, that it might be a satisfaction to himself and an instruction to others. It may be of use to Christians, to preserve an account of the providences of God concerning them, the constant series of mercies they have experienced, and especially those turns which have made some days of their lives more remarkable.
 
 << John Wesley, *Explanatory Notes upon the Old Testament*
 
