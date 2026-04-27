@@ -1981,7 +1981,7 @@ In this psalm, we learn about an important goal of parenting: character developm
 ##### Session Summary
 
 - The Christian home should be a place of continual worship.
-- Christians parents are the primary teachers of their children. The ultimate aim of their instruction should be to teach their children the fear of God.
+- Christian parents are the primary teachers of their children. The ultimate aim of their instruction should be to teach their children the fear of God.
 - The fear of God produces lasting change of godly character. Parents need to orient their parenting work towards character formation.
 - Godly parents prepare children to be righteous sufferers. Parenting work should help prepare children to face hardship, suffering, and persecution without abandoning their faith in God.
 
