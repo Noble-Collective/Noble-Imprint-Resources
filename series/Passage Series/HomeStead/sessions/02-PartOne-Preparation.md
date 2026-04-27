@@ -1002,7 +1002,7 @@ The life of faith is intrinsically intergenerational. So should parenting intent
 
 And no parenting plan would ever be complete, without a concerted effort to incorporate the faith community as a mainstay in their family life and faith formation efforts.
 
-He Established a Testimony:
+
 
 ###### Recentering the Role of the Faith Community
 
