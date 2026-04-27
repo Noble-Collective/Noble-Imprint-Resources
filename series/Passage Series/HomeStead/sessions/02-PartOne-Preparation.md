@@ -3029,7 +3029,7 @@ Now it was in the heart of my father David to build a house for the Name of the 
 
 **Psalm 33:16–19**
 
-No king is saved by his vast army; no warrior is delivered by his great strength. A horse is a vain hope for salvation; even its great strength cannot save. Surely the eyes of the Lord are on those who fear Him, on those whose hope is in His loving devotion 19 to deliver them from death and keep them alive in famine.
+No king is saved by his vast army; no warrior is delivered by his great strength. A horse is a vain hope for salvation; even its great strength cannot save. Surely the eyes of the Lord are on those who fear Him, on those whose hope is in His loving devotion to deliver them from death and keep them alive in famine.
 
 **Psalm 52:8–9**
 
