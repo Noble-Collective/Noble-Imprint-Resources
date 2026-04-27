@@ -715,7 +715,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 <Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeeTru-1">1. **Past Reflection**: What traditions shaped your family life? What do you appreciate about the way your parents raised you? What do you not appreciate about how you were raised?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeeTru-2">2. **Current Evaluation**: What influences are shaping your family and children now? How can you counteract the influence of the world by building a godly tradition in your home?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeeTru-3">3. **Future Vision**: What would you like to see three or four generations from now? What would you like your parenting legacy to be? How can you make next steps in this direction?</Question>
-<Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeeTru-4">4. **Personal Assessment**: How is your marriage? Are you on same page? How can you support and encourage each other in this season?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesThr-WorTra-DisQue-SeeTru-4">4. **Personal Assessment**: How is your marriage? Are you on the same page? How can you support and encourage each other in this season?</Question>
 
 ##### Reflections or Observations
 
