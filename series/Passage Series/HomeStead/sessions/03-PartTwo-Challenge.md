@@ -744,7 +744,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ###### Seeking the Truth
 
-<Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeeTru-1">1. **Past Reflection**: What role did you parents have in your formation (i.e., spiritual, intellectual, emotional, relational, etc.)? How balanced were all these spheres of development?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeeTru-1">1. **Past Reflection**: What role did your parents have in your formation (i.e., spiritual, intellectual, emotional, relational, etc.)? How balanced were all these spheres of development?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeeTru-2">2. **Current Evaluation**: What are some of our current goals for your children? How would you describe your plan to instruct your children in the fear of the Lord?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeeTru-3">3. **Future Vision**: What do you hope your children are like by the time they leave the house? How can you start building into that now?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeeTru-4">4. **Personal Assessment**: What gaps do you have in your own fear of the Lord and character? How will you grow in these areas of godly character?</Question>
