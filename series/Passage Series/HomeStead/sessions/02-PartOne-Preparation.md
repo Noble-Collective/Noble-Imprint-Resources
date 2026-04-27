@@ -3273,7 +3273,7 @@ As for me and my house, we will serve the Lord.
 
 ##### Community Confession
 
-By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. As watchmen, we will build Christian hearth and home as a heritage from the Lord. **As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!**
+By God's grace and through faith in Christ, our home belongs to the Lord. As priests, we will nurture our children in God's fatherly care. As stewards, we will pass on the faith of our fathers. As shepherds, we will lead our children as God shepherds us. As teachers, we will instruct our household in the fear of the Lord. As protectors, we will entrust our family to God's safekeeping. As overseers, we will build Christian hearth and home as a heritage from the Lord. **As for me and my house, we will serve the Lord. For God's glory, for our good, and for the sake of the world! Amen and amen!**
 
 ##### Corporate Song
 
