@@ -1916,7 +1916,7 @@ The parenting vocation is a teaching work. God appoints all parents to be primar
 
 <Question id="Home-ParOnePre-SesFou-Ses4ComStu-ExpBibTex-DisQue-SeeTru-1">1. **Worship**: Why is worship so important to the life of faith and to Christian homebuilding?</Question>
 
-<Question id="Home-ParOnePre-SesFou-Ses4ComStu-ExpBibTex-DisQue-SeeTru-2">2. **Fear of God**: What is the fear of God? Why should teaching children the fear of the Lord the ultimate aim of parenting?</Question>
+<Question id="Home-ParOnePre-SesFou-Ses4ComStu-ExpBibTex-DisQue-SeeTru-2">2. **Fear of God**: What is the fear of God? Why should teaching children the fear of the Lord be the ultimate aim of parenting?</Question>
 <Question id="Home-ParOnePre-SesFou-Ses4ComStu-ExpBibTex-DisQue-SeeTru-3">3. **Character Formation**: What does it look like to instruct children in moral formation? How can you parent toward character development and virtue formation?</Question>
 <Question id="Home-ParOnePre-SesFou-Ses4ComStu-ExpBibTex-DisQue-SeeTru-4">4. **Righteous Suffering**: What does it look like to parent preparing your children to remain faithful to God in the midst of suffering? How does that affect the way you parent your children now?</Question>
 
