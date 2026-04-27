@@ -776,7 +776,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ###### Seeking the Truth
 
-<Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeeTru-1">1. **Past Reflection**: In your upbringing, did you have a compelling mission for your family? What would you describe your family lived for?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeeTru-1">1. **Past Reflection**: In your upbringing, did you have a compelling mission for your family? What would you say your family lived for?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeeTru-2">2. **Current Evaluation**: What do you want to be the mission of your family? What do you want your children to become like? What current obstacles are there in your family life to realizing this mission?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeeTru-3">3. **Future Vision**: What do you want your children to say about your family when they have families of their own? How can you start building toward that now?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFiv-DisMis-DisQue-SeeTru-4">4. **Personal Assessment**: Are you focused on serving God's mission in the world? How can you better align your life with God's mission in the world?</Question>
