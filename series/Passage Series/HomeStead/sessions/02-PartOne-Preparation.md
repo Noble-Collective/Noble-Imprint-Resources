@@ -1002,9 +1002,7 @@ The life of faith is intrinsically intergenerational. So should parenting intent
 
 And no parenting plan would ever be complete, without a concerted effort to incorporate the faith community as a mainstay in their family life and faith formation efforts.
 
-
-
-###### Recentering the Role of the Faith Community
+###### He Established a Testimony: Recentering the Role of the Faith Community
 
 The transfer of truth to the next generation is a community venture. The appeal to faith formation in this psalm is clearly set within the covenant community—"give ear, O my people" (78:1). God established his revealed truth "in Jacob" and "in Israel" (78:5). Both of these phrases serve as references to the collective of God's people. Even the repeated household terms in this passage—fathers (78:3, 5, 8) and children (78:4–6)—depict the larger corporate body of God's people as a faith family investing in the homebuilding of each individual family unit. The household of faith has the building of healthy family units as one of its main tasks. Not only does the family play a vital role in intergenerational faith formation, but God's people function like a family, sharing in the work of passing the faith to the next generations.
 
