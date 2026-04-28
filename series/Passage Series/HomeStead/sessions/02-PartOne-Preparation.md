@@ -2671,7 +2671,7 @@ Those I love, I rebuke and discipline. Therefore be earnest and repent.
 
 << Psalm 121:1–8
 
-##### Imaginging Life the Other Way
+##### Imagining Life the Other Way
 
 *Draw a circle on the ground. Imagine this space as fully protected by the Lord. Stand in the space and imagine how life would be if you entrusted yourself to the Lord's safekeeping.*
 
