@@ -868,7 +868,7 @@ Thus shall they learn in God alone Their hope securely stands; That they may ne'
 
 ##### Scripture Reading
 
-He who has clean hands and a pure heart, who does not lift up his soul to an idol e or swear deceitfully. He will receive blessing from the Lord and vindication from the God of his salvation. Such is the generation of those who seek Him, who seek Your face, O God of Jacob.
+He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully. He will receive blessing from the Lord and vindication from the God of his salvation. Such is the generation of those who seek Him, who seek Your face, O God of Jacob.
 
 << Psalm 24:4–6
 
