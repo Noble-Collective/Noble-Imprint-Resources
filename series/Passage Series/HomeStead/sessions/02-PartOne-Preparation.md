@@ -2245,7 +2245,7 @@ Reflect on the sacred call of parenting as a vocation in faith formation. As you
 
 <Question id="Home-ParOnePre-SesFou-Ses4RefPro-ParPro-DisSpo-2">- **Discussing Core Values**: What is most important to you as you consider your educational goals for your children?</Question>
 
-<Question id="Home-ParOnePre-SesFou-Ses4RefPro-ParPro-DisSpo-3">- **Anticipating the Future**: What are some of your greatest concerns about viewing yourself as a teacher of your family? What excites you about this work? How can you better prepare yourself fo the work?</Question>
+<Question id="Home-ParOnePre-SesFou-Ses4RefPro-ParPro-DisSpo-3">- **Anticipating the Future**: What are some of your greatest concerns about viewing yourself as a teacher of your family? What excites you about this work? How can you better prepare yourself for the work?</Question>
 
 ##### Project Explanation
 
