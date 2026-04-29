@@ -1079,7 +1079,7 @@ Eternal God, you have been the dwelling place of your people for all generations
 
 **Key Passage**: Psalm 78:1–72
 
-**Parallel Passages:** Exodus 13:1–16; Deuteronomy 6:20–25; Joshua 24:1– 33; Psalm 105:1–43
+**Parallel Passages:** Exodus 13:1–16; Deuteronomy 6:20–25; Joshua 24:1–33; Psalm 105:1–43
 
 ##### Consider the Truth
 
