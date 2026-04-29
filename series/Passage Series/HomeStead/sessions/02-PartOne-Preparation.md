@@ -228,8 +228,8 @@ Jesus' dedication in the temple teaches us about parenting as much as it also re
 
 ##### Session Summary
 
-- Jesus's parents were fully devoted to the Lord and consecrated Jesus to God with wholehearted commitment and aligned their lives and family according to God's word.
-- The godliness of parents directly affects the godliness of the home. Godly parents make sure their individual walk with the Lord and their marriage is growing in Christlikeness.
+- Jesus's parents were fully devoted to the Lord and consecrated Jesus to God with wholehearted commitment, aligning their lives and family according to God's word.
+- The godliness of parents directly affects the godliness of the home. Godly parents make sure their personal walk with the Lord and their marriage are both growing in Christlikeness.
 - Godly families are rooted in Christian community because the community of God's people provides a rich context for spiritual growth through faith practices, godly examples, and corporate worship.
 - Christian families build their homes on God's promises, which are ultimately fulfilled in Christ. The good news of salvation in the gospel must serve as the foundation and focus of all parenting work.
 - Christian homebuilding fosters a context in which children can grow in godliness and faithfulness to the Lord. Parents should see Jesus as the example for holistic spiritual growth.
@@ -250,14 +250,14 @@ Jesus' dedication in the temple teaches us about parenting as much as it also re
 
 ##### Corporate Prayer
 
-Heavenly Father, thank you for sending your Son. He is the hope of the nations. He alone is the good news of salvation. He is the longed-for consolation for those suffering. He is the promise of enduring peace. He is the only comfort for the hurting. And he is the redemption of the world. Only he is the Savior of repentant sinners. May he be the foundation of our home, the vitality of our marriage, the focus of our family, and the source of eternal life for our children. Help us to embrace him like Simeon. Assist us in celebrating him like Anna. Give us your grace to build our family on Jesus, the Lord's Christ. We consecrate our children to you, dedicating these precious ones to Christ, the Promised One, dedicated in Jerusalem. May our children believe in Christ as Savior and Lord. May they grow in Christlikeness of character on a daily basis. Help us as parents to model this way of life. Help us, O God! Amen!
+Heavenly Father, thank you for sending your Son. He is the hope of the nations. He alone is the good news of salvation. He is the longed-for consolation for those suffering. He is the promise of enduring peace. He is the only comfort for the hurting. And he is the redemption of the world. Only he is the Savior of repentant sinners. May Christ be the foundation of our home, the vitality of our marriage, the focus of our family, and the source of eternal life for our children. Help us to embrace him like Simeon. Assist us in celebrating him like Anna. Give us your grace to build our family on Jesus, the Lord's Christ. We consecrate our children to you, dedicating these precious ones to Christ, the Promised One, dedicated in Jerusalem. May our children believe in Christ as Savior and Lord. May they grow in Christlikeness of character on a daily basis. Help us as parents to model this way of life. Help us, O God! Amen!
 
 ##### Next Steps
 
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Introduction Orientation and Overview
 
@@ -271,36 +271,37 @@ Heavenly Father, thank you for sending your Son. He is the hope of the nations. 
 
 In the first part of this rite of passage, you will study six key roles of parents: *priests*, *stewards*, *shepherds*, *teachers*, *protectors*, and *overseers*. Each of these sessions is divided into three sections: a community-based study around the topic, spiritual disciplines for the intervening week, and reflective projects to apply and implement parenting principles in your family life. The expanded content of these topics is listed below.
 
-| Part 1: Preparation                                                                                                                                                                                      |                                                                                                                                                                                                     |  |  |  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| Introduction                                                                                                                                                                                             | No Longer Two: Receiving Children as Gifts from God<br>• Key Idea: Our home belongs to the Lord.<br>Biblical Exploration: Luke 2:21–40<br>•                                                      |  |  |  |
-| Session 1                                                                                                                                                                                                | Under God's Fatherly Care: Building a Home Devoted to God<br>Key Idea: As priests, we will nurture our children in God's<br>• fatherly care.<br>• Biblical Exploration: Psalm 103:1–22        |  |  |  |
-| Session 2                                                                                                                                                                                                | Between the Ages: Nurturing Faith in the Next Generation<br>• Key Idea: As stewards, we will pass on the faith of our fathers.<br>• Biblical Exploration: Psalm 78:1–72                       |  |  |  |
-| Session 3                                                                                                                                                                                                | Over the Flock: Tending to Our Children Like Shepherds<br>• Key Idea: As shepherds, we will lead our children as God<br>shepherds us.<br>• Biblical Exploration: Psalm 23:1–6                 |  |  |  |
-| In the Fear of God: Instructing Children in Godliness<br>• Key Idea: As teachers, we will instruct our household in the fear<br>Session 4<br>of the Lord.<br>• Biblical Exploration: Psalm 34:1–22 |                                                                                                                                                                                                     |  |  |  |
-| Session 5                                                                                                                                                                                                | Under God's Protection: Godly Discipline and Divine Protection<br>• Key Idea: As protectors, we will entrust our family to God's<br>safekeeping.<br>• Biblical Exploration: Psalm 94:1–23 |  |  |  |
-| Session 6                                                                                                                                                                                                | For the World: Leaving a Legacy in Society<br>• Key Idea: As overseers, we build Christian hearth and home as a<br>heritage from the Lord.<br>• Biblical Exploration: Psalm 127:1–5; 128:1–6  |  |  |  |
-| Conclusion                                                                                                                                                                                               | In the Service of the Lord: Consecrating Our Homes to God<br>• Key Idea: As for me and my house, we will serve the Lord.                                                                         |  |  |  |
+| Part 1: Preparation |                                                                                                                                                                                           |     |     |     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+| Introduction        | No Longer Two: Receiving Children as Gifts from God<br>• Key Idea: Our home belongs to the Lord.<br>• Biblical Exploration: Luke 2:21–40                                                  |     |     |     |
+| Session 1           | Under God's Fatherly Care: Building a Home Devoted to God<br>• Key Idea: As priests, we will nurture our children in God's fatherly care.<br>• Biblical Exploration: Psalm 103:1–22       |     |     |     |
+| Session 2           | Between the Ages: Nurturing Faith in the Next Generation<br>• Key Idea: As stewards, we will pass on the faith of our fathers.<br>• Biblical Exploration: Psalm 78:1–72                   |     |     |     |
+| Session 3           | Over the Flock: Tending to Our Children Like Shepherds<br>• Key Idea: As shepherds, we will lead our children as God shepherds us.<br>• Biblical Exploration: Psalm 23:1–6                |     |     |     |
+| Session 4           | In the Fear of God: Instructing Children in Godliness<br>• Key Idea: As teachers, we will instruct our household in the fear of the Lord.<br>• Biblical Exploration: Psalm 34:1–22        |     |     |     |
+| Session 5           | Under God's Protection: Godly Discipline and Divine Protection<br>• Key Idea: As protectors, we will entrust our family to God's safekeeping.<br>• Biblical Exploration: Psalm 94:1–23    |     |     |     |
+| Session 6           | For the World: Leaving a Legacy in Society<br>• Key Idea: As overseers, we build Christian hearth and home as a heritage from the Lord.<br>• Biblical Exploration: Psalm 127:1–5; 128:1–6 |     |     |     |
+| Conclusion          | In the Service of the Lord: Consecrating Our Homes to God<br>• Key Idea: As for me and my house, we will serve the Lord.                                                                  |     |     |     |
 
 ###### Part Two: Challenge
 
 The challenge phase of this rite of passage is a *family camp experience*. During this time, church leaders, mentors, and peers will enjoy God's creation as they meet with God, practice homesteading skills, and cultivate relationships with one another. A more developed outline of this time is sketched below.
 
-| Part 2: Challenge      |                                                                                                                                                                                                                                                                            |                                                                                                                                                 |  |  |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Daily<br>Devotionals   | Near to Those Who Call on Him: Cultivating Intimacy with God<br>• Morning Reading: Learning the practice of spiritual reading.<br>• Midday Prayer: Marking the day in prayer, song, and community.<br>• Evening Reflection: Practicing the habit of daily examen. |                                                                                                                                                 |  |  |
-| Outdoor<br>Experiences | Homestead: Practicing Parental Duty in the Outdoors<br>• Homemaking<br>• Hearth Building<br>• Shepherd's Carry                                                                                                                                                    | •<br>Table Setting<br>• Night Vigil                                                                                                          |  |  |
-| Community<br>Building  | •<br>Project Review<br>• Celebrations and Struggles<br>• Worship and Tradition<br>• Value and Education                                                                                                                                                           | Homes of Holy Testimony: Homebuilding in the Household of Faith<br>• Discipline and Mission<br>• Life Spheres<br>• General Reflections |  |  |
+| Part 2: Challenge      |                                                                                                                                                                                                                                                                   |                                                                     |     |     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --- | --- |
+| Daily<br>Devotionals   | Near to Those Who Call on Him: Cultivating Intimacy with God<br>• Morning Reading: Learning the practice of spiritual reading.<br>• Midday Prayer: Marking the day in prayer, song, and community.<br>• Evening Reflection: Practicing the habit of daily examen. |                                                                     |     |     |
+| Outdoor<br>Experiences | Homestead: Practicing Parental Duty in the Outdoors<br>• Homemaking<br>• Hearth Building<br>• Shepherd's Carry                                                                                                                                                    | • Table Setting<br>• Night Vigil                                    |     |     |
+| Community<br>Building  | Homes of Holy Testimony: Homebuilding in the Household of Faith• Project Review<br>• Celebrations and Struggles<br>• Worship and Tradition<br>• Value and Education                                                                                               | • Discipline and Mission<br>• Life Spheres<br>• General Reflections |     |     |
+|                        |                                                                                                                                                                                                                                                                   |                                                                     |     |     |
 
 ###### Part Three: Celebration
 
-The third part of this rite of passage concludes with a time of celebration. In this final movement in your entrance to parenting, each parent will give a personal testimony of God's work in their life over the course of this process. This will also be a time for each parent (and family unit) to express their commitment to build Christian hearth and home for the Lord. The time ends with a ceremony in which the church community surrounds the parents and families with encouragement. The basic overview of this final phase is summarized below.
+The third part of this rite of passage concludes with a time of celebration. In this final movement into Christian parenting, each parent will give a personal testimony of God's work in their life over the course of this experiential study process. This will also be a time for each parent (and family unit) to express their commitment to build Christian hearth and home for the Lord. The time ends with a ceremony in which the church community surrounds the parents and families with encouragement. The basic overview of this final phase is summarized below.
 
-| Part 3: Celebration     |                                                                                 |  |
-|-------------------------|---------------------------------------------------------------------------------|--|
-| Personal<br>Testimony   | Reporting on God's work in your life.                                           |  |
-| Community<br>Confession | Sharing your commitment to take responsibility in life and faith.               |  |
-| Celebration<br>Ceremony | Concluding the rite of passage with a time of celebration and praise to<br>God. |  |
+| Part 3: Celebration     |                                                                              |     |
+| ----------------------- | ---------------------------------------------------------------------------- | --- |
+| Personal<br>Testimony   | Reporting on God's work in your life.                                        |     |
+| Community<br>Confession | Sharing your commitment to take responsibility in life and faith.            |     |
+| Celebration<br>Ceremony | Concluding the rite of passage with a time of celebration and praise to God. |     |
 
 ###### Part Four: Journal
 
@@ -558,7 +559,7 @@ Bless the Lord, O my soul. Bless your holy name. Our Father in heaven, we cannot
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Session 1 Weekly Disciplines
 
@@ -1057,7 +1058,7 @@ Eternal God, you have been the dwelling place of your people for all generations
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Session 2 Weekly Disciplines
 
@@ -1529,7 +1530,7 @@ Almighty God, you have shepherded your people throughout the generations. We are
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Session 3 Weekly Disciplines
 
@@ -2007,7 +2008,7 @@ Heavenly Lord, we have tasted and we have seen that you are good. We have experi
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Session 4 Weekly Disciplines
 
@@ -2482,7 +2483,7 @@ Most High God, be our dwelling place. Help our home to make its home in you. As 
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Session 5 Weekly Disciplines
 
@@ -2963,7 +2964,7 @@ Gracious God, left to ourselves, we will fail at this great and noble work of pa
 - Meet with a mentor to review this session.
 - Memorize the biblical proverb.
 - Complete the spiritual disciplines over the course of the week.
-- Finish your personal and parenting project.
+- Finish your personal and parenting projects.
 
 ### Session 6 Weekly Disciplines
 
