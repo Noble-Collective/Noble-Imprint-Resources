@@ -355,23 +355,34 @@ By God's grace and through faith in Christ, our home belongs to the Lord. **As p
 ###### The Tender Love a Father Has
 
 **Verse 1**
-The tender love a father has For all his children dear, Such love the Lord bestows on them Who worship him in fear.
+The tender love a father has  
+For all his children dear,  
+Such love the Lord bestows on them  
+Who worship him in fear.  
 
 **Verse 2**
-The Lord remembers we are dust, And all our frailty knows; Man's days are like the tender grass And as the flow'r he grows.
+The Lord remembers we are dust,  
+And all our frailty knows;  
+Man's days are like the tender grass  
+And as the flow'r he grows.  
 
 **Verse 3**
-The flow'r is withered by the wind that smites with blighting breath; so man is quickly swept away before the blast of death.
+The flow'r is withered by the wind  
+That smites with blighting breath;  
+So man is quickly swept away  
+Before the blast of death.  
 
 **Verse 4**
-Unchanging is the love of God, From age to age the same, Displayed to all who do his will And reverence his name.
+Unchanging is the love of God,  
+From age to age the same,  
+Displayed to all who do his will  
+And reverence his name.  
 
 **Verse 5**
-Those who his gracious cov’nant  
-keep  
+Those who his gracious cov’nant keep  
 The Lord will ever bless;  
 Their children’s children shall rejoice  
-To see his righteousness.
+To see his righteousness.  
 
 ##### Scripture Reading
 
