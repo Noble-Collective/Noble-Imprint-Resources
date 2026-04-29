@@ -1167,7 +1167,7 @@ But as for you, continue in the things you have learned and firmly believed, sin
 
 ##### Concluding Reflection
 
-*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting..*
+*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting.*
 
 <Question id="Home-ParOnePre-SesTwo-Ses2WeeDis-TopStu-ConRef-1">- These verses convicted me of my **shortcomings**…</Question>
 <Question id="Home-ParOnePre-SesTwo-Ses2WeeDis-TopStu-ConRef-2">- These verses challenged me to **grow in my faith**…</Question>
@@ -1627,7 +1627,7 @@ When they had finished eating, Jesus asked Simon Peter, "Simon son of John, do y
 
 ##### Concluding Reflection
 
-*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting..*
+*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting.*
 
 <Question id="Home-ParOnePre-SesThr-Ses3WeeDis-TopStu-ConRef-1">- These verses convicted me of my **shortcomings**…</Question>
 <Question id="Home-ParOnePre-SesThr-Ses3WeeDis-TopStu-ConRef-2">- These verses challenged me to **grow in my faith**…</Question>
@@ -2025,7 +2025,7 @@ Heavenly Lord, we have tasted and we have seen that you are good. We have experi
 
 ##### Read the Passage
 
-*Reread the biblical passage studied in this session. Read it slowly and reflectively. You will use this passage to guide your time of prayer..*
+*Reread the biblical passage studied in this session. Read it slowly and reflectively. You will use this passage to guide your time of prayer.*
 
 **Key Passage**: Psalm 34:1–22
 
@@ -2121,7 +2121,7 @@ Children, obey your parents in the Lord, for this is right. "Honor your father a
 
 ##### Concluding Reflection
 
-*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting..*
+*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting.*
 
 <Question id="Home-ParOnePre-SesFou-Ses4WeeDis-TopStu-ConRef-1">- These verses convicted me of my **shortcomings**…</Question>
 <Question id="Home-ParOnePre-SesFou-Ses4WeeDis-TopStu-ConRef-2">- These verses challenged me to **grow in my faith**…</Question>
@@ -2500,7 +2500,7 @@ Most High God, be our dwelling place. Help our home to make its home in you. As 
 
 ##### Read the Passage
 
-Reread the biblical passage studied in this session. Read it slowly and reflectively. You will use this passage to guide your time of prayer..
+*Reread the biblical passage studied in this session. Read it slowly and reflectively. You will use this passage to guide your time of prayer.*
 
 **Key Passage**: Psalm 94:1–23
 
@@ -2604,7 +2604,7 @@ Those I love, I rebuke and discipline. Therefore be earnest and repent.
 
 ##### Concluding Reflection
 
-*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting..*
+*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting.*
 
 <Question id="Home-ParOnePre-SesFiv-Ses5WeeDis-TopStu-ConRef-1">- These verses convicted me of my **shortcomings**…</Question>
 <Question id="Home-ParOnePre-SesFiv-Ses5WeeDis-TopStu-ConRef-2">- These verses challenged me to **grow in my faith**…</Question>
@@ -3070,7 +3070,7 @@ And every house is built by someone, but God is the builder of everything.
 
 ##### Concluding Reflection
 
-*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting..*
+*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting.*
 
 <Question id="Home-ParOnePre-SesSix-Ses6WeeDis-TopStu-ConRef-1">- These verses convicted me of my **shortcomings**…</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6WeeDis-TopStu-ConRef-2">- These verses challenged me to **grow in my faith**…</Question>
