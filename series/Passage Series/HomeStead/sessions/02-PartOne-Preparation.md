@@ -1547,7 +1547,7 @@ Almighty God, you have shepherded your people throughout the generations. We are
 
 ##### Read the Passage
 
-*Reread the biblical passage studied in this session. Read it slowly and reflectively. You will use this passage to guide your time of prayer..*
+*Reread the biblical passage studied in this session. Read it slowly and reflectively. You will use this passage to guide your time of prayer.*
 
 **Key Passage**: Psalm 23:1–6
 
