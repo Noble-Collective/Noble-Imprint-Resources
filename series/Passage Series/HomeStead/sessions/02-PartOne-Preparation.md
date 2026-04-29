@@ -406,7 +406,7 @@ You, O Lord, are our Father; our Redeemer from Everlasting is Your name. Why, O 
 
 ##### Opening Prayer
 
-Heavenly Father, we take comfort in your love and compassion. Your tender care is a refuge for us at all times. You look upon us in our need and mercifully come to our aid. You know our limits and daily provide us with just what we need. You are fully aware of our weakness and you grant us your own strength. You accept our confessions and receive us back with your forgiving embrace. Because of your grace, we are children of God. As your children, we are most loved and treasured. As we think about our parenting work, we are easily overwhelmed by the task. But we know you sustain us in what you call us to. We know our children belong to you more than they belong to us. As we serve our families as parents, help us to do so as children of God. May our children see in us a childlike faith that moves them to trust and adore you. Be to us our heavenly Father as we nurture our children in worship of God. Amen.
+Heavenly Father, we take comfort in your love and compassion. Your tender care is a refuge for us at all times. You look upon us in our need and mercifully come to our aid. You know our limits and daily provide us with just what we need. You are fully aware of our weakness and you grant us your own strength. You accept our confessions and receive us back with your forgiving embrace. Because of your grace, we are children of God. As your children, we are most loved and treasured. As we think about our parenting work, we are easily overwhelmed by the task. But we know you sustain us in what you call us to do. We know our children belong to you more than they belong to us. As we serve our families as parents, help us to do so as children of God. May our children see in us a childlike faith that moves them to trust and adore you. Be to us our heavenly Father as we nurture our children in worship of God. Amen.
 
 #### Seeking God's Wisdom
 
@@ -432,7 +432,7 @@ Trust in the Lord with all your heart, and lean not on your own understanding; i
 
 ###### Core Principle
 
-The foundation of all parenting is our relationship with the Lord. Few things like the responsibility of childrearing can make us confront our limits, weakness, and inabilities. The invitation to parenting is a similar invitation to the life of faith, to "trust in the Lord with all your heart." Faith in God requires us to heed a second instruction: "lean not on your own understanding." Trust in God means we must divest trust in ourselves. However intelligent or educated a person may be, the work of childrearing will expose the unreliability of our own wisdom and the inadequacy of our skills. Parenting requires trust in God—a humble confidence in God in our efforts to build Christian hearth and home. God backs his instruction with good promises. If we fully depend upon God—"in all your ways acknowledge Him"—there is a hope that he will direct our steps—"He will make your paths straight." We are not alone in the parenting work. Not only because we have a faith community, but because we have a loving heavenly Father who is desirous to direct every step of those who trust in him.
+The foundation of all parenting is our relationship with the Lord. Few things like the responsibility of childrearing can make us confront our limits, weaknesses, and inabilities. The invitation to parenting is an invitation to the life of faith, to "trust in the Lord with all your heart." Faith in God requires us to heed a second instruction: "lean not on your own understanding." Trust in God means we must divest trust in ourselves. However intelligent or educated a person may be, the work of child-rearing will expose the unreliability of our own wisdom and the inadequacy of our skills. Parenting requires trust in God—a humble confidence in God in our efforts to build Christian hearth and home. God backs his instruction with good promises. If we fully depend upon God—"in all your ways acknowledge Him"—there is a hope that he will direct our steps—"He will make your paths straight." We are not alone in the parenting work, not only because we have a faith community, but because we have a loving heavenly Father who is desirous to direct every step of those who genuinely trust in him.
 
 ###### Group Discussion
 
@@ -461,23 +461,23 @@ The foundation of all parenting is our relationship with the Lord. Few things li
 
 ###### Searching the Text
 
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-1">1. **Family Worship**: How does this psalm worship God? What reasons are given to show that God is worthy of worship?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-1">1. **Family Worship**: How does this psalm express worship of God? What reasons are given to show that God is worthy of worship?</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-2">2. **Fatherly Love**: How does this psalm describe God as a loving Father? What terms and phrases are used to describe God's love for his people?</Question>
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-3">3. **Fatherly Care**: How does this psalm describe God's care for his people? How does God's love translate into genuine concern for his people?</Question>
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-4">4. **Covenant Relationship**: What is a covenant? Why is it important that God's people are in a covenant relationship with God himself?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-3">3. **Fatherly Care**: How does this hymn of praise describe God's care for his people? How does God's love translate into genuine concern for his own?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeaTex-4">4. **Covenant Relationship**: What is a covenant? Why is it important that God's people are in a covenant relationship with himself?</Question>
 
 ###### Seeking the Truth
 
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeeTru-1">1. **Family Worship**: Why is worship so central to family life and parenting work? What does it look like for a family to worship God?</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeeTru-2">2. **Fatherly Love**: How is God's love for his people an example for us to follow in our parenting? How is love the foundation of parenting?</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeeTru-3">3. **Fatherly Care**: How can we care for our children like God cares for us?</Question>
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeeTru-4">4. **Covenant Relationship**: How is our own relationship with God vital in our parenting work? How is our parenting negatively affected if we have a wrong view of God's Fatherhood? How is our parenting fueled if we enjoy a vibrant relationship with God as Father?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-SeeTru-4">4. **Covenant Relationship**: How is our own relationship with God vital in our parenting work? How is our parenting negatively affected if we have a wrong view of God's fatherhood? How is our parenting fueled if we enjoy a vibrant relationship with God as Father?</Question>
 
 ###### Evaluating Our Lives
 
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-1">1. **Family Worship**: Did you grow up in a family that worshiped God together? How will you make worship central to the life and culture of your home?</Question>
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-2">2. **Fatherly Love**: What wrong perspectives of God as Father need to be corrected in your own life? How do you need to experience God's fatherly love to better serve your family and children?</Question>
-<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-3">3. **Fatherly Care**: How would you want to grow in your care for your children, making it more like God?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-2">2. **Fatherly Love**: What wrong perspectives of God as Father need to be corrected in your own life? How do you need to personally experience God's fatherly love to better serve your family and children?</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-3">3. **Fatherly Care**: How would you want to grow in your care for your children, loving them more like God loves you?</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1ComStu-ExpBibTex-DisQue-EvaLiv-4">4. **Covenant Relationship**: How will you cultivate your walk with God as Father as the source and foundation of all your parenting? How will you mark your home as a family under God's covenant care?</Question>
 
 ##### Nurturing Family Life in God's Fatherly Love
