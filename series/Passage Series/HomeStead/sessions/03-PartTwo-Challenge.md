@@ -79,7 +79,7 @@ Example: "God, help me to raise my children in the discipline and instruction of
 
 *Take this moment to be alone and sit in silence. Break away from the busyness of the day's events and the noise of the crowd. Remember God's rule over the world. Reflect on God's presence in your life. Pay attention to your hunger and thirst for food and use this as a way to remember God as the only one who can truly bring you joy and satisfaction.*
 
-> Be still and know that I am God; I will be exalted among the nations, I will be exalted over the earth."" The Lord of Hosts is with us; the God of Jacob is our fortress.
+> "Be still and know that I am God; I will be exalted among the nations, I will be exalted over the earth." The Lord of Hosts is with us; the God of Jacob is our fortress.
 
 << Psalm 46:10–11
 
