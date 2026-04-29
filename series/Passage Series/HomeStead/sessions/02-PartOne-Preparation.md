@@ -672,7 +672,7 @@ Every good and perfect gift is from above, coming down from the Father of the he
 
 ##### Concluding Reflection
 
-*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting..*
+*Review and reflect on the passages you just read. Identify verses that you find most convicting, challenging, and comforting.*
 
 <Question id="Home-ParOnePre-SesOne-Ses1WeeDis-TopStu-ConRef-1">- These verses convicted me of my **shortcomings**…</Question>
 <Question id="Home-ParOnePre-SesOne-Ses1WeeDis-TopStu-ConRef-2">- These verses challenged me to **grow in my faith**…</Question>
