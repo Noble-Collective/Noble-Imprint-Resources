@@ -532,7 +532,7 @@ If the parent's primary duty is to bring their children under God's everlasting 
 
 Godly parents are gospel-centered, seeing their primary earthly vocation as fostering their children's relationship with God. There is no guarantee that parental faithfulness will translate into faith for each and every child. Ultimately, genuine faith is the work of God in the heart of each and every person. Nevertheless, a vision of parenting should foundationally be one that cultivates faith and obedience—the fear of God which leads to heeding God's commanding word.
 
-But faith does more than merely enable obedience. Faith in God fosters attachment to God. Entrusting oneself to God initiates us into a covenant relationship with God. Our relationship with the Lord is secure, guarded and protected by God's good promises and faithful character. As we experience intimacy and security in our relationship with the Lord, so we are able to cultivate a home environment that fosters healthy forms of bonding, attachment, and connection. <Callout>It is in the home where children first learn what healthy relationships entail.</Callout> By keeping God's covenant front and center in our home, we can even hope for faith formation in the generations to come.
+But faith does more than merely enable obedience. Faith in God fosters attachment to God. Entrusting oneself to God initiates us into a covenant relationship with God. Our relationship with the Lord is secure, guarded and protected by God's own good promises and faithful character. As we experience intimacy and security in our relationship with the Lord, so we are able to cultivate a home environment that fosters healthy forms of bonding, attachment, and connection. <Callout>It is in the home where children first learn what healthy relationships entail.</Callout> By keeping God's covenant front and center in our home, we can even hope for faith formation in the generations to come.
 
 ###### Conclusion
 
@@ -734,7 +734,7 @@ Every good and perfect gift is from above, coming down from the Father of the he
 
 *After several minutes of silence, offer this prayer to God. Pray with open hands facing upwards to symbolize you stand before God in complete openness.*
 
-> Almighty God, I am weak and frail. Surely, I am a noble creation of your powerful hands. But I am also a fragile creature. My strength is limited. I am prone to temptation. I easily wander from your paths. I still struggle with pain from the past and uncertainty about the future. But I know your "power is perfected in weakness" (2 Corinthians 12:9). Help me to live by the reality "that when I am weak, then I am strong" (2 Corinthians 12:10). In your love and tender care, I am not overcome by enemies, not bound by sin, not plagued by the past, and not afraid of the days to come. Help me to rest in your covenant love and fatherly care. Amen.
+> Almighty God, I am weak and frail. Surely, I am a noble creation of your powerful hands. But I am also a fragile creature. My strength is limited. I am prone to temptation. I easily wander from your paths. I still struggle with pain from the past and uncertainty about the future. But I know your "power is perfected in weakness" (2 Corinthians 12:9). Help me to live by the reality "that when I am weak, then I am strong" (12:10). In your love and tender care, I am not overcome by enemies, not bound by sin, not plagued by the past, and not afraid of the days to come. Help me to rest in your covenant love and fatherly care. Amen.
 
 ##### Meditating on God's Tender Care
 
