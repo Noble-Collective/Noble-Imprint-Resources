@@ -866,17 +866,29 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ###### Let Children Hear the Mighty Deeds
 
-**Verse 1**
-Let children hear the mighty deeds Which God performed of old, Which in our younger years we saw, And which our fathers told.
+**Verse 1**  
+Let children hear the mighty deeds  
+Which God performed of old,  
+Which in our younger years we saw,  
+And which our fathers told.
 
-**Verse 2**
-He bids us make his glories known, His works of power and grace; And we'll convey his wonders down Through every rising race.
+**Verse 2**  
+He bids us make his glories known,  
+His works of power and grace;  
+And we'll convey his wonders down  
+Through every rising race.
 
-**Verse 3**
-Our lips shall tell them to our sons, And they again to theirs; That generations yet unborn May teach them to their heirs.
+**Verse 3**  
+Our lips shall tell them to our sons,  
+And they again to theirs;  
+That generations yet unborn  
+May teach them to their heirs.
 
-**Verse 4**
-Thus shall they learn in God alone Their hope securely stands; That they may ne'er forget his works, But practise his commands.
+**Verse 4**  
+Thus shall they learn in God alone  
+Their hope securely stands;  
+That they may ne'er forget his works,  
+But practise his commands.
 
 ##### Scripture Reading
 
@@ -1356,21 +1368,45 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ###### Savior, Like a Shepherd Lead Us
 
-**Verse 1**
-Savior, like a shepherd lead us, Much we need Thy tender care; In Thy pleasant pastures feed us, For our use Thy folds prepare: Blessed Jesus, blessed Jesus, Thou hast bought us, Thine we are;
+**Verse 1**  
+Savior, like a shepherd lead us,  
+Much we need Thy tender care;  
+In Thy pleasant pastures feed us,  
+For our use Thy folds prepare:  
+Blessed Jesus, blessed Jesus,  
+Thou hast bought us, Thine we are;
+Blessed Jesus, blessed Jesus,  
+Thou hast bought us, Thine we are.
 
-Blessed Jesus, blessed Jesus, Thou hast bought us, Thine we are
+**Verse 2**  
+We are Thine, do Thou befriend us,  
+Be the guardian of our way;  
+Keep Thy flock, from sin defend us,  
+Seek us when we go astray:  
+Blessed Jesus, blessed Jesus,  
+Hear, O hear us when we pray;  
+Blessed Jesus, blessed Jesus,  
+Hear, O hear us when we pray.  
 
-**Verse 2**
-We are Thine, do Thou befriend us,
+**Verse 3**  
+Thou hast promised to receive us,  
+Poor and sinful though we be;  
+Thou hast mercy to relieve us,  
+Grace to cleanse, and pow'r to free:  
+Blessed Jesus, blessed Jesus,  
+Early let us turn to Thee;  
+Blessed Jesus, blessed Jesus,  
+Early let us turn to Thee.
 
-Be the guardian of our way; Keep Thy flock, from sin defend us, Seek us when we go astray: Blessed Jesus, blessed Jesus, Hear, O hear us when we pray; Blessed Jesus, blessed Jesus, Hear, O hear us when we pray.
-
-**Verse 3**
-Thou hast promised to receive us, Poor and sinful though we be; Thou hast mercy to relieve us, Grace to cleanse, and pow'r to free: Blessed Jesus, blessed Jesus, Early let us turn to Thee; Blessed Jesus, blessed Jesus, Early let us turn to Thee.
-
-**Verse 4**
-Early let us seek Thy favor, Early let us do Thy will; Blessed Lord and only Savior, With Thy love our bosoms fill: Blessed Jesus, blessed Jesus, Thou hast loved us, love us still; Blessed Jesus, blessed Jesus, Thou hast loved us, love us still.
+**Verse 4**  
+Early let us seek Thy favor,  
+Early let us do Thy will;  
+Blessed Lord and only Savior,  
+With Thy love our bosoms fill:  
+Blessed Jesus, blessed Jesus,  
+Thou hast loved us, love us still;  
+Blessed Jesus, blessed Jesus,  
+Thou hast loved us, love us still.  
 
 ##### Scripture Reading
 
@@ -1819,32 +1855,41 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ###### Come, Children, Learn to Fear the Lord
 
-**Verse 1**
-###### Come, children, learn to fear the Lord
+**Verse 1**  
+Come, children, learn to fear the Lord  
+And that your days be long,  
+Let not a false or spiteful word  
+Be found upon your tongue.  
 
-And that your days be long, Let not a false or spiteful word Be found upon your tongue.
+**Verse 2**  
+Depart from mischief, practice love,  
+Pursue the works of peace;  
+So shall the Lord your ways approve,  
+And set your souls at ease.  
 
-**Verse 2**
-Depart from mischief, practice love,
+**Verse 3**  
+His eyes awake to guard the just,  
+His ears attend their cry;  
+When broken spirits dwell in dust,  
+The God of grace is nigh.  
 
-Pursue the works of peace; So shall the Lord your ways approve, And set your souls at ease.
+**Verse 4**  
+What though the sorrows here they taste  
+Are sharp and tedious too,  
+The Lord, who saves them all at last,  
+Is their supporter now.  
 
-**Verse 3**
-His eyes awake to guard the just, His ears attend their cry; When broken spirits dwell in dust, The God of grace is nigh.
+**Verse 5**  
+Evil shall smite the wicked dead;  
+But God secures His own,  
+Prevents the mischief when they slide,  
+Or heals the broken bone.  
 
-**Verse 4**
-What though the sorrows here they taste
-
-Are sharp and tedious too, The Lord, who saves them all at last, Is their supporter now.
-
-**Verse 5**
-Evil shall smite the wicked dead; But God secures His own, Prevents the mischief when they slide, Or heals the broken bone.
-
-**Verse 6**
+**Verse 6**  
 When desolation, like a flood,  
 O’er the proud sinner rolls,  
 Saints find a refuge in their God,  
-For He redeemed their souls.
+For He redeemed their souls.  
 
 ##### Scripture Reading
 
@@ -2305,17 +2350,49 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ###### A Mighty Fortress Is Our God
 
-**Verse 1**
-A mighty fortress is our God, A bulwark never failing; Our helper he, amid the flood Of mortal ills prevailing. For still our ancient foe Does seek to work us woe; His craft and power are great, And armed with cruel hate, On earth is not his equal.
+**Verse 1**  
+A mighty fortress is our God,  
+A bulwark never failing;  
+Our helper he, amid the flood  
+Of mortal ills prevailing.  
+For still our ancient foe  
+Does seek to work us woe;  
+His craft and power are great,  
+And armed with cruel hate,  
+On earth is not his equal.  
 
-**Verse 2**
-Did we in our own strength confide, our striving would be losing, were not the right Man on our side, the Man of God's own choosing. You ask who that may be? Christ Jesus, it is he; Lord Sabaoth his name, from age to age the same; and he must win the battle.
+**Verse 2**  
+Did we in our own strength confide,  
+Our striving would be losing,  
+Were not the right Man on our side,  
+The Man of God's own choosing.  
+You ask who that may be?  
+Christ Jesus, it is he;  
+Lord Sabaoth his name,  
+From age to age the same;  
+And he must win the battle.  
 
-**Verse 3**
-And though this world, with devils filled, Should threaten to undo us, We will not fear, for God has willed His truth to triumph through us. The prince of darkness grim, We tremble not for him; His rage we can endure, For lo! his doom is sure; One little word shall fell him.
+**Verse 3**  
+And though this world, with devils filled,  
+Should threaten to undo us,  
+We will not fear, for God has willed  
+His truth to triumph through us.  
+The prince of darkness grim,  
+We tremble not for him;  
+His rage we can endure,  
+For lo! his doom is sure;  
+One little word shall fell him.  
 
-**Verse 4**
-That Word above all earthly powers No thanks to them abideth; The Spirit and the gifts are ours Through him who with us sideth. Let goods and kindred go, This mortal life also; The body they may kill: God's truth abideth still; His kingdom is forever!
+**Verse 4**  
+That Word above all earthly powers  
+No thanks to them abideth;  
+The Spirit and the gifts are ours  
+Through him who with us sideth.  
+Let goods and kindred go,  
+This mortal life also;  
+The body they may kill:  
+God's truth abideth still;  
+His kingdom is forever!  
 
 ##### Scripture Reading
 
@@ -2786,11 +2863,22 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ###### God Is Working This Purpose Out
 
-**Verse 1**
-1 God is working this purpose out, as year succeeds to year; God is working this purpose out, and the time is drawing near; nearer and nearer draws the time, the time that shall surely be: when the earth shall be filled with the glory of God as the waters cover the sea.
+**Verse 1**  
+God is working this purpose out,  
+As year succeeds to year;  
+God is working this purpose out,  
+And the time is drawing near;  
+Nearer and nearer draws the time,  
+The time that shall surely be:  
+When the earth shall be filled with the glory of God  
+As the waters cover the sea.  
 
-**Verse 2**
-From utmost east to utmost west, where human feet have trod, by the mouth of many messengers goes forth the voice of God: "Give ear to me, ye continents, ye isles, give ear to me, that the earth may be filled with the glory of God as the waters cover the sea."
+**Verse 2**  
+From utmost east to utmost west,  
+Where human feet have trod,  
+By the mouth of many messengers  
+Goes forth the voice of God:  
+"Give ear to me, ye continents, ye isles, give ear to me, that the earth may be filled with the glory of God as the waters cover the sea."
 
 **Verse 3**
 Let us go forth in the strength of God, with the banner of Christ unfurled, that the light of the glorious gospel of truth may shine throughout the world. Let us all fight with sorrow and sin to set the captives free, that the earth may be filled with the glory of God as the waters cover the sea.
