@@ -16,7 +16,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 #### Bibliography
 
-*Focus your thinking around the key idea and biblical wisdom. Review the introduction and discuss the scriptural proverb to help orient you to the main theme of this session.*
+*The following sources serve as a works cited for this study and also as a reading list for your exploration. Consider reading some of these works to enrich your understanding, expand your capacity, and deepen your wisdom for parenting work.*
 
 ##### Bibliography
 
@@ -87,7 +87,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 #### Reflective Excerpts
 
-*Focus your thinking around the key idea and biblical wisdom. Review the introduction and discuss the scriptural proverb to help orient you to the main theme of this session.*
+*The following excerpts are samples of profound thinking about family, parenting, and children. Read them prayerfully. Consider memorizing portions of them. Share them with friends to foster meaningful dialogue.*
 
 ##### The Children's Hour
 
