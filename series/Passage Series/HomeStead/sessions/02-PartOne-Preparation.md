@@ -36,7 +36,7 @@ Our home belongs to the Lord.
 
 ###### Be Thou My Vision
 
-**Verse 1**
+**Verse 1**  
 Be thou my vision,  
 O Lord of my heart;  
 Naught be all else to me  
@@ -44,9 +44,9 @@ Save that thou art.
 Thou my best thought  
 By day and by night;  
 Waking or sleeping, thy presence  
-My light.
+My light.  
 
-**Verse 2**
+**Verse 2**  
 Be thou my wisdom,  
 And thou my true Word;  
 I ever with thee  
@@ -54,9 +54,9 @@ And thou with me, Lord.
 Thou my great Father,  
 I thy dear child;  
 Thou in me dwelling,  
-With thee reconciled.
+With thee reconciled.  
 
-**Verse 3**
+**Verse 3**  
 Riches I heed not,  
 Nor vain, empty praise;  
 Thou mine inheritance,  
@@ -64,9 +64,9 @@ Now and always.
 Thou and thou only,  
 First in my heart,  
 High King of Heaven,  
-My treasure thou art.
+My treasure thou art.  
 
-**Verse 4**
+**Verse 4**  
 High King of Heaven,  
 My victory won,  
 May I reach Heaven’s joys,  
@@ -74,7 +74,7 @@ O bright Heav’ns Sun!
 Heart of my heart,  
 Whatever befall,  
 Still be my vision,  
-O Ruler of all
+O Ruler of all  
 
 ##### Scripture Reading
 
@@ -2878,13 +2878,30 @@ From utmost east to utmost west,
 Where human feet have trod,  
 By the mouth of many messengers  
 Goes forth the voice of God:  
-"Give ear to me, ye continents, ye isles, give ear to me, that the earth may be filled with the glory of God as the waters cover the sea."
+"Give ear to me, ye continents,  
+Ye isles, give ear to me,  
+That the earth may be filled with the glory of God  
+As the waters cover the sea."  
 
-**Verse 3**
-Let us go forth in the strength of God, with the banner of Christ unfurled, that the light of the glorious gospel of truth may shine throughout the world. Let us all fight with sorrow and sin to set the captives free, that the earth may be filled with the glory of God as the waters cover the sea.
+**Verse 3**  
+Let us go forth in the strength of God,  
+With the banner of Christ unfurled,  
+That the light of the glorious gospel of truth  
+May shine throughout the world.  
+Let us all fight with sorrow and sin  
+To set the captives free,  
+That the earth may be filled with the glory of God  
+As the waters cover the sea.  
 
-**Verse 4**
-All we can do is nothing worth unless God blesses the deed. Vainly we hope for the harvest-tide till God gives life to the seed. Yet nearer and nearer draws the time, the time that shall surely be, when the earth shall be filled with the glory of God as the waters cover the sea.
+**Verse 4**  
+All we can do is nothing worth  
+Unless God blesses the deed.  
+Vainly we hope for the harvest-tide  
+Till God gives life to the seed.  
+Yet nearer and nearer draws the time,  
+The time that shall surely be,  
+When the earth shall be filled with the glory of God  
+As the waters cover the sea.  
 
 ##### Scripture Reading
 
@@ -3377,17 +3394,45 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 ###### As for Me and My House
 
-**Verse 1**
-As for me and my house, We will all serve the Lord; We will walk in His footsteps Day by day; All our talents we will bring Consecrating ev'rything To the service of Our Savior and King.
+**Verse 1**  
+As for me and my house,  
+We will all serve the Lord;  
+We will walk in His footsteps  
+Day by day;  
+All our talents we will bring  
+Consecrating ev'rything  
+To the service of  
+Our Savior and King.  
 
-**Verse 2**
-As for me and my house, We will all serve the Lord; His commands and His precepts We'll obey, What He says to us we'll do, Where He sends us we will go, In our Master's Joyful service below.
+**Verse 2**  
+As for me and my house,  
+We will all serve the Lord;  
+His commands and His precepts  
+We'll obey,  
+What He says to us we'll do,  
+Where He sends us we will go,  
+In our Master's  
+Joyful service below.  
 
-**Verse 3**
-As for me and my house, We will all serve the Lord; We will walk in His footsteps Day by day, We will labor, watch and pray, Seek for those who've gone astray, And will point them to The blessed old way.
+**Verse 3**  
+As for me and my house,  
+We will all serve the Lord;  
+We will walk in His footsteps  
+Day by day,  
+We will labor, watch and pray,  
+Seek for those who've gone astray,  
+And will point them to  
+The blessed old way.  
 
-**Verse 4**
-As for me and my house, We will all serve the Lord; In the home, on the street, Or o'er the sea, We will publish far and wide, How the Savior came and died To redeem us And to make us all free.
+**Verse 4**  
+As for me and my house,  
+We will all serve the Lord;  
+In the home, on the street,  
+Or o'er the sea,  
+We will publish far and wide,  
+How the Savior came and died  
+To redeem us  
+And to make us all free.  
 
 ##### Scripture Reading
 
