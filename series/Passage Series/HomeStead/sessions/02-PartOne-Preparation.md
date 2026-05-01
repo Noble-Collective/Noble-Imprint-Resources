@@ -596,7 +596,7 @@ Bless the Lord, O my soul. Bless your holy name. Our Father in heaven, we cannot
 
 ##### Consider the Truth
 
-<Question id="Home-ParOnePre-SesOne-Ses1WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. What observations, questions, or teachings stand out to you. Record any thoughts below.*</Question>
+<Question id="Home-ParOnePre-SesOne-Ses1WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. Note observations, questions, or teachings that stand out to you. Record any thoughts below.*</Question>
 
 ##### Pray the Text
 
@@ -1107,7 +1107,7 @@ Eternal God, you have been the dwelling place of your people for all generations
 
 ##### Consider the Truth
 
-<Question id="Home-ParOnePre-SesTwo-Ses2WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. What observations, questions, or teachings stand out to you. Record any thoughts below.*</Question>
+<Question id="Home-ParOnePre-SesTwo-Ses2WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. Note observations, questions, or teachings that stand out to you. Record any thoughts below.*</Question>
 
 ##### Pray the Text
 
@@ -1603,7 +1603,7 @@ Almighty God, you have shepherded your people throughout the generations. We are
 
 ##### Consider the Truth
 
-<Question id="Home-ParOnePre-SesThr-Ses3WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. What observations, questions, or teachings stand out to you. Record any thoughts below.*</Question>
+<Question id="Home-ParOnePre-SesThr-Ses3WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. Note observations, questions, or teachings that stand out to you. Record any thoughts below.*</Question>
 
 ##### Pray the Text
 
@@ -2090,7 +2090,7 @@ Heavenly Lord, we have tasted and we have seen that you are good. We have experi
 
 ##### Consider the Truth
 
-<Question id="Home-ParOnePre-SesFou-Ses4WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. What observations, questions, or teachings stand out to you. Record any thoughts below.*</Question>
+<Question id="Home-ParOnePre-SesFou-Ses4WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. Note observations, questions, or teachings that stand out to you. Record any thoughts below.*</Question>
 
 ##### Pray the Text
 
@@ -2597,7 +2597,7 @@ Most High God, be our dwelling place. Help our home to make its home in you. As 
 
 ##### Consider the Truth
 
-<Question id="Home-ParOnePre-SesFiv-Ses5WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. What observations, questions, or teachings stand out to you. Record any thoughts below.*</Question>
+<Question id="Home-ParOnePre-SesFiv-Ses5WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. Note observations, questions, or teachings that stand out to you. Record any thoughts below.*</Question>
 
 ##### Pray the Text
 
@@ -3106,7 +3106,7 @@ Gracious God, left to ourselves, we will fail at this great and noble work of pa
 
 ##### Consider the Truth
 
-<Question id="Home-ParOnePre-SesSix-Ses6WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. What observations, questions, or teachings stand out to you. Record any thoughts below.*</Question>
+<Question id="Home-ParOnePre-SesSix-Ses6WeeDis-ScrRea-ConTru-1">*Meditate on the meaning of the biblical passage. Note observations, questions, or teachings that stand out to you. Record any thoughts below.*</Question>
 
 ##### Pray the Text
 
