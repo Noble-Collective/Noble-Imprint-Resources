@@ -271,16 +271,19 @@ Heavenly Father, thank you for sending your Son. He is the hope of the nations. 
 
 In the first part of this rite of passage, you will study six key roles of parents: *priests*, *stewards*, *shepherds*, *teachers*, *protectors*, and *overseers*. Each of these sessions is divided into three sections: a community-based study around the topic, spiritual disciplines for the intervening week, and reflective projects to apply and implement parenting principles in your family life. The expanded content of these topics is listed below.
 
-| Part 1: Preparation |                                                                                                                                                                                           |     |     |     |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-| Introduction        | No Longer Two: Receiving Children as Gifts from God<br>• Key Idea: Our home belongs to the Lord.<br>• Biblical Exploration: Luke 2:21–40                                                  |     |     |     |
-| Session 1           | Under God's Fatherly Care: Building a Home Devoted to God<br>• Key Idea: As priests, we will nurture our children in God's fatherly care.<br>• Biblical Exploration: Psalm 103:1–22       |     |     |     |
-| Session 2           | Between the Ages: Nurturing Faith in the Next Generation<br>• Key Idea: As stewards, we will pass on the faith of our fathers.<br>• Biblical Exploration: Psalm 78:1–72                   |     |     |     |
-| Session 3           | Over the Flock: Tending to Our Children Like Shepherds<br>• Key Idea: As shepherds, we will lead our children as God shepherds us.<br>• Biblical Exploration: Psalm 23:1–6                |     |     |     |
-| Session 4           | In the Fear of God: Instructing Children in Godliness<br>• Key Idea: As teachers, we will instruct our household in the fear of the Lord.<br>• Biblical Exploration: Psalm 34:1–22        |     |     |     |
-| Session 5           | Under God's Protection: Godly Discipline and Divine Protection<br>• Key Idea: As protectors, we will entrust our family to God's safekeeping.<br>• Biblical Exploration: Psalm 94:1–23    |     |     |     |
-| Session 6           | For the World: Leaving a Legacy in Society<br>• Key Idea: As overseers, we build Christian hearth and home as a heritage from the Lord.<br>• Biblical Exploration: Psalm 127:1–5; 128:1–6 |     |     |     |
-| Conclusion          | In the Service of the Lord: Consecrating Our Homes to God<br>• Key Idea: As for me and my house, we will serve the Lord.                                                                  |     |     |     |
+| Part 1: Preparation |
+| :--- |
+
+| | |
+| :--- | :--- |
+| **Introduction** | **No Longer Two:** Receiving Children as Gifts from God<br>• Key Idea: Our home belongs to the Lord.<br>• Biblical Exploration: Luke 2:21–40 |
+| **Session 1** | **Under God's Fatherly Care:** Building a Home Devoted to God<br>• Key Idea: As priests, we will nurture our children in God's fatherly care.<br>• Biblical Exploration: Psalm 103:1–22 |
+| **Session 2** | **Between the Ages:** Nurturing Faith in the Next Generation<br>• Key Idea: As stewards, we will pass on the faith of our fathers.<br>• Biblical Exploration: Psalm 78:1–72 |
+| **Session 3** | **Over the Flock:** Tending to Our Children Like Shepherds<br>• Key Idea: As shepherds, we will lead our children as God shepherds us.<br>• Biblical Exploration: Psalm 23:1–6 |
+| **Session 4** | **In the Fear of God:** Instructing Children in Godliness<br>• Key Idea: As teachers, we will instruct our household in the fear of the Lord.<br>• Biblical Exploration: Psalm 34:1–22 |
+| **Session 5** | **Under God's Protection:** Godly Discipline and Divine Protection<br>• Key Idea: As protectors, we will entrust our family to God's safekeeping.<br>• Biblical Exploration: Psalm 94:1–23 |
+| **Session 6** | **For the World:** Leaving a Legacy in Society<br>• Key Idea: As overseers, we build Christian hearth and home as a heritage from the Lord.<br>• Biblical Exploration: Psalm 127:1–5; 128:1–6 |
+| **Conclusion** | **In the Service of the Lord:** Consecrating Our Homes to God<br>• Key Idea: As for me and my house, we will serve the Lord. |
 
 ###### Part Two: Challenge
 
