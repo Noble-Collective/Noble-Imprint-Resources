@@ -1731,7 +1731,8 @@ When they had finished eating, Jesus asked Simon Peter, "Simon son of John, do y
 <Question id="Home-ParOnePre-SesThr-Ses3WeeDis-SpiPra-DefHomVal-1">- These values currently define our home…</Question>
 
 <Question id="Home-ParOnePre-SesThr-Ses3WeeDis-SpiPra-DefHomVal-2">- These are the values we want (and don't want) our home to be defined by…</Question>
-- This is how we want our family to be known in the world…
+
+<Question id="Home-ParOnePre-SesThr-Ses3WeeDis-SpiPra-DefHomVal-3">- This is how we want our family to be known in the world…</Question>
 
 ##### Praising God for His Care
 
@@ -1766,7 +1767,7 @@ When they had finished eating, Jesus asked Simon Peter, "Simon son of John, do y
 ##### Reflection Questions
 
 <Question id="Home-ParOnePre-SesThr-Ses3WeeDis-JouRef-RefQue-1">1. **God's Shepherding Care**: How have you experienced God's shepherding care in your own life?</Question>
-<Question id="Home-ParOnePre-SesThr-Ses3WeeDis-JouRef-RefQue-2">2. **Parental Care**: How much of your upbringing was under the care of parents who shepherded you? How did you experience their care as a faithful shepherd cares for his sheep?</Question>
+<Question id="Home-ParOnePre-SesThr-Ses3WeeDis-JouRef-RefQue-2">2. **Parental Care**: How much of your upbringing was under the care of parents who faithfully shepherded you? How did you experience their care as a loving shepherd cares for his sheep?</Question>
 <Question id="Home-ParOnePre-SesThr-Ses3WeeDis-JouRef-RefQue-3">3. **Looking Ahead**: Which aspects of parenting as a shepherd most excite you and most concern you?</Question>
 
 ### Session 3 Reflective Projects
@@ -1782,7 +1783,7 @@ Consider how parenting is shepherding work. Write a job description for parentin
 ##### Example Job Description
 
 - As a shepherd, I am tasked to lead and guide my children. I will steer them to the timeless truth of God's word and to the paths of righteous living.
-- As a shepherd, I am called to feed and nourish my family. I will study God's word so that I can teach and nurture my family on your eternal revelation. I will provide for my children in body and spirit, keeping them from unhealthy teaching and falsehood.
+- As a shepherd, I am called to feed and nourish my family. I will study God's word so that I can teach my family about and nurture my family with your eternal revelation. I will provide for my children in body and spirit, keeping them from unhealthy teaching and falsehood.
 - As a shepherd, I am called to protect and guard my family. I will be a sentry to my home, being watchful of what is happening in surrounding culture. I will not let evil and wickedness infiltrate our walls or ears or hearts. I will be vigilant and wise with technology, cautious to not unleash the digital world prematurely upon my children, teaching them how to use it wisely, and modeling this in my own life.
 - As a shepherd, I will minister and care for my family with my faithful presence. I will be around the family and involved in their lives. I will study each of my children personally, so that I know their heart and they know my voice.
 - As a shepherd, I will place our home under the safekeeping of Christ—the Good Shepherd. I will teach them that the safest and most blessed life is to be one of God's flock, fully entrusted to Jesus' care.
@@ -1809,14 +1810,14 @@ In this project, you will list out your family values. First, work through the c
 
 - **Current Evaluation**
 
-- What We Give Most of Our Time To Now (Time, Money, Discussion Topics, etc.)
-- How People Might Describe Our Home Now
+- What we give most of our time to now (i.e., time, money, discussion topics, etc.)
+- How people might describe our home now
 
 - **Future Aspirations**
 
-- The Characteristics We Want to Define Our Home
-- The Things We Want to Be Most Important to Us
-- **Family Creed**: Summary of Biblical Values to Define Our Family
+- The characteristics we want to define our home
+- The things we want to be most important to us
+- Summary of biblical values to define our family into a family creed
 
 ## Session Four
 
