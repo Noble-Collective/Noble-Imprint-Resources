@@ -39,6 +39,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 | Day One |
 | :--- |
+
 | | |
 | :--- | :--- |
 | 3:00 pm | Arrival and Setup |
@@ -49,6 +50,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 | Day Two |
 | :--- |
+
 | | |
 | :--- | :--- |
 | 7:00 am | Wakeup and Breakfast Preparation |
@@ -67,6 +69,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 | Day Three |
 | :--- |
+
 | | |
 | :--- | :--- |
 | 7:00 am | Wakeup and Breakfast Preparation |
@@ -85,6 +88,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 | Day Four |
 | :--- |
+
 | | |
 | :--- | :--- |
 | 7:00 am | Wakeup and Breakfast Preparation |
