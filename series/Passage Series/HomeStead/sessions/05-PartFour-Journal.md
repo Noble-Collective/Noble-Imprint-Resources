@@ -195,7 +195,7 @@ Christian children mainly need to be taught the doctrine, precept, and life of t
 
 << Charles Spurgeon, "Come, Ye Children"
 
-##### Consider What Your Children Are Capable Of
+##### Youth Is Wild, and Requires Many Governors
 
 Hear this, ye fathers, bring your children up with great care 'in the nurture and admonition of the Lord.' (Eph. 6:4.) Youth is wild, and requires many governors, teachers, directors, attendants, and tutors; and after all these, it is a happiness if it be restrained. For as a horse not broken in, or a wild beast untamed, such is youth. But if from the beginning, from the earliest age, we fix it in good rules, much pains will not be required afterwards; for good habits formed will be to them as a law.
 
