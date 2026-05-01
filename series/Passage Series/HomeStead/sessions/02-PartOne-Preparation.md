@@ -289,22 +289,27 @@ In the first part of this rite of passage, you will study six key roles of paren
 
 The challenge phase of this rite of passage is a *family camp experience*. During this time, church leaders, mentors, and peers will enjoy God's creation as they meet with God, practice homesteading skills, and cultivate relationships with one another. A more developed outline of this time is sketched below.
 
-| Part 2: Challenge      |                                                                                                                                                                                                                                                                   |                                                                     |     |     |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --- | --- |
-| Daily<br>Devotionals   | Near to Those Who Call on Him: Cultivating Intimacy with God<br>• Morning Reading: Learning the practice of spiritual reading.<br>• Midday Prayer: Marking the day in prayer, song, and community.<br>• Evening Reflection: Practicing the habit of daily examen. |                                                                     |     |     |
-| Outdoor<br>Experiences | Homestead: Practicing Parental Duty in the Outdoors<br>• Homemaking<br>• Hearth Building<br>• Shepherd's Carry                                                                                                                                                    | • Table Setting<br>• Night Vigil                                    |     |     |
-| Community<br>Building  | Homes of Holy Testimony: Homebuilding in the Household of Faith• Project Review<br>• Celebrations and Struggles<br>• Worship and Tradition<br>• Value and Education                                                                                               | • Discipline and Mission<br>• Life Spheres<br>• General Reflections |     |     |
-|                        |                                                                                                                                                                                                                                                                   |                                                                     |     |     |
+| Part 2: Challenge |
+| :--- |
+
+| | |
+| :--- | :--- |
+| **Daily Devotionals** | **Near to Those Who Call on Him: Cultivating Intimacy with God:**<br>• Morning Reading: Learning the practice of spiritual reading.<br>• Midday Prayer: Marking the day in prayer, song, and community.<br>• Evening Reflection: Practicing the habit of daily examen. |
+| **Outdoor Experiences** | **Homestead: Practicing Parental Duty in the Outdoors**<br>• Homemaking<br>• Hearth Building<br>• Shepherd's Carry<br>• Table Setting<br>• Night Vigil |
+| **Community Building** | **Homes of Holy Testimony: Homebuilding in the Household of Faith**<br>• Project Review<br>• Celebrations and Struggles<br>• Worship and Tradition<br>• Value and Education<br>• Discipline and Mission<br>• Life Spheres<br>• General Reflections |	
 
 ###### Part Three: Celebration
 
 The third part of this rite of passage concludes with a time of celebration. In this final movement into Christian parenting, each parent will give a personal testimony of God's work in their life over the course of this experiential study process. This will also be a time for each parent (and family unit) to express their commitment to build Christian hearth and home for the Lord. The time ends with a ceremony in which the church community surrounds the parents and families with encouragement. The basic overview of this final phase is summarized below.
 
-| Part 3: Celebration     |                                                                              |     |
-| ----------------------- | ---------------------------------------------------------------------------- | --- |
-| Personal<br>Testimony   | Reporting on God's work in your life.                                        |     |
-| Community<br>Confession | Sharing your commitment to take responsibility in life and faith.            |     |
-| Celebration<br>Ceremony | Concluding the rite of passage with a time of celebration and praise to God. |     |
+| Part 3: Celebration |
+| :--- |
+
+| | |
+| :--- | :--- |
+| **Personal Testimony** | Reporting on God's work in your life. |
+| **Community Confession** | Sharing your commitment to take responsibility in life and faith. |
+| **Celebration Ceremony** | Concluding the rite of passage with a time of celebration and praise to God. |
 
 ###### Part Four: Journal
 
