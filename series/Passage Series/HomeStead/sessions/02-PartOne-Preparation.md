@@ -3320,15 +3320,11 @@ Think about the responsibilities God has given you as a disciple, spouse, and pa
 
 ##### Discuss with Your Spouse
 
-| • | Reflecting on Your Past: Did your family of upbringing have a clear |
-|---|--------------------------------------------------------------------|
-|   | vision and mission? What were the driving purposes for your family |
-|   | of upbringing? Looking back, what did you appreciate and not       |
-|   | appreciate about your family's vision and mission?                 |
+<Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-DisSpo-1">- **Reflecting on Your Past**: Did your family of upbringing have a clear vision and mission? What were the driving purposes for your family of upbringing? Looking back, what did you appreciate and not appreciate about your family's vision and mission?</Question>
 
-<Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-DisSpo-1">- **Discussing Core Values**: What core principles do you want to guide your family's vision and mission? How will you connect your family vision and mission to God's purpose for his world?</Question>
+<Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-DisSpo-2">- **Discussing Core Values**: What core principles do you want to guide your family's vision and mission? How will you connect your family vision and mission to God's purpose for his world?</Question>
 
-<Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-DisSpo-2">- **Anticipating the Future**: What are some of your greatest concerns about clarifying your family vision and mission? What excites you about this work? How can you better prepare yourself to lead your family in a biblical mission?</Question>
+<Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-DisSpo-3">- **Anticipating the Future**: What are some of your greatest concerns about clarifying your family vision and mission? What excites you about this work? How can you better prepare yourself to lead your family in a biblical mission?</Question>
 
 ##### Project Explanation
 
@@ -3482,17 +3478,23 @@ Take time to review your projects over the past weeks. Share your projects with 
 
 Preview the Challenge and Celebration sections of this rite of passage. Use this time to prepare expectations for the trip. Specifically, orient participants to the daily devotionals, outdoor activities, and community building experiences. Also, preview the Celebration section which comes after the trip. Spend time praying for the time together and planning details for the trip.
 
-| Part 2: Challenge      |                                                                                                                                                                                                                                                                            |                                                                                                                                                 |  |  |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Daily<br>Devotionals   | Near to Those Who Call on Him: Cultivating Intimacy with God<br>• Morning Reading: Learning the practice of spiritual reading.<br>• Midday Prayer: Marking the day in prayer, song, and community.<br>• Evening Reflection: Practicing the habit of daily examen. |                                                                                                                                                 |  |  |
-| Outdoor<br>Experiences | Homestead: Practicing Parental Duty in the Outdoors<br>• Homemaking<br>• Hearth Building<br>• Shepherd's Carry                                                                                                                                                    | •<br>Table Setting<br>• Night Vigil                                                                                                          |  |  |
-| Community<br>Building  | •<br>Project Review<br>• Celebrations and Struggles<br>• Worship and Tradition<br>• Value and Education                                                                                                                                                           | Homes of Holy Testimony: Homebuilding in the Household of Faith<br>• Discipline and Mission<br>• Life Spheres<br>• General Reflections |  |  |
+| Part 2: Challenge |
+| :--- |
 
-| Part 3: Celebration     |                                                                                 |  |  |  |
-|-------------------------|---------------------------------------------------------------------------------|--|--|--|
-| Personal<br>Testimony   | Reporting on God's work in your life.                                           |  |  |  |
-| Community<br>Confession | Sharing your commitment to take responsibility in life and faith.               |  |  |  |
-| Celebration<br>Ceremony | Concluding the rite of passage with a time of celebration and praise to<br>God. |  |  |  |
+| | |
+| :--- | :--- |
+| **Daily Devotionals** | **Near to Those Who Call on Him: Cultivating Intimacy with God:**<br>• Morning Reading: Learning the practice of spiritual reading.<br>• Midday Prayer: Marking the day in prayer, song, and community.<br>• Evening Reflection: Practicing the habit of daily examen. |
+| **Outdoor Experiences** | **Homestead: Practicing Parental Duty in the Outdoors**<br>• Homemaking<br>• Hearth Building<br>• Shepherd's Carry<br>• Table Setting<br>• Night Vigil |
+| **Community Building** | **Homes of Holy Testimony: Homebuilding in the Household of Faith**<br>• Project Review<br>• Celebrations and Struggles<br>• Worship and Tradition<br>• Value and Education<br>• Discipline and Mission<br>• Life Spheres<br>• General Reflections |	
+
+| Part 3: Celebration |
+| :--- |
+
+| | |
+| :--- | :--- |
+| **Personal Testimony** | Reporting on God's work in your life. |
+| **Community Confession** | Sharing your commitment to take responsibility in life and faith. |
+| **Celebration Ceremony** | Concluding the rite of passage with a time of celebration and praise to God. |
 
 ##### Logistics
 
