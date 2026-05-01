@@ -37,53 +37,62 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 ##### Proposed Schedule
 
-| Day One |                                  |  |  |  |
-|---------|----------------------------------|--|--|--|
-| 3:00 pm | Arrival and Setup                |  |  |  |
-| 6:00 pm | Family Dinner                    |  |  |  |
-| 7:00 pm | Community Fellowship and Singing |  |  |  |
-| 8:00 pm | Evening Family Devotions         |  |  |  |
-| 9:00 pm | Bedtime                          |  |  |  |
+| Day One |
+| :--- |
+| | |
+| :--- | :--- |
+| 3:00 pm | Arrival and Setup |
+| 6:00 pm | Family Dinner |
+| 7:00 pm | Community Fellowship and Singing |
+| 8:00 pm | Evening Family Devotions |
+| 9:00 pm | Bedtime |
 
-| Day Two  |                                  |  |  |  |
-|----------|----------------------------------|--|--|--|
-| 7:00 am  | Wakeup and Breakfast Preparation |  |  |  |
-| 8:00 am  | Family Breakfast                 |  |  |  |
-| 9:00 am  | Morning Family Devotions         |  |  |  |
-| 9:30 am  | Mentoring Session 1              |  |  |  |
-| 10:30 am | Family Activity 1                |  |  |  |
-| 12:00 pm | Family Lunch                     |  |  |  |
-| 1:30 pm  | Midday Family Devotions          |  |  |  |
-| 2:00 pm  | Mentoring Session 2              |  |  |  |
-| 3:00 pm  | Family Activity 2                |  |  |  |
-| 5:00 pm  | Family Dinner                    |  |  |  |
-| 6:30 pm  | Community Fellowship and Singing |  |  |  |
-| 8:00 pm  | Evening Family Devotions         |  |  |  |
-| 9:00 pm  | Bedtime                          |  |  |  |
+| Day Two |
+| :--- |
+| | |
+| :--- | :--- |
+| 7:00 am | Wakeup and Breakfast Preparation |
+| 8:00 am | Family Breakfast |
+| 9:00 am | Morning Family Devotions |
+| 9:30 am | Mentoring Session 1 |
+| 10:30 am | Family Activity 1 |
+| 12:00 pm | Family Lunch |
+| 1:30 pm | Midday Family Devotions |
+| 2:00 pm | Mentoring Session 2 |
+| 3:00 pm | Family Activity 2 |
+| 5:00 pm | Family Dinner |
+| 6:30 pm | Community Fellowship and Singing |
+| 8:00 pm | Evening Family Devotions |
+| 9:00 pm | Bedtime |
 
-| Day Three |                                  |  |  |  |
-|-----------|----------------------------------|--|--|--|
-| 7:00 am   | Wakeup and Breakfast Preparation |  |  |  |
-| 8:00 am   | Family Breakfast                 |  |  |  |
-| 9:00 am   | Morning Family Devotions         |  |  |  |
-| 9:30 am   | Mentoring Session 1              |  |  |  |
-| 10:30 am  | Family Activity 1                |  |  |  |
-| 12:00 pm  | Family Lunch                     |  |  |  |
-| 1:30 pm   | Midday Family Devotions          |  |  |  |
-| 2:00 pm   | Mentoring Session 2              |  |  |  |
-| 3:00 pm   | Family Activity 2                |  |  |  |
-| 5:00 pm   | Family Dinner                    |  |  |  |
-| 6:30 pm   | Community Fellowship and Singing |  |  |  |
-| 8:00 pm   | Evening Family Devotions         |  |  |  |
-| 9:00 pm   | Bedtime                          |  |  |  |
+| Day Three |
+| :--- |
+| | |
+| :--- | :--- |
+| 7:00 am | Wakeup and Breakfast Preparation |
+| 8:00 am | Family Breakfast |
+| 9:00 am | Morning Family Devotions |
+| 9:30 am | Mentoring Session 1 |
+| 10:30 am | Family Activity 1 |
+| 12:00 pm | Family Lunch |
+| 1:30 pm | Midday Family Devotions |
+| 2:00 pm | Mentoring Session 2 |
+| 3:00 pm | Family Activity 2 |
+| 5:00 pm | Family Dinner |
+| 6:30 pm | Community Fellowship and Singing |
+| 8:00 pm | Evening Family Devotions |
+| 9:00 pm | Bedtime |
 
-| Day Four |                                  |  |  |  |
-|----------|----------------------------------|--|--|--|
-| 7:00 am  | Wakeup and Breakfast Preparation |  |  |  |
-| 8:00 am  | Family Breakfast                 |  |  |  |
-| 9:00 am  | Morning Family Devotions         |  |  |  |
-| 9:30 am  | Mentoring Session 1              |  |  |  |
-| 10:30 am | Pack Up and Departure            |  |  |  |
+| Day Four |
+| :--- |
+| | |
+| :--- | :--- |
+| 7:00 am | Wakeup and Breakfast Preparation |
+| 8:00 am | Family Breakfast |
+| 9:00 am | Morning Family Devotions |
+| 9:30 am | Mentoring Session 1 |
+| 10:30 am | Pack Up and Departure |
+
 
 #### Reflective Excerpts
 
