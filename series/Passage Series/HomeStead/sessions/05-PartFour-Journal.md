@@ -104,71 +104,152 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 ##### The Children's Hour
 
-Between the dark and the daylight, When the night is beginning to lower, Comes a pause in the day's occupations, That is known as the Children's Hour.
+Between the dark and the daylight,  
+When the night is beginning to lower,  
+Comes a pause in the day's occupations,  
+That is known as the Children's Hour.
 
-I hear in the chamber above me The patter of little feet, The sound of a door that is opened, And voices soft and sweet.
+I hear in the chamber above me  
+The patter of little feet,  
+The sound of a door that is opened,  
+And voices soft and sweet.
 
-From my study I see in the lamplight, Descending the broad hall stair, Grave Alice, and laughing Allegra, And Edith with golden hair.
+From my study I see in the lamplight,  
+Descending the broad hall stair,  
+Grave Alice, and laughing Allegra,  
+And Edith with golden hair.
 
-A whisper, and then a silence: Yet I know by their merry eyes They are plotting and planning together To take me by surprise.
+A whisper, and then a silence:  
+Yet I know by their merry eyes  
+They are plotting and planning together  
+To take me by surprise.
 
-A sudden rush from the stairway, A sudden raid from the hall! By three doors left unguarded They enter my castle wall!
+A sudden rush from the stairway,  
+A sudden raid from the hall!  
+By three doors left unguarded  
+They enter my castle wall!
 
-They climb up into my turret O'er the arms and back of my chair; If I try to escape, they surround me; They seem to be everywhere.
+They climb up into my turret  
+O'er the arms and back of my chair;  
+If I try to escape, they surround me;  
+They seem to be everywhere.
 
-They almost devour me with kisses, Their arms about me entwine, Till I think of the Bishop of Bingen In his Mouse-Tower on the Rhine!
+They almost devour me with kisses,  
+Their arms about me entwine,  
+Till I think of the Bishop of Bingen  
+In his Mouse-Tower on the Rhine!
 
-Do you think, O blue-eyed banditti, Because you have scaled the wall, Such an old mustache as I am Is not a match for you all!
+Do you think, O blue-eyed banditti,  
+Because you have scaled the wall,  
+Such an old mustache as I am  
+Is not a match for you all!
 
-I have you fast in my fortress, And will not let you depart, But put you down into the dungeon In the round-tower of my heart.
+I have you fast in my fortress,  
+And will not let you depart,  
+But put you down into the dungeon  
+In the round-tower of my heart.
 
-And there will I keep you forever, Yes, forever and a day, Till the walls shall crumble to ruin, And moulder in dust away!
+And there will I keep you forever,  
+Yes, forever and a day,  
+Till the walls shall crumble to ruin,  
+And moulder in dust away!
 
 << Henry Wadsworth Longfellow
 
 ##### The Familie
 
-What doth this noise of thoughts within my heart, As if they had a part? What do these loud complaints and pulling fears, As if there were no rules or eares?
+What doth this noise of thoughts within my heart,  
+As if they had a part?  
+What do these loud complaints and pulling fears,  
+As if there were no rules or eares?
 
-But, Lord, the house and familie are thine, Though some of them repine. Turn out these wranglers, which defile thy seat: For where thou dwellest all is neat.
+But, Lord, the house and familie are thine,  
+Though some of them repine.  
+Turn out these wranglers, which defile thy seat:  
+For where thou dwellest all is neat.
 
-First Peace and Silence all disputes controll, Then Order plaies the soul; And giving all things their set forms and houres, Makes of wilde woods sweet walks and bowres.
+First Peace and Silence all disputes controll,  
+Then Order plaies the soul;  
+And giving all things their set forms and houres,  
+Makes of wilde woods sweet walks and bowres.
 
-Humble Obedience neare the doore doth stand, Expecting a command:
+Humble Obedience neare the doore doth stand,  
+Expecting a command:  
+Then whom in waiting nothing seems more slow,  
+Nothing more quick when she doth go.
 
-Then whom in waiting nothing seems more slow, Nothing more quick when she doth go.
+Joyes oft are there, and griefs as oft as joyes;  
+But griefs without a noise:  
+Yet speak they louder then distemper'd fears.  
+What is so shrill as silent tears?
 
-Joyes oft are there, and griefs as oft as joyes; But griefs without a noise: Yet speak they louder then distemper'd fears. What is so shrill as silent tears?
-
-This is thy house, with these it doth abound: And where these are not found, Perhaps thou com'st sometimes, and for a day; But not to make a constant stay.
+This is thy house, with these it doth abound:  
+And where these are not found,  
+Perhaps thou com'st sometimes, and for a day;  
+But not to make a constant stay.
 
 << George Herbert
 
 ##### Blest Is the Home Where Jesus Is
 
-Blest is the home where Jesus is A welcome and a constant guest,— Where His great Love to all is known,— His saving Name by each confessed.
+Blest is the home where Jesus is  
+A welcome and a constant guest,—  
+Where His great Love to all is known,—  
+His saving Name by each confessed.
 
-To all the families Thou hast framed, Lord, let Thy grace be multiplied; Parents and offspring fill with love To Him who for our sins has died.
+To all the families Thou hast framed,  
+Lord, let Thy grace be multiplied;  
+Parents and offspring fill with love  
+To Him who for our sins has died.
 
-Thou Friend of children, blessed Lord, Bestow on little ones Thy care, And teach them how to live to Thee, And in Thy great salvation share.
+Thou Friend of children, blessed Lord,  
+Bestow on little ones  
+Thy care, And teach them how to live to Thee,  
+And in Thy great salvation share.
 
-On all our homes let favor rest; Let love and virtue there abound; May true obedience to Thy Word, And peace, and honor, there be found.
+On all our homes let favor rest;  
+Let love and virtue there abound;  
+May true obedience to Thy Word,  
+And peace, and honor, there be found.
 
-May all the homes on earth, dear Lord, Fountains of blessing prove to be,— Copies of that blest home above, Where ransomed souls Thy glory see.
+May all the homes on earth, dear Lord,  
+Fountains of blessing prove to be,—  
+Copies of that blest home above,  
+Where ransomed souls Thy glory see.
 
 << Joseph A. Seiss
 
 ##### My Mother's Prayer
 
-I never can forget the day I heard my mother kindly say, "You're leaving now my tender care; Remember, child, your mother's prayer."
+I never can forget the day  
+I heard my mother kindly say,  
+"You're leaving now my tender care;  
+Remember, child, your mother's prayer."
 
-Whene'er I think of her so dear, I feel her angel spirit near; A voice comes floating on the air, Reminding me of mother's prayer.
+Whene'er I think of her so dear,  
+I feel her angel spirit near;  
+A voice comes floating on the air,  
+Reminding me of mother's prayer.
 
-I never can forget the voice That always made my heart rejoice; Though I have wandered God knows where, Still I remember mother's prayer.
+I never can forget the voice  
+That always made my heart rejoice;  
+Though I have wandered God knows where,  
+Still I remember mother's prayer.
 
-Though years have gone, I can't forget Those words of love—I hear them yet; I see her by the old arm chair, My mother dear, in humble prayer.
+Though years have gone, I can't forget  
+Those words of love—I hear them yet;  
+I see her by the old arm chair,  
+My mother dear, in humble prayer.
 
-I never can forget the hour I felt the Savior's cleansing power; My sin and guilt He canceled there, 'Twas there He answered mother's prayer. Oh, praise the Lord for saving grace! We'll meet up yonder face to face, The home above together share, In answer to my mother's prayer. Amen.
+I never can forget the hour  
+I felt the Savior's cleansing power;  
+My sin and guilt He canceled there,  
+'Twas there He answered mother's prayer.  
+Oh, praise the Lord for saving grace!  
+We'll meet up yonder face to face,  
+The home above together share,  
+In answer to my mother's prayer.  
+Amen.
 
 << Judson W. Van De Venter
 
