@@ -2543,10 +2543,10 @@ The battle for hearth and home is where spiritual combat is often most fierce. T
 
 ##### Session Summary
 
-- We parent in evil days. The world is filled with danger and peril. Spiritual enemies seek to destroy families, attacking parents and children. Families face enemies from without (rebellious godless society) and within (proud sinful hearts)
+- We parent in evil days. The world is filled with danger and peril. Spiritual enemies seek to destroy families, attacking parents and children. Families face enemies from without (rebellious, godless society) and within (proud, sinful hearts)
 - Godly discipline is an act of love toward our children. Godly discipline should be both instructive and corrective. Discipline is a way that parents act as protectors and guardians of their home.
 - Godly discipline and instruction aims to cultivate wisdom and understanding. Biblical wisdom helps teaches children how to live skillfully in the world in a countercultural way that will be a witness of God's truth and a transforming influence in the world.
-- Godly parents direct their children to trust in God. Parenting work involves cultivating faith in God's protective care: to not hide from God but to hide in God. Christian home are marked by God's protective care. Godly parents entrust their homes to God's safekeeping.
+- Godly parents direct their children to trust in God. Parenting work involves cultivating faith in God's protective care: to not hide from God but to hide in God. Christian homes are marked by God's protective care. Godly parents entrust their homes to God's safekeeping.
 
 #### Charting the Path Ahead
 
@@ -2565,7 +2565,7 @@ The battle for hearth and home is where spiritual combat is often most fierce. T
 
 ##### Corporate Prayer
 
-Most High God, be our dwelling place. Help our home to make its home in you. As parents, we need you to be our refuge and fortress so that we can stand against foe and temptation, endure pain and suffering, and overcome weakness and frailty. Our greatest prayer is that you deliver our children—that you show them long life and satisfy them with your salvation. Grant to our family—each and every one life in your name. We surrender our hearth and home to you. As parents, we are your appointed watchmen over our children. Make us vigilant and aware. Keep us awake and alert. Grow us in grace and godliness. Help our discipline to be instructive and corrective, consistent and compassionate, formative and restorative, loving and just. May we teach our children—through word and example—not to hide from you, but how in faith to hide in you. Help us, O God! Amen!
+Most High God, be our dwelling place. Help our home to make its home in you. As parents, we need you to be our refuge and fortress so that we can stand against foe and temptation, endure pain and suffering, and overcome weakness and frailty. Our greatest prayer is that you deliver our children—that you show them long life and satisfy them with your salvation. Grant to our family—each and every one—life in your name. We surrender our hearth and home to you. As parents, we are your appointed watchmen over our children. Make us vigilant and aware. Keep us awake and alert. Grow us in grace and godliness. Help our discipline to be instructive and corrective, consistent and compassionate, formative and restorative, loving and just. May we teach our children—through word and example—not to hide from you, but how, in faith, to hide in you. Help us, O God! Amen!
 
 ##### Next Steps
 
@@ -2744,7 +2744,7 @@ Those I love, I rebuke and discipline. Therefore be earnest and repent.
 
 *After several minutes of silence, offer this prayer to God. Pray with open hands facing upwards to symbolize you stand before God in complete openness.*
 
-> Gracious Lord, you are our refuge and fortress. We live in a world filled with danger and threat. No enemy can contend against you and succeed. For ourselves and our homes, we need your strength to be our protection. We need your discipline to correct our erring steps. We need your instruction guide us on the paths of righteousness. We need your understanding to give us wisdom. We need your faithfulness to be our shield and shelter. We entrust ourselves to you. Keep us under the shadow of your wings. May all your enemies see in us the beautiful wisdom of God put on display in our hearts, lives, speech, families, children. Amen.
+> Gracious Lord, you are our refuge and fortress. We live in a world filled with danger and threat. No enemy can contend against you and succeed. For ourselves and our homes, we need your strength to be our protection. We need your discipline to correct our erring steps. We need your instruction guide us on the paths of righteousness. We need your understanding to give us wisdom. We need your faithfulness to be our shield and shelter. We entrust ourselves to you. Keep us under the shadow of your wings. May all your enemies see in us the beautiful wisdom of God put on display in our hearts, lives, speech, families, and children. Amen.
 
 ##### Meditating on God's Tender Care
 
@@ -2802,7 +2802,7 @@ Write a prayer of protection over you children. Use the language of Psalm 94:17�
 
 ##### Example Prayer
 
-God, unless the Lord is Abigail's helper, she will dwell in silence. Her foot will be prone to slip, but may your loving devotion, compassion, and faithful care will support her. Help her to find security in your steadfast love. When she is anxious, be her consolation. When she is filled with sorrow, be the delight of her soul. While the evil prowl in the world, be Abigail's stronghold and rock of refuge. Do not let her form a foundation on shaking ground. Bring justice upon the wicked and establish Abigail in your loving grace.
+God, unless the Lord is Abigail's helper, she will dwell in silence. Her foot will be prone to slip, but may your loving devotion, compassion, and faithful care support her. Help her to find security in your steadfast love. When she is anxious, be her consolation. When she is filled with sorrow, be the delight of her soul. While the evil prowl in the world, be Abigail's stronghold and rock of refuge. Do not let her form a foundation on shaky ground. Bring justice upon the wicked and establish Abigail in your loving grace.
 
 ##### Prayer of Protection
 
