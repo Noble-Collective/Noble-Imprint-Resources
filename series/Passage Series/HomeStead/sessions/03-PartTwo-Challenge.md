@@ -327,7 +327,7 @@ I will praise God's name in song and exalt Him with thanksgiving.
 
 ##### Looking Ahead in Hope
 
-*Anticipate what tomorrow will be like and could be like. Think about how you want to live this next day differently. Consider how you want to keep in step with the Spirit more attentively. Identify specific commitments that you want to embrace. Name what you are most hopeful about for the next day. Prayerfully read the following passage and record your anticipations below.*
+*Anticipate what tomorrow will be like and could be like. Think about how you want to live differently this next day. Consider how you want to keep in step with the Spirit more attentively. Identify specific commitments that you want to embrace. Name what you are most hopeful about for the next day. Prayerfully read the following passage and record your anticipations below.*
 
 Rest in God alone, O my soul, for my hope comes from Him.
 
