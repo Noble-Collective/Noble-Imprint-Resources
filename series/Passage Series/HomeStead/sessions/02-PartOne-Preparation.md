@@ -1422,15 +1422,15 @@ Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthro
 
 ##### Responsive Call
 
-**All**: "Hear, O nations, the word of the Lord, and proclaim it in distant coastlands."
+**All**: Hear, O nations, the word of the Lord, and proclaim it in distant coastlands.
 
-**Reader**: "The One who scattered Israel will gather them and keep them as a shepherd keeps his flock."
+**Reader**: The One who scattered Israel will gather them and keep them as a shepherd keeps his flock.
 
-**All**: "For the Lord has ransomed Jacob and redeemed him from the hand that had overpowered him."
+**All**: For the Lord has ransomed Jacob and redeemed him from the hand that had overpowered him.
 
-**Reader**: "They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the Lord— the grain, new wine, and oil, and the young of the flocks and herds."
+**Reader**: They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the Lord— the grain, new wine, and oil, and the young of the flocks and herds.
 
-**All**: "Their life will be like a well-watered garden, and never again will they languish."
+**All**: Their life will be like a well-watered garden, and never again will they languish.
 
 << Jeremiah 31:10–12
 
