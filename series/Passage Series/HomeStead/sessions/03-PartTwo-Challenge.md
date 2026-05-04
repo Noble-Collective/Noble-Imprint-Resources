@@ -65,11 +65,11 @@ Example: "God, help me to raise my children in the discipline and instruction of
 << Joshua 1:9
 
 ##### Recounting Key Impressions
+*After concluding this spiritual discipline, reflect on what God is teaching you. Discuss the following questions as a small group.*
 
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-1">1. After concluding this spiritual discipline, reflect on what God is teaching you. Discuss the following questions as a small group.</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-2">2. What did you learn (observations, insights, or questions) from this time with God?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-3">3. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-4">4. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-1">1. What did you learn (observations, insights, or questions) from this time with God?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-2">2. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-3">3. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
 
 #### Midday Prayer
 
@@ -122,9 +122,9 @@ But I will walk with integrity; redeem me and be merciful to me.
 
 *After concluding this spiritual discipline, reflect on what God is teaching you. Discuss the following questions as a small group.*
 
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MidPra-RecKeyImp-1">1. What did you learn (observations, insights, or questions) from this time with God?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MidPra-RecKeyImp-2">2. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MidPra-RecKeyImp-3">3. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-1">1. What did you learn (observations, insights, or questions) from this time with God?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-2">2. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-3">3. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
 
 #### Evening Reflection
 
@@ -211,7 +211,6 @@ God, have mercy on me, a sinner!
 *Reflect on the meaning of the biblical text you read above. Use the following prompts to guide your thinking. Record your thoughts in the space below.*
 
 <Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-ConTex-1">1. What does this passage tell the son to do? Why is it important for children to follow these instructions?</Question>
-
 <Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-ConTex-2">2. What promise does this passage give for those who listen to godly instruction?</Question>
 <Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-ConTex-3">3. How well are we following these commands in our family? How do we need to grow?</Question>
 
@@ -233,10 +232,11 @@ God, have mercy on me, a sinner!
 
 ##### Recounting Key Impressions
 
-<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-1">1. After concluding this spiritual discipline, reflect on what God is teaching you. Discuss the following questions as a small group.</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-2">2. What did you learn (observations, insights, or questions) from this time with God?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-3">3. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-4">4. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
+*After concluding this spiritual discipline, reflect on what God is teaching you. Discuss the following questions as a small group.*
+
+<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-1">1. What did you learn (observations, insights, or questions) from this time with God?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-2">2. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayTwo-MorRea-RecKeyImp-3">3. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
 
 #### Midday Prayer
 
@@ -365,7 +365,7 @@ In God alone my soul finds rest; my salvation comes from Him.
 
 << John Hall, *A Christian Home*
 
-This section of the rite of passage will help reflect on your duty as a godly parent—building Christian hearth and home—through outdoor experiences. These challenges are meant to be embodied experiences in the outdoors that give you time to consider the spiritual responsibility of parenting through a physical outdoor activity. Some may consider these challenges unnecessary. They seek merely the instructions of godly parenting and hope to implement them as soon as possible. This may be well and good. But the ability to have experiences that affect the physical senses can strengthen our commitment and understanding of our spiritual duties. These activities were also designed with the church in mind. As parents go through these experiences together, they hopefully will create memories, establish bonds, and fortify relationships with each other. Not only does being out in creation help us commune with our Lord, it also helps forge relationships with one another, helping us to become a mature church that operates as a parenting community.
+This section of the rite of passage will help reflect on your duty as a godly parent—building Christian hearth and home—through outdoor experiences. These challenges are meant to be embodied experiences in the outdoors that give you time to consider the spiritual responsibility of parenting through a physical outdoor activity. Some may consider these challenges unnecessary. They seek merely the instructions of godly parenting and hope to implement them as soon as possible. This may be well and good. But the ability to have experiences that affect the physical senses can strengthen our commitment and understanding of our spiritual duties. These activities were also designed with the church in mind. As parents go through these experiences together, they hopefully will create memories, establish bonds, and fortify relationships with each other. Not only does being out in creation help us commune with our Lord, it also helps forge relationships with one another, helping us to become a mature church that operates as a parenting community. If your church desires to design its own outdoor activities, you can use the blank space templates in this section to do so.
 
 ### Outdoor Experience One
 
