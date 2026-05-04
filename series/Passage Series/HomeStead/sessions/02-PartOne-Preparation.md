@@ -3470,7 +3470,7 @@ Review all sessions and their main ideas. Share which sessions, biblical texts, 
 
 Take time to review your projects over the past weeks. Share your projects with each other, celebrating the progress made, shouldering the burdens of difficulties discovered, and helping all to hone their work and put it in a more full and complete form.
 
-*This section of the book helps to give you preview to the experience section of this rite of passage. We have provided suggested elements to this outdoor experience, but this space allows each church to customize the experience.*
+*This section of the book helps to give you a preview to the experience section of this rite of passage. We have provided suggested elements to this outdoor experience, but this space allows each church to customize the experience.*
 
 ##### Planning
 
