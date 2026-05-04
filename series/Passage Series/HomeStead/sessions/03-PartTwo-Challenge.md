@@ -420,7 +420,7 @@ Christian homebuilding seeks to establish one's family according to God's order 
 
 *Read the following before you perform this outdoor activity.*
 
-<< A friend loves at all times, and a brother is born for adversity.
+> A friend loves at all times, and a brother is born for adversity.
 
 << Proverbs 17:17
 
@@ -437,10 +437,9 @@ The hearth signifies the intimate bonds and daily provision experienced with the
 Christian homebuilding seeks to cultivate deep and lasting bonds with one another. The relationships we form in our families shape the way we approach relationships for the rest of our lives. The family is a fertile context for fellowship and communion. In this outdoor activity, you will set up your fire pit for your family—an act of hearth building. This physical act will help you reflectively consider your spiritual duty to your family. Remember: In the act of setting up your hearth, you are not just preparing for an outdoor family camp experience—you are practicing the sacred and solemn work of building a family culture that nurtures and nourishes. The following tasks will guide you in this embodied activity:
 
 - Gather stones to demarcate the fire area.
-
-- Establish any cook areas over the fire.
+- Establish any cooking areas over the fire.
 - Set up sitting areas for people to fellowship.
-- Make sure that the firepit is safe and the fire will not spread.
+- Make sure that the fire pit is safe and the fire will not spread.
 - Start the fire and keep it going during the trip.
 
 ##### Reflection: Evaluating an Important Work
@@ -453,7 +452,7 @@ Christian homebuilding seeks to cultivate deep and lasting bonds with one anothe
 
 ##### Consecration: Dedicating Our Home to God
 
-<Question id="Home-ParTwoCha-OutExp-ExpTwoHeaBui-HeaBui-ConDedHomGod-1">*Write a final prayer to consecrate your home to the Lord.*</Question>
+<Question id="Home-ParTwoCha-OutExp-ExpTwoHeaBui-HeaBui-ConDedHomGod-1">*Write a final prayer to consecrate your home to the Lord.*</Question><Question id="Home-ParTwoCha-OutExp-OutExpOne-Hom-ConDedHomGod-1">*Write a final prayer to consecrate your home to the Lord.*</Question>
 
 ### Experience Three: Shepherd’s Carry
 
@@ -482,7 +481,6 @@ Parenting is simultaneously a gracious gift and weighty responsibility. Alongsid
 Christian homebuilding tends to the family like a flock. Ultimately, Christian parents recognize that their children belong to God most of all. To raise a child in the faith is a heavy duty on parental shoulders. In this outdoor activity, you will go on a hike with your family with a weighted backpack—an act of bearing responsibility on behalf of your family and children. This physical act will help you reflectively consider your spiritual duty to your family. Remember: In the act of carrying a heavy load, you are not just testing your physical stamina and strength—you are practicing the sacred and solemn work of tending to your children like a good shepherd. The following tasks will guide you in this embodied activity:
 
 - Plan a family hike with all the members of your family.
-
 - Fill a backpack with weight (either rocks or supplies).
 - Hike together as a family, willingly adding the other supplies of others in your own pack.
 - As you hike, consider the spiritual, God-given duty given to you as a parent.
@@ -540,11 +538,11 @@ Christian homebuilding sets the table for close bonds of relationship and fellow
 
 ##### Consecration: Dedicating Our Home to God
 
+<Question id="Home-ParTwoCha-OutExp-ExpFivNigVig-NigVig-1">*Write a final prayer to consecrate your home to the Lord.*</Question>
+
 ### Experience Five: Night Vigil
 
 #### Night Vigil
-
-<Question id="Home-ParTwoCha-OutExp-ExpFivNigVig-NigVig-1">*Write a final prayer to consecrate your home to the Lord.*</Question>
 
 *This outdoor experience is intended to connect an experience in nature with our parenting duty. As you go through this experience, do so reflectively, considering how it parallels with and gives insight into parenting duty.*
 
