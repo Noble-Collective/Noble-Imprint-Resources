@@ -3325,30 +3325,36 @@ Think about the responsibilities God has given you as a disciple, spouse, and pa
 In this project, you and your spouse will describe the vision and mission for your family. Your family vision is a statement that describes the future hopes for your family. You can think of your family vision as the impact you hope to make with the members of your family and those outside of your family. Your family mission statement identifies the overarching purpose for your household—the underlying "why" for all your parenting and family activities.
 
 - **Vision Statement**
-
-- **Overarching Idea**: Transformative impact and outcomes
-- **Key Question**: Where are you going?
-- **Time Orientation**: Focuses on the hopes and prospects for your family in the future.
-- **Elements**: Includes sphere of influence, strategic efforts, and future reality.
+	- **Overarching Idea**: Transformative impact and outcomes
+	- **Key Question**: Where are you going?
+	- **Time Orientation**: Focuses on the hopes and prospects for your family in the future.
+	- **Elements**: Includes sphere of influence, strategic efforts, and future reality.
 
 - **Mission Statement**
-
-- **Overarching Idea**: Underlying purpose and drive
-- **Key Question**: Why do you exist?
-- **Time Orientation**: Focuses on your family's underlying purpose which drives every aspect of your family life.
-- **Elements**: Includes unique contribution, driving cause, and aspirational goals.
+	- **Overarching Idea**: Underlying purpose and drive
+	- **Key Question**: Why do you exist?
+	- **Time Orientation**: Focuses on your family's underlying purpose which drives every aspect of your family life.
+	- **Elements**: Includes unique contribution, driving cause, and aspirational goals.
 
 ##### Family Vision and Mission
+
+###### Family Vision Reflection Questions
 
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-1">1. What sphere of influence has God given your family? What is the neighborhood, community, and local sphere God has placed your family?</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-2">2. What impact does God want your family to make in the larger world? What regional and global impact has God given for your family?</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-3">3. How would you want to describe your family in twenty years?</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-4">4. How will you strategically help your family realize its God-given vision?</Question>
 
+###### Family Vision Statement
+
+###### Family Mission Reflection Questions
+
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-5">1. What is the purpose of your family? Why has God brought your family into existence?</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-6">2. How will your family serve God's purposes in the world? What is the unique role your family can play in God's unfolding work in the world?</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-7">3. How will you measure your family's effectiveness in its mission?</Question>
 <Question id="Home-ParOnePre-SesSix-Ses6RefPro-ParPro-FamVisMis-8">4. How will you strategically help your family realize its God-given mission?</Question>
+
+###### Family Mission Statement
 
 ###### Conclusion
 
