@@ -3051,8 +3051,8 @@ God's wisdom in the psalms is rich and rewarding. It not only offers us a bluepr
 ##### Session Summary
 
 - Christian homebuilding is meaningful work. This work cannot be done without the Lord's help. The work of parenting is one of the most significant parts of our lifework.
-- A parent's personal faith and devotion affect the way they go about their parenting work. Godly parents can exemplify their devotion to their children in the way they go about their parenting work.
-- God blesses the godly home. His shows his favor on godly families who fear God. Parents must tune their family to God's enduring blessings and give up the pursuit of temporary worldly pleasures.
+- A parent's personal faith and devotion affect the way they go about their parenting work. Godly parents can exemplify their devotion to the Lord by means of the way they raise their children.
+- God blesses the godly home. He shows his favor on godly families who fear God. Parents must orient their family to God's enduring blessings and give up the pursuit of temporary worldly pleasures.
 - Parenting is a most important vocation vital for God's work in the world. Parents are to raise children so that they can be launched into the world in the service of God's will. Parents should raise their children to make a generational and global impact.
 
 #### Charting the Path Ahead
@@ -3235,7 +3235,7 @@ And every house is built by someone, but God is the builder of everything.
 
 *After several minutes of silence, offer this prayer to God. Pray with open hands facing upwards to symbolize you stand before God in complete openness.*
 
-> Faithful Lord, we thank you for our family. We cherish the gift of our home. Our children are a heritage from the Lord. We want to raise children that will be sharpened arrows, instruments in your hand. Help us in the great and noble work. We want to treasure our children as blessings from your gracious hand. Help us to see our children as divine gifts from a good God. We want our children to mature to so that they can faithfully serve you. Help us to not merely bear children, but to raise in them in the Lord. May our children learn to fear you. May our lives as parents be worthy of emulation. May our table be full of your blessing. May our home be full of your provision. May our children be instruments of righteousness in the world. Build your house through the building of our house. Amen and amen.
+> Faithful Lord, we thank you for our family. We cherish the gift of our home. Our children are a heritage from the Lord. We want to raise children that will be sharpened arrows, instruments in your hand. Help us in the great and noble work. We want to treasure our children as blessings from your gracious hand. Help us to see our children as divine gifts from a good God. We want our children to mature to so that they can faithfully serve you. Help us to not merely bear children, but to raise in them in the Lord. May our children learn to fear you. May our lives as parents be worthy of emulation. May our table be full of your blessing. May our home be full of your provision. May our children be instruments of righteousness in the world. Build your house through the building of our home. Amen and amen.
 
 ##### Meditating on God's Tender Care
 
@@ -3255,7 +3255,7 @@ And every house is built by someone, but God is the builder of everything.
 
 ##### Imagining Your Blessing
 
-*Use the imaginative question to consider life outside of God's care. Let this excercise stir gratitude and praise in your heart.*
+*Use the imaginative question to consider life outside of God's care. Let this exercise stir gratitude and praise in your heart.*
 
 <Question id="Home-ParOnePre-SesSix-Ses6WeeDis-SpiPra-ImaBle-1">- Identify the blessings you have experienced through children...</Question>
 
@@ -3294,15 +3294,15 @@ Think about the responsibilities God has given you as a disciple, spouse, and pa
 
 ##### Example Beatitudes
 
-- Blessed is the family who walks in the fear of God.
-- Blessed in the family who cherishes each children as a gift from God.
-- Blessed in the family who fully depends upon God to build the house.
-- Blessed in the family who tends to the marriage as the bedrock for their household health.
-- Blessed in the family who risks its comfort for the work of the Lord.
-- Blessed in the family who raises children to be sharpened arrows to be launched into the world.
-- Blessed in the family stands whose parents sentry over its house like a watchmen.
-- Blessed in the family who prizes eternal things and does not lay up for itself treasures on earth.
-- Blessed in the family who invests in their children for the sake of their children's children.
+- Blessed is the family which walks in the fear of God.
+- Blessed is the family which cherishes each children as a gift from God.
+- Blessed is the family which fully depends upon God to build the house.
+- Blessed is the family which tends to marriage as the bedrock for their household health.
+- Blessed is the family which risks its comfort for the work of the Lord.
+- Blessed is the family which raises children to be sharpened arrows to be launched into the world.
+- Blessed is the family whose parents stand sentry over its house like watchmen.
+- Blessed is the family which prizes eternal things and does not lay up for itself treasures on earth.
+- Blessed is the family which invests in their children for the sake of their children's children.
 
 ##### Family Beatitudes
 
@@ -3366,7 +3366,7 @@ In this project, you and your spouse will describe the vision and mission for yo
 
 << David Dickson, *The Elder and His Work*
 
-In this final session, you will review the main topics of this study. This time of community reflection affords an opportunity to discuss key ideas, raise lingering questions, summarize noteworthy insights gained over the course of the previous weeks. Take time to encourage and pray for each other. You have invested a lot of time and energy in Scripture study, personal reflection, and parenting projects. Digest the previous weeks together, celebrating all that God has taught you. Additionally, during this final session, your parenting community will prepare for the outdoor experience of family camp. Use this time to orient yourselves to the daily devotionals, mentoring sessions, and outdoor experiences. Consider this a prepatory meeting to think through logistics so that you can maximize the time together on the camping trip. This is a moment for your parenting community and church to make an emphatic declaration that you and your home will wholeheartedly live in the service of the Lord.
+In this final session, you will review the main topics of this study. This time of community reflection affords an opportunity to discuss key ideas, raise lingering questions, and summarize noteworthy insights gained over the course of the previous weeks. Take time to encourage and pray for each other. You have invested a lot of time and energy in Scripture study, personal reflection, and parenting projects. Digest the previous weeks together, celebrating all that God has taught you. Additionally, during this final session, your parenting community will prepare for the outdoor experience of family camp. Use this time to orient yourselves to the daily devotionals, mentoring sessions, and outdoor experiences. Consider this a preparatory meeting to think through logistics so that you can maximize the time together on the camping trip. This is a moment for your parenting community and church to make an emphatic declaration that you and your home will wholeheartedly live in the service of the Lord.
 
 ##### Key Idea
 
@@ -3462,7 +3462,7 @@ Review all sessions and their main ideas. Share which sessions, biblical texts, 
 
 #### Project Review
 
-Take time to review your projects over the past weeks. Share your projects with each other, celebrating with progress made, shouldering burdens with difficulties discovered, and helping all to hone their work and put it in a more full and complete form.
+Take time to review your projects over the past weeks. Share your projects with each other, celebrating the progress made, shouldering the burdens of difficulties discovered, and helping all to hone their work and put it in a more full and complete form.
 
 *This section of the book helps to give you preview to the experience section of this rite of passage. We have provided suggested elements to this outdoor experience, but this space allows each church to customize the experience.*
 
