@@ -743,7 +743,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 #### Discipline and Mission
 
-*We grow in the faith with in the context of loving relationships with other believers. In this session, use the following guide to help you think about your parenting duty with trusted spiritual mentors.*
+*We grow in the faith within the context of loving relationships with other believers. In this session, use the following guide to help you think about your parenting duty with trusted spiritual mentors.*
 
 ##### Discussion Questions
 
