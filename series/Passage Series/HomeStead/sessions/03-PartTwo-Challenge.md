@@ -434,7 +434,7 @@ The hearth signifies the intimate bonds and daily provision experienced with the
 
 *Follow the directions below to perform this outdoor activity.*
 
-Christian homebuilding seeks to cultivate deep and lasting bonds with one another. The relationships we form in our families shape the way we approach relationships for the rest of our lives. The family is a fertile context for fellowship and communion. In this outdoor activity, you will set up your fire pit for your family—an act of hearth building. This physical act will help you reflectively consider your spiritual duty to your family. Remember: In the act of setting up your hearth, you are not just preparing for an outdoor family camp experience—you are practicing the sacred and solemn work of building a family culture that nurtures and nourishes. The following tasks will guide you in this embodied activity:
+Christian homebuilding seeks to cultivate deep and lasting bonds with one another. The relationships we form in our families shape the way we approach relationships for the rest of our lives. The family is a fertile context for fellowship and communion. In this outdoor activity, you will set up your fire pit for your family—an act of hearth-building. This physical act will help you reflectively consider your spiritual duty to your family. Remember: In the act of setting up your hearth, you are not just preparing for an outdoor family camp experience—you are practicing the sacred and solemn work of building a family culture that nurtures and nourishes. The following tasks will guide you in this embodied activity:
 
 - Gather stones to demarcate the fire area.
 - Establish any cooking areas over the fire.
