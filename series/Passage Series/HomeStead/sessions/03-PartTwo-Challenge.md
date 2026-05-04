@@ -97,7 +97,7 @@ Example: "God, help me to raise my children in the discipline and instruction of
 
 > O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.
 
-<< Psalm 62:1
+<< Psalm 63:1
 
 ##### Praying for Wisdom
 
