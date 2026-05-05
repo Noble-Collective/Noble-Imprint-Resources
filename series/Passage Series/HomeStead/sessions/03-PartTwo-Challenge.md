@@ -672,7 +672,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ##### Discussion Questions
 
-*Use the following questions to guide your discussions about parenting with a mentoring couple. These mentoring sessions are meant to provide an open-ended discussion format to celebrate successes, talk about struggles, and pray together.*
+*With a mentoring couple, use the following questions to guide your discussions about parenting. These sessions are meant to provide an open-ended format to celebrate successes, talk about struggles, and pray together.*
 
 <Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-1">1. What are your greatest fears about parenting? What gets you most excited?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesTwo-CelStr-DisQue-SeaTex-2">2. What are your biggest burdens in parenting? What gives you the most joy?</Question>
@@ -691,7 +691,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ##### Discussion Questions
 
-*Use the following questions to guide your discussions about parenting with a mentoring couple. These mentoring sessions are meant to provide an open-ended discussion format to celebrate successes, talk about struggles, and pray together.*
+*With a mentoring couple, use the following questions to guide your discussions about parenting. These sessions are meant to provide an open-ended format to celebrate successes, talk about struggles, and pray together.*
 
 ###### Family Worship
 
@@ -719,7 +719,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ##### Discussion Questions
 
-*Use the following questions to guide your discussions about parenting with a mentoring couple. These mentoring sessions are to be a time of listening, encouragement, and prayer.*
+*With a mentoring couple, use the following questions to guide your discussions about parenting. These sessions are meant to provide an open-ended format to celebrate successes, talk about struggles, and pray together.*
 
 ###### Family Values
 
@@ -747,7 +747,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ##### Discussion Questions
 
-*Use the following questions to guide your discussions about parenting with a mentoring couple. These mentoring sessions are to be a time of listening, encouragement, and prayer.*
+*With a mentoring couple, use the following questions to guide your discussions about parenting. These sessions are meant to provide an open-ended format to celebrate successes, talk about struggles, and pray together.*
 
 ###### Family Discipline
 
@@ -775,7 +775,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 
 ##### Discussion Questions
 
-*Use the following questions to guide your discussions about parenting with a mentoring couple. These mentoring sessions are to be a time of listening, encouragement, and prayer.*
+*With a mentoring couple, use the following questions to guide your discussions about parenting. These sessions are meant to provide an open-ended format to celebrate successes, talk about struggles, and pray together.*
 
 ###### Focused Questions
 
