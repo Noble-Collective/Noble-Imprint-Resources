@@ -2230,7 +2230,7 @@ Children, obey your parents in the Lord, for this is right. "Honor your father a
 
 *After several minutes of silence, offer this prayer to God. Pray with open hands facing upwards to symbolize you stand before God in complete openness.*
 
-> Make our home a place that fears the Lord. We know that we cannot cultivate genuine faith in our children without embodying it ourselves. We gaze at your glory, and recognize there is none like you. We come to terms with your justice and kneel before you in humble repentance. We acknowledge your majesty, and fall in awe of your beauty. We are confronted by your righteousness and confess you as the Most High God. We taste your goodness and count you as our ultimate good. Help us to live in the fear of the Lord. By fearing you, may we triumph over all our fears. Amen
+> Make our home a place that fears the Lord. We know that we cannot cultivate genuine faith in our children without embodying it ourselves. We gaze at your glory, and recognize there is none like you. We come to terms with your justice and kneel before you in humble repentance. We acknowledge your majesty, and fall in awe of your beauty. We are confronted by your righteousness and confess you as the Most High God. We taste your goodness and count you as our ultimate good. Help us to live in the fear of the Lord. By fearing you, may we triumph over all our fears. Amen.
 
 ##### In the Dark
 
