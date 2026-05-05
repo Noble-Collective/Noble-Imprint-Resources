@@ -16,7 +16,7 @@ This is not the end of your spiritual journey. While your completion of this rit
 
 #### Bibliography
 
-*The following sources serve as a works cited for this study and also as a reading list for your exploration. Consider reading some of these works to enrich your understanding, expand your capacity, and deepen your wisdom for parenting work.*
+*The following sources serve as a works cited for this study and also as a reading list for your exploration. Consider reading some of these works to enrich your understanding and deepen your wisdom for parenting work.*
 
 ##### Bibliography
 
