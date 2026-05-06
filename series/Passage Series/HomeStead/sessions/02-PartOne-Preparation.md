@@ -2904,7 +2904,8 @@ Vainly we hope for the harvest-tide
 Till God gives life to the seed.  
 Yet nearer and nearer draws the time,  
 The time that shall surely be,  
-When the earth shall be filled with the glory of God  
+When the earth shall be filled with  
+The glory of God  
 As the waters cover the sea.  
 
 ##### Scripture Reading
