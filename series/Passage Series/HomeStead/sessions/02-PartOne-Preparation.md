@@ -2871,7 +2871,8 @@ God is working this purpose out,
 And the time is drawing near;  
 Nearer and nearer draws the time,  
 The time that shall surely be:  
-When the earth shall be filled with the glory of God  
+When the earth shall be filled with  
+The glory of God  
 As the waters cover the sea.  
 
 **Verse 2**  
@@ -2881,7 +2882,8 @@ By the mouth of many messengers
 Goes forth the voice of God:  
 "Give ear to me, ye continents,  
 Ye isles, give ear to me,  
-That the earth may be filled with the glory of God  
+That the earth may be filled with  
+The glory of God  
 As the waters cover the sea."  
 
 **Verse 3**  
@@ -2891,7 +2893,8 @@ That the light of the glorious gospel of truth
 May shine throughout the world.  
 Let us all fight with sorrow and sin  
 To set the captives free,  
-That the earth may be filled with the glory of God  
+That the earth may be filled with  
+The glory of God  
 As the waters cover the sea.  
 
 **Verse 4**  
