@@ -724,7 +724,7 @@ Parenting is a community venture. Inasmuch as the family is a God-appointed mean
 ###### Family Values
 
 <Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeaTex-1">1. **Past Reflection**: What was your home like when you were growing up? How would you describe the home environment during your upbringing?</Question>
-<Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeaTex-2">2. **Current Evaluation**: How would you describe the current culture of your home? What characteristics define your home at the present time? How is your personal faith shaping the character of your home? How is your marriage relationship shaping the culture of your home?</Question>
+<Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeaTex-2">2. **Current Evaluation**: How would you describe the current culture of your home? How is your personal faith shaping the character of your home? How is your marriage shaping the culture of your home?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeaTex-3">3. **Future Vision**: What characteristics would you like to define your home? Do any major changes in lifestyle, house, vocation, finances, priorities need to happen to better realize vision for kids and family? What can you do to start cultivating the culture of your home now?</Question>
 <Question id="Home-ParTwoCha-ComBui-MenSesFou-ValEdu-DisQue-SeaTex-4">4. **Personal Assessment**: What priorities and values are misaligned in your own heart? Do you find yourself prone to anger, impatience, or a critical spirit? How do these need to change so you can be a shepherd after God's own heart?</Question>
 
