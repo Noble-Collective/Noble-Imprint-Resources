@@ -482,7 +482,7 @@ Christian homebuilding tends to the family like a flock. Ultimately, Christian p
 
 - Plan a family hike with all the members of your family.
 - Fill a backpack with weight (either rocks or supplies).
-- Hike together as a family, willingly adding the other supplies of others in your own pack.
+- Hike together as a family, willingly carrying the supplies of others in your own pack.
 - As you hike, consider the spiritual, God-given duty given to you as a parent.
 
 ##### Reflection: Evaluating an Important Work
@@ -558,7 +558,7 @@ Christian homebuilding sets the table for close bonds of relationship and fellow
 
 << Gregory Nazianzen, *Orations*
 
-Because the family is one of God's greatest gifts, it is the one of the enemy's most hated targets. Faced with temptation, sin, affliction, and opposition, the family is under fierce attack. Parents are to remain watchful over their families. While the family sleeps, we should remain alert, circumspect, and vigilant. God has entrusted the safety of our home to our watchful eye. Although God is the ultimate protector of our home, we are to exercise faithful guardianship—filtering the influences that come into our home, managing the culture within our home, and mobilizing the good work done outside our home. While a spiritual war rages around us, we must—like watchmen—remain attentive, heedful, observant, and wise. Sometimes, God may even awaken us in the midnight hours to lather our family in protective prayer.
+Because the family is one of God's greatest gifts, it is one of the enemy's most hated targets. Faced with temptation, sin, affliction, and opposition, the family is under fierce attack. Parents are to remain watchful over their families. While the family sleeps, we should remain alert, circumspect, and vigilant. God has entrusted the safety of our home to our watchful eye. Although God is the ultimate protector of our home, we are to exercise faithful guardianship—filtering the influences that come into our home, managing the culture within our home, and mobilizing the good work done outside our home. While a spiritual war rages around us, we must—like watchmen—remain attentive, heedful, observant, and wise. Sometimes, God may even awaken us in the midnight hours to lather our family in protective prayer.
 
 ##### Implementation: Fulfilling Our Family Duty
 
