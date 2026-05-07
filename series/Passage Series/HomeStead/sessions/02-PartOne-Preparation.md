@@ -3182,7 +3182,7 @@ Your mother was like a vine in your vineyard, planted by the water; it was fruit
 
 **Ezekiel 28:25–26**
 
-This is what the Lord God says: 'When I gather the house of Israel from the peoples among whom they have been scattered, I will show Myself holy among them in the sight of the nations. Then they will dwell in their own land, which I have given to My servant Jacob. And there they will dwell securely, build houses, and plant vineyards. They will dwell securely when I execute judgments against all those around them who treat them with contempt. Then they will know that I am the Lord their God.'"
+This is what the Lord God says: "When I gather the house of Israel from the peoples among whom they have been scattered, I will show Myself holy among them in the sight of the nations. Then they will dwell in their own land, which I have given to My servant Jacob. And there they will dwell securely, build houses, and plant vineyards. They will dwell securely when I execute judgments against all those around them who treat them with contempt. Then they will know that I am the Lord their God."
 
 **Hebrews 3:4**
 
