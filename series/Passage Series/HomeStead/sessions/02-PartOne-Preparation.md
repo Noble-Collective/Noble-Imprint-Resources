@@ -2150,7 +2150,7 @@ My son, pay attention to my words; incline your ear to my sayings. Do not lose s
 
 **Proverbs 6:20–23**
 
-My son, keep your father's commandment, and do not forsake your mother's teaching. Bind them always upon your heart; tie them around your neck. When you walk, they will guide you; when you lie down, they will watch over you; when you awake, they will speak to you. For this commandment is a lamp, this teaching is a light, and the reproofs of discipline are the way to life,
+My son, keep your father's commandment, and do not forsake your mother's teaching. Bind them always upon your heart; tie them around your neck. When you walk, they will guide you; when you lie down, they will watch over you; when you awake, they will speak to you. For this commandment is a lamp, this teaching is a light, and the reproofs of discipline are the way to life
 
 **Proverbs 7:1–3**
 
