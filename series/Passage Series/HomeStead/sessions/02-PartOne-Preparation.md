@@ -1528,7 +1528,7 @@ God rules with divine strength, righteous character, and loving concern. He is u
 
 ###### Green Pastures and Quiet Waters: Enjoying God's Plentiful Provision and Guidance
 
-The opening of this psalm describes God as a shepherd who provides for his people. God's kindness and tender care are highlighted by the way he brings his people to "green pastures" and "quiet waters" (23:2). In these places, sheep can safely find food and drink. Green pastures bears witness to the fact that God supplies sufficiently for his people. Quiet waters attests to God sustaining his people in rest and repose. The result of God's provision is that the sheep "shall not want" (23:1). All their needs are met by the benevolent and open-handed shepherd. God holistically cares for his sheep—body and soul. In the psalm, God's shepherding care results in a refreshed and renewed inner being. God's provision causes the sheep to testify: "He restores my soul" (23:3). <Callout>God nurtures and uplifts, feeds and encourages, and nourishes and rejuvenates. He sustains body and fortifies soul.</Callout> But God's provision is more than kindhearted holistic supply; it is omniscient personalized care. God knows everything that his sheep really need, being intimately involved in their lives. God is the sovereign and unerring guide and director of the sheep's movements. The sheep testify about the Lord: "He makes me lie down" (23:2), "He leads me" (23:2), and "He guides me" (23:3). God is able to amply and abundantly meet the needs of the sheep because he is an all-knowing and all-wise shepherd. Ultimately, the physical provisions for the sheep culminate in moral guidance: God guides his people "in the paths of righteousness for the sake of His name" (23:3). God's shepherding care expresses itself by leading his people to the best of all goods: God himself.
+The opening of this psalm describes God as a shepherd who provides for his people. God's kindness and tender care are highlighted by the way he brings his people to "green pastures" and "quiet waters" (23:2). In these places, sheep can safely find food and drink. Green pastures bear witness to the fact that God supplies sufficiently for his people. Quiet waters attest to God sustaining his people in rest and repose. The result of God's provision is that the sheep "shall not want" (23:1). All their needs are met by the benevolent and open-handed shepherd. God holistically cares for his sheep—body and soul. In the psalm, God's shepherding care results in a refreshed and renewed inner being. God's provision causes the sheep to testify: "He restores my soul" (23:3). <Callout>God nurtures and uplifts, feeds and encourages, and nourishes and rejuvenates. He sustains body and fortifies soul.</Callout> But God's provision is more than kindhearted holistic supply; it is omniscient personalized care. God knows everything that his sheep really need, being intimately involved in their lives. God is the sovereign and unerring guide and director of the sheep's movements. The sheep testify about the Lord: "He makes me lie down" (23:2), "He leads me" (23:2), and "He guides me" (23:3). God is able to amply and abundantly meet the needs of the sheep because he is an all-knowing and all-wise shepherd. Ultimately, the physical provisions for the sheep culminate in moral guidance: God guides his people "in the paths of righteousness for the sake of His name" (23:3). God's shepherding care expresses itself by leading his people to the best of all goods: God himself.
 
 God appoints parents over the care of their children. Like a shepherd, parents are in a position to know more about the world and life than their children. From birth, infants are like sheep, utterly reliant upon their God-appointed caretakers. It can feel draining and depleting to constantly meet the needs of our children. The joy of parental work is providing for the needs of precious little humans who can offer us nothing in return. In this way, parenting demands a selfless spirit of constant sacrifice and outpouring generosity. Like faithful shepherds, loving parents put the needs of their children before their own comfort, convenience, or ease. But faithful parenting that lovingly and holistically meets the needs of our children is an honorable and joyful work. Christian homebuilding involves providing a place where needs are met—physical, emotional, relational, and spiritual. A home with parents who embrace shepherding care will communicate God's unmatched omnibenevolence by their thousand little acts of daily provision. As Christian hearth and home become a place of loving provision, they also become a place of nurture and formation—a place where trust is built, dependence is rewarded, faith is established, security is experienced, and goodness is embraced. Certainly, parents need to decipher the difference between a child's needs and wants. Parents want to give good things to their children, but they need wisdom so that their parental provision does not spoil the child. Parents always seek to offer their children what is best. In the end, this means guiding our children on a path where they can experience God's shepherding care for themselves.
 
@@ -1636,7 +1636,7 @@ The Lord is the strength of His people, a stronghold of salvation for His anoint
 
 **Psalm 78:70–72**
 
-He chose David His servant and took him from the sheepfolds; from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance. So David shepherded them with integrity of heart and guided them with skillful hand
+He chose David His servant and took him from the sheepfolds; from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance. So David shepherded them with integrity of heart and guided them with skillful hands.
 
 **Isaiah 40:10–11**
 
@@ -2043,7 +2043,7 @@ In this psalm, we learn about an important goal of parenting: character developm
 
 - The Christian home should be a place of continual worship.
 - Christian parents are the primary teachers of their children. The ultimate aim of their instruction should be to teach their children the fear of God.
-- The fear of God produces lasting change of godly character. Parents need to orient their parenting work towards character formation.
+- The fear of God produces lasting change of godly character. Parents need to orient their parenting work toward character formation.
 - Godly parents prepare children to be righteous sufferers. Parenting work should help prepare children to face hardship, suffering, and persecution without abandoning their faith in God.
 
 #### Charting the Path Ahead
@@ -2138,7 +2138,7 @@ My son, if you accept my words and hide my commandments within you, if you incli
 
 **Proverbs 3:1–4**
 
-My son, do not forget my teaching, but let your heart keep my commandments; for they will add length to your days, years and peace to your life. Never let loving devotion or faithfulness leave you; bind them around your neck, write them on the tablet of your heart. Then you will find favor and high regard in the sight of God and man
+My son, do not forget my teaching, but let your heart keep my commandments; for they will add length to your days, years and peace to your life. Never let loving devotion or faithfulness leave you; bind them around your neck, write them on the tablet of your heart. Then you will find favor and high regard in the sight of God and man.
 
 **Proverbs 4:1–5**
 
@@ -2670,7 +2670,7 @@ A rebuke cuts into a man of discernment deeper than a hundred lashes cut into a 
 
 **Proverbs 22:15**
 
-Foolishness is bound up in the heart of a child, but the rod of discipline drives it far from him
+Foolishness is bound up in the heart of a child, but the rod of discipline drives it far from him.
 
 **Proverbs 23:13–14**
 
@@ -3158,8 +3158,7 @@ But I am like an olive tree flourishing in the house of God; I trust in the lovi
 
 **Psalm 92:12–15**
 
-The righteous will flourish like a palm tree, and grow like a cedar in Lebanon. Planted
-in the house of the Lord, they will flourish in the courts of our God. In old age they will still bear fruit; healthy and green they will remain, to proclaim, "The Lord is upright; He is my Rock, and in Him there is no unrighteousness."
+The righteous will flourish like a palm tree, and grow like a cedar in Lebanon. Planted in the house of the Lord, they will flourish in the courts of our God. In old age they will still bear fruit; healthy and green they will remain, to proclaim, "The Lord is upright; He is my Rock, and in Him there is no unrighteousness."
 
 **Psalm 132:11**
 
@@ -3175,11 +3174,11 @@ Tell the righteous it will be well with them, for they will enjoy the fruit of t
 
 **Isaiah 65:22–23**
 
-No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands. They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the Lord— they and their descendants with them.
+No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands. They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the Lord—they and their descendants with them.
 
 **Ezekiel 19:10–11**
 
-Your mother was like a vine in your vineyard, planted by the water; it was fruitful and full of branches because of the abundant waters. 11 It had strong branches, fit for a ruler's scepter. It towered high above the thick branches, conspicuous for its height and for its dense foliage.
+Your mother was like a vine in your vineyard, planted by the water; it was fruitful and full of branches because of the abundant waters. It had strong branches, fit for a ruler's scepter. It towered high above the thick branches, conspicuous for its height and for its dense foliage.
 
 **Ezekiel 28:25–26**
 
