@@ -2543,7 +2543,7 @@ The battle for hearth and home is where spiritual combat is often most fierce. T
 
 ##### Session Summary
 
-- We parent in evil days. The world is filled with danger and peril. Spiritual enemies seek to destroy families, attacking parents and children. Families face enemies from without (rebellious, godless society) and within (proud, sinful hearts)
+- We parent in evil days. The world is filled with danger and peril. Spiritual enemies seek to destroy families, attacking parents and children. Families face enemies from without (rebellious, godless society) and within (proud, sinful hearts).
 - Godly discipline is an act of love toward our children. Godly discipline should be both instructive and corrective. Discipline is a way that parents act as protectors and guardians of their home.
 - Godly discipline and instruction aims to cultivate wisdom and understanding. Biblical wisdom helps teach children how to live skillfully in the world in a countercultural way that will be a witness of God's truth and a transforming influence in the world.
 - Godly parents direct their children to trust in God. Parenting work involves cultivating faith in God's protective care: to not hide from God but to hide in God. Christian homes are marked by God's protective care. Godly parents entrust their homes to God's safekeeping.
@@ -2952,7 +2952,7 @@ By wisdom a house is built and by understanding it is established; through knowl
 
 ###### Core Principle
 
-Parenting is homebuilding work. This proverb reminds us that we need prudence to build our homes after God's design: "by wisdom a house is built and by understanding it is established." In short, a strong, mature, and established home is rooted in biblical wisdom. Parents need wisdom to lay the foundation of a godly family. In addition, parents need to instill wisdom to their children. But parenting is more than just building a strong home; it aims for a flourishing family. The flourishing of the godly family is one of its great testimonies in the surrounding world. This proverbs tells us about a house built by wisdom: "through knowledge its rooms are filled with every precious and beautiful treasure." To build Christian hearth and home God's way is to experience the promise of divine favor in abundance. We not only need God's truth to understand the blueprint of a godly family; we also need God's strength to build our home in God's way.
+Parenting is homebuilding work. This proverb reminds us that we need prudence to build our homes after God's design: "by wisdom a house is built and by understanding it is established." In short, a strong, mature, and established home is rooted in biblical wisdom. Parents need wisdom to lay the foundation of a godly family. In addition, parents need to instill wisdom to their children. But parenting is more than just building a strong home; it aims for a flourishing family. The flourishing of the godly family is one of its great testimonies in the surrounding world. This proverb tells us about a house built by wisdom: "through knowledge its rooms are filled with every precious and beautiful treasure." To build Christian hearth and home God's way is to experience the promise of divine favor in abundance. We not only need God's truth to understand the blueprint of a godly family; we also need God's strength to build our home in God's way.
 
 ###### Group Discussion
 
