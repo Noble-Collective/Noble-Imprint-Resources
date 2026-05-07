@@ -114,7 +114,7 @@ Example: "God, help me to raise my children in the discipline and instruction of
 
 *Conclude your time with the Lord by declaring God's glory in and through the church. Use the following Scripture as a prompt for your prayer.*
 
-But I will walk with integrity; redeem me and be merciful to me.
+> But I will walk with integrity; redeem me and be merciful to me.
 
 << Psalm 26:11
 
@@ -246,7 +246,7 @@ God, have mercy on me, a sinner!
 
 *Take this moment to be alone and sit in silence. Break away from the busyness of the day's events and the noise of the crowd. Remember God's rule over the world. Reflect on God's presence in your life. Pay attention to your hunger and thirst for food and use this as a way to remember God as the only one who can truly bring you joy and satisfaction.*
 
-> Our soul waits for the Lord; He is our help and our shield. For our hearts rejoice in Him, since we trust in His holy name. May Your loving devotion rest on us, O Lord, as we put our hope in You
+> Our soul waits for the Lord; He is our help and our shield. For our hearts rejoice in Him, since we trust in His holy name. May Your loving devotion rest on us, O Lord, as we put our hope in You.
 
 << Psalm 33:20–22
 
@@ -281,7 +281,7 @@ God, have mercy on me, a sinner!
 
 *Conclude your time with the Lord by declaring God's glory in and through the church. Use the following Scripture as a prompt for your prayer.*
 
-> Teach me Your way, O Lord, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name
+> Teach me Your way, O Lord, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name.
 
 << Psalm 86:11
 
@@ -309,7 +309,7 @@ God, have mercy on me, a sinner!
 
 *Take a moment to look back on your day. As you consider major events and the ordinary moments, recall how God was present and active in your midst. Read the verse below and record your gratitude below.*
 
-I will praise God's name in song and exalt Him with thanksgiving.
+> I will praise God's name in song and exalt Him with thanksgiving.
 
 << Psalm 69:30
 
@@ -329,7 +329,7 @@ I will praise God's name in song and exalt Him with thanksgiving.
 
 *Anticipate what tomorrow will be like and could be like. Think about how you want to live differently this next day. Consider how you want to keep in step with the Spirit more attentively. Identify specific commitments that you want to embrace. Name what you are most hopeful about for the next day. Prayerfully read the following passage and record your anticipations below.*
 
-Rest in God alone, O my soul, for my hope comes from Him.
+> Rest in God alone, O my soul, for my hope comes from Him.
 
 << Psalm 62:5
 
@@ -339,7 +339,7 @@ Rest in God alone, O my soul, for my hope comes from Him.
 
 *At the end of your time of personal reflection, entrust yourself to God's care. Pray this final verse as a means of finding rest and peace in God during your night's rest.*
 
-In God alone my soul finds rest; my salvation comes from Him.
+> In God alone my soul finds rest; my salvation comes from Him.
 
 << Psalm 62:1
 
@@ -377,7 +377,7 @@ This section of the rite of passage will help reflect on your duty as a godly pa
 
 *Read the following before you perform this outdoor activity.*
 
-<< But everything must be done in a proper and orderly manner.
+> But everything must be done in a proper and orderly manner.
 
 << 1 Corinthians 14:40
 

@@ -1187,7 +1187,7 @@ But from everlasting to everlasting the loving devotion of the Lord extends to t
 
 Great is the Lord and greatly to be praised; His greatness is unsearchable. One generation will commend Your works to the next, and will proclaim Your mighty acts—the glorious splendor of Your majesty. And I will meditate on Your wondrous works.
 
- **Isaiah 38:19**
+**Isaiah 38:19**
 
 The living, only the living, can thank You, as I do today; fathers will tell their children about Your faithfulness.
 
@@ -2289,7 +2289,7 @@ Reflect on the sacred call of parenting as a vocation in faith formation. As you
 ##### Example Resolutions
 
 - I resolve to guide my children in a life of humble obedience to God's commandments.
-- I resolve to teach my children the true character of God and that there is only one God to whom deserves our full allegiance and worship.
+- I resolve to teach my children the true character of God and that there is only one God who deserves our full allegiance and worship.
 - I resolve to encourage my children to love God with their whole being.
 - I resolve to care for the whole person of each of my children: body, mind, heart, and soul.
 - I resolve to establish God-honoring traditions in my family in order to build a faith memory in my children and in my household so that the faith will transfer intact to the next generations.
@@ -2312,7 +2312,7 @@ Reflect on the sacred call of parenting as a vocation in faith formation. As you
 
 **Family Education Plan**
 
-In this project, you will outline out an education plan for your children. You should think about various goals for each of your children across various spheres of life. Use the template on the following pages to describe goals and strategic plans for each child. Consider this plan an effort in instructing your children in the fear of the Lord.
+In this project, you will outline an education plan for your children. You should think about various goals for each of your children across various spheres of life. Use the template on the following pages to describe goals and strategic plans for each child. Consider this plan an effort in instructing your children in the fear of the Lord.
 
 - **Physical Objectives**: Goals for body, health, skills, and competencies.
 - **Spiritual Objectives**: Goals for faith, character, and godly discernment.
@@ -2525,11 +2525,11 @@ To heed God's instruction is to gain true wisdom, God-given understanding necess
 
 There is a "pit ... dug for the wicked" (94:13), but the righteous will not fall into it. As God's people embrace a countercultural life—a life formed by discipline and instruction in God's word—God promises to "not forsake His people" and "never abandon His heritage" (94:14). God's righteous judgment will be established. God's justice becomes the code by which the godly live: "the upright in heart will follow it" (94:15).
 
-Parenting amounts to raising children in the discipline and instruction of the Lord. Godly discipline involves both admonishment (rebuke, chastisement, correction) and teaching (instruction, formation, education). Like all Christian disciples, children need to know the paths of righteousness. They need to be taught and instructed. In the process of this instruction, beliefs and understanding find alignment with God's guiding word. But alignment to the truth can only happen if discipline counterbalances instruction. To know the paths of righteousness is different than walking in these paths. Discipline corrects and reorients children to God's ways when they stray from the path. As God models for us in this psalm, Christian parents must occupy the role of teacher: teaching and correcting, instructing and chastising, educating and rebuking.
+Parenting amounts to raising children in the discipline and instruction of the Lord. Godly discipline involves both admonishment (rebuke, chastisement, correction) and teaching (instruction, formation, education). Like all Christian disciples, children need to know the paths of righteousness. They need to be taught and instructed. In the process of this instruction, beliefs and understanding find alignment with God's guiding word. But alignment to the truth can only happen if discipline counterbalances instruction. To know the paths of righteousness is different from walking in these paths. Discipline corrects and reorients children to God's ways when they stray from the path. As God models for us in this psalm, Christian parents must occupy the role of teacher: teaching and correcting, instructing and chastising, educating and rebuking.
 
 To raise children in the discipline and instruction of the world is to cultivate a home of wisdom—calling children out of their senseless simplicity, youthful naivete, and foolish ways into the ways of prudence and true understanding. The truly wise turn to God. In a godless society where people face the danger of proud evildoers and the pending reality of God's wrath, the safest place to be is among God's people. Wisdom teaches a person to heed these dangers and take refuge in God. God disciplines his people as a means to bring them into wisdom, to preserve them and bless them. The wise who take refuge in God from godless society and divine wrath love God's righteous correction and treasure God's eternal truth.
 
-The wise who embrace God's word live a countercultural life. They are a contrast to godless society in the way they follow the paths of righteousness. <Callout>The Christian family is designed by God to incubate a countercultural lifestyle of biblical belief, godly living, and holy justice.</Callout> Family life should not only teach children how to navigate the dangers of a godless world; it should teach children how to live such a countercultural life such that they become a compelling witness to the world and a transforming influence on the world. Wise children formed in the family nest—formed by godly instruction and discipline become salt and light to dark and dangerous world.
+The wise who embrace God's word live a countercultural life. They are a contrast to godless society in the way they follow the paths of righteousness. <Callout>The Christian family is designed by God to incubate a countercultural lifestyle of biblical belief, godly living, and holy justice.</Callout> Family life should not only teach children how to navigate the dangers of a godless world; it should teach children how to live such a countercultural life such that they become a compelling witness to the world and a transforming influence on the world. Wise children formed in the family nest—formed by godly instruction and discipline—become salt and light to a dark and dangerous world.
 
 ###### The Lord Has Been My Stronghold: Seeking Divine Protection for Your Home
 
@@ -2798,7 +2798,7 @@ Those I love, I rebuke and discipline. Therefore be earnest and repent.
 
 ##### Project Instructions
 
-Write a prayer of protection over you children. Use the language of Psalm 94:17–23 to guide your prayer. Put the names of your family members in the prayer.
+Write a prayer of protection over your children. Use the language of Psalm 94:17–23 to guide your prayer. Put the names of your family members in the prayer.
 
 ##### Example Prayer
 

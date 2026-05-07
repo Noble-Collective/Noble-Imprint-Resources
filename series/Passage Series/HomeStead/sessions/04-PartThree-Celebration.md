@@ -12,7 +12,7 @@ In **Part Three** of this rite of passage, you will share your learning with you
 
 << 1 Thessalonians 1:6–8
 
-> The very existence of Christian people in the world is a standing witness to the highest glory of God's name; and the other is that there are characteristics which, as Christian men, we are bound to put forth, and which manifest in another fashion the excellencies of our redeeming God. The world takes its notions of God, most of all, from the people who say that they belong to God's family. They read us a great deal more than they read the Bible. They *see* us; they only *hear* about Jesus Christ. 'Thou shalt not make unto thee any graven image' nor any likeness of the Divine, but thou shalt make thyself an image of Him, that men looking at it may learn a little more of what He is.
+> The very existence of Christian people in the world is a standing witness to the highest glory of God's name ... there are characteristics which, as Christian men, we are bound to put forth, and which manifest in another fashion the excellencies of our redeeming God. The world takes its notions of God, most of all, from the people who say that they belong to God's family. They read us a great deal more than they read the Bible. They *see* us; they only *hear* about Jesus Christ. 'Thou shalt not make unto thee any graven image' nor any likeness of the Divine, but thou shalt make thyself an image of Him, that men looking at it may learn a little more of what He is.
 
 << Alexander Maclaren, *Expositions of Holy Scripture*
 
@@ -40,7 +40,7 @@ God wants us to bear witness to his workings in our lives. As we grow in our fai
 
 << Charles Spurgeon, *Lectures to My Students*
 
-At this point, you want to review your commitment to embrace your parenting duty. Reread the community confession and discuss it with a spiritual mentor, parent, or church leader. Explore what makes you excited about this commitment. Talk about what makes you hesitant. Seek God's help in prayer as you prepare your heart to repeat this statement at your celebration ceremony.
+At this point, you should review your commitment to embrace your parenting duty. Reread the community confession and discuss it with a spiritual mentor, parent, or church leader. Explore what makes you excited about this commitment. Talk about what makes you hesitant. Seek God's help in prayer as you prepare your heart to repeat this statement at your celebration ceremony.
 
 ### Community Confession
 
