@@ -684,7 +684,7 @@ Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion
 
 **Hebrews 12:5–7**
 
-And you have forgotten the exhortation that addresses you as sons: "My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you. For the Lord disciplines the one He loves, and He chastises every son He receives." Endure suffering as discipline; God is treat- ing you as sons. For what son is not disciplined by his father?
+And you have forgotten the exhortation that addresses you as sons: "My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you. For the Lord disciplines the one He loves, and He chastises every son He receives." Endure suffering as discipline; God is treating you as sons. For what son is not disciplined by his father?
 
 **James 1:16–18**
 
