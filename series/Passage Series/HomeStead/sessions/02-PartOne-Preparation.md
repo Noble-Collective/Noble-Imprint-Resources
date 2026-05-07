@@ -3052,7 +3052,7 @@ Even though we gaze at the glorious and hope-filled vision of Christian parentin
 
 ###### Conclusion
 
-God's wisdom in the psalms is rich and rewarding. It not only offers us a blueprint for a godly household order, it also captures our spiritual imagination for what a vibrant family life looks like. The vocation of homebuilding is God-honoring work. In many respects, it is a central and vital work in our larger lifework. The work of faithful homebuilding flourishes when marked by the fear of God, first by parents and then by children. God has given promises of blessing for faithful families and dutiful parents. But faithful building of hearth and home is meant to have an impact beyond itself as a means of influencing society, contending for the faith, impacting generations to come, and investing in eternity. An important work of God's new creation, Christian parenting is oriented toward building God's kingdom for life in the world to come—world without end. <Callout>Done according to God's design, few vocations like Christian homebuilding make a greater impact in the world.</Callout> To this end, may we consider our calling as parents noble and fashion our family around God's grand and eternal purposes.
+God's wisdom in the psalms is rich and rewarding. It not only offers us a blueprint for a godly household order, it also captures our spiritual imagination for what a vibrant family life looks like. The vocation of homebuilding is God-honoring work. In many respects, it is a central and vital work in our larger lifework. The work of faithful homebuilding flourishes when marked by the fear of God, first by parents and then by children. God has given promises of blessing for faithful families and dutiful parents. But faithful building of hearth and home is meant to have an impact beyond itself as a means of influencing society, contending for the faith, impacting generations to come, and investing in eternity. An important work of God's new creation, Christian parenting is oriented toward building God's kingdom for life in the world to come—world without end. <Callout>Done according to God's design, few vocations, like Christian homebuilding, make a greater impact in the world.</Callout> To this end, may we consider our calling as parents noble and fashion our family around God's grand and eternal purposes.
 
 ##### Session Summary
 
@@ -3296,7 +3296,7 @@ And every house is built by someone, but God is the builder of everything.
 
 ##### Project Instructions
 
-Think about the responsibilities God has given you as a disciple, spouse, and parent. Reflect on your weakness to fulfill these duties in your own strength. Then, consider what a blessed family looks like and write a series of beatitudes (Blessed is...) statements to describe the blessed home.
+Think about the responsibilities God has given you as a disciple, spouse, and parent. Reflect on your weaknesses to fulfill these duties in your own strength. Then, consider what a blessed family looks like and write a series of beatitudes (Blessed is...) statements to describe the blessed home.
 
 ##### Example Beatitudes
 

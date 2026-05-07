@@ -54,7 +54,7 @@ These daily devotionals serve as guides during your family camp experience. Each
 
 Example: "God, help me to 'honor your father and mother'"
 
-Example: "God, help me to raise my children in the discipline and instruction of the Lord.'"
+Example: "God, help me to raise my children in the discipline and instruction of the Lord."
 
 ##### Walking with God
 
@@ -365,7 +365,7 @@ God, have mercy on me, a sinner!
 
 << John Hall, *A Christian Home*
 
-This section of the rite of passage will help reflect on your duty as a godly parent—building Christian hearth and home—through outdoor experiences. These challenges are meant to be embodied experiences in the outdoors that give you time to consider the spiritual responsibility of parenting through a physical outdoor activity. Some may consider these challenges unnecessary. They seek merely the instructions of godly parenting and hope to implement them as soon as possible. This may be well and good. But the ability to have experiences that affect the physical senses can strengthen our commitment and understanding of our spiritual duties. These activities were also designed with the church in mind. As parents go through these experiences together, they hopefully will create memories, establish bonds, and fortify relationships with each other. Not only does being out in creation help us commune with our Lord, it also helps forge relationships with one another, helping us to become a mature church that operates as a parenting community. If your church desires to design its own outdoor activities, you can use the blank space templates in this section to do so.
+This section of the rite of passage will help you reflect on your duty as a godly parent—building Christian hearth and home—through outdoor experiences. These challenges are meant to be embodied experiences in the outdoors that give you time to consider the spiritual responsibility of parenting through a physical outdoor activity. Some may consider these challenges unnecessary. They seek merely the instructions of godly parenting and hope to implement them as soon as possible. This may be well and good. But the ability to have experiences that affect the physical senses can strengthen our commitment and understanding of our spiritual duties. These activities were also designed with the church in mind. As parents go through these experiences together, they hopefully will create memories, establish bonds, and fortify relationships with each other. Not only does being out in creation help us commune with our Lord, it also helps forge relationships with one another, helping us to become a mature church that operates as a parenting community. If your church desires to design its own outdoor activities, you can use the blank space templates in this section to do so.
 
 ### Outdoor Experience One
 
@@ -472,7 +472,7 @@ Christian homebuilding seeks to cultivate deep and lasting bonds with one anothe
 
 << Richard Baxter, *The Duties of Parents*
 
-Parenting is simultaneously a gracious gift and weighty responsibility. Alongside the joy of family life is the sacred duty to raise children in the faith. This is shepherding work. The shepherd signifies a caretaker who bears responsibility to feed, nourish, protect, and guide the flock. A good shepherd puts the needs of the flock before his own and is willing to lay down his life for the sheep. Parents must learn to shepherd their children, discharging this duty with a trust in God's shepherding care over them. To build a Christian home, we must learn to bear parental responsibility with sobriety, joy, and dependence upon the Lord.
+Parenting is simultaneously a gracious gift and a weighty responsibility. Alongside the joy of family life is the sacred duty to raise children in the faith. This is shepherding work. The shepherd signifies a caretaker who bears responsibility to feed, nourish, protect, and guide the flock. A good shepherd puts the needs of the flock before his own and is willing to lay down his life for the sheep. Parents must learn to shepherd their children, discharging this duty with a trust in God's shepherding care over them. To build a Christian home, we must learn to bear parental responsibility with sobriety, joy, and dependence upon the Lord.
 
 ##### Implementation: Fulfilling Our Family Duty
 
@@ -645,7 +645,7 @@ Christian homebuilding involves guarding our family. Parents are God-appointed w
 
 << H. C. G. Moule, *Ephesian Studies*
 
-Parenting is a community venture. Inasmuch as the family is a God-appointed means of forming individuals, shaping communities, and influencing society, so the church is a divine entity that helps to strengthen households. In the church community we have parenting peers who can support us in our homebuilding duties. In the community of faith, we have mentors who can guide us in wisdom, warn us of danger, correct us in failure, and encourage us in the face of disappointment. In God's people, we have church leaders whose faith maturity can serve as an example to us and whose teaching can guide us in the difficult terrain of raising children. With the family of faith, we have the opportunity to benefit from previous generations and impact future generations. We should not embark on this parenting journey alone. Therefore, the following section is an opportunity to process what you have been learning about parenting with trusted members of the faith community. Use this section of this resource to help situate your parenting work in the household of faith.
+Parenting is a community venture. Inasmuch as the family is a God-appointed means of forming individuals, shaping communities, and influencing society, so the church is a divine entity that helps to strengthen households. In the church community, we have parenting peers who can support us in our homebuilding duties. In the community of faith, we have mentors who can guide us in wisdom, warn us of danger, correct us in failure, and encourage us in the face of disappointment. In God's people, we have church leaders whose faith maturity can serve as an example to us and whose teaching can guide us in the difficult terrain of raising children. With the family of faith, we have the opportunity to benefit from previous generations and impact future generations. We should not embark on this parenting journey alone. Therefore, the following section is an opportunity to process what you have been learning about parenting with trusted members of the faith community. Use this section of this resource to help situate your parenting work in the household of faith.
 
 ### Mentoring Session One
 
