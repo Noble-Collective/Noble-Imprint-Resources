@@ -3,5 +3,20 @@
   "subtitle": "In Defense of His Flight to Pontus",
   "order": 1,
   "banner": "Pre-Release",
-  "status": "public"
+  "status": "public",
+  "audiobook": {
+    "enabled": true,
+    "project_id": null,
+    "voice_id": "TBD",
+    "model_id": "eleven_multilingual_v2",
+    "quality_preset": "high",
+    "voice_settings": {
+      "stability": 0.71,
+      "similarity_boost": 0.5,
+      "style": 0.0,
+      "speed": 0.92
+    },
+    "skip_sessions": ["01-FrontMatter.md", "08-Bibliography.md"],
+    "pronunciation_dictionary_id": null
+  }
 }
