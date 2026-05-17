@@ -1,46 +1,46 @@
 # Chapter Two
 
-## "To Weigh Virtue in No Small Scales": Godly Character as a Minister's Pedigree
+### "To Weigh Virtue in No Small Scales": Godly Character as a Minister's Pedigree
 
-#### Section 10: High Standards of Ministry Leaders
+## Section 10: High Standards of Ministry Leaders
 
 *It is harder to lead people than to submit to leaders. Spiritual leadership is the most difficult of all because its severe risks are equal to its great honor. The character of a minister must match his office. Spiritual authority without godly character runs the risk of doing spiritual injury to more people.*
 
 **10.** But in the case of man, hard as it is for him to learn how to submit to rule, it seems far harder to know how to rule over men, and hardest of all, with this rule of ours, which leads them by the divine law, and to God, for its risk is, in the eyes of a thoughtful man, proportionate to its height and dignity. For, first of all, he must, like silver or gold, though in general circulation in all kinds of seasons and affairs, never ring false or alloyed, or give token of any inferior matter, needing further refinement in the fire; or else, the wider his rule, the greater evil he will be. Since the injury which extends to many is greater than that which is confined to a single individual.
 
-#### Section 11: Vice Easily Spreads to Others
+## Section 11: Vice Easily Spreads to Others
 
 *It is easier for vice to spread than for virtue—"nothing is so easy as to become evil." Vice contaminates others with greater facility than a cloth dyed with color or infused with odor, or disease contaminating the air.*
 
 **11.** For it is not so easy to dye deeply a piece of cloth, or to impregnate with odors, foul or the reverse, whatever comes near to them; nor is it so easy for the fatal vapor, which is rightly called a pestilence, to infect the air, and through the air to gain access to living beings, as it is for the vice of a superior to take most speedy possession of his subjects, and that with far greater facility than virtue its opposite. For it is in this that wickedness especially has the advantage over goodness, and most distressing it is to me to perceive it, that vice is something attractive and ready at hand, and that nothing is so easy as to become evil, even without any one to lead us on to it; while the attainment of virtue is rare and difficult, even where there is much to attract and encourage us. And it is this, I think, which the most blessed Haggai had before his eyes, in his wonderful and most true figure:—"Ask the priests concerning the law, saying: If holy flesh borne in a garment touch meat or drink or vessel, will it sanctify what is in contact with it? And when they said No; ask again if any of these things touch what is unclean, does it not at once partake of the pollution? For they will surely tell you that it does partake of it, and does not continue clean in spite of the contact."
 
-#### Section 12: Virtue Is Gained With Difficulty, Vice With Ease
+## Section 12: Virtue Is Gained With Difficulty, Vice With Ease
 
 *It is hard for virtue to develop in humanity. Most people are inclined to evil. In terms of goodness, humanity is like a green wood that is hard to set aflame. In terms of evil, humanity is like dry stubble that easily ignites.*
 
 **12.** What does he mean by this? As I take it, that goodness can with difficulty gain a hold upon human nature, like fire upon green wood; while most men are ready and disposed to join in evil, like stubble, I mean, ready for a spark and a wind, which is easily kindled and consumed from its dryness. For more quickly would any one take part in evil with slight inducement to its full extent, than in good which is fully set before him to a slight degree. For indeed a little wormwood most quickly imparts its bitterness to honey; while not even double the quantity of honey can impart its sweetness to wormwood: and the withdrawal of a small pebble would draw headlong a whole river, though it would be difficult for the strongest dam to restrain or stay its course.
 
-#### Section 13: Spiritual Leaders Must Be Models
+## Section 13: Spiritual Leaders Must Be Models
 
 *Ministers should not be bad models for the people they serves, unless they try to heal others while they are diseased themselves.*
 
 **13.** This then is the first point in what we have said, which it is right for us to guard against, viz.: being found to be bad painters of the charms of virtue, and still more, if not, perhaps, models for poor painters, poor models for the people, or barely escaping the proverb, that we undertake to heal others while ourselves are full of sores.
 
-#### Section 14: God's Servants Must Be Eminent in Virtue
+## Section 14: God's Servants Must Be Eminent in Virtue
 
 *A minister must not simply refrain from sin; he must display virtue—to be "eminent in good." As one who instructs others in godliness. God's approved minister must show an exemplary character, continuing to make progress in the faith. He must not measure his character by the relative character of others but by the high standard of God's word.* 
 
 **14.** In the second place, although a man has kept himself pure from sin, even in a very high degree; I do not know that even this is sufficient for one who is to instruct others in virtue. For he who has received this charge, not only needs to be free from evil, for evil is, in the eyes of most of those under his care, most disgraceful, but also to be eminent in good, according to the command, "Depart from evil and do good." And he must not only wipe out the traces of vice from his soul, but also inscribe better ones, so as to outstrip men further in virtue than he is superior to them in dignity. He should know no limits in goodness or spiritual progress, and should dwell upon the loss of what is still beyond him, rather than the gain of what he has attained, and consider that which is beneath his feet a step to that which comes next: and not think it a great gain to excel ordinary people, but a loss to fall short of what we ought to be: and to measure his success by the commandment and not by his neighbors, whether they be evil, or to some extent proficient in virtue: and to weigh virtue in no small scales, inasmuch as it is due to the Most High, "from Whom are all things, and to Whom are all things.
 
-#### Section 15: Things Are Not the Same For All
+## Section 15: Things Are Not the Same For All
 
 *A minister must not assume that the same things fit everyone, just as animals and people do not share the exact same features or qualities. Vice in an ordinary individual is lamentable fault, but it is a lamentable fault for a minister not to make progress in virtue. His virtue is a tool by which he draws others into godliness through "the influence of persuasion." Ministering out of the persuasion of character allows pastors to not rule with forceful authority or compulsion.*
 
 **15.** Nor must he suppose that the same things are suitable to all, just as all have not the same stature, nor are the features of the face, nor the nature of animals, nor the qualities of soil, nor the beauty and size of the stars, in all cases the same: but he must consider base conduct a fault in a private individual, and deserving of chastisement under the hard rule of the law; while in the case of a ruler or leader it is a fault not to attain to the highest possible excellence, and always make progress in goodness, if indeed he is, by his high degree of virtue, to draw his people to an ordinary degree, not by the force of authority, but by the influence of persuasion. For what is involuntary apart from its being the result of oppression, is neither meritorious nor durable. For what is forced, like a plant violently drawn aside by our hands, when set free, returns to what it was before, but that which is the result of choice is both most legitimate and enduring, for it is preserved by the bond of good will. And so our law and our lawgiver enjoin upon us most strictly that we should "tend the flock not by constraint but willingly."
 
-#### Reflection Questions
+## Reflection Questions
 
-<Question id="Ora-ChaTwo-WeiVirNoSmaScaGodChaMinPed-RefQue-1">1. What importance does Gregory put on Christian virtue as a qualification for ministry? Does this match the Bible's emphasis for spiritual leadership?</Question>
-<Question id="Ora-ChaTwo-WeiVirNoSmaScaGodChaMinPed-RefQue-2">2. Why is Christian virtue and godly character important for ministry work? What consequences can result if ungodly leaders occupy a position of spiritual authority and influence?</Question>
-<Question id="Ora-ChaTwo-WeiVirNoSmaScaGodChaMinPed-RefQue-3">3. What character flaws do you recognize in your life? After an honest reflection, how are these negatively impacting the people you are serving?</Question>
-<Question id="Ora-ChaTwo-WeiVirNoSmaScaGodChaMinPed-RefQue-4">4. How can we reconcile Gregory's call to Christlike moral character with the fact that we are still sinful humans in a process of sanctification?</Question>
+<Question id="Ora-ChaTwo-RefQue-1">1. What importance does Gregory put on Christian virtue as a qualification for ministry? Does this match the Bible's emphasis for spiritual leadership?</Question>
+<Question id="Ora-ChaTwo-RefQue-2">2. Why is Christian virtue and godly character important for ministry work? What consequences can result if ungodly leaders occupy a position of spiritual authority and influence?</Question>
+<Question id="Ora-ChaTwo-RefQue-3">3. What character flaws do you recognize in your life? After an honest reflection, how are these negatively impacting the people you are serving?</Question>
+<Question id="Ora-ChaTwo-RefQue-4">4. How can we reconcile Gregory's call to Christlike moral character with the fact that we are still sinful humans in a process of sanctification?</Question>
