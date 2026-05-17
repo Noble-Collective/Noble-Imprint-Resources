@@ -7,7 +7,14 @@
   "audiobook": {
     "enabled": true,
     "project_id": null,
-    "voice_id": "TBD",
+    "voice_id": "onwK4e9ZLuTAKqWW03F9",
+    "voice_test_map": {
+      "02-ChapterOne.md": "onwK4e9ZLuTAKqWW03F9",
+      "03-ChapterTwo.md": "JBFqnCBsd6RMkjVDRZzb",
+      "04-ChapterThree.md": "pNInz6obpgDQGcFmaJgB",
+      "05-ChapterFour.md": "ErXwobaYiN019PkySvjV",
+      "06-ChapterFive.md": "EXAVITQu4vr4xnSDxMaL"
+    },
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",
     "voice_settings": {
