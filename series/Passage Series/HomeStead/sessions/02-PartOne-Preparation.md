@@ -324,6 +324,39 @@ This rite of passage is best completed in the context of close relationships. Cr
 - Gather a group of *peers* who are going through the same experience together. While this rite of passage can be done individually, it will be an enriched experience with a community of peers.
 - Marshal the extended *family network* and *church community* to help encourage, organize, and facilitate this experience. These groups can also help prepare for the time of celebration.
 
+##### Expectations of Mentors
+
+Mentors play a significant role in the formation of godliness in our personal lives, church community, and family culture. Older and wiser saints offer much in the way of spiritual formation in the lives of younger believers. We have intentionally built in mentorship in this rite of passage process. We want the mentoring connections to be meaningful to mentees but also feasible for mentors. We have listed minimum expectations for mentors that would provide a spiritually rich experience. Please prayerfully consider playing this role in the lives of those going through this process. In this process, mentors serve their younger brothers and sisters in the faith by making the following commitments.
+
+###### Prayer and Encouragement
+
+Offer **focused prayer** to the Lord and **encouragement** to the mentees.
+
+- Regularly pray for your mentees throughout the whole process.
+- Reach out with periodic and proactive encouragement along the way. 
+
+###### Gatherings and Meetings
+
+Attend **three core in-person meetings**.
+
+- Join the Introduction session in order to get oriented to the themes, projects, and mentoring responsibilities.
+- Join a midway Intensive gathering during which participants  review sessions, share projects, and spend time in prayer.
+- Join the Conclusion session, a time to celebrate learning, review projects, and prepare for the camping trip.
+
+###### Mentoring Sessions
+
+Facilitate **mentoring sessions** during the camping trip.
+
+- Attend the main daytime portion of the camping trip during which mentors will host small group mentoring discussions. 
+- Be available for encouragement, prayer, and support during this time.
+
+###### Follow Up
+
+**Follow up** with mentees over the months following the rite of passage.
+
+- Arrange one follow-up visit or conversation after the rite of passage to encourage and support the mentees in their continued progress and development.
+- Pray for the mentees in their work over the next six months.
+
 ![The Milkmaid](vermeer_the_milkmaid)
 
 << Vermeer, Johannes. *The Milkmaid*. 1660. Oil on canvas, 45.5 × 41 cm. Rijksmuseum.
