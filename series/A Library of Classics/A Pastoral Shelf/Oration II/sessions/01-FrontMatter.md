@@ -16,11 +16,11 @@ Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), a
 Excerpts from Greek New Testament are taken from Michael W. Holmes, ed., *The Greek New Testament* (Atlanta: Society of Biblical Literature, 2010).
 
 > Ἥττημαι, καὶ τὴν ἧτταν ὁμολογῶ.
-> Victus sum, et me victum fateor.
+> Victus sum, et me victum fateor.  
 > I have been defeated, and own my defeat.
 << Gregory of Nazianzus, Oration 2.1
 
-> Οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας Χριστοῦ καὶ οἰκονόμους μυστηρίων Θεοῦ. ὥδε λοιπὸν, ζητεῖται ἐν τοῖς οἰκονόμοις, ἵνα πιστός τις εὑρεθῇ.
+> Οὕτως ἡμᾶς λογιζέσθω ἄνθρωπος ὡς ὑπηρέτας Χριστοῦ καὶ οἰκονόμους μυστηρίων Θεοῦ. ὥδε λοιπὸν, ζητεῖται ἐν τοῖς οἰκονόμοις, ἵνα πιστός τις εὑρεθῇ.  
 > So then, men ought to regard us as servants of Christ and stewards of the mysteries of God. Now it is required of stewards that they be found faithful.
 << 1 Corinthians 4:1–2
 
