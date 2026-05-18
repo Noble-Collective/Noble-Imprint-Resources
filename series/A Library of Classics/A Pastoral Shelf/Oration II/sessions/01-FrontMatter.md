@@ -9,7 +9,7 @@ Series: A Library of Classics for Christian Ministry: A Pastoral Shelf © 2026 b
 
 Published by Noble Imprint (www.nobleimprint.com).
 
-Originally published by Christian Literature Company, 1894 This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https:// creativecommons.org/licenses/by-sa/4.0/.
+Originally published by Christian Literature Company, 1894 This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
 
 Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
 
