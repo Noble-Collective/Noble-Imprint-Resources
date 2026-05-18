@@ -326,7 +326,7 @@ This rite of passage is best completed in the context of close relationships. Cr
 
 ##### Expectations of Mentors
 
-Mentors play a significant role in the formation of godliness in our personal lives, church community, and family culture. Older and wiser saints offer much in the way of spiritual formation in the lives of younger believers. We have intentionally built in mentorship in this rite of passage process. We want the mentoring connections to be meaningful to mentees but also feasible for mentors. We have listed minimum expectations for mentors that would provide a spiritually rich experience. Please prayerfully consider playing this role in the lives of those going through this process. In this process, mentors serve their younger brothers and sisters in the faith by making the following commitments.
+Mentors play a significant role in the formation of godliness in our personal lives, church community, and family culture. Seasoned and wiser saints offer much in the way of spiritual formation in the lives of younger believers. We have intentionally built in mentorship in this rite of passage process. We want the mentoring connections to be meaningful to mentees but also feasible for mentors. We have listed minimum expectations for mentors that would provide a spiritually rich experience. Please prayerfully consider playing this role in the lives of those going through this process. In this process, mentors serve their younger brothers and sisters in the faith by making the following commitments.
 
 ###### Prayer and Encouragement
 
