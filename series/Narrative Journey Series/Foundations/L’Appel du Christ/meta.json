@@ -1,5 +1,5 @@
 {
-  "title": "L’Appel du Christ",
+  "title": "L'Appel du Christ",
   "subtitle": "Un voyage narratif de la foi chrétienne",
   "order": 2,
   "color": {
@@ -9,5 +9,18 @@
     "#####": "#000000"
   },
   "banner": "Pre-Release",
-  "status": "public"
+  "status": "public",
+  "audiobook": {
+    "enabled": true,
+    "voice_id": "aQROLel5sQbj1vuIVi6B",
+    "model_id": "eleven_multilingual_v2",
+    "quality_preset": "high",
+    "voice_settings": {
+      "stability": 0.71,
+      "similarity_boost": 0.5,
+      "style": 0.0,
+      "speed": 0.92
+    },
+    "pronunciation_dictionary_id": null
+  }
 }
