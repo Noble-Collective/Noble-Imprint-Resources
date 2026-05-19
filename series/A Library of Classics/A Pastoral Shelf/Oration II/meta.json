@@ -7,15 +7,7 @@
   "audiobook": {
     "enabled": true,
     "project_id": null,
-    "voice_id": "onwK4e9ZLuTAKqWW03F9",
-    "voice_test_map": {
-      "02-ChapterOne.md": "onwK4e9ZLuTAKqWW03F9",
-      "03-ChapterTwo.md": "JBFqnCBsd6RMkjVDRZzb",
-      "04-ChapterThree.md": "auq43ws1oslv0tO4BDa7",
-      "05-ChapterFour.md": "VsQmyFHffusQDewmHB5v",
-      "06-ChapterFive.md": "UzI1NsMEV3ni5JRkRSls",
-      "07-ChapterSix.md": "jRAAK67SEFE9m7ci5DhD"
-    },
+    "voice_id": "jRAAK67SEFE9m7ci5DhD",
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",
     "voice_settings": {
