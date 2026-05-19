@@ -16,7 +16,6 @@
       "style": 0.0,
       "speed": 0.92
     },
-    "skip_sessions": ["01-FrontMatter.md", "08-Bibliography.md"],
     "pronunciation_dictionary_id": null
   }
 }
