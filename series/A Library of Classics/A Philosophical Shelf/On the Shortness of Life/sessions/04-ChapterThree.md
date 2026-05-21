@@ -4,7 +4,7 @@
 
 ## Section 10: Busy Men Neglect the Past and Lose the Present
 
-*Wisdom must confront foolishnes head on, with a full frontal attack. The lives of busy men are the shortest of all. They seldom look back on their lives to review the past or amend their present. Busy people also lose the present because they are so preoccupied with many things before them that they cannot grasp even the day itself.*
+> *Wisdom must confront foolishnes head on, with a full frontal attack. The lives of busy men are the shortest of all. They seldom look back on their lives to review the past or amend their present. Busy people also lose the present because they are so preoccupied with many things before them that they cannot grasp even the day itself.*
 
 <ChapterNum>10</ChapterNum> If I chose to divide this proposition into separate steps, supported by evidence, many things occur to me by which I could prove that the lives of busy men are the shortest of all. Fabianus, who was none of your lecture-room philosophers, but one of the true antique pattern, used to say, "We ought to fight against the passions by main force, not by skirmishing, and upset their line of battle by a home charge, not by inflicting trifling wounds: I do not approve of dallying with sophisms; they must be crushed, not merely scratched." Yet, in order that sinners may be confronted with their errors, they must be taught, and not merely mourned for.
 

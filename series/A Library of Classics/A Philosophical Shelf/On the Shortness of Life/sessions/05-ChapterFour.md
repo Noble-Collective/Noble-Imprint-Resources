@@ -4,7 +4,7 @@
 
 ## Section 14: The Wise Engage Great Minds from the Past
 
-*Only those who devote themselves to philosophy are truly at leisure. Such people benefit from the great thinkers of the past. They do not restrict themselves to sources of knowledge or subjects. They commune with every age by interacting with wise minds from of old.*
+> *Only those who devote themselves to philosophy are truly at leisure. Such people benefit from the great thinkers of the past. They do not restrict themselves to sources of knowledge or subjects. They commune with every age by interacting with wise minds from of old.*
 
 <ChapterNum>14</ChapterNum> The only persons who are really at leisure are those who devote themselves to philosophy: and they alone really live: for they do not merely enjoy their own lifetime, but they annex every century to their own: all the years which have passed before them belong to them. Unless we are the most ungrateful creatures in the world, we shall regard these noblest of men, the founders of divine schools of thought, as having been born for us, and having prepared life for us: we are led by the labour of others to behold most beautiful things which have been brought out of darkness into light; we are not shut out from any period, we can make our way into every subject, and, if only we can summon up sufficient strength of mind to overstep the narrow limit of human weakness, we have a vast extent of time wherein to disport ourselves.
 

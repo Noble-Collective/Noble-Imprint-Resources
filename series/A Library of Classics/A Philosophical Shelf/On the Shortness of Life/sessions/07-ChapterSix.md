@@ -4,7 +4,7 @@
 
 ## Section 18: After Difficulty of Public Service, Deal With Leisure
 
-*Addressing Paulinus, Seneca encourages him to give time to himself since the better part of his life has already been given to public service. He does not endorse laziness, but appeals to him to apply himself to understanding his own mind in the pursuit of wisdom.* 
+> *Addressing Paulinus, Seneca encourages him to give time to himself since the better part of his life has already been given to public service. He does not endorse laziness, but appeals to him to apply himself to understanding his own mind in the pursuit of wisdom.* 
 
 <ChapterNum>18</ChapterNum> Wherefore, my dearest Paulinus, tear yourself away from the common herd, and since you have seen more rough weather than one would think from your age, betake yourself at length to a more peaceful haven: reflect what waves you have sailed through, what storms you have endured in private life, and brought upon yourself in public. Your courage has been sufficiently displayed by many toilsome and wearisome proofs; try how it will deal with leisure: the greater, certainly the better part of your life, has been given to your country; take now some part of your time for yourself as well.
 
