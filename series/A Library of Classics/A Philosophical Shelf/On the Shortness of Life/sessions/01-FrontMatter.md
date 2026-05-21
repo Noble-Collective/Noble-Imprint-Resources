@@ -1,0 +1,49 @@
+# Front Matter
+
+Compiled and edited, with an introduction, by Matthew R. Lynskey.
+
+Series: A Library of Classics for Christian Ministry: A Philosophical Shelf © 2026 by Matthew R. Lynskey, with a Creative Commons AttributionShareAlike license (CC BY-SA), version 4.0.
+
+Published by Noble Imprint (www.nobleimprint.com).
+
+Originally published by George Bell & Sons, 1889.
+
+This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+
+Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
+
+Excerpts from Greek New Testament are taken from Michael W. Holmes, ed., *The Greek New Testament* (Atlanta: Society of Biblical Literature, 2010).
+
+Compiled and edited, with an introduction, by Matthew R. Lynskey.
+
+York, Pennsylvania
+Noble Imprint
+2026
+
+*Ita est: non accipimus brevem vitam, sed facimus, nec inopes eius sed prodigi sumus.*
+
+Thus it is: we do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.
+
+Seneca, *De brevitate vitae* 1.4
+
+Ἄγε νῦν οἱ λέγοντες· Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν· οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία γὰρ ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη· Come now, you who say, "Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit." You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.
+
+<< James 4:13–14
+
+## Preface
+
+### Introduction
+
+Lucius Annaeus Seneca (4 bc–65 ad) was a Stoic moral philosopher who lived during the origin years of early Christianity. His works include treatises, letters, and plays which represent a significant literary, political and philosophical influence in his day and beyond. Topics of his moral treatises range from subjects such as providence, anger, clemency, the brevity of life, and leisure. In the latter years of his life, Seneca retired from formal political life, focusing on philosophical matters. He was accused of conspiracy by Nero and sentenced to execution by forced suicide. The hortatory nature of his moral treatises and the universality of many of his themes make his works relevant across cultures and generations.<sup>1</sup> In fact, many have noted a stark correspondence between Seneca and the Apostle Paul, speculating at the intertextual similarities in genre, style, and themes.<sup>2</sup>
+
+### Citation Note
+
+This English translation of Seneca's *On the Shortness of Life* can be found in the public domain edition Lucius Annaeus Seneca, "On the Shortness of Life," in *Minor Dialogues: Together with the Dialogue on Clemency*, trans. Aubrey Stewart, Bohn's Classical Library (London:
+
+<sup>1</sup>Thomas N. Habinek, "Seneca," in *Dictionary of New Testament Background: A Compendium of Contemporary Biblical Scholarship* (Downers Grove: InterVarsity Press, 2000), 1098–1099.
+
+<sup>2</sup>Oscar Jiménez, "Seneca and Paul, Correspondence Of," in *Encyclopedia of Ancient Christianity*, ed. Angelo Di Berardino and James Hoover, trans. Joseph T. Papa, Erik A. Koenke, and Eric E. Hewett (Downers Grove: Intervarsity 2014), 537.
+
+George Bell & Sons, 1889), 288–319. This useful edition is offered to the contemporary reader in a new format in an effort of retrieval of philosophical gems.
+
+This series seeks to give modern readers access to important ancient texts. In an effort to prioritize the primary text, we have made minimal emendations and limited marginal comments. To trace the overarching logic of this treatise, chapter divisions have been inserted to segment his work. Additionally, paragraph titles and section summaries have been added to provide a descriptive anchor to his flow of thought. Reflection questions have been added at the end of each chapter to facilitate discussion and meditation on the key ideas of this work. In order to aid in the reading experience, other light editing and emendations have been applied: updated spelling, adjusted punctuation, modernization of antiquated terms, and corrected errors. These adaptations seek to preserve the integrity of the translation, honor the original primary source, and enhance the overall readability of this important work.
