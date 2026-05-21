@@ -102,8 +102,8 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Reflection Questions
 
-1. What is Seneca's view of time? How valuable is time? How important is it that a person uses his time wisely?
-2. How do many people use their time? How does the common misuse of time compare and contrast with the care people show to others things in life? What are the various ways that the misuse of time is described in this section?
-3. How does Seneca describe the fast and fleeting nature of life? How should this observation—a sober realization of our mortality—impact the way we spend our lives?
-4. What does Seneca mean by a life of leisure? How do many people obtain position, power, and prestige and are unable to obtain a life of leisure? What is the relationship between a life of leisure and a life that is living for oneself?
-5. What is the relationship between learning to live and learning to die? How do these two ideas reinforce each other? How does Seneca describe a wise way to navigate our fleeting lives?
+<Question id="Sho-ChaTwo-RefQue-1">1. What is Seneca's view of time? How valuable is time? How important is it that a person uses his time wisely?</Question>
+<Question id="Sho-ChaTwo-RefQue-2">2. How do many people use their time? How does the common misuse of time compare and contrast with the care people show to others things in life? What are the various ways that the misuse of time is described in this section?</Question>
+<Question id="Sho-ChaTwo-RefQue-3">3. How does Seneca describe the fast and fleeting nature of life? How should this observation—a sober realization of our mortality—impact the way we spend our lives?</Question>
+<Question id="Sho-ChaTwo-RefQue-4">4. What does Seneca mean by a life of leisure? How do many people obtain position, power, and prestige and are unable to obtain a life of leisure? What is the relationship between a life of leisure and a life that is living for oneself?</Question>
+<Question id="Sho-ChaTwo-RefQue-5">5. What is the relationship between learning to live and learning to die? How do these two ideas reinforce each other? How does Seneca describe a wise way to navigate our fleeting lives?</Question>

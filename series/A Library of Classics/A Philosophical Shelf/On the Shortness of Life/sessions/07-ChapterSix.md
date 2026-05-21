@@ -44,8 +44,8 @@
 
 ## Reflection Questions
 
-1. What is Seneca's final exhortations in this treatise? Who is he addressing and what instructions does he give?
-2. What does it mean for a person to retreat to a quiet life? How does this relate to obtaining wisdom, avoiding laziness, and living well?
+<Question id="Sho-ChaSix-RefQue-1">1. What is Seneca's final exhortations in this treatise? Who is he addressing and what instructions does he give?</Question>
+<Question id="Sho-ChaSix-RefQue-2">2. What does it mean for a person to retreat to a quiet life? How does this relate to obtaining wisdom, avoiding laziness, and living well?</Question>
 
-3. What warning does Seneca give about envying a man of power, position, and prestige? In what ways to you find yourself envying the lives of people that you know would not bring joy and pleasure you think they would?
-4. How should we think about Seneca's appeal to live a life of leisure for those who live difficult lives and do not have much control of their vocations, external circumstances, or hardships?
+<Question id="Sho-ChaSix-RefQue-3">3. What warning does Seneca give about envying a man of power, position, and prestige? In what ways to you find yourself envying the lives of people that you know would not bring joy and pleasure you think they would?</Question>
+<Question id="Sho-ChaSix-RefQue-4">4. How should we think about Seneca's appeal to live a life of leisure for those who live difficult lives and do not have much control of their vocations, external circumstances, or hardships?</Question>

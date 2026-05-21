@@ -70,7 +70,7 @@
 
 ## Reflection Questions
 
-1. According to Seneca, what is a busy man? How can leisure become a person's busyness? How does a busy many neglect his life? How busy would you say your life is?
-2. What is Seneca's understanding of the three phases of life? How do wise and foolish people relate to the past, the present, and the future? Can you relate to experiencing life in relationship to these divisions of time?
-3. How does Seneca describe a wise man in relationship to his death? How is this contrasted with the unwise and foolish person? At present, how are you facing the inevitable reality of your death?
-4. What are trifles and curiosities? How do people waste their lives in going after these empty and vain pursuits? Is your life wrapped up with trifles and hollow ambitions?
+<Question id="Sho-ChaThr-RefQue-1">1. According to Seneca, what is a busy man? How can leisure become a person's busyness? How does a busy many neglect his life? How busy would you say your life is?</Question>
+<Question id="Sho-ChaThr-RefQue-2">2. What is Seneca's understanding of the three phases of life? How do wise and foolish people relate to the past, the present, and the future? Can you relate to experiencing life in relationship to these divisions of time?</Question>
+<Question id="Sho-ChaThr-RefQue-3">3. How does Seneca describe a wise man in relationship to his death? How is this contrasted with the unwise and foolish person? At present, how are you facing the inevitable reality of your death?</Question>
+<Question id="Sho-ChaThr-RefQue-4">4. What are trifles and curiosities? How do people waste their lives in going after these empty and vain pursuits? Is your life wrapped up with trifles and hollow ambitions?</Question>
