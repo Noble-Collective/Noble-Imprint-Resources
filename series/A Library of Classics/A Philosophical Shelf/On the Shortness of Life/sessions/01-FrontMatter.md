@@ -2,7 +2,7 @@
 
 
 
-Series: A Library of Classics for Christian Ministry: A Philosophical Shelf © 2026 by Matthew R. Lynskey, with a Creative Commons AttributionShareAlike license (CC BY-SA), version 4.0.
+Series: A Library of Classics for Christian Ministry: A Philosophical Shelf © 2026 by Matthew R. Lynskey, with a Creative Commons AttributionShare-Alike license (CC BY-SA), version 4.0.
 
 Published by Noble Imprint (www.nobleimprint.com).
 
