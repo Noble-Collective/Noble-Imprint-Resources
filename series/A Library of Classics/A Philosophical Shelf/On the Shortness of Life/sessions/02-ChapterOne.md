@@ -31,4 +31,4 @@
 <Question id="Sho-ChaOne-RefQue-1">1. How does Seneca describe the length and shortness of life? How have you experienced the truth of what he is claiming?</Question>
 <Question id="Sho-ChaOne-RefQue-2">2. Based on this introduction, how is it that people shorten the length of their lives? Have you experienced this in your own life?</Question>
 <Question id="Sho-ChaOne-RefQue-3">3. What do you make of Seneca's claim that life is long enough if one knows how to use it? How would you evaluate your own stewardship of your life?</Question>
-<Question id="Sho-ChaOne-RefQue-4">4. What role does vice play in preventing people from realizing the fullness of their lives? How does it cause people to neglect self-reflection, selfimprovement, and self-government?</Question>
+<Question id="Sho-ChaOne-RefQue-4">4. What role does vice play in preventing people from realizing the fullness of their lives? How does it cause people to neglect self-reflection, self-improvement, and self-government?</Question>
