@@ -32,6 +32,6 @@
 
 ## Reflection Questions
 
-<Question id="Sho-ChaFou-RefQue-1">1. Why does Seneca consider philosophy important? Why does the pusruit of wisdom and philosophy allow a person to truly live their lives? What has been your own relationship with philosophy and the pursuit of wisdom?</Question>
+<Question id="Sho-ChaFou-RefQue-1">1. Why does Seneca consider philosophy important? Why does the pursuit of wisdom and philosophy allow people to truly live their lives? What has been your own relationship with philosophy and the pursuit of wisdom?</Question>
 <Question id="Sho-ChaFou-RefQue-2">2. What kind of subject matter does philosophy explore? How does the study of philosophy relate to other subjects? Do you find yourself pursuing knowledge in things that are vast and eternal?</Question>
 <Question id="Sho-ChaFou-RefQue-3">3. How does Seneca describe the great thinkers of the past? Based upon his claims, how should wise people relate to these great thinkers? Who are the great thinkers that you have befriended?</Question>

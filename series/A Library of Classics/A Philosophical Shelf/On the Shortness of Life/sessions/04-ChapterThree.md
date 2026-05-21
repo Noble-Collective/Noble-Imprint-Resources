@@ -48,7 +48,7 @@
 
 ## Section 13: Those Who Waste Life in Trifles and Curiosities
 
-*Men are not at leisure if their pleasures lead them to labor for trifles.Those who pursue futile literary or historical debates have a vain longing to learn useless knowledge which is not profitable—it is a fascinating foolisness and exercise in vain curiosity. Not all knowledge is equally beneficial. Wise men seek knowledge that makes them braver and more virtuous.*
+*Men are not at leisure if their pleasures lead them to labor for trifles. Those who pursue futile literary or historical debates have a vain longing to learn useless knowledge which is not profitable—it is a fascinating foolishness and exercise in vain curiosity. Not all knowledge is equally beneficial. Wise men seek knowledge that makes them braver and more virtuous.*
 
 <ChapterNum>13</ChapterNum> It would take long to describe the various individuals who have wasted their lives over playing at draughts, playing at ball, or toasting their bodies in the sun: men are not at leisure if their pleasures partake of the character of business, for no one will doubt that those persons are laborious triflers who devote themselves to the study of futile literary questions, of whom there is already a great number in Rome also.
 
@@ -70,7 +70,7 @@
 
 ## Reflection Questions
 
-<Question id="Sho-ChaThr-RefQue-1">1. According to Seneca, what is a busy man? How can leisure become a person's busyness? How does a busy many neglect his life? How busy would you say your life is?</Question>
+<Question id="Sho-ChaThr-RefQue-1">1. According to Seneca, what is a busy man? How can leisure become a person's busyness? How does a busy man neglect his life? How busy would you say your life is?</Question>
 <Question id="Sho-ChaThr-RefQue-2">2. What is Seneca's understanding of the three phases of life? How do wise and foolish people relate to the past, the present, and the future? Can you relate to experiencing life in relationship to these divisions of time?</Question>
 <Question id="Sho-ChaThr-RefQue-3">3. How does Seneca describe a wise man in relationship to his death? How is this contrasted with the unwise and foolish person? At present, how are you facing the inevitable reality of your death?</Question>
 <Question id="Sho-ChaThr-RefQue-4">4. What are trifles and curiosities? How do people waste their lives in going after these empty and vain pursuits? Is your life wrapped up with trifles and hollow ambitions?</Question>

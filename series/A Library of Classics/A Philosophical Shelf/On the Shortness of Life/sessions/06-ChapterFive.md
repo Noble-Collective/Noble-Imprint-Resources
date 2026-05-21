@@ -18,7 +18,7 @@
 
 ## Section 17: Joys Are Mixed With Fears
 
-*Men experienced anxiety and fear even in the height of their pleasures, wondering when the pleasure will end. Joys are mixed with fears. Extreme prosperity brings great anxiety—fearfully striving to keep what we have labored hard to gain. Life is filled with anxieties as we are ever wishing for leisure but never enjoying it.*
+*Men experience anxiety and fear even in the height of their pleasures, wondering when the pleasure will end. Joys are mixed with fears. Extreme prosperity brings great anxiety—fearfully striving to keep what we have labored hard to gain. Life is filled with anxieties as we are ever wishing for leisure but never enjoying it.*
 
 <ChapterNum>17</ChapterNum> Such men's very pleasures are restless and disturbed by various alarms, and at the most joyous moment of all there rises the anxious thought: "How long will this last?" This frame of mind has led kings to weep over their power, and they have not been so much delighted at the grandeur of their position, as they have been terrified by the end to which it must some day come. That most arrogant Persian king, when his army stretched over vast plains and could not be counted but only measured, burst into tears at the thought that in less than a hundred years none of all those warriors would be alive.
 
@@ -36,5 +36,5 @@
 
 <Question id="Sho-ChaFiv-RefQue-1">1. How do some people come to the end of their lives and realize that they have not lived it meaningfully? What do you think you would think about your life if today were your last day? How would you like to change your life so that you will experience old age without regrets?</Question>
 <Question id="Sho-ChaFiv-RefQue-2">2. How do people who will eventually regret their lives think and feel about the past, the present, and the future? Do any of these thoughts or feelings reside in your internal world?</Question>
-<Question id="Sho-ChaFiv-RefQue-3">3. According to Seneca, how does the pursuit of pleasure cause people to waste their lives? How can you resonate with the experience of running from one pleasure to the next? What affect has this had on your life, your life, and your community?</Question>
+<Question id="Sho-ChaFiv-RefQue-3">3. According to Seneca, how does the pursuit of pleasure cause people to waste their lives? How can you resonate with the experience of running from one pleasure to the next? What effect has this had on your life, your family, and your community?</Question>
 <Question id="Sho-ChaFiv-RefQue-4">4. How is the pursuit of pleasure elusive? How are joys and fears mixed together? What insights does this give us about the pursuit of pleasure, the desire for wisdom, and how we should live our lives?</Question>
