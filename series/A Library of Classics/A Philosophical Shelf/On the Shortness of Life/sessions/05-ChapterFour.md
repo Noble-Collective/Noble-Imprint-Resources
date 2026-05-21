@@ -4,7 +4,7 @@
 
 ## Section 14: The Wise Engage Great Minds from the Past
 
-> *Only those who devote themselves to philosophy are truly at leisure. Such people benefit from the great thinkers of the past. They do not restrict themselves to sources of knowledge or subjects. They commune with every age by interacting with wise minds from of old.*
+> *Only those who devote themselves to philosophy are truly at leisure. Such people benefit from the great thinkers of the past. They do not restrict themselves to any single source of knowledge, subject matter, or area of inquiry. They commune with every age by interacting with wise minds of the past.*
 
 <ChapterNum>14</ChapterNum> The only persons who are really at leisure are those who devote themselves to philosophy: and they alone really live: for they do not merely enjoy their own lifetime, but they annex every century to their own: all the years which have passed before them belong to them. Unless we are the most ungrateful creatures in the world, we shall regard these noblest of men, the founders of divine schools of thought, as having been born for us, and having prepared life for us: we are led by the labour of others to behold most beautiful things which have been brought out of darkness into light; we are not shut out from any period, we can make our way into every subject, and, if only we can summon up sufficient strength of mind to overstep the narrow limit of human weakness, we have a vast extent of time wherein to disport ourselves.
 
@@ -18,7 +18,7 @@
 
 ## Section 15: Form Friendships With Philosophers as Patrons
 
-*The wise minds of great thinkers of the past teach us how to die. Men are blessed who befriend philosophers. They will guide people on the path of life. They will become good conversation partners for truth. They will serve as models for emulation. The pursuit of wisdom is a pursuit in that which endures. Life becomes long when a man gains wisdom from all ages—past, present, and future.*
+*The wise minds of great thinkers of the past teach us how to die. Men are blessed who befriend philosophers. They will guide people on the path of life. They will become good conversation partners in the pursuit of truth. They will serve as models for emulation. The pursuit of wisdom is a pursuit in that which endures. Life becomes long when a man gains wisdom across all ages—past, present, and future.*
 
 <ChapterNum>15</ChapterNum> None of these men will force you to die, but all of them will teach you how to die: none of these will waste your time, but will add his own to it. The talk of these men is not dangerous, their friendship will not lead you to the scaffold, their society will not ruin you in expenses: you may take from them whatsoever you will; they will not prevent your taking the deepest draughts of their wisdom that you please.
 
@@ -33,5 +33,5 @@
 ## Reflection Questions
 
 <Question id="Sho-ChaFou-RefQue-1">1. Why does Seneca consider philosophy important? Why does the pusruit of wisdom and philosophy allow a person to truly live their lives? What has been your own relationship with philosophy and the pursuit of wisdom?</Question>
-<Question id="Sho-ChaFou-RefQue-2">2. What kind of subject matter does philosophy explore? How does the study of philosophy relate to other subjects of study? Do you find yourself pursuing knowledge in things that are vast and eternal?</Question>
+<Question id="Sho-ChaFou-RefQue-2">2. What kind of subject matter does philosophy explore? How does the study of philosophy relate to other subjects? Do you find yourself pursuing knowledge in things that are vast and eternal?</Question>
 <Question id="Sho-ChaFou-RefQue-3">3. How does Seneca describe the great thinkers of the past? Based upon his claims, how should wise people relate to these great thinkers? Who are the great thinkers that you have befriended?</Question>

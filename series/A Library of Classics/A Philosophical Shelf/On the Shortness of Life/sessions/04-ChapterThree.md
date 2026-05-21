@@ -4,7 +4,7 @@
 
 ## Section 10: Busy Men Neglect the Past and Lose the Present
 
-> *Wisdom must directly confront foolishness, with a full frontal attack. The lives of busy men are the shortest of all. They seldom look back on their lives to review the past or amend their present. Busy people also lose the present because they are so preoccupied with many things before them that they cannot grasp even the day itself.*
+> *Wisdom must directly confront foolishness, with a full frontal attack. The lives of busy men are the shortest of all. They seldom look back on their lives to review the past or amend their present. Busy people also lose the present because they are so preoccupied with the many demands in front of them that they cannot grasp even the present day.*
 
 <ChapterNum>10</ChapterNum> If I chose to divide this proposition into separate steps, supported by evidence, many things occur to me by which I could prove that the lives of busy men are the shortest of all. Fabianus, who was none of your lecture-room philosophers, but one of the true antique pattern, used to say, "We ought to fight against the passions by main force, not by skirmishing, and upset their line of battle by a home charge, not by inflicting trifling wounds: I do not approve of dallying with sophisms; they must be crushed, not merely scratched." Yet, in order that sinners may be confronted with their errors, they must be taught, and not merely mourned for.
 
@@ -26,7 +26,7 @@
 
 ## Section 12: Some Men's Leisure Is Their Busyness
 
-*People can become busy men in their leisure. These people are consumed by their hobbies, amusements, appearance, feasting, and luxury. Their leisurely activities turn into the busyness of "anxious finicking"; they become busy in trifles. People can become unconscious and unaware—losing their senses—in their luxury. This person is not idle or living in leisure; he is sick and only half alive.*
+*People can become busy men in their leisure. These people are consumed by their hobbies, amusements, appearance, feasting, and luxury. Their leisurely activities turn into the busyness of "anxious finicking"; they become busy in trifles. People can become entirely unaware—losing their senses—in their luxury. This person is not idle or living in leisure; he is sick and only half alive.*
 
 <ChapterNum>12</ChapterNum> Perhaps you will ask me whom I mean by "busy men"? You need not think that I allude only to those who are hunted out of the courts of justice with dogs at the close of the proceedings, those whom you see either honourably jostled by a crowd of their own clients or contemptuously hustled in visits of ceremony by strangers, who call them away from home to hang about their patron's doors, or who make use of the praetor's sales by auction to acquire infamous gains which some day will prove their own ruin. Some men's leisure is busy.
 
@@ -48,7 +48,7 @@
 
 ## Section 13: Those Who Waste Life in Trifles and Curiosities
 
-*Men are not at leisure if their pleasures lead them to labor for trifles.Those who pursue futile literary or historical debates have a vain longing to learn useless knowledge which is not profitable—it is a fascinating foolisness and exercise in vain curiosity. Not all knowledge is equally beneficial. Wise men seek knowledge that makes them more brave and gentlemanly.*
+*Men are not at leisure if their pleasures lead them to labor for trifles.Those who pursue futile literary or historical debates have a vain longing to learn useless knowledge which is not profitable—it is a fascinating foolisness and exercise in vain curiosity. Not all knowledge is equally beneficial. Wise men seek knowledge that makes them braver and more virtuous.*
 
 <ChapterNum>13</ChapterNum> It would take long to describe the various individuals who have wasted their lives over playing at draughts, playing at ball, or toasting their bodies in the sun: men are not at leisure if their pleasures partake of the character of business, for no one will doubt that those persons are laborious triflers who devote themselves to the study of futile literary questions, of whom there is already a great number in Rome also.
 

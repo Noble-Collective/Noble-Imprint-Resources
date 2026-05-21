@@ -14,7 +14,7 @@
 
 ## Section 4: All Men Long for Leisure—To Live for Themselves
 
-*Even the most powerful and elite men speak about the wish for a life of leisure. Emperor Augustus, a most powerful ruler, longed for rest from the troubles of the empire. Concealed in the glory of his rule was a secret anxiety.*
+*Even the most powerful and elite men speak about the wish for a life of leisure. Emperor Augustus, one of the most powerful rulers in history, longed for rest from the troubles of the empire. Concealed in the glory of his rule was a secret anxiety.*
 
 <ChapterNum>4</ChapterNum> You will find that the most powerful and highly-placed men let fall phrases in which they long for leisure, praise it, and prefer it to all the blessings which they enjoy. Sometimes they would fain descend from their lofty pedestal, if it could be safely done: for Fortune collapses by its own weight, without any shock or interference from without.
 
@@ -30,7 +30,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 5: The Wise Man Never Becomes Prisoner to Duties
 
-*Marcus Cicero cursed his position of rule which he ceaselessly praised because he was like a "half a prisoner" to his duties. But the wise man never allows himself to be a prisoner in this regard; he enjoys a life of liberty, freedom, and power over his own life.*
+*Marcus Cicero cursed his position of rule which he ceaselessly praised because he was like a "half a prisoner" to his duties. But the wise man never allows himself to become such a prisoner; he enjoys a life of liberty, freedom, and power over his own life.*
 
 <ChapterNum>5</ChapterNum> While tossed hither and thither by Catiline and Clodius, Pompeius and Crassus, by some open enemies and some doubtful friends, while he struggled with the struggling republic and kept it from going to ruin, when at last he was banished, being neither able to keep silence in prosperity nor to endure adversity with patience, how often must Marcus Cicero have cursed that consulship of his which he never ceased to praise, and which nevertheless deserved it?
 
@@ -52,7 +52,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 7: Learning How to Live Is Learning How to Die
 
-*Those who give themselves to passions—drinking, debauchery, gluttony, lust live a disgraceful life. Their pleasures and pains bind them. One cannot have something take deep root inside himself while preoccupied with other things. Many regret the very things they have desired. A wise man frees himself from useless pursuits—he knows how to live and knows how to die.*
+*Those who give themselves to passions—drinking, debauchery, gluttony, lust live a disgraceful life. Their pleasures and pains bind them. Nothing can take deep root in a person who is preoccupied with other things. Many regret the very things they have desired. A wise man frees himself from useless pursuits—he knows how to live and knows how to die.*
 
 <ChapterNum>7</ChapterNum> Among these I reckon in the first place those who devote their time to nothing but drinking and debauchery: for no men are busied more shamefully: the others, although the glory which they pursue is but a counterfeit, still deserve some credit for their pursuit of it—though you may tell me of misers, of passionate men, of men who hate and who even wage war without a cause—yet all such men sin like men: but the sin of those who are given up to gluttony and lust is a disgraceful one.
 

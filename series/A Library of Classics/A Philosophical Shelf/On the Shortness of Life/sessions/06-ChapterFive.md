@@ -4,7 +4,7 @@
 
 ## Section 16: Shortening Life by Running Between Pleasures
 
-> *The shortest and unhappiest lives are those reach the end of their lives and realize that they were busy for nothing of meaning. These people forget the past, neglect the present, and fear the future. Folly leads people into the very things they fear and causes people to long for a shortened life. People shorten their lives by running from one pleasure to the next.*
+> *The shortest and unhappiest lives are those who reach the end of their lives and realize that they were busy for nothing of meaning. These people forget the past, neglect the present, and fear the future. Folly leads people into the very things they fear and causes people to long for a shortened life. People shorten their lives by running from one pleasure to the next.*
 
 <ChapterNum>16</ChapterNum> Those men lead the shortest and unhappiest lives who forget the past, neglect the present, and dread the future: when they reach the end of it the poor wretches learn too late that they were busied all the while that they were doing nothing.
 
@@ -34,7 +34,7 @@
 
 ## Reflection Questions
 
-<Question id="Sho-ChaFiv-RefQue-1">1. How do some people come to the end of their lives and realize that they have not lived it meaningfully? What do you think you would think about your life if today were your last day? How would you like to amend your life so that you will experience old age without regrets?</Question>
-<Question id="Sho-ChaFiv-RefQue-2">2. How do people who will eventually regret their lives think and feel about the past, the present, and the future? Do any of these thoughts or feelings reside in your own internal world?</Question>
+<Question id="Sho-ChaFiv-RefQue-1">1. How do some people come to the end of their lives and realize that they have not lived it meaningfully? What do you think you would think about your life if today were your last day? How would you like to change your life so that you will experience old age without regrets?</Question>
+<Question id="Sho-ChaFiv-RefQue-2">2. How do people who will eventually regret their lives think and feel about the past, the present, and the future? Do any of these thoughts or feelings reside in your internal world?</Question>
 <Question id="Sho-ChaFiv-RefQue-3">3. According to Seneca, how does the pursuit of pleasure cause people to waste their lives? How can you resonate with the experience of running from one pleasure to the next? What affect has this had on your life, your life, and your community?</Question>
 <Question id="Sho-ChaFiv-RefQue-4">4. How is the pursuit of pleasure elusive? How are joys and fears mixed together? What insights does this give us about the pursuit of pleasure, the desire for wisdom, and how we should live our lives?</Question>
