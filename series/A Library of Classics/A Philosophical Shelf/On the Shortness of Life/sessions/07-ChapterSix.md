@@ -4,7 +4,7 @@
 
 ## Section 18: After Difficulty of Public Service, Deal With Leisure
 
-> *Addressing Paulinus, Seneca encourages him to give time to himself since the better part of his life has already been given to public service. He does not endorse laziness, but appeals to him to apply himself to understanding his own mind in the pursuit of wisdom.* 
+> *Addressing Paulinus, Seneca encourages him to give time to himself since the better part of his life has already been given to public service. He does not endorse laziness, but appeals to him to turn inward and pursue wisdom.* 
 
 <ChapterNum>18</ChapterNum> Wherefore, my dearest Paulinus, tear yourself away from the common herd, and since you have seen more rough weather than one would think from your age, betake yourself at length to a more peaceful haven: reflect what waves you have sailed through, what storms you have endured in private life, and brought upon yourself in public. Your courage has been sufficiently displayed by many toilsome and wearisome proofs; try how it will deal with leisure: the greater, certainly the better part of your life, has been given to your country; take now some part of your time for yourself as well.
 
@@ -20,7 +20,7 @@
 
 ## Section 19: Retreat to Quieter Life in Pursuit of Wisdom
 
-*Seneca encourages Paulinus to retreat to a quieter life and pursue wisdom. If he does so, there awaits for him many good things: love, virtue, freedom from passions, knowledge of life and death, and deep rest. Many do not have selfgovernemnt. They are ruled by others. This person is the most unhappy of all.*
+*Seneca encourages Paulinus to retreat to a quieter life and pursue wisdom. If he does so, there await him many good things: love, virtue, freedom from passions, knowledge of life and death, and deep rest. Many do not have selfgovernemnt. They are ruled by others. This person is the most unhappy of all.*
 
 <ChapterNum>19</ChapterNum> Betake yourself to these quieter, safer, larger fields of action: do you think that there can be any comparison between seeing that corn is deposited in the public granary without being stolen by the fraud or spoilt by the carelessness of the importer, that it does not suffer from damp or overheating, and that it measures and weighs as much as it ought, and beginning the study of sacred and divine knowledge, which will teach you of what elements the gods are formed, what are their pleasures, their position, their form? To what changes your soul has to look forward? Where Nature will place us when we are dismissed from our bodies? What that principle is which holds all the heaviest particles of our universe in the middle, suspends the lighter ones above, puts fire highest of all, and causes the stars to rise in their courses, with many other matters, full of marvels?
 
@@ -30,7 +30,7 @@
 
 ## Section 20: Do Not Envy Great Men Who Gain by Losing Life
 
-*Do not envy a man of position and power. These people gain their prestige by losing their lives. To lose one's life for unprofitable and meaningless ventures is most shameful. While people feverishly pursue a busy life, it is without profit, pleasure, or progress. The funerals of such men should be as though they lived a brief life.*
+*Do not envy men of position and power. These people gain their prestige by losing their lives. To lose one's life for unprofitable and meaningless pursuits is shameful. While people feverishly pursue a busy life, such a life yields no profit, pleasure, or progress. The funerals of such men should be as though they lived a brief life.*
 
 <ChapterNum>20</ChapterNum> When, therefore, you see a man often wear the purple robes of office, and hear his name often repeated in the forum, do not envy him: he gains these things by losing so much of his life. Men throw away all their years in order to have one year named after them as consul: some lose their lives during the early part of the struggle, and never reach the height to which they aspired: some after having submitted to a thousand indignities in order to reach the crowning dignity, have the miserable reflexion that the only result of their labours will be the inscription on their tombstone. Some, while telling off extreme old age, like youth, for new aspirations, have found it fail from sheer weakness amid great and presumptuous enterprises.
 
@@ -48,4 +48,4 @@
 <Question id="Sho-ChaSix-RefQue-2">2. What does it mean for a person to retreat to a quiet life? How does this relate to obtaining wisdom, avoiding laziness, and living well?</Question>
 
 <Question id="Sho-ChaSix-RefQue-3">3. What warning does Seneca give about envying a man of power, position, and prestige? In what ways to you find yourself envying the lives of people that you know would not bring joy and pleasure you think they would?</Question>
-<Question id="Sho-ChaSix-RefQue-4">4. How should we think about Seneca's appeal to live a life of leisure for those who live difficult lives and do not have much control of their vocations, external circumstances, or hardships?</Question>
+<Question id="Sho-ChaSix-RefQue-4">4. How should we think about Seneca's appeal to live a life of leisure for those who live difficult lives and do not have much control over their vocations or external circumstances?</Question>
