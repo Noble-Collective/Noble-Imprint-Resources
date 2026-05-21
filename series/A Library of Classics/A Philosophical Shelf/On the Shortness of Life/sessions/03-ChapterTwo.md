@@ -40,7 +40,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 6: Even a Thousand Years Is Short Because of Our Vice
 
-*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get ahold of us to squander away our time.*
+*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get ahold of us to squander away our time.*
 
 <ChapterNum>6</ChapterNum> When Livius Drusus, a vigorous and energetic man, brought forward bills for new laws and radical measures of the Gracchus pattern, being the centre of a vast mob of all the peoples of Italy, and seeing no way to solve the question, since he was not allowed to deal with it as he wished, and yet was not free to throw it up after having once taken part in it, complained bitterly of his life, which had been one of unrest from the very cradle, and said, we are told, that "he was the only person who had never had any holidays even when he was a boy." Indeed, while he was still under age and wearing the praetexta, he had the courage to plead the cause of accused persons in court, and to make use of his influence so powerfully that it is well known that in some causes his exertions gained a verdict.
 
