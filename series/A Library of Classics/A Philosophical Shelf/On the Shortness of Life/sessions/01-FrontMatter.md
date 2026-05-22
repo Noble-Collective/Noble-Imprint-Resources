@@ -26,7 +26,9 @@ Thus it is: we do not receive a short life, but we make it a short one, and we a
 
 Seneca, *De brevitate vitae* 1.4
 
-Ἄγε νῦν οἱ λέγοντες· Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν· οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία γὰρ ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη· Come now, you who say, "Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit." You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.
+Ἄγε νῦν οἱ λέγοντες· Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν· οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία γὰρ ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη· 
+
+Come now, you who say, "Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit." You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.
 
 << James 4:13–14
 
