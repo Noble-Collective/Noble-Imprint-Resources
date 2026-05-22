@@ -20,7 +20,7 @@
 
 ## Section 19: Retreat to Quieter Life in Pursuit of Wisdom
 
-*Seneca encourages Paulinus to retreat to a quieter life and pursue wisdom. If he does so, there await him many good things: love, virtue, freedom from passions, knowledge of life and death, and deep rest. Many do not have self-government. They are ruled by others. This person is the most unhappy of all.*
+*Seneca encourages Paulinus to retreat to a quieter life and pursue wisdom. If he does so, there await him many good things: love, virtue, freedom from passions, knowledge of life and death, and deep rest. Many do not have self-government. They are ruled by others. These are the most unhappy of all.*
 
 <ChapterNum>19</ChapterNum> Betake yourself to these quieter, safer, larger fields of action: do you think that there can be any comparison between seeing that corn is deposited in the public granary without being stolen by the fraud or spoilt by the carelessness of the importer, that it does not suffer from damp or overheating, and that it measures and weighs as much as it ought, and beginning the study of sacred and divine knowledge, which will teach you of what elements the gods are formed, what are their pleasures, their position, their form? To what changes your soul has to look forward? Where Nature will place us when we are dismissed from our bodies? What that principle is which holds all the heaviest particles of our universe in the middle, suspends the lighter ones above, puts fire highest of all, and causes the stars to rise in their courses, with many other matters, full of marvels?
 
