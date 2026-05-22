@@ -2,7 +2,7 @@
 
 ## Section 3: Men Are Most Prodigal With Their Time
 
-> *People defend their physical estates in trifling disputes but allow men to encroach upon their actual lives. Even if we ask an old man how he spent his time, when all is tallied, it will be found that he did not live as long as the years he had on earth. Much time is lost, stolen, or uselessly given away. This wastefulness takes place because people live as if they would live forever and do not recall the frailty and transience of life. It is foolish to forget one's mortality.*
+> *People defend their physical estates in trifling disputes but allow others to encroach upon their actual lives. Even if we ask an old man how he spent his time, when all is tallied, it will be found that he did not live as long as the years he had on earth. Much time is lost, stolen, or uselessly given away. This wastefulness takes place because people live as if they would live forever and do not recall the frailty and transience of life. It is foolish to forget one's mortality.*
 
 <ChapterNum>3</ChapterNum> Were all the brightest intellects of all time to employ themselves on this one subject, they never could sufficiently express their wonder at this blindness of men's minds: men will not allow any one to establish himself upon their estates, and upon the most trifling dispute about the measuring of boundaries, they betake themselves to stones and cudgels: yet they allow others to encroach upon their lives, nay, they themselves actually lead others in to take possession of them. You cannot find any one who wants to distribute his money; yet among how many people does every one distribute his life? Men covetously guard their property from waste, but when it comes to waste of time, they are most prodigal of that of which it would become them to be sparing. Let us take one of the elders, and say to him,
 
@@ -40,7 +40,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 6: Even a Thousand Years Is Short Because of Our Vice
 
-*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get ahold of us to squander away our time.*
+*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get hold of us to squander away our time.*
 
 <ChapterNum>6</ChapterNum> When Livius Drusus, a vigorous and energetic man, brought forward bills for new laws and radical measures of the Gracchus pattern, being the centre of a vast mob of all the peoples of Italy, and seeing no way to solve the question, since he was not allowed to deal with it as he wished, and yet was not free to throw it up after having once taken part in it, complained bitterly of his life, which had been one of unrest from the very cradle, and said, we are told, that "he was the only person who had never had any holidays even when he was a boy." Indeed, while he was still under age and wearing the praetexta, he had the courage to plead the cause of accused persons in court, and to make use of his influence so powerfully that it is well known that in some causes his exertions gained a verdict.
 
@@ -74,7 +74,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 8: People Play With Time, a Most Precious Thing
 
-*Time is most precious but it is not a physical entity. Therefore, many people play with time or squander time as it is were something cheap. Many people value many material things, but do not value time. This is an unwise and inconsistent way to live. No one can give back a person his wasted time.*
+*Time is most precious but it is not a physical entity. Therefore, many people play with time or squander time as if is were something cheap. Many people value many material things, but do not value time. This is an unwise and inconsistent way to live. No one can give back a person his wasted time.*
 
 <ChapterNum>8</ChapterNum> I am filled with wonder when I see some men asking others for their time, and those who are asked for it most willing to give it: both parties consider the object for which the time is given, but neither of them thinks of the time itself, as though in asking for this one asked for nothing, and in giving it one gave nothing: we play with what is the most precious of all things: yet it escapes men's notice, because it is an incorporeal thing, and because it does not come before our eyes; and therefore it is held very cheap, nay, hardly any value whatever is put upon it.
 
@@ -103,7 +103,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 ## Reflection Questions
 
 <Question id="Sho-ChaTwo-RefQue-1">1. What is Seneca's view of time? How valuable is time? How important is it that a person uses his time wisely?</Question>
-<Question id="Sho-ChaTwo-RefQue-2">2. How do many people use their time? How does the common misuse of time compare and contrast with the care people show to others things in life? What are the various ways that the misuse of time is described in this section?</Question>
+<Question id="Sho-ChaTwo-RefQue-2">2. How do many people use their time? How does the common misuse of time compare and contrast with the care people show to other things in life? What are the various ways that the misuse of time is described in this section?</Question>
 <Question id="Sho-ChaTwo-RefQue-3">3. How does Seneca describe the fast and fleeting nature of life? How should this observation—a sober realization of our mortality—impact the way we spend our lives?</Question>
-<Question id="Sho-ChaTwo-RefQue-4">4. What does Seneca mean by a life of leisure? How do many people obtain position, power, and prestige and are unable to obtain a life of leisure? What is the relationship between a life of leisure and a life that is living for oneself?</Question>
+<Question id="Sho-ChaTwo-RefQue-4">4. What does Seneca mean by a life of leisure? How do many people obtain position, power, and prestige and are unable to obtain a life of leisure? What is the relationship between a life of leisure and a life lived for oneself?</Question>
 <Question id="Sho-ChaTwo-RefQue-5">5. What is the relationship between learning to live and learning to die? How do these two ideas reinforce each other? How does Seneca describe a wise way to navigate our fleeting lives?</Question>

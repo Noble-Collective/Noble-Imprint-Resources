@@ -26,7 +26,7 @@
 
 ## Section 12: Some Men's Leisure Is Their Busyness
 
-*People can become busy men in their leisure. These people are consumed by their hobbies, amusements, appearance, feasting, and luxury. Their leisurely activities turn into the busyness of "anxious finicking"; they become busy in trifles. People can become entirely unaware—losing their senses—in their luxury. This person is not idle or living in leisure; he is sick and only half alive.*
+*People can become busy men in their leisure. These people are consumed by their hobbies, amusements, appearance, feasting, and luxury. Their leisurely activities turn into the busyness of "anxious finicking"—they become busy in trifles. People can become entirely unaware—losing their senses—in their luxury. This person is not idle or living in leisure; he is sick and only half alive.*
 
 <ChapterNum>12</ChapterNum> Perhaps you will ask me whom I mean by "busy men"? You need not think that I allude only to those who are hunted out of the courts of justice with dogs at the close of the proceedings, those whom you see either honourably jostled by a crowd of their own clients or contemptuously hustled in visits of ceremony by strangers, who call them away from home to hang about their patron's doors, or who make use of the praetor's sales by auction to acquire infamous gains which some day will prove their own ruin. Some men's leisure is busy.
 

@@ -2,7 +2,7 @@
 
 
 
-Series: A Library of Classics for Christian Ministry: A Philosophical Shelf © 2026 by Matthew R. Lynskey, with a Creative Commons AttributionShare-Alike license (CC BY-SA), version 4.0.
+Series: A Library of Classics for Christian Ministry: A Philosophical Shelf © 2026 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
 
 Published by Noble Imprint (www.nobleimprint.com).
 
@@ -34,7 +34,7 @@ Seneca, *De brevitate vitae* 1.4
 
 ### Introduction
 
-Lucius Annaeus Seneca (4 bc–65 ad) was a Stoic moral philosopher who lived during the early years of Christianity. His works include treatises, letters, and plays which represent a significant literary, political, and philosophical influence in his day and beyond. Topics of his moral treatises range from subjects such as providence, anger, clemency, the brevity of life, and leisure. In the latter years of his life, Seneca retired from formal political life, focusing on philosophical matters. He was accused of conspiracy by Nero and sentenced to execution by forced suicide. The hortatory nature of his moral treatises and the universality of many of his themes make his works relevant across cultures and generations.<sup>1</sup> In fact, many have noted a stark correspondence between Seneca and the Apostle Paul, speculating about the intertextual similarities in genre, style, and themes.<sup>2</sup>
+Lucius Annaeus Seneca (4 bc–65 ad) was a Stoic moral philosopher who lived during the early years of Christianity. His works include treatises, letters, and plays, which represent a significant literary, political, and philosophical influence in his day and beyond. Topics of his moral treatises include providence, anger, clemency, the brevity of life, and leisure. In the latter years of his life, Seneca retired from formal political life, focusing on philosophical matters. He was accused of conspiracy by Nero and sentenced to execution by forced suicide. The hortatory nature of his moral treatises and the universal quality of many of his themes make his works relevant across cultures and generations.<sup>1</sup> In fact, many have noted a stark correspondence between Seneca and the Apostle Paul, speculating about the intertextual similarities in genre, style, and themes.<sup>2</sup>
 
 ### Citation Note
 

@@ -2,7 +2,7 @@
 
 ## Section 1: We Do Not Have a Short Life, But We Make It Short
 
-> *In the big picture, we live for only a short period of time. Each person has been given an ample amount of life; we make our life short by not using it profitably. We need to learn to take best advantage of the time that has been given to us by living wisely.*
+> *Broadly speaking, we live for only a short period of time. Each person has been given an ample amount of life; we make our life short by not using it profitably. We need to learn to take full advantage of the time that has been given to us by living wisely.*
 
 <ChapterNum>1</ChapterNum> The greater part of mankind, my Paulinus, complains of the unkindness of Nature, because we are born only for a short space of time, and that this allotted period of life runs away so swiftly, nay so hurriedly, that with but few exceptions men's life comes to an end just as they are preparing to enjoy it: nor is it only the common herd and the ignorant vulgar who mourn over this universal misfortune, as they consider it to be: this reflection has wrung complaints even from great men. Hence comes that well-known saying of physicians, that art is long but life is short.
 
@@ -14,7 +14,7 @@
 
 ## Section 2: Life Is Long Enough if We Know How to Use It
 
-*Everyone's life is long enough if it is used well. People have set themselves to a multitude of different aims in life. Many of these pursuits have been directed toward useless, toilsome, and vain ends. In the end, these people only live a portion of their actual lives. Vice surrounds and assaults humanity, disallowing people from coming into self-possession. People lament not being paid attention to by important rulers, but they neglect to pay attention to themselves.*
+*Everyone's life is long enough if it is used well. People have set themselves to a multitude of different aims in life. Many of these pursuits have been directed toward useless, toilsome, and vain ends. In the end, these people only live a portion of their actual lives. Vice surrounds and assaults humanity, disallowing people from coming into self-possession. People lament not being overlooked by important rulers, but they neglect to pay attention to themselves.*
 
 <ChapterNum>2</ChapterNum> Why do we complain of Nature? She has dealt kindly with us. Life is long enough, if you know how to use it. One man is possessed by an avarice which nothing can satisfy, another by a laborious diligence in doing what is totally useless: another is sodden by wine: another is benumbed by sloth: one man is exhausted by an ambition which makes him court the good will of others.
 
