@@ -20,11 +20,12 @@ York, Pennsylvania
 Noble Imprint
 2026
 
+  
 *Ita est: non accipimus brevem vitam, sed facimus, nec inopes eius sed prodigi sumus.*
 
 Thus it is: we do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.
 
-Seneca, *De brevitate vitae* 1.4
+<< Seneca, *De brevitate vitae* 1.4
 
 Ἄγε νῦν οἱ λέγοντες· Σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν· οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον ποία γὰρ ἡ ζωὴ ὑμῶν· ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη, ἔπειτα καὶ ἀφανιζομένη· 
 
