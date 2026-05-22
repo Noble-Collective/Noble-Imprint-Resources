@@ -40,7 +40,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 6: Even a Thousand Years Is Short Because of Our Vice
 
-*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get hold of us to squander away our time.*
+*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get hold of us to squander our time.*
 
 <ChapterNum>6</ChapterNum> When Livius Drusus, a vigorous and energetic man, brought forward bills for new laws and radical measures of the Gracchus pattern, being the centre of a vast mob of all the peoples of Italy, and seeing no way to solve the question, since he was not allowed to deal with it as he wished, and yet was not free to throw it up after having once taken part in it, complained bitterly of his life, which had been one of unrest from the very cradle, and said, we are told, that "he was the only person who had never had any holidays even when he was a boy." Indeed, while he was still under age and wearing the praetexta, he had the courage to plead the cause of accused persons in court, and to make use of his influence so powerfully that it is well known that in some causes his exertions gained a verdict.
 
@@ -88,7 +88,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 9: Life Is Fast and Fleeting, Live Now Straightway
 
-*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present. We should be swift at making the best use of our time since time is fleeting, transpiring faster than we often realize. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
+*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present.  We should be swift and make the best use of our time, for life is fleeting. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
 
 <ChapterNum>9</ChapterNum> Can anything be mentioned which is more insane than the ideas of leisure of those people who boast of their worldly wisdom? They live laboriously, in order that they may live better; they fit themselves out for life at the expense of life itself, and cast their thoughts a long way forwards: yet postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter: there is no such obstacle to true living as waiting, which loses today while it is depending on the morrow. You dispose of that which is in the hand of Fortune, and you let go that which is in your own. Whither are you looking, whither are you stretching forward? Everything future is uncertain: live now straightway.
 

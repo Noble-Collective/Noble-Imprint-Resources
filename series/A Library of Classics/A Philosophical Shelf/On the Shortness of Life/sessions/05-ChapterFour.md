@@ -18,7 +18,7 @@
 
 ## Section 15: Form Friendships With Philosophers as Patrons
 
-*The wise minds and great thinkers of the past teach us how to die. Those who befriend philosophers are blessed. They will guide people on the path of life. They will become good conversation partners in the pursuit of truth. They will serve as models, worthy of emulation. The pursuit of wisdom is a pursuit of that which endures. Life becomes long when a man gains wisdom across all ages—past, present, and future.*
+*The great thinkers of the past—those who have pursued and gained wisdom—teach us how to die. Those who befriend philosophers are blessed. They will guide people on the path of life. They will become good conversation partners in the pursuit of truth. They will serve as models, worthy of emulation. The pursuit of wisdom is a pursuit of that which endures. Life becomes long when a man gains wisdom across all ages—past, present, and future.*
 
 <ChapterNum>15</ChapterNum> None of these men will force you to die, but all of them will teach you how to die: none of these will waste your time, but will add his own to it. The talk of these men is not dangerous, their friendship will not lead you to the scaffold, their society will not ruin you in expenses: you may take from them whatsoever you will; they will not prevent your taking the deepest draughts of their wisdom that you please.
 

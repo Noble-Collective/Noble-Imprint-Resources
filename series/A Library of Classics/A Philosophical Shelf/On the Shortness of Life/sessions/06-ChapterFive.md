@@ -1,10 +1,10 @@
-The funerals of such men# Chapter Five
+# Chapter Five
 
 ### "Greatest Blessings Are Enjoyed With Fear": The Elusiveness and Incompleteness of Pleasure
 
 ## Section 16: Shortening Life by Running Between Pleasures
 
-> *The shortest and unhappiest lives are those who reach the end of their lives and realize that they were busy with nothing meaningful. These people forget the past, neglect the present, and fear the future. Folly leads people into the very things they fear, causing people to desire a short life. People shorten their lives by running from one pleasure to the next.*
+> *The shortest and unhappiest lives are those who reach the end of their lives and realize that they were busy with nothing meaningful. These people forget the past, neglect the present, and fear the future. Folly leads people into the very things they fear, causing people to wish for death. People shorten their lives by running from one pleasure to the next.*
 
 <ChapterNum>16</ChapterNum> Those men lead the shortest and unhappiest lives who forget the past, neglect the present, and dread the future: when they reach the end of it the poor wretches learn too late that they were busied all the while that they were doing nothing.
 
