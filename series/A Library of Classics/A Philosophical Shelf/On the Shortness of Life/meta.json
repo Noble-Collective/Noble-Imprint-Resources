@@ -3,5 +3,27 @@
   "subtitle": "A Philosophical Exploration of Time, Wisdom, and the Good Life",
   "order": 1,
   "banner": "Pre-Release",
-  "status": "public"
+  "status": "public",
+  "audiobook": {
+    "enabled": true,
+    "project_id": null,
+    "voice_id": "jRAAK67SEFE9m7ci5DhD",
+    "model_id": "eleven_multilingual_v2",
+    "quality_preset": "high",
+    "voice_settings": {
+      "stability": 0.71,
+      "similarity_boost": 0.5,
+      "style": 0.0,
+      "speed": 0.92
+    },
+    "pronunciation_dictionary_id": null,
+    "skip_sessions": [
+      "03-ChapterTwo.md",
+      "04-ChapterThree.md",
+      "05-ChapterFour.md",
+      "06-ChapterFive.md",
+      "07-ChapterSix.md",
+      "08-Bibliography.md"
+    ]
+  }
 }
