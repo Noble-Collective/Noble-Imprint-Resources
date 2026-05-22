@@ -20,7 +20,7 @@
 
 ## Section 19: Retreat to Quieter Life in Pursuit of Wisdom
 
-*Seneca encourages Paulinus to retreat to a quieter life and pursue wisdom. If he does so, there await him many good things: love, virtue, freedom from passions, knowledge of life and death, and deep rest. Many do not have self-government. They are ruled by others. These are the most unhappy of all.*
+> *Seneca encourages Paulinus to retreat to a quieter life and pursue wisdom. If he does so, there await him many good things: love, virtue, freedom from passions, knowledge of life and death, and deep rest. Many do not have self-government. They are ruled by others. These are the most unhappy of all.*
 
 <ChapterNum>19</ChapterNum> Betake yourself to these quieter, safer, larger fields of action: do you think that there can be any comparison between seeing that corn is deposited in the public granary without being stolen by the fraud or spoilt by the carelessness of the importer, that it does not suffer from damp or overheating, and that it measures and weighs as much as it ought, and beginning the study of sacred and divine knowledge, which will teach you of what elements the gods are formed, what are their pleasures, their position, their form? To what changes your soul has to look forward? Where Nature will place us when we are dismissed from our bodies? What that principle is which holds all the heaviest particles of our universe in the middle, suspends the lighter ones above, puts fire highest of all, and causes the stars to rise in their courses, with many other matters, full of marvels?
 
@@ -30,7 +30,7 @@
 
 ## Section 20: Do Not Envy Great Men Who Gain by Losing Life
 
-*Do not envy men of position and power. These people gain their prestige by losing their lives. To lose one's life for unprofitable and meaningless pursuits is shameful. While people feverishly pursue a busy life, such a life yields no profit, pleasure, or progress. The funerals of such men should be conducted as though they had lived a brief life.*
+> *Do not envy men of position and power. These people gain their prestige by losing their lives. To lose one's life for unprofitable and meaningless pursuits is shameful. While people feverishly pursue a busy life, such a life yields no profit, pleasure, or progress. The funerals of such men should be conducted as though they had lived a brief life.*
 
 <ChapterNum>20</ChapterNum> When, therefore, you see a man often wear the purple robes of office, and hear his name often repeated in the forum, do not envy him: he gains these things by losing so much of his life. Men throw away all their years in order to have one year named after them as consul: some lose their lives during the early part of the struggle, and never reach the height to which they aspired: some after having submitted to a thousand indignities in order to reach the crowning dignity, have the miserable reflexion that the only result of their labours will be the inscription on their tombstone. Some, while telling off extreme old age, like youth, for new aspirations, have found it fail from sheer weakness amid great and presumptuous enterprises.
 

@@ -14,7 +14,7 @@
 
 ## Section 4: All Men Long for Leisure—To Live for Themselves
 
-*Even the most powerful and elite men speak about the wish for a life of leisure. Emperor Augustus, one of the most powerful rulers in history, longed for rest from the troubles of the empire. Concealed in the glory of his rule was a secret anxiety.*
+> *Even the most powerful and elite men speak about the wish for a life of leisure. Emperor Augustus, one of the most powerful rulers in history, longed for rest from the troubles of the empire. Concealed in the glory of his rule was a secret anxiety.*
 
 <ChapterNum>4</ChapterNum> You will find that the most powerful and highly-placed men let fall phrases in which they long for leisure, praise it, and prefer it to all the blessings which they enjoy. Sometimes they would fain descend from their lofty pedestal, if it could be safely done: for Fortune collapses by its own weight, without any shock or interference from without.
 
@@ -30,7 +30,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 5: The Wise Man Never Becomes Prisoner to Duties
 
-*Marcus Cicero cursed his position of rule which he ceaselessly praised because he was like "half a prisoner" to his duties. But the wise man never allows himself to become such a prisoner; he enjoys a life of liberty, freedom, and power over his own life.*
+> *Marcus Cicero cursed his position of rule which he ceaselessly praised because he was like "half a prisoner" to his duties. But the wise man never allows himself to become such a prisoner; he enjoys a life of liberty, freedom, and power over his own life.*
 
 <ChapterNum>5</ChapterNum> While tossed hither and thither by Catiline and Clodius, Pompeius and Crassus, by some open enemies and some doubtful friends, while he struggled with the struggling republic and kept it from going to ruin, when at last he was banished, being neither able to keep silence in prosperity nor to endure adversity with patience, how often must Marcus Cicero have cursed that consulship of his which he never ceased to praise, and which nevertheless deserved it?
 
@@ -40,7 +40,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 6: Even a Thousand Years Is Short Because of Our Vice
 
-*Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get hold of us to squander our time.*
+> *Livius Drusus complained about the unrest of his life. He was a great man, ambitious and skillful in the courts, yet he did not enjoy the rest he so desired. Many consider great men the happiest men, but they bear witness about their own misery. Even a life that lasted more than a thousand years would be a short life by the way we allow our vices to get hold of us to squander our time.*
 
 <ChapterNum>6</ChapterNum> When Livius Drusus, a vigorous and energetic man, brought forward bills for new laws and radical measures of the Gracchus pattern, being the centre of a vast mob of all the peoples of Italy, and seeing no way to solve the question, since he was not allowed to deal with it as he wished, and yet was not free to throw it up after having once taken part in it, complained bitterly of his life, which had been one of unrest from the very cradle, and said, we are told, that "he was the only person who had never had any holidays even when he was a boy." Indeed, while he was still under age and wearing the praetexta, he had the courage to plead the cause of accused persons in court, and to make use of his influence so powerfully that it is well known that in some causes his exertions gained a verdict.
 
@@ -52,7 +52,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 7: Learning How to Live Is Learning How to Die
 
-*Those who give themselves to passions—drinking, debauchery, gluttony, lust—live a disgraceful life. Their pleasures and pains bind them. Nothing can take deep root in a person who is preoccupied with other things. Many regret the very things they have desired. A wise man frees himself from useless pursuits—he knows how to live and knows how to die.*
+> *Those who give themselves to passions—drinking, debauchery, gluttony, lust—live a disgraceful life. Their pleasures and pains bind them. Nothing can take deep root in a person who is preoccupied with other things. Many regret the very things they have desired. A wise man frees himself from useless pursuits—he knows how to live and knows how to die.*
 
 <ChapterNum>7</ChapterNum> Among these I reckon in the first place those who devote their time to nothing but drinking and debauchery: for no men are busied more shamefully: the others, although the glory which they pursue is but a counterfeit, still deserve some credit for their pursuit of it—though you may tell me of misers, of passionate men, of men who hate and who even wage war without a cause—yet all such men sin like men: but the sin of those who are given up to gluttony and lust is a disgraceful one.
 
@@ -74,7 +74,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 8: People Play With Time, a Most Precious Thing
 
-*Time is most precious but it is not a physical entity. Therefore, many people play with time or squander time as if it were something cheap. Many people value many material things, but do not value time. This is an unwise and inconsistent way to live. No one can give back a person his wasted time.*
+> *Time is most precious but it is not a physical entity. Therefore, many people play with time or squander time as if it were something cheap. Many people value many material things, but do not value time. This is an unwise and inconsistent way to live. No one can give back a person his wasted time.*
 
 <ChapterNum>8</ChapterNum> I am filled with wonder when I see some men asking others for their time, and those who are asked for it most willing to give it: both parties consider the object for which the time is given, but neither of them thinks of the time itself, as though in asking for this one asked for nothing, and in giving it one gave nothing: we play with what is the most precious of all things: yet it escapes men's notice, because it is an incorporeal thing, and because it does not come before our eyes; and therefore it is held very cheap, nay, hardly any value whatever is put upon it.
 
@@ -88,7 +88,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 9: Life Is Fast and Fleeting, Live Now Straightway
 
-*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present. We should make the best use of our time, for life is fleeting. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
+> *Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present. We should make the best use of our time, for life is fleeting. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
 
 <ChapterNum>9</ChapterNum> Can anything be mentioned which is more insane than the ideas of leisure of those people who boast of their worldly wisdom? They live laboriously, in order that they may live better; they fit themselves out for life at the expense of life itself, and cast their thoughts a long way forwards: yet postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter: there is no such obstacle to true living as waiting, which loses today while it is depending on the morrow. You dispose of that which is in the hand of Fortune, and you let go that which is in your own. Whither are you looking, whither are you stretching forward? Everything future is uncertain: live now straightway.
 

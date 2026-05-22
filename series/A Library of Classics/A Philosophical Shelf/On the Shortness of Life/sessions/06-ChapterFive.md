@@ -18,7 +18,7 @@
 
 ## Section 17: Joys Are Mixed With Fears
 
-*Men experience anxiety and fear even in the height of their pleasures, wondering when the pleasure will end. Joys are mixed with fears. Extreme prosperity brings great anxiety—fearfully striving to keep what we have labored hard to gain. Life is filled with anxieties as we are ever wishing for leisure but never enjoying it.*
+> *Men experience anxiety and fear even in the height of their pleasures, wondering when the pleasure will end. Joys are mixed with fears. Extreme prosperity brings great anxiety—fearfully striving to keep what we have labored hard to gain. Life is filled with anxieties as we are ever wishing for leisure but never enjoying it.*
 
 <ChapterNum>17</ChapterNum> Such men's very pleasures are restless and disturbed by various alarms, and at the most joyous moment of all there rises the anxious thought: "How long will this last?" This frame of mind has led kings to weep over their power, and they have not been so much delighted at the grandeur of their position, as they have been terrified by the end to which it must some day come. That most arrogant Persian king, when his army stretched over vast plains and could not be counted but only measured, burst into tears at the thought that in less than a hundred years none of all those warriors would be alive.
 
