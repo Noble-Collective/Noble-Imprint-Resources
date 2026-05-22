@@ -30,7 +30,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 5: The Wise Man Never Becomes Prisoner to Duties
 
-*Marcus Cicero cursed his position of rule which he ceaselessly praised because he was like a "half a prisoner" to his duties. But the wise man never allows himself to become such a prisoner; he enjoys a life of liberty, freedom, and power over his own life.*
+*Marcus Cicero cursed his position of rule which he ceaselessly praised because he was like "half a prisoner" to his duties. But the wise man never allows himself to become such a prisoner; he enjoys a life of liberty, freedom, and power over his own life.*
 
 <ChapterNum>5</ChapterNum> While tossed hither and thither by Catiline and Clodius, Pompeius and Crassus, by some open enemies and some doubtful friends, while he struggled with the struggling republic and kept it from going to ruin, when at last he was banished, being neither able to keep silence in prosperity nor to endure adversity with patience, how often must Marcus Cicero have cursed that consulship of his which he never ceased to praise, and which nevertheless deserved it?
 
@@ -52,7 +52,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 7: Learning How to Live Is Learning How to Die
 
-*Those who give themselves to passions—drinking, debauchery, gluttony, lust live a disgraceful life. Their pleasures and pains bind them. Nothing can take deep root in a person who is preoccupied with other things. Many regret the very things they have desired. A wise man frees himself from useless pursuits—he knows how to live and knows how to die.*
+*Those who give themselves to passions—drinking, debauchery, gluttony, lust—live a disgraceful life. Their pleasures and pains bind them. Nothing can take deep root in a person who is preoccupied with other things. Many regret the very things they have desired. A wise man frees himself from useless pursuits—he knows how to live and knows how to die.*
 
 <ChapterNum>7</ChapterNum> Among these I reckon in the first place those who devote their time to nothing but drinking and debauchery: for no men are busied more shamefully: the others, although the glory which they pursue is but a counterfeit, still deserve some credit for their pursuit of it—though you may tell me of misers, of passionate men, of men who hate and who even wage war without a cause—yet all such men sin like men: but the sin of those who are given up to gluttony and lust is a disgraceful one.
 
@@ -74,7 +74,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 8: People Play With Time, a Most Precious Thing
 
-*Time is most precious but it is not a physical entity. Therefore, many people play with time or squander time as if is were something cheap. Many people value many material things, but do not value time. This is an unwise and inconsistent way to live. No one can give back a person his wasted time.*
+*Time is most precious but it is not a physical entity. Therefore, many people play with time or squander time as if it were something cheap. Many people value many material things, but do not value time. This is an unwise and inconsistent way to live. No one can give back a person his wasted time.*
 
 <ChapterNum>8</ChapterNum> I am filled with wonder when I see some men asking others for their time, and those who are asked for it most willing to give it: both parties consider the object for which the time is given, but neither of them thinks of the time itself, as though in asking for this one asked for nothing, and in giving it one gave nothing: we play with what is the most precious of all things: yet it escapes men's notice, because it is an incorporeal thing, and because it does not come before our eyes; and therefore it is held very cheap, nay, hardly any value whatever is put upon it.
 
@@ -88,7 +88,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 9: Life Is Fast and Fleeting, Live Now Straightway
 
-*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present. We should be swift at making the best use of our time since time is fleeting and moves fast. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
+*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present. We should be swift at making the best use of our time since time is fleeting, transpiring faster than we often realize. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
 
 <ChapterNum>9</ChapterNum> Can anything be mentioned which is more insane than the ideas of leisure of those people who boast of their worldly wisdom? They live laboriously, in order that they may live better; they fit themselves out for life at the expense of life itself, and cast their thoughts a long way forwards: yet postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter: there is no such obstacle to true living as waiting, which loses today while it is depending on the morrow. You dispose of that which is in the hand of Fortune, and you let go that which is in your own. Whither are you looking, whither are you stretching forward? Everything future is uncertain: live now straightway.
 

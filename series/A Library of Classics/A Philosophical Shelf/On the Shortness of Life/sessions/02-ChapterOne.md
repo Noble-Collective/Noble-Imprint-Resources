@@ -14,7 +14,7 @@
 
 ## Section 2: Life Is Long Enough if We Know How to Use It
 
-*Everyone's life is long enough if it is used well. People have set themselves to a multitude of different aims in life. Many of these pursuits have been directed toward useless, toilsome, and vain ends. In the end, these people only live a portion of their actual lives. Vice surrounds and assaults humanity, disallowing people from coming into self-possession. People lament not being overlooked by important rulers, but they neglect to pay attention to themselves.*
+*Everyone's life is long enough if it is used well. People have set themselves to a multitude of different aims in life. Many of these pursuits have been directed toward useless, toilsome, and vain ends. In the end, these people only live a portion of their actual lives. Vice surrounds and assaults humanity, disallowing people from coming into self-possession. People lament being overlooked by important rulers, but they neglect to pay attention to themselves.*
 
 <ChapterNum>2</ChapterNum> Why do we complain of Nature? She has dealt kindly with us. Life is long enough, if you know how to use it. One man is possessed by an avarice which nothing can satisfy, another by a laborious diligence in doing what is totally useless: another is sodden by wine: another is benumbed by sloth: one man is exhausted by an ambition which makes him court the good will of others.
 

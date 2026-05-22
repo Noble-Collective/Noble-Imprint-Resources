@@ -20,13 +20,13 @@
 
 ## Section 11: Walking With a Steady Step to Meet Death
 
-*Busy men desire to live long but actually live short lives. When some weakness reminds them of their mortality, they beg for a few more years, acknowledging that they have been foolish to waste their life on things they never really enjoyed. The wise man invests his life well and is not afraid to meet death.*
+*Busy men desire to live long but actually live short lives. When some weakness reminds them of their mortality, they beg for a few more years, acknowledging that they have been foolish to waste their lives on things they never really enjoyed. The wise man invests his life well and is not afraid to meet death.*
 
 <ChapterNum>11</ChapterNum> In a word, do you want to know for how short a time they live? See how they desire to live long: broken-down old men beg in their prayers for the addition of a few more years: they pretend to be younger than they are: they delude themselves with their own lies, and are as willing to cheat themselves as if they could cheat Fate at the same time: when at last some weakness reminds them that they are mortal, they die as it were in terror: they may rather be said to be dragged out of this life than to depart from it. They loudly exclaim that they have been fools and have not lived their lives, and declare that if they only survive this sickness they will spend the rest of their lives at leisure: at such times they reflect how uselessly they have laboured to provide themselves with what they have never enjoyed, and how all their toil has gone for nothing: but those whose life is spent without any engrossing business may well find it ample: no part of it is made over to others, or scattered here and there; no part is entrusted to Fortune, is lost by neglect, is spent in ostentatious giving, or is useless: all of it is, so to speak, invested at good interest. A very small amount of it, therefore, is abundantly sufficient, and so, when his last day arrives, the wise man will not hang back, but will walk with a steady step to meet death.
 
 ## Section 12: Some Men's Leisure Is Their Busyness
 
-*People can become busy men in their leisure. These people are consumed by their hobbies, amusements, appearance, feasting, and luxury. Their leisurely activities turn into the busyness of "anxious finicking"—they become busy in trifles. People can become entirely unaware—losing their senses—in their luxury. This person is not idle or living in leisure; he is sick and only half alive.*
+*People can become busy men in their leisure. These people are consumed by their hobbies, amusements, appearance, feasting, and luxury. Their leisurely activities turn into the busyness of "anxious finicking"—they become busy with trifles. People can become entirely unaware—losing their senses—in their luxury. This person is not idle or living in leisure; he is sick and only half alive.*
 
 <ChapterNum>12</ChapterNum> Perhaps you will ask me whom I mean by "busy men"? You need not think that I allude only to those who are hunted out of the courts of justice with dogs at the close of the proceedings, those whom you see either honourably jostled by a crowd of their own clients or contemptuously hustled in visits of ceremony by strangers, who call them away from home to hang about their patron's doors, or who make use of the praetor's sales by auction to acquire infamous gains which some day will prove their own ruin. Some men's leisure is busy.
 
@@ -48,7 +48,7 @@
 
 ## Section 13: Those Who Waste Life in Trifles and Curiosities
 
-*Men are not at leisure if their pleasures lead them to labor for trifles. Those who pursue futile literary or historical debates have a vain longing to learn useless knowledge which is not profitable—it is a fascinating foolishness and exercise in vain curiosity. Not all knowledge is equally beneficial. Wise men seek knowledge that makes them braver and more virtuous.*
+*Men are not at leisure if their pleasures lead them to labor over trifles. Those who pursue futile literary or historical debates have a vain longing to learn useless knowledge which is not profitable—it is a fascinating foolishness and exercise in vain curiosity. Not all knowledge is equally beneficial. Wise men seek knowledge that makes them braver and more virtuous.*
 
 <ChapterNum>13</ChapterNum> It would take long to describe the various individuals who have wasted their lives over playing at draughts, playing at ball, or toasting their bodies in the sun: men are not at leisure if their pleasures partake of the character of business, for no one will doubt that those persons are laborious triflers who devote themselves to the study of futile literary questions, of whom there is already a great number in Rome also.
 
