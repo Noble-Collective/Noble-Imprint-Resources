@@ -88,7 +88,7 @@ this was the wish of him who could accomplish the wishes of all other men.
 
 ## Section 9: Life Is Fast and Fleeting, Live Now Straightway
 
-*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present.  We should be swift and make the best use of our time, for life is fleeting. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
+*Many live laborious lives in an attempt to live better. In so doing, they postpone living life as it ought to be lived. Wisdom teaches us to seize true life in the present. We should make the best use of our time, for life is fleeting. Many stumble into old age without realizing it and they come to their journey's end unprepared.*
 
 <ChapterNum>9</ChapterNum> Can anything be mentioned which is more insane than the ideas of leisure of those people who boast of their worldly wisdom? They live laboriously, in order that they may live better; they fit themselves out for life at the expense of life itself, and cast their thoughts a long way forwards: yet postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter: there is no such obstacle to true living as waiting, which loses today while it is depending on the morrow. You dispose of that which is in the hand of Fortune, and you let go that which is in your own. Whither are you looking, whither are you stretching forward? Everything future is uncertain: live now straightway.
 

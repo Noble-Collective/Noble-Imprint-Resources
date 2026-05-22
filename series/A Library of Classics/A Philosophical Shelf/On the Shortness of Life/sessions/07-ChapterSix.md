@@ -30,7 +30,7 @@
 
 ## Section 20: Do Not Envy Great Men Who Gain by Losing Life
 
-*Do not envy men of position and power. These people gain their prestige by losing their lives. To lose one's life for unprofitable and meaningless pursuits is shameful. While people feverishly pursue a busy life, such a life yields no profit, pleasure, or progress. The funerals of such men should be conducted as though they lived a brief life.*
+*Do not envy men of position and power. These people gain their prestige by losing their lives. To lose one's life for unprofitable and meaningless pursuits is shameful. While people feverishly pursue a busy life, such a life yields no profit, pleasure, or progress. The funerals of such men should be conducted as though they had lived a brief life.*
 
 <ChapterNum>20</ChapterNum> When, therefore, you see a man often wear the purple robes of office, and hear his name often repeated in the forum, do not envy him: he gains these things by losing so much of his life. Men throw away all their years in order to have one year named after them as consul: some lose their lives during the early part of the struggle, and never reach the height to which they aspired: some after having submitted to a thousand indignities in order to reach the crowning dignity, have the miserable reflexion that the only result of their labours will be the inscription on their tombstone. Some, while telling off extreme old age, like youth, for new aspirations, have found it fail from sheer weakness amid great and presumptuous enterprises.
 
