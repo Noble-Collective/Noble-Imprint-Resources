@@ -1,4 +1,4 @@
-# Chapter Five
+The funerals of such men# Chapter Five
 
 ### "Greatest Blessings Are Enjoyed With Fear": The Elusiveness and Incompleteness of Pleasure
 

@@ -1,4 +1,4 @@
-# Chapter Six
+The funerals of such men# Chapter Six
 
 ### "Tear Yourself Away From the Common Herd": An Exhortation to Pursue Wisdom and True Life
 
