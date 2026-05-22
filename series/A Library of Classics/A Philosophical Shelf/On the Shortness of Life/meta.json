@@ -16,6 +16,14 @@
       "style": 0.0,
       "speed": 0.92
     },
-    "pronunciation_dictionary_id": null
+    "pronunciation_dictionary_id": null,
+    "skip_sessions": [
+      "03-ChapterTwo.md",
+      "04-ChapterThree.md",
+      "05-ChapterFour.md",
+      "06-ChapterFive.md",
+      "07-ChapterSix.md",
+      "08-Bibliography.md"
+    ]
   }
 }
