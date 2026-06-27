@@ -74,7 +74,7 @@ O bright Heav’ns Sun!
 Heart of my heart,  
 Whatever befall,  
 Still be my vision,  
-O Ruler of all  
+O Ruler of all.  
 
 ##### Scripture Reading
 
