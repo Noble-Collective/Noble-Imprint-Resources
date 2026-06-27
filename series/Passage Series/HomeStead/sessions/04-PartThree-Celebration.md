@@ -79,7 +79,7 @@ By God's grace and through faith in Christ, our home belongs to the Lord. As pri
 
 << Hebrews 12:1
 
-<< The Child is father of the Man.
+> The Child is father of the Man.
 
 << William Wordsworth, "My Heart Leaps Up"
 
