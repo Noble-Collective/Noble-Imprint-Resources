@@ -837,7 +837,7 @@ Father, You have adopted me into your family; I am an heir of the Most High; you
 
 #### Parenting Project
 
-*The role of a parent is to cultivate a home that worships God. We can nurture devotion to God as we practice faithful habits of family worship. Below is your opportunity to come up with a plan for family worship.*
+*Faithful homebuilding relies upon proactive parents practicing biblical wisdom. The following project helps you thoughtfully implement the principles of this session in your household, applying the timeless truth of God's word into the specific situation of your family.*
 
 ##### Discuss with Your Spouse
 
@@ -1342,7 +1342,7 @@ Mom and Dad, I am grateful for your faithfulness to the Lord in raising us as ch
 
 #### Parenting Project
 
-*The role of a parent is to cultivate a home that worships God. We can nurture devotion to God as we practice faithful habits of family worship. Below is your opportunity to come up with a plan for family worship.*
+*Faithful homebuilding relies upon proactive parents practicing biblical wisdom. The following project helps you thoughtfully implement the principles of this session in your household, applying the timeless truth of God's word into the specific situation of your family.*
 
 ##### Discuss with Your Spouse
 
@@ -1833,7 +1833,7 @@ Consider how parenting is shepherding work. Write a job description for parentin
 
 #### Parenting Project
 
-*The role of a parent is to cultivate a home that worships God. We can nurture devotion to God as we practice faithful habits of family worship. Below is your opportunity to come up with a plan for family worship.*
+*Faithful homebuilding relies upon proactive parents practicing biblical wisdom. The following project helps you thoughtfully implement the principles of this session in your household, applying the timeless truth of God's word into the specific situation of your family.*
 
 ##### Discuss with Your Spouse
 
@@ -2331,7 +2331,7 @@ Reflect on the sacred call of parenting as a vocation in faith formation. As you
 
 #### Parenting Project
 
-*The role of a parent is to cultivate a home that worships God. We can nurture devotion to God as we practice faithful habits of family worship. Below is your opportunity to come up with a plan for family worship.*
+*Faithful homebuilding relies upon proactive parents practicing biblical wisdom. The following project helps you thoughtfully implement the principles of this session in your household, applying the timeless truth of God's word into the specific situation of your family.*
 
 ##### Discuss with Your Spouse
 
@@ -2841,7 +2841,7 @@ God, unless the Lord is Abigail's helper, she will dwell in silence. Her foot wi
 
 #### Parenting Project
 
-*The role of a parent is to cultivate a home that worships God. We can nurture devotion to God as we practice faithful habits of family worship. Below is your opportunity to come up with a plan for family worship.*
+*Faithful homebuilding relies upon proactive parents practicing biblical wisdom. The following project helps you thoughtfully implement the principles of this session in your household, applying the timeless truth of God's word into the specific situation of your family.*
 
 ##### Discuss with Your Spouse
 
@@ -3346,7 +3346,7 @@ Think about the responsibilities God has given you as a disciple, spouse, and pa
 
 #### Parenting Project
 
-*The role of a parent is to cultivate a home that worships God. We can nurture devotion to God as we practice faithful habits of family worship. Below is your opportunity to come up with a plan for family worship.*
+*Faithful homebuilding relies upon proactive parents practicing biblical wisdom. The following project helps you thoughtfully implement the principles of this session in your household, applying the timeless truth of God's word into the specific situation of your family.*
 
 ##### Discuss with Your Spouse
 
