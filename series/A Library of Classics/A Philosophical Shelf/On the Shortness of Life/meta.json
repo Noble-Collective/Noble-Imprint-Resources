@@ -17,5 +17,6 @@
       "speed": 0.92
     },
     "pronunciation_dictionary_id": null
-  }
+  },
+  "maxNavHeadingLevel": 2
 }

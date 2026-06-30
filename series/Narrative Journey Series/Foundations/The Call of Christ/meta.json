@@ -9,5 +9,6 @@
     "#####": "#000000"
   },
   "banner": "Pre-Release",
-  "status": "public"
+  "status": "public",
+  "maxNavHeadingLevel": 2
 }

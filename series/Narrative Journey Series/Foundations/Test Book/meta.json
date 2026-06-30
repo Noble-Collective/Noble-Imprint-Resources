@@ -8,5 +8,6 @@
     "####": "#000000",
     "#####": "#000000"
   },
-  "status": "hidden"
+  "status": "hidden",
+  "maxNavHeadingLevel": 2
 }
