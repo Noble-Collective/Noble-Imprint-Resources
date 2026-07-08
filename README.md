@@ -1,6 +1,6 @@
 # Noble Imprint Resources
 
-Content repository for all Noble Imprint discipleship resources. This is the single source of truth for book content -- the [website](https://github.com/Noble-Collective/Noble-Imprint-Resource-Website) reads from this repo via the GitHub API.
+Content repository for all Noble Imprint discipleship and formation resources. This is the single source of truth for book content -- the [website](https://github.com/Noble-Collective/Noble-Imprint-Resource-Website) reads from this repo via the GitHub API.
 
 ## Structure
 
