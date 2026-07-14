@@ -1,0 +1,28 @@
+{
+  "title": "Hear, My Son",
+  "subtitle": "A Primer on Proverbs as a Tool for Faith Formation",
+  "order": 4,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Pre-Release",
+  "status": "hidden",
+  "audiobook": {
+    "enabled": true,
+    "project_id": null,
+    "voice_id": "jRAAK67SEFE9m7ci5DhD",
+    "model_id": "eleven_multilingual_v2",
+    "quality_preset": "high",
+    "voice_settings": {
+      "stability": 0.71,
+      "similarity_boost": 0.5,
+      "style": 0.0,
+      "speed": 0.92
+    },
+    "pronunciation_dictionary_id": null
+  },
+  "maxNavHeadingLevel": 2
+}
