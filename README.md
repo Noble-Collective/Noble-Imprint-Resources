@@ -12,7 +12,7 @@ series/
     <Sub-Series Name>/         Optional grouping level
       meta.json                {title, subtitle, order}
       <Book Name>/
-        meta.json              {title, subtitle, order, status, color, banner, audiobook}
+        meta.json              {title, subtitle, order, status, color, banner, language, audiobook}
         cover.svg|png          Book cover image
         commonBook.md          Optional shared content
         sessions/
@@ -40,6 +40,7 @@ To enable audiobook generation for a book, add an `audiobook` key to the book's 
   "title": "Book Title",
   "subtitle": "...",
   "order": 1,
+  "language": "en",
   "audiobook": {
     "voice_id": "ElevenLabs voice ID",
     "model_id": "eleven_multilingual_v2",
@@ -50,6 +51,7 @@ To enable audiobook generation for a book, add an `audiobook` key to the book's 
 
 | Field | Purpose |
 |-------|---------|
+| `language` | Top-level book language code, `en` (default) or `fr`. Controls how the audiobook pipeline speaks scripture references and numeric ranges (e.g. "Proverbs 1-9" → "Proverbs, chapters 1 through 9"). Set `fr` for French books. |
 | `voice_id` | ElevenLabs voice to use for generation |
 | `model_id` | ElevenLabs TTS model |
 | `sessions` | List of session filenames to generate audio for (omit front matter, etc.) |
