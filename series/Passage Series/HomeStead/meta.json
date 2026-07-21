@@ -1,4 +1,5 @@
 {
+  "language": "en",
   "title": "HomeStead",
   "subtitle": "A Rite of Passage into Christian Hearth and Home",
   "order": 1,
@@ -12,6 +13,7 @@
   "status": "public",
   "audiobook": {
     "enabled": true,
+    "language_normalization": false,
     "voice_id": "jRAAK67SEFE9m7ci5DhD",
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",

@@ -1,4 +1,5 @@
 {
+  "language": "fr",
   "title": "L'Appel du Christ",
   "subtitle": "Un voyage narratif de la foi chrétienne",
   "order": 2,
@@ -12,6 +13,7 @@
   "status": "public",
   "audiobook": {
     "enabled": true,
+    "language_normalization": false,
     "voice_id": "aQROLel5sQbj1vuIVi6B",
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",

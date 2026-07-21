@@ -1,4 +1,5 @@
 {
+  "language": "en",
   "title": "On the Shortness of Life",
   "subtitle": "A Philosophical Exploration of Time, Wisdom, and the Good Life",
   "order": 1,
@@ -6,6 +7,7 @@
   "status": "public",
   "audiobook": {
     "enabled": true,
+    "language_normalization": false,
     "project_id": null,
     "voice_id": "jRAAK67SEFE9m7ci5DhD",
     "model_id": "eleven_multilingual_v2",
