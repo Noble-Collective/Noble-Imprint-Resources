@@ -44,6 +44,7 @@ To enable audiobook generation for a book, add an `audiobook` key to the book's 
   "audiobook": {
     "voice_id": "ElevenLabs voice ID",
     "model_id": "eleven_multilingual_v2",
+    "language_normalization": false,
     "sessions": ["02-ChapterOne.md", "03-ChapterTwo.md"]
   }
 }
@@ -51,9 +52,10 @@ To enable audiobook generation for a book, add an `audiobook` key to the book's 
 
 | Field | Purpose |
 |-------|---------|
-| `language` | Top-level book language code, `en` (default) or `fr`. Controls how the audiobook pipeline speaks scripture references and numeric ranges (e.g. "Proverbs 1-9" → "Proverbs, chapters 1 through 9"). Set `fr` for French books. |
+| `language` | Top-level book language code, `en` (default) or `fr`. Selects the locale used by the language-normalization layer (below). Set `fr` for French books. |
 | `voice_id` | ElevenLabs voice to use for generation |
 | `model_id` | ElevenLabs TTS model |
+| `language_normalization` | Per-book switch, default `false`. When `true`, scripture references and numeric ranges are spoken naturally per `language` (e.g. "Proverbs 1-9" → "Proverbs, chapters 1 through 9"); when `false` they are spoken literally. **Toggling this changes the spoken text, so the affected sessions regenerate on the next push.** Roll it out one book at a time. |
 | `sessions` | List of session filenames to generate audio for (omit front matter, etc.) |
 
 When pushed, the `notify-audiobook.yml` workflow triggers audiobook generation in the [audiobooks repo](https://github.com/Noble-Collective/Noble-Imprint-Audiobook). Generated audio and timestamp files are stored in the GCS bucket `noble-imprint-audiobooks`, where the website reads them for playback.
