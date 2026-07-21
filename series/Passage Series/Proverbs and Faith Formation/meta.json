@@ -13,7 +13,7 @@
   "status": "hidden",
   "audiobook": {
     "enabled": true,
-    "language_normalization": false,
+    "language_normalization": true,
     "project_id": null,
     "voice_id": "jRAAK67SEFE9m7ci5DhD",
     "model_id": "eleven_multilingual_v2",
