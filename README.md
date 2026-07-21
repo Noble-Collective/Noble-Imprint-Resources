@@ -58,9 +58,9 @@ To enable audiobook generation for a book, add an `audiobook` key to the book's 
 | `language_normalization` | Per-book switch, default `false`. When `true`, scripture references and numeric ranges are spoken naturally per `language` (e.g. "Proverbs 1-9" → "Proverbs, chapters 1 through 9"); when `false` they are spoken literally. **Toggling this changes the spoken text, so the affected sessions regenerate on the next push.** Roll it out one book at a time. |
 | `sessions` | List of session filenames to generate audio for (omit front matter, etc.) |
 
-When pushed, the `notify-audiobook.yml` workflow triggers audiobook generation in the [audiobooks repo](https://github.com/Noble-Collective/Noble-Imprint-Audiobook). Generated audio and timestamp files are stored in the GCS bucket `noble-imprint-audiobooks`, where the website reads them for playback.
+When pushed, the `notify-audiobook.yml` workflow triggers audiobook generation in the [audiobooks repo](https://github.com/Noble-Collective/Noble-Imprint-Audiobooks). Generated audio and timestamp files are stored in the GCS bucket `noble-imprint-audiobooks`, where the website reads them for playback.
 
 ## Related Repos
 
 - [Noble-Imprint-Resource-Website](https://github.com/Noble-Collective/Noble-Imprint-Resource-Website) -- Web application that renders and serves this content
-- [Noble-Imprint-Audiobook](https://github.com/Noble-Collective/Noble-Imprint-Audiobook) -- Audiobook generation pipeline (ElevenLabs TTS)
+- [Noble-Imprint-Audiobooks](https://github.com/Noble-Collective/Noble-Imprint-Audiobooks) -- Audiobook generation pipeline (ElevenLabs TTS)
