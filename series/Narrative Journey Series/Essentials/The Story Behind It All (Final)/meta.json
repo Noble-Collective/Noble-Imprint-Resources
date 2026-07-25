@@ -1,0 +1,14 @@
+{
+  "title": "The Story Behind It All (Final)",
+  "subtitle": "A Narrative Journey of Christian Belief",
+  "order": 7,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Draft",
+  "status": "hidden",
+  "maxNavHeadingLevel": 3
+}

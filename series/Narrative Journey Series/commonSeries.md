@@ -1,30 +1,61 @@
-<IntroductionNote>
-Before you begin, please take a moment to center yourself.
+<StudyTheText>
+**Study the Text:** _The Bible is God's inspired word to his people. Christian disciples mature in the faith when they are grounded in God's word. In this movement, you will study the basic details of the biblical text._
+</StudyTheText>
 
-**Focus your mind**, take a deep breath, and read the instructions carefully.
-This will help you engage more meaningfully with the material.
+<ExploreTheText>
+**Explore the Text:** _God's word is his trustworthy and sufficient revelation to his people. We grow as Christ's disciples by rooting our lives in God's unchanging truth. In this movement, you will explore vital teachings of this biblical passage._
+</ExploreTheText>
 
-Remember: _There are no right or wrong answers here._
-</IntroductionNote>
+<ApplyTheText>
+**Apply the Text:** _The word of God is binding and authoritative, the only reliable guide for faith and godliness. True disciples submit themselves to God's word. In this movement, you will apply God's word to your lives._
+</ApplyTheText>
 
-<ReflectionPrompt>
-As you reflect on the content:
+<MinisterTheText>
+**Minister the Text:** _God's word is living and active. Through God's word, the Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith._
+</MinisterTheText>
 
-- What challenged your thinking?
-- Which part "../../Narrative Journey Series"did you find most compelling?
-- Did anything make you uncomfortable — and why?
+<WitnessTheText>
+**Witness the Text:** _The Bible is a message of God's gracious salvation to the world. In word and deed, God's people proclaim the good news of the gospel. In this movement, you will use this biblical passage to reach out to unbelievers._
+</WitnessTheText>
 
-Write freely. Use your own words.
+<ObservationDirections>
+Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation.
+</ObservationDirections>
 
-> “Honest reflection is the beginning of growth.”
-> </ReflectionPrompt>
+<StorycraftQuestion>
+<Question id={id}>Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place.</Question>
+</StorycraftQuestion>
 
-<ClosingThoughts>
-To wrap up:
+<DiscussionDirections>
+Summarize the biblical story. As a community, discuss the following questions. Be attentive to the truths taught in this text. Use the commentary on the next pages to uncover core principles this passage teaches about the Christian faith.
+</DiscussionDirections>
 
-1. Summarize what you've learned today.
-2. Mention any questions that are still lingering.
-3. Think about how this connects to your personal experience.
+<BiblicalCommentaryDirections>
+Use this commentary to help you understand the meaning of the text. Refer to the infographic on the next page to think through how narratives work.
+</BiblicalCommentaryDirections>
 
-Don’t rush this part. A well-thought-out summary can deepen your understanding.
-</ClosingThoughts>
+<ReflectionDirections>
+Encourage one person to share a testimony about how this story has impacted them so far. Use the reflection questions to examine your life in light of this biblical passage.
+</ReflectionDirections>
+
+<ApplicationDirections>
+Look at the infographic below. Use the questions to think about how to minister this text to other believers.
+</ApplicationDirections>
+
+<ApplicationQuestions>
+<Question id={id}-Q1>1. How is this passage an encouragement to disciples of Jesus Christ?</Question>
+<Question id={id}-Q2>2. How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
+<Question id={id}-Q3>3. How will you minister this text to other believers?</Question>
+<Question id={id}-Q4>4. What was the experience like when you used this passage to minister to other disciples?</Question>
+</ApplicationQuestions>
+
+<StrategyDirections>
+Reflect on the infographic below. Consider how you can use this passage to witness to the surrounding world. Use the suggested ideas to prime your imagination. Then, put together a plan to share this passage with unbelievers, Afterward, reflect on this mission experience.
+</StrategyDirections>
+
+<StrategyQuestions>
+<Question id={id}-Q1>1. How can you use this passage as a way to share the gospel of Jesus with others?</Question>
+<Question id={id}-Q2>2. How does this biblical passage inform your participation in God's mission?</Question>
+<Question id={id}-Q3>3. How will you use this text to reach out to unbelievers?</Question>
+<Question id={id}-Q4>4. What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
+</StrategyQuestions>
