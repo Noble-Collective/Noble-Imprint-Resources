@@ -3,12 +3,15 @@
   "subtitle": "A Narrative Journey of Christian Belief",
   "order": 1,
   "color": {
-    "##": "#000000",
-    "###": "#000000",
-    "####": "#000000",
-    "#####": "#000000"
+    "#": "#8D4449",
+    "##": "#8D4449",
+    "###": "#8D4449",
+    "####": "#8D4449",
+    "#####": "#8D4449",
+    "######": "#8D4449"
   },
-  "banner": "Preview",
-  "status": "public",
+  "accent": "#8D4449",
+  "banner": "Draft",
+  "status": "hidden",
   "maxNavHeadingLevel": 3
 }
