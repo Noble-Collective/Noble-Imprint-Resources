@@ -27,7 +27,7 @@ Retell the story in your own words, recounting the overall flow of the narrative
 </StorycraftDirections>
 
 <NarrativeElementsQuestion>
-<Question id={id}>Who are the main characters? What major events happen? What are the major conflicts or problems in the story? How are they resolved?</Question>
+<Question id={id}>Who are the **main characters**? What major **events** happen? What are the major **conflicts** or **problems** in the story? How are they **resolved**?</Question>
 </NarrativeElementsQuestion>
 
 <StoryRetellQuestion>
