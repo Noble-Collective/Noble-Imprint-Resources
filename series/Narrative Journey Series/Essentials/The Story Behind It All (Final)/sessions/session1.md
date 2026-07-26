@@ -297,7 +297,7 @@ _God's **inspired word** forms us into **Christlike character**. Below are a set
 <Item icon="music" label="Worship">Praising God's great worth by exalting him in **song**, **drama**, or **confession**.</Item>
 <Item icon="feather" label="Journaling">Chronicling our faith journey by writing down a record of **God's dealings with us**.</Item>
 <Item icon="hand-holding" label="Simplicity">Detaching ourselves from possessions through **generosity**, **stewardship**, and **sacrifice**.</Item>
-<Item icon="droplet" label="Lament">Expressing our **suffering** by submitting our **pain** to God's healing hand.</Item>
+<Item icon="droplet" label="Lament" active>Expressing our **suffering** by submitting our **pain** to God's healing hand.</Item>
 <Item icon="volume-xmark" label="Silence">Turning our ears to God's voice by temporarily refraining from **speech** and **noise**.</Item>
 </Infographic>
 
