@@ -8,6 +8,7 @@
     "####": "#000000",
     "#####": "#000000"
   },
+  "accent": "#8D4449",
   "banner": "Draft",
   "status": "hidden",
   "maxNavHeadingLevel": 3
