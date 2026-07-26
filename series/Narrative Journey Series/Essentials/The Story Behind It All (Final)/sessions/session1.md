@@ -45,7 +45,15 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 ### Storycraft
 
-<!-- @include: StorycraftQuestion id="TheStoryFinalSes1-Storycraft" -->
+<!-- @include: StorycraftDirections -->
+
+#### Narrative Elements
+
+<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes1-Storycraft-Q1" -->
+
+#### Story Retell
+
+<!-- @include: StoryRetellQuestion id="TheStoryFinalSes1-Storycraft-Q2" -->
 
 ## Theological Dialogue: Discussing the Plot
 

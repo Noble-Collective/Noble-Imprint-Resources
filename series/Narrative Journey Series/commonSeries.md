@@ -22,9 +22,17 @@
 Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation.
 </ObservationDirections>
 
-<StorycraftQuestion>
-<Question id={id}>Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place.</Question>
-</StorycraftQuestion>
+<StorycraftDirections>
+Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place.
+</StorycraftDirections>
+
+<NarrativeElementsQuestion>
+<Question id={id}>Who are the main characters? What major events happen? What are the major conflicts or problems in the story? How are they resolved?</Question>
+</NarrativeElementsQuestion>
+
+<StoryRetellQuestion>
+<Question id={id}>Retell the story in your own words.</Question>
+</StoryRetellQuestion>
 
 <DiscussionDirections>
 Summarize the biblical story. As a community, discuss the following questions. Be attentive to the truths taught in this text. Use the commentary on the next pages to uncover core principles this passage teaches about the Christian faith.
