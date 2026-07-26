@@ -207,8 +207,11 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 
 #### Session Synopsis
 
-| SESSION 1 SYNOPSIS |  |
-| :---- | :---- |
+| SESSION 1 SYNOPSIS |
+| :--- |
+
+| | |
+| :--- | :--- |
 | **Embracing Faith in a Broken World** | In this passage, Job embodied key aspects of _the good life_: a life of meaning, substance, and blessing. After two discussions between God and Satan about Job's faith in heavenly assemblies, Job endured incredible suffering and hardship. In the midst of his pain and affliction, he displayed a wholehearted commitment to God. A summary of this story's principles is outlined below. |
 | **Blessed Life** | A blessed life embraces genuine faith in God (1:1, 5, 8–9; 2:3, 10), displays godly character and conduct (1:1, 8, 22; 2:3, 9–10), cherishes the family (1:2, 4–5), and enjoys God's gracious gifts with gratitude and contentment (1:2–5, 10, 21). |
 | **Suffering** | Humans experience suffering in many ways. This suffering can come in the form of sudden loss (1:15, 17), violent attack (1:15, 17), natural catastrophe (1:16, 19), physical affliction (2:7–8), and interpersonal conflict (2:9–10). |
