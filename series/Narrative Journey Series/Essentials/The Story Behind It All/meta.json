@@ -11,7 +11,7 @@
     "######": "#8D4449"
   },
   "accent": "#8D4449",
-  "banner": "Draft",
-  "status": "hidden",
+  "banner": "Pre-Release",
+  "status": "public",
   "maxNavHeadingLevel": 3
 }
