@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="And in Jesus Christ" -->
 
 ### Key Elements
 - **Key Passage** - Genesis 2:4–25

@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="who was conceived by the Holy Spirit, born of the Virgin Mary," -->
 
 ### Key Elements
 - **Key Passage** - Luke 1:1–2:21

@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="the holy catholic church;" -->
 
 ### Key Elements
 - **Key Passage** - Revelation 1:9–3:22

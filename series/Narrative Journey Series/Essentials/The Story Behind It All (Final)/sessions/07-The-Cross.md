@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="suffered under Pontius Pilate, was crucified, dead, and buried; he descended into hell [to the dead]; the third day he rose again from the dead;" -->
 
 ### Key Elements
 - **Key Passage** - Mark 15:1–16:8

@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="his only begotten Son our Lord," -->
 
 ### Key Elements
 - **Key Passage** - Genesis 5:28–9:17

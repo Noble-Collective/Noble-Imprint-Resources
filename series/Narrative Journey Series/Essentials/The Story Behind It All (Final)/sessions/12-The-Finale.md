@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="the resurrection of the body; and the life everlasting. Amen." -->
 
 ### Key Elements
 - **Key Passage** - Revelation 19:11–22:21

@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="I believe in the Holy Spirit;" -->
 
 ### Key Elements
 - **Key Passage** - Acts 1:1–2:47

@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="the communion of saints;" -->
 
 ### Key Elements
 - **Key Passage** - Acts 10:1–11:18

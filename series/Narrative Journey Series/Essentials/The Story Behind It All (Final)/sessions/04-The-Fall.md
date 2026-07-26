@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="the forgiveness of sins;" -->
 
 ### Key Elements
 - **Key Passage** - Genesis 3:1–24

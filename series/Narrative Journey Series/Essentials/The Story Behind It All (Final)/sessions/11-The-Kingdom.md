@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="he ascended into heaven, and sits on the right hand of God the Father Almighty; from thence he shall come to judge the quick and the dead." -->
 
 ### Key Elements
 - **Key Passage** - Revelation 12:1–14:20

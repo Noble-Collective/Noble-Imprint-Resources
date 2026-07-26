@@ -4,7 +4,7 @@
 
 ### Creedal Statement
 
-<!-- @include: ApostlesCreed -->
+<!-- @include: ApostlesCreed bold="Maker of heaven and earth;" -->
 
 ### Key Elements
 - **Key Passage** - Genesis 1:1–2:3
