@@ -1,16 +1,21 @@
 name: Notify Audiobook Generator
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'series/**/sessions/*.md'
-      - 'series/**/meta.json'
-      # Exclude the hidden Test Book — the Playwright suite commits to its
-      # sessions on every accept/direct-edit, which would otherwise flood the
-      # audiobook generator with dispatches. Negation must come last so it
-      # overrides the positive patterns above.
-      - '!series/**/Test Book/**'
+  # DISABLED 2026-07-27: audiobook generation is now explicit opt-in (manual only).
+  # This notify no longer auto-dispatches on content changes. To re-enable automatic
+  # generation, uncomment the push block below AND restore the repository_dispatch
+  # trigger in the audiobooks repo's generate.yml.
+  workflow_dispatch:
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - 'series/**/sessions/*.md'
+  #     - 'series/**/meta.json'
+  #     # Exclude the hidden Test Book — the Playwright suite commits to its
+  #     # sessions on every accept/direct-edit, which would otherwise flood the
+  #     # audiobook generator with dispatches. Negation must come last so it
+  #     # overrides the positive patterns above.
+  #     - '!series/**/Test Book/**'
 
 jobs:
   dispatch:
