@@ -140,3 +140,11 @@ _The truth of **God's word** is for the **whole world**. Below are **outreach id
 <Item icon="ellipsis" label="Other Ministry">Use this story in **some other outreach**, seeking to share the gospel with unbelievers in word and/or deed.</Item>
 </Infographic>
 </MissionPracticesInfographic>
+
+<!--
+  TestSharedSeriesNote — SERIES-LEVEL fixture for the shared-content editing feature.
+  Only the hidden Test Book includes it; safe/additive for live books.
+-->
+<TestSharedSeriesNote>
+This is shared **series-level** content from `commonSeries.md`. Editing it changes every session in the series that includes it.
+</TestSharedSeriesNote>
