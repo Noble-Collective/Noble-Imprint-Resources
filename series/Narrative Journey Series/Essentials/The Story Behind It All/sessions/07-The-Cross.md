@@ -35,10 +35,10 @@ At the center of the Christian faith is Jesus' sacrifice on the cross and his su
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes7-Hearing-Q1>1. <Accent>Read Mark 15:1–20:</Accent> How was Jesus treated prior to his crucifixion? How was Jesus treated before Pilate, the crowd, and the soldiers? Why did they reject Christ?</Question>
-<Question id=TheStoryFinalSes7-Hearing-Q2>2. <Accent>Read Mark 15:21–41:</Accent> How did Jesus' crucifixion take place? How was Jesus killed on a cross, and what happened at the time of his death?</Question>
-<Question id=TheStoryFinalSes7-Hearing-Q3>3. <Accent>Read Mark 15:42–47:</Accent> Who took Jesus' body after he died, and what was done with it?</Question>
-<Question id=TheStoryFinalSes7-Hearing-Q4>4. <Accent>Read Mark 16:1–8:</Accent> What were the events that happened the morning of Jesus' resurrection?</Question>
+<Question id=TheStorySes7-Hearing-Q1>1. <Accent>Read Mark 15:1–20:</Accent> How was Jesus treated prior to his crucifixion? How was Jesus treated before Pilate, the crowd, and the soldiers? Why did they reject Christ?</Question>
+<Question id=TheStorySes7-Hearing-Q2>2. <Accent>Read Mark 15:21–41:</Accent> How did Jesus' crucifixion take place? How was Jesus killed on a cross, and what happened at the time of his death?</Question>
+<Question id=TheStorySes7-Hearing-Q3>3. <Accent>Read Mark 15:42–47:</Accent> Who took Jesus' body after he died, and what was done with it?</Question>
+<Question id=TheStorySes7-Hearing-Q4>4. <Accent>Read Mark 16:1–8:</Accent> What were the events that happened the morning of Jesus' resurrection?</Question>
 
 ### Storycraft
 
@@ -46,11 +46,11 @@ At the center of the Christian faith is Jesus' sacrifice on the cross and his su
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes7-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes7-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes7-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes7-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -62,10 +62,10 @@ At the center of the Christian faith is Jesus' sacrifice on the cross and his su
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes7-TheoDialogue-Q1>1. <Accent>Suffering and Passion:</Accent> What sacrifices, pain, and suffering did Jesus endure for fallen humanity? How does this Gospel account record the various afflictions Jesus experienced and endured?</Question>
-<Question id=TheStoryFinalSes7-TheoDialogue-Q2>2. <Accent>Crucifixion and Atonement:</Accent> Why is Jesus' death on the cross so important? What did Jesus achieve on the cross for sinful humanity? How does the narrative of Jesus' death on the cross highlight Jesus' work of salvation?</Question>
-<Question id=TheStoryFinalSes7-TheoDialogue-Q3>3. <Accent>Victorious Resurrection:</Accent> Why was Jesus' resurrection such an important part of God's saving work on behalf of humanity? How does the account of Jesus' resurrection detail these important realities?</Question>
-<Question id=TheStoryFinalSes7-TheoDialogue-Q4>4. <Accent>Faithful Response:</Accent> How does God call us to respond to Christ's saving work? In this biblical story, what were various responses during Jesus' accusation, suffering, crucifixion, and resurrection?</Question>
+<Question id=TheStorySes7-TheoDialogue-Q1>1. <Accent>Suffering and Passion:</Accent> What sacrifices, pain, and suffering did Jesus endure for fallen humanity? How does this Gospel account record the various afflictions Jesus experienced and endured?</Question>
+<Question id=TheStorySes7-TheoDialogue-Q2>2. <Accent>Crucifixion and Atonement:</Accent> Why is Jesus' death on the cross so important? What did Jesus achieve on the cross for sinful humanity? How does the narrative of Jesus' death on the cross highlight Jesus' work of salvation?</Question>
+<Question id=TheStorySes7-TheoDialogue-Q3>3. <Accent>Victorious Resurrection:</Accent> Why was Jesus' resurrection such an important part of God's saving work on behalf of humanity? How does the account of Jesus' resurrection detail these important realities?</Question>
+<Question id=TheStorySes7-TheoDialogue-Q4>4. <Accent>Faithful Response:</Accent> How does God call us to respond to Christ's saving work? In this biblical story, what were various responses during Jesus' accusation, suffering, crucifixion, and resurrection?</Question>
 
 ### Biblical Commentary
 
@@ -225,11 +225,11 @@ On the surface, many might see Jesus' crucifixion as a story of death and defeat
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes7-EnteringStory-Q1>1. <Accent>Effects of Sin:</Accent> How have you faced the effects of sin in your life? When have you experienced the weight of guilt, the reality of shame, the discomfort of pain, the burden of the curse, the certainty of judgment, or the fear of death?</Question>
-<Question id=TheStoryFinalSes7-EnteringStory-Q2>2. <Accent>Misdealing with Sin:</Accent> What ways have you tried to deal with these painful effects of sin? How have these methods proven unsuccessful for your salvation?</Question>
-<Question id=TheStoryFinalSes7-EnteringStory-Q3>3. <Accent>Work of the Cross:</Accent> What do you believe about Jesus' suffering, death, and resurrection? Do you trust in and depend upon Jesus' death and resurrection as a foundation of your life?</Question>
-<Question id=TheStoryFinalSes7-EnteringStory-Q4>4. <Accent>Submission to Christ:</Accent> Have you submitted your life to Christ? If not, what obstacles, concerns, questions, or fears are keeping you from doing so? If so, what brought about your faith in Christ's work of salvation?</Question>
-<Question id=TheStoryFinalSes7-EnteringStory-Q5>5. <Accent>Freedom in Christ:</Accent> How does a life of submission to Jesus bring freedom and deliverance? What does a life of freedom in Jesus look like?</Question>
+<Question id=TheStorySes7-EnteringStory-Q1>1. <Accent>Effects of Sin:</Accent> How have you faced the effects of sin in your life? When have you experienced the weight of guilt, the reality of shame, the discomfort of pain, the burden of the curse, the certainty of judgment, or the fear of death?</Question>
+<Question id=TheStorySes7-EnteringStory-Q2>2. <Accent>Misdealing with Sin:</Accent> What ways have you tried to deal with these painful effects of sin? How have these methods proven unsuccessful for your salvation?</Question>
+<Question id=TheStorySes7-EnteringStory-Q3>3. <Accent>Work of the Cross:</Accent> What do you believe about Jesus' suffering, death, and resurrection? Do you trust in and depend upon Jesus' death and resurrection as a foundation of your life?</Question>
+<Question id=TheStorySes7-EnteringStory-Q4>4. <Accent>Submission to Christ:</Accent> Have you submitted your life to Christ? If not, what obstacles, concerns, questions, or fears are keeping you from doing so? If so, what brought about your faith in Christ's work of salvation?</Question>
+<Question id=TheStorySes7-EnteringStory-Q5>5. <Accent>Freedom in Christ:</Accent> How does a life of submission to Jesus bring freedom and deliverance? What does a life of freedom in Jesus look like?</Question>
 
 ### Spiritual Practice
 
@@ -243,7 +243,7 @@ On the surface, many might see Jesus' crucifixion as a story of death and defeat
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes7-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes7-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -255,6 +255,6 @@ On the surface, many might see Jesus' crucifixion as a story of death and defeat
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes7-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes7-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

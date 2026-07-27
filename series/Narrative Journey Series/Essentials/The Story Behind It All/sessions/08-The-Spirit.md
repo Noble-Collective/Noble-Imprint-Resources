@@ -37,11 +37,11 @@ The opening chapters of Acts detail an important historical event in the life of
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes8-Hearing-Q1>1. <Accent>Read Acts 1:1–11:</Accent> As Jesus commissioned his disciples, what role would the Holy Spirit have in the Christian community?</Question>
-<Question id=TheStoryFinalSes8-Hearing-Q2>2. <Accent>Read Acts 1:12–26:</Accent> As the disciples were waiting in Jerusalem, how did the Spirit guide them?</Question>
-<Question id=TheStoryFinalSes8-Hearing-Q3>3. <Accent>Read Acts 2:1–13:</Accent> On the day of Pentecost, how did the Spirit move in and through the disciples?</Question>
-<Question id=TheStoryFinalSes8-Hearing-Q4>4. <Accent>Read Acts 2:14–36:</Accent> In Peter's gospel sermon, what importance does Peter say the Spirit has?</Question>
-<Question id=TheStoryFinalSes8-Hearing-Q5>5. <Accent>Read Acts 2:37–47:</Accent> As people responded to Peter's gospel message, what was the Spirit's role in the conversion of people and the formation of the Christian community?</Question>
+<Question id=TheStorySes8-Hearing-Q1>1. <Accent>Read Acts 1:1–11:</Accent> As Jesus commissioned his disciples, what role would the Holy Spirit have in the Christian community?</Question>
+<Question id=TheStorySes8-Hearing-Q2>2. <Accent>Read Acts 1:12–26:</Accent> As the disciples were waiting in Jerusalem, how did the Spirit guide them?</Question>
+<Question id=TheStorySes8-Hearing-Q3>3. <Accent>Read Acts 2:1–13:</Accent> On the day of Pentecost, how did the Spirit move in and through the disciples?</Question>
+<Question id=TheStorySes8-Hearing-Q4>4. <Accent>Read Acts 2:14–36:</Accent> In Peter's gospel sermon, what importance does Peter say the Spirit has?</Question>
+<Question id=TheStorySes8-Hearing-Q5>5. <Accent>Read Acts 2:37–47:</Accent> As people responded to Peter's gospel message, what was the Spirit's role in the conversion of people and the formation of the Christian community?</Question>
 
 ### Storycraft
 
@@ -49,11 +49,11 @@ The opening chapters of Acts detail an important historical event in the life of
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes8-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes8-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes8-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes8-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -65,10 +65,10 @@ The opening chapters of Acts detail an important historical event in the life of
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes8-TheoDialogue-Q1>1. <Accent>Person of the Holy Spirit:</Accent> Who is the Holy Spirit? From this story, what do we learn about the deity, person, and character of the Holy Spirit?</Question>
-<Question id=TheStoryFinalSes8-TheoDialogue-Q2>2. <Accent>Work of the Holy Spirit:</Accent> What role does the Holy Spirit have in God's plan of salvation? In this specific biblical passage, what are the various works and activities of the Holy Spirit?</Question>
-<Question id=TheStoryFinalSes8-TheoDialogue-Q3>3. <Accent>Intra-Trinitarian Relationship:</Accent> What is the relationship of the Holy Spirit with the other members of the Godhead? How does this biblical narrative describe the relationship among God the Father, God the Son, and God the Holy Spirit?</Question>
-<Question id=TheStoryFinalSes8-TheoDialogue-Q4>4. <Accent>Spirit-Filled Relationships:</Accent> How does the Holy Spirit facilitate a vibrant relationship with God and other believers? How does this biblical text detail the Spirit's role in the formation of the church community?</Question>
+<Question id=TheStorySes8-TheoDialogue-Q1>1. <Accent>Person of the Holy Spirit:</Accent> Who is the Holy Spirit? From this story, what do we learn about the deity, person, and character of the Holy Spirit?</Question>
+<Question id=TheStorySes8-TheoDialogue-Q2>2. <Accent>Work of the Holy Spirit:</Accent> What role does the Holy Spirit have in God's plan of salvation? In this specific biblical passage, what are the various works and activities of the Holy Spirit?</Question>
+<Question id=TheStorySes8-TheoDialogue-Q3>3. <Accent>Intra-Trinitarian Relationship:</Accent> What is the relationship of the Holy Spirit with the other members of the Godhead? How does this biblical narrative describe the relationship among God the Father, God the Son, and God the Holy Spirit?</Question>
+<Question id=TheStorySes8-TheoDialogue-Q4>4. <Accent>Spirit-Filled Relationships:</Accent> How does the Holy Spirit facilitate a vibrant relationship with God and other believers? How does this biblical text detail the Spirit's role in the formation of the church community?</Question>
 
 ### Biblical Commentary
 
@@ -227,10 +227,10 @@ This powerful narrative instructs our faith and life today. It calls us to place
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes8-EnteringStory-Q1>1. <Accent>Submission to the Spirit:</Accent> What does it look like for a disciple to live a life fully submitted to the Holy Spirit? How does this story help us understand the Christian life as a life in the Spirit?</Question>
-<Question id=TheStoryFinalSes8-EnteringStory-Q2>2. <Accent>Transforming Work of the Holy Spirit:</Accent> What evidence can you see of the Holy Spirit in your own life? What are the ways the Holy Spirit has brought you to saving faith in Christ, transformed your life, and empowered you for God's service?</Question>
-<Question id=TheStoryFinalSes8-EnteringStory-Q3>3. <Accent>Areas of Further Submission:</Accent> What areas of your life have yet to be fully submitted to the Holy Spirit? What are some of the reasons you might resist the influence of the Holy Spirit in your life?</Question>
-<Question id=TheStoryFinalSes8-EnteringStory-Q4>4. <Accent>Understanding the Holy Spirit:</Accent> As you explore this story, how is your understanding of the Holy Spirit deepening and developing? What questions do you still have about the Holy Spirit?</Question>
+<Question id=TheStorySes8-EnteringStory-Q1>1. <Accent>Submission to the Spirit:</Accent> What does it look like for a disciple to live a life fully submitted to the Holy Spirit? How does this story help us understand the Christian life as a life in the Spirit?</Question>
+<Question id=TheStorySes8-EnteringStory-Q2>2. <Accent>Transforming Work of the Holy Spirit:</Accent> What evidence can you see of the Holy Spirit in your own life? What are the ways the Holy Spirit has brought you to saving faith in Christ, transformed your life, and empowered you for God's service?</Question>
+<Question id=TheStorySes8-EnteringStory-Q3>3. <Accent>Areas of Further Submission:</Accent> What areas of your life have yet to be fully submitted to the Holy Spirit? What are some of the reasons you might resist the influence of the Holy Spirit in your life?</Question>
+<Question id=TheStorySes8-EnteringStory-Q4>4. <Accent>Understanding the Holy Spirit:</Accent> As you explore this story, how is your understanding of the Holy Spirit deepening and developing? What questions do you still have about the Holy Spirit?</Question>
 
 ### Spiritual Practice
 
@@ -244,7 +244,7 @@ This powerful narrative instructs our faith and life today. It calls us to place
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes8-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes8-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -256,6 +256,6 @@ This powerful narrative instructs our faith and life today. It calls us to place
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes8-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes8-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

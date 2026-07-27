@@ -39,11 +39,11 @@ The story about human origins is foundational to establishing mature Christian b
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes3-Hearing-Q1>1. <Accent>Read Genesis 1:26–31:</Accent> What do we learn about humans from the sixth day of creation?</Question>
-<Question id=TheStoryFinalSes3-Hearing-Q2>2. <Accent>Read Genesis 2:4–7:</Accent> How did God create the first human (i.e., Adam)?</Question>
-<Question id=TheStoryFinalSes3-Hearing-Q3>3. <Accent>Read Genesis 2:8–17:</Accent> Where did God place the first human to live? What responsibilities did God give him?</Question>
-<Question id=TheStoryFinalSes3-Hearing-Q4>4. <Accent>Read Genesis 2:18–20:</Accent> What was not good about Adam and his life in the Garden of Eden?</Question>
-<Question id=TheStoryFinalSes3-Hearing-Q5>5. <Accent>Read Genesis 2:21–25:</Accent> How did God resolve this issue for Adam and future humans?</Question>
+<Question id=TheStorySes3-Hearing-Q1>1. <Accent>Read Genesis 1:26–31:</Accent> What do we learn about humans from the sixth day of creation?</Question>
+<Question id=TheStorySes3-Hearing-Q2>2. <Accent>Read Genesis 2:4–7:</Accent> How did God create the first human (i.e., Adam)?</Question>
+<Question id=TheStorySes3-Hearing-Q3>3. <Accent>Read Genesis 2:8–17:</Accent> Where did God place the first human to live? What responsibilities did God give him?</Question>
+<Question id=TheStorySes3-Hearing-Q4>4. <Accent>Read Genesis 2:18–20:</Accent> What was not good about Adam and his life in the Garden of Eden?</Question>
+<Question id=TheStorySes3-Hearing-Q5>5. <Accent>Read Genesis 2:21–25:</Accent> How did God resolve this issue for Adam and future humans?</Question>
 
 ### Storycraft
 
@@ -51,11 +51,11 @@ The story about human origins is foundational to establishing mature Christian b
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes3-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes3-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes3-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes3-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -67,10 +67,10 @@ The story about human origins is foundational to establishing mature Christian b
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes3-TheoDialogue-Q1>1. <Accent>Human Nature:</Accent> What does it mean to be human? How does this narrative explain the dignity, nature, purpose, and identity of human beings?</Question>
-<Question id=TheStoryFinalSes3-TheoDialogue-Q2>2. <Accent>Roles and Responsibilities:</Accent> What roles and responsibilities did God give the first humans? How does this biblical story shed light on the interpersonal dynamics of humanity?</Question>
-<Question id=TheStoryFinalSes3-TheoDialogue-Q3>3. <Accent>Core Relationships:</Accent> How should humans relate to God, each other, creation, and themselves? What does this Scripture teach about these core relationships?</Question>
-<Question id=TheStoryFinalSes3-TheoDialogue-Q4>4. <Accent>Family Origins:</Accent> According to God's design, what does it mean to be a family? What does this biblical text teach about the foundational importance of the family?</Question>
+<Question id=TheStorySes3-TheoDialogue-Q1>1. <Accent>Human Nature:</Accent> What does it mean to be human? How does this narrative explain the dignity, nature, purpose, and identity of human beings?</Question>
+<Question id=TheStorySes3-TheoDialogue-Q2>2. <Accent>Roles and Responsibilities:</Accent> What roles and responsibilities did God give the first humans? How does this biblical story shed light on the interpersonal dynamics of humanity?</Question>
+<Question id=TheStorySes3-TheoDialogue-Q3>3. <Accent>Core Relationships:</Accent> How should humans relate to God, each other, creation, and themselves? What does this Scripture teach about these core relationships?</Question>
+<Question id=TheStorySes3-TheoDialogue-Q4>4. <Accent>Family Origins:</Accent> According to God's design, what does it mean to be a family? What does this biblical text teach about the foundational importance of the family?</Question>
 
 ### Biblical Commentary
 
@@ -241,10 +241,10 @@ Above all that God had made, humanity stands in a unique place, embodying the pi
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes3-EnteringStory-Q1>1. <Accent>Good Life:</Accent> How do you picture the good life (i.e., a life of bliss and paradise)? How does the story of God creating humans connect with your longings and desires?</Question>
-<Question id=TheStoryFinalSes3-EnteringStory-Q2>2. <Accent>Personal Relationships:</Accent> How would you describe the relationships in your life? What about the story of human creation encourages and challenges you to reform your relationships with others?</Question>
-<Question id=TheStoryFinalSes3-EnteringStory-Q3>3. <Accent>Identity, Purpose, and Dignity:</Accent> Do you have a clear sense of identity, purpose, and dignity? Why or why not? How can this biblical text help you to think about yourself and others correctly?</Question>
-<Question id=TheStoryFinalSes3-EnteringStory-Q4>4. <Accent>Marriage and Family:</Accent> What importance do you place on marriage and family? What do you find most helpful in what this passage teaches about the foundations of marriage and family?</Question>
+<Question id=TheStorySes3-EnteringStory-Q1>1. <Accent>Good Life:</Accent> How do you picture the good life (i.e., a life of bliss and paradise)? How does the story of God creating humans connect with your longings and desires?</Question>
+<Question id=TheStorySes3-EnteringStory-Q2>2. <Accent>Personal Relationships:</Accent> How would you describe the relationships in your life? What about the story of human creation encourages and challenges you to reform your relationships with others?</Question>
+<Question id=TheStorySes3-EnteringStory-Q3>3. <Accent>Identity, Purpose, and Dignity:</Accent> Do you have a clear sense of identity, purpose, and dignity? Why or why not? How can this biblical text help you to think about yourself and others correctly?</Question>
+<Question id=TheStorySes3-EnteringStory-Q4>4. <Accent>Marriage and Family:</Accent> What importance do you place on marriage and family? What do you find most helpful in what this passage teaches about the foundations of marriage and family?</Question>
 
 ### Spiritual Practice
 
@@ -258,7 +258,7 @@ Above all that God had made, humanity stands in a unique place, embodying the pi
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes3-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes3-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -270,7 +270,7 @@ Above all that God had made, humanity stands in a unique place, embodying the pi
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes3-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes3-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
 

@@ -49,13 +49,13 @@ _God gifts us with Christian community as a critical environment for ongoing fai
 
 God grows our faith in the context of loving and committed community relationships. Explore the following discussion questions with your faith community in order to review the impact of this study in various domains of life.
 
-<Question id=TheStoryFinalRecall-Discussion-Q1>1. What **new beliefs** and **convictions** have you developed as a result of this study?</Question>
+<Question id=TheStoryRecall-Discussion-Q1>1. What **new beliefs** and **convictions** have you developed as a result of this study?</Question>
 
-<Question id=TheStoryFinalRecall-Discussion-Q2>2. How has God exposed **sinful areas** of your heart? How has God stirred you to **great joy**?</Question>
+<Question id=TheStoryRecall-Discussion-Q2>2. How has God exposed **sinful areas** of your heart? How has God stirred you to **great joy**?</Question>
 
-<Question id=TheStoryFinalRecall-Discussion-Q3>3. What **new behaviors** and **habits** is God calling you to develop?</Question>
+<Question id=TheStoryRecall-Discussion-Q3>3. What **new behaviors** and **habits** is God calling you to develop?</Question>
 
-<Question id=TheStoryFinalRecall-Discussion-Q4>4. In what ways have you already seen God **change your relationships**?</Question>
+<Question id=TheStoryRecall-Discussion-Q4>4. In what ways have you already seen God **change your relationships**?</Question>
 
 ### Significant Insights
 

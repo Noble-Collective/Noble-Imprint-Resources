@@ -37,11 +37,11 @@ Devotion to Christ is central to the life of faith. Christ's coming to earth emb
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes6-Hearing-Q1>1. <Accent>Read Luke 1:1–25, 57–80:</Accent> What events and people prepared for the coming of Christ?</Question>
-<Question id=TheStoryFinalSes6-Hearing-Q2>2. <Accent>Read Luke 1:26–38:</Accent> How did Mary come to be pregnant with Jesus? What was special about Mary and her child?</Question>
-<Question id=TheStoryFinalSes6-Hearing-Q3>3. <Accent>Read Luke 1:26–56:</Accent> What are the various responses to Mary's miraculous conception?</Question>
-<Question id=TheStoryFinalSes6-Hearing-Q4>4. <Accent>Read Luke 2:1–7:</Accent> How did Jesus' birth occur?</Question>
-<Question id=TheStoryFinalSes6-Hearing-Q5>5. <Accent>Read Luke 2:8–21:</Accent> How did the shepherds respond to the news of Christ's birth?</Question>
+<Question id=TheStorySes6-Hearing-Q1>1. <Accent>Read Luke 1:1–25, 57–80:</Accent> What events and people prepared for the coming of Christ?</Question>
+<Question id=TheStorySes6-Hearing-Q2>2. <Accent>Read Luke 1:26–38:</Accent> How did Mary come to be pregnant with Jesus? What was special about Mary and her child?</Question>
+<Question id=TheStorySes6-Hearing-Q3>3. <Accent>Read Luke 1:26–56:</Accent> What are the various responses to Mary's miraculous conception?</Question>
+<Question id=TheStorySes6-Hearing-Q4>4. <Accent>Read Luke 2:1–7:</Accent> How did Jesus' birth occur?</Question>
+<Question id=TheStorySes6-Hearing-Q5>5. <Accent>Read Luke 2:8–21:</Accent> How did the shepherds respond to the news of Christ's birth?</Question>
 
 ### Storycraft
 
@@ -49,11 +49,11 @@ Devotion to Christ is central to the life of faith. Christ's coming to earth emb
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes6-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes6-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes6-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes6-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -65,11 +65,11 @@ Devotion to Christ is central to the life of faith. Christ's coming to earth emb
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes6-TheoDialogue-Q1>1. <Accent>Preparation for Christ:</Accent> How did God prepare the world for the coming of Christ? According to this biblical narrative, why is this preparation important in God's overall plan?</Question>
-<Question id=TheStoryFinalSes6-TheoDialogue-Q2>2. <Accent>Promised Coming:</Accent> How did Jesus' coming fulfill God's promised plan to deliver his people? How does this text describe Jesus fulfilling God's promised plan of salvation? How is it different than what people were expecting?</Question>
-<Question id=TheStoryFinalSes6-TheoDialogue-Q3>3. <Accent>The Person of Christ:</Accent> What are the ways (i.e., names) Jesus is referred to in his coming? What do Jesus' names in this biblical account teach about who Jesus is?</Question>
-<Question id=TheStoryFinalSes6-TheoDialogue-Q4>4. <Accent>The Work of Christ:</Accent> What work of redemption was God accomplishing when he sent Jesus to earth? How does this narrative describe God's work of redeeming sinful humanity?</Question>
-<Question id=TheStoryFinalSes6-TheoDialogue-Q5>5. <Accent>Faithfully Responding to Jesus:</Accent> What are appropriate responses to Christ? Based on the various responses to Christ in this story, how can we learn the right and wrong ways of responding to Jesus?</Question>
+<Question id=TheStorySes6-TheoDialogue-Q1>1. <Accent>Preparation for Christ:</Accent> How did God prepare the world for the coming of Christ? According to this biblical narrative, why is this preparation important in God's overall plan?</Question>
+<Question id=TheStorySes6-TheoDialogue-Q2>2. <Accent>Promised Coming:</Accent> How did Jesus' coming fulfill God's promised plan to deliver his people? How does this text describe Jesus fulfilling God's promised plan of salvation? How is it different than what people were expecting?</Question>
+<Question id=TheStorySes6-TheoDialogue-Q3>3. <Accent>The Person of Christ:</Accent> What are the ways (i.e., names) Jesus is referred to in his coming? What do Jesus' names in this biblical account teach about who Jesus is?</Question>
+<Question id=TheStorySes6-TheoDialogue-Q4>4. <Accent>The Work of Christ:</Accent> What work of redemption was God accomplishing when he sent Jesus to earth? How does this narrative describe God's work of redeeming sinful humanity?</Question>
+<Question id=TheStorySes6-TheoDialogue-Q5>5. <Accent>Faithfully Responding to Jesus:</Accent> What are appropriate responses to Christ? Based on the various responses to Christ in this story, how can we learn the right and wrong ways of responding to Jesus?</Question>
 
 ### Biblical Commentary
 
@@ -221,10 +221,10 @@ We learn much about Jesus from a study of his birth. Jesus is God's eternal Son.
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes6-EnteringStory-Q1>1. <Accent>Understanding Christ:</Accent> What gaps exist in your understanding of Christ? How is this story growing your understanding of Christ's person and work?</Question>
-<Question id=TheStoryFinalSes6-EnteringStory-Q2>2. <Accent>Responding to Christ:</Accent> As various people responded to the coming of Christ in this story, which character(s) and their responses most connect with you?</Question>
-<Question id=TheStoryFinalSes6-EnteringStory-Q3>3. <Accent>Obstacles to Devotion:</Accent> What obstacles might keep you from responding rightly to Jesus?</Question>
-<Question id=TheStoryFinalSes6-EnteringStory-Q4>4. <Accent>Faithful Models:</Accent> Who has modeled a faithful response to Christ in your own life? How can some of the characters in this narrative be models for your life of faith?</Question>
+<Question id=TheStorySes6-EnteringStory-Q1>1. <Accent>Understanding Christ:</Accent> What gaps exist in your understanding of Christ? How is this story growing your understanding of Christ's person and work?</Question>
+<Question id=TheStorySes6-EnteringStory-Q2>2. <Accent>Responding to Christ:</Accent> As various people responded to the coming of Christ in this story, which character(s) and their responses most connect with you?</Question>
+<Question id=TheStorySes6-EnteringStory-Q3>3. <Accent>Obstacles to Devotion:</Accent> What obstacles might keep you from responding rightly to Jesus?</Question>
+<Question id=TheStorySes6-EnteringStory-Q4>4. <Accent>Faithful Models:</Accent> Who has modeled a faithful response to Christ in your own life? How can some of the characters in this narrative be models for your life of faith?</Question>
 
 ### Spiritual Practice
 
@@ -238,7 +238,7 @@ We learn much about Jesus from a study of his birth. Jesus is God's eternal Son.
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes6-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes6-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -250,6 +250,6 @@ We learn much about Jesus from a study of his birth. Jesus is God's eternal Son.
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes6-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes6-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

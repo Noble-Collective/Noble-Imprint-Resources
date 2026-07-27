@@ -83,9 +83,9 @@ Faithful disciples plant firm roots in the soil of biblical principles. Review t
 
 The essentials of the Christian faith are extremely relevant to our lives. Pick one or two biblical passages or study themes that capture your attention. Briefly discuss with your community what most interests you about these narratives and topics.
 
-<Question id=TheStoryFinalOpening-Interest-Q1>1. Which biblical narrative or study topic is most relevant to your cultural context?</Question>
+<Question id=TheStoryOpening-Interest-Q1>1. Which biblical narrative or study topic is most relevant to your cultural context?</Question>
 
-<Question id=TheStoryFinalOpening-Interest-Q2>2. Which biblical narrative or study topic seems most interesting or relevant to you? Why?</Question>
+<Question id=TheStoryOpening-Interest-Q2>2. Which biblical narrative or study topic seems most interesting or relevant to you? Why?</Question>
 
 ## Faith Foundation: Exploring the Terrain
 
@@ -95,11 +95,11 @@ _God calls his people to move beyond a superficial understanding of Christian es
 
 Disciples progress in the faith in the context of committed Christian community. Discuss the following questions with other believers as a means to orient your community to the subject of this study.
 
-<Question id=TheStoryFinalOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
+<Question id=TheStoryOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
 
-<Question id=TheStoryFinalOpening-Discussion-Q2>2. Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
+<Question id=TheStoryOpening-Discussion-Q2>2. Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
 
-<Question id=TheStoryFinalOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
+<Question id=TheStoryOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
 
 ### Significant Quote
 

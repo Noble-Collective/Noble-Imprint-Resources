@@ -41,10 +41,10 @@ The narrative of creation's fall from perfection is foundational to the life of 
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes4-Hearing-Q1>1. <Accent>Read Genesis 3:1–6:</Accent> What led the first humans to disobey God? (Focus on 3:1–6; cf. 2:15–17)</Question>
-<Question id=TheStoryFinalSes4-Hearing-Q2>2. <Accent>Read Genesis 3:7–13:</Accent> What resulted after the first humans disobeyed God's word?</Question>
-<Question id=TheStoryFinalSes4-Hearing-Q3>3. <Accent>Read Genesis 3:14–19:</Accent> What specific judgments did God announce in bringing a curse on his creation?</Question>
-<Question id=TheStoryFinalSes4-Hearing-Q4>4. <Accent>Read Genesis 3:20–24:</Accent> How did God act in hopeful and promising ways, even in judgment and sin?</Question>
+<Question id=TheStorySes4-Hearing-Q1>1. <Accent>Read Genesis 3:1–6:</Accent> What led the first humans to disobey God? (Focus on 3:1–6; cf. 2:15–17)</Question>
+<Question id=TheStorySes4-Hearing-Q2>2. <Accent>Read Genesis 3:7–13:</Accent> What resulted after the first humans disobeyed God's word?</Question>
+<Question id=TheStorySes4-Hearing-Q3>3. <Accent>Read Genesis 3:14–19:</Accent> What specific judgments did God announce in bringing a curse on his creation?</Question>
+<Question id=TheStorySes4-Hearing-Q4>4. <Accent>Read Genesis 3:20–24:</Accent> How did God act in hopeful and promising ways, even in judgment and sin?</Question>
 
 ### Storycraft
 
@@ -52,11 +52,11 @@ The narrative of creation's fall from perfection is foundational to the life of 
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes4-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes4-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes4-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes4-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -68,11 +68,11 @@ The narrative of creation's fall from perfection is foundational to the life of 
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes4-TheoDialogue-Q1>1. <Accent>Temptation to Sin:</Accent> What are some ways that Satan entices humans to sin? How does temptation work to allure us away from God's ways? How is the human struggle against sin similar to what the first humans experienced in Eden?</Question>
-<Question id=TheStoryFinalSes4-TheoDialogue-Q2>2. <Accent>Nature of Sin:</Accent> What is the essence of sin? How does this biblical text help us understand the origin and nature of sin?</Question>
-<Question id=TheStoryFinalSes4-TheoDialogue-Q3>3. <Accent>Consequences of Sin:</Accent> What are the effects of sin? Based upon this biblical story, what do we learn about the consequences of sin?</Question>
-<Question id=TheStoryFinalSes4-TheoDialogue-Q4>4. <Accent>Original Sin:</Accent> How did the first sin by Adam and Eve affect our relationship with ourselves, others, creation, and God? How does this Scripture passage show the effects of original sin?</Question>
-<Question id=TheStoryFinalSes4-TheoDialogue-Q5>5. <Accent>Hope from Sin:</Accent> What hope is there for the world to be restored from its fallen state? Where do you see grace and hope in this biblical account?</Question>
+<Question id=TheStorySes4-TheoDialogue-Q1>1. <Accent>Temptation to Sin:</Accent> What are some ways that Satan entices humans to sin? How does temptation work to allure us away from God's ways? How is the human struggle against sin similar to what the first humans experienced in Eden?</Question>
+<Question id=TheStorySes4-TheoDialogue-Q2>2. <Accent>Nature of Sin:</Accent> What is the essence of sin? How does this biblical text help us understand the origin and nature of sin?</Question>
+<Question id=TheStorySes4-TheoDialogue-Q3>3. <Accent>Consequences of Sin:</Accent> What are the effects of sin? Based upon this biblical story, what do we learn about the consequences of sin?</Question>
+<Question id=TheStorySes4-TheoDialogue-Q4>4. <Accent>Original Sin:</Accent> How did the first sin by Adam and Eve affect our relationship with ourselves, others, creation, and God? How does this Scripture passage show the effects of original sin?</Question>
+<Question id=TheStorySes4-TheoDialogue-Q5>5. <Accent>Hope from Sin:</Accent> What hope is there for the world to be restored from its fallen state? Where do you see grace and hope in this biblical account?</Question>
 
 ### Biblical Commentary
 
@@ -209,10 +209,10 @@ Even in this most tragic story of the Bible, God sowed seeds of hope. Knowing th
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes4-EnteringStory-Q1>1. <Accent>Fallout of Sin:</Accent> What brokenness has come into your life because of sin (your sin or the sin of others against you)?</Question>
-<Question id=TheStoryFinalSes4-EnteringStory-Q2>2. <Accent>Roots of Disobedience:</Accent> What lies, doubts, unbelief, desires, or pride are behind your own disobedience?</Question>
-<Question id=TheStoryFinalSes4-EnteringStory-Q3>3. <Accent>Failed Compensating for Sin:</Accent> How have you tried to deal with your own sin and its effects in your life? How have these attempts failed to resolve the issue of sin?</Question>
-<Question id=TheStoryFinalSes4-EnteringStory-Q4>4. <Accent>Rescue from Sin:</Accent> Have you experienced rescue from the fall by coming to saving faith in Jesus? When did you experience God's gracious rescue through Jesus?</Question>
+<Question id=TheStorySes4-EnteringStory-Q1>1. <Accent>Fallout of Sin:</Accent> What brokenness has come into your life because of sin (your sin or the sin of others against you)?</Question>
+<Question id=TheStorySes4-EnteringStory-Q2>2. <Accent>Roots of Disobedience:</Accent> What lies, doubts, unbelief, desires, or pride are behind your own disobedience?</Question>
+<Question id=TheStorySes4-EnteringStory-Q3>3. <Accent>Failed Compensating for Sin:</Accent> How have you tried to deal with your own sin and its effects in your life? How have these attempts failed to resolve the issue of sin?</Question>
+<Question id=TheStorySes4-EnteringStory-Q4>4. <Accent>Rescue from Sin:</Accent> Have you experienced rescue from the fall by coming to saving faith in Jesus? When did you experience God's gracious rescue through Jesus?</Question>
 
 ### Spiritual Practice
 
@@ -236,7 +236,7 @@ _In the space below, use the following questions to guide you as you write a con
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes4-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes4-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -248,7 +248,7 @@ _In the space below, use the following questions to guide you as you write a con
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes4-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes4-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
 

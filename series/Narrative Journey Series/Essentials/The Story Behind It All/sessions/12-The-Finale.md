@@ -35,11 +35,11 @@ This final scene of the Bible is where the story of this present world ends. But
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes12-Hearing-Q1>1. <Accent>Read Revelation 19:11–21:</Accent> How is Jesus described when he comes back to earth? What does this vision tell us about Jesus' identity and activity at his second coming?</Question>
-<Question id=TheStoryFinalSes12-Hearing-Q2>2. <Accent>Read Revelation 20:1–15:</Accent> Who are God's enemies and what will happen to these enemies at the end of time?</Question>
-<Question id=TheStoryFinalSes12-Hearing-Q3>3. <Accent>Read Revelation 20:1–15:</Accent> What happens when people resurrect from the dead? What is the difference between the two resurrections described in this passage?</Question>
-<Question id=TheStoryFinalSes12-Hearing-Q4>4. <Accent>Read Revelation 21:1–22:5:</Accent> What does the new creation look like? How is the new creation like a bride, a temple, and a garden paradise?</Question>
-<Question id=TheStoryFinalSes12-Hearing-Q5>5. <Accent>Read Revelation 22:6–21:</Accent> What final statements, instructions, and affirmations are made in this passage?</Question>
+<Question id=TheStorySes12-Hearing-Q1>1. <Accent>Read Revelation 19:11–21:</Accent> How is Jesus described when he comes back to earth? What does this vision tell us about Jesus' identity and activity at his second coming?</Question>
+<Question id=TheStorySes12-Hearing-Q2>2. <Accent>Read Revelation 20:1–15:</Accent> Who are God's enemies and what will happen to these enemies at the end of time?</Question>
+<Question id=TheStorySes12-Hearing-Q3>3. <Accent>Read Revelation 20:1–15:</Accent> What happens when people resurrect from the dead? What is the difference between the two resurrections described in this passage?</Question>
+<Question id=TheStorySes12-Hearing-Q4>4. <Accent>Read Revelation 21:1–22:5:</Accent> What does the new creation look like? How is the new creation like a bride, a temple, and a garden paradise?</Question>
+<Question id=TheStorySes12-Hearing-Q5>5. <Accent>Read Revelation 22:6–21:</Accent> What final statements, instructions, and affirmations are made in this passage?</Question>
 
 ### Storycraft
 
@@ -47,11 +47,11 @@ This final scene of the Bible is where the story of this present world ends. But
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes12-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes12-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes12-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes12-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -63,12 +63,12 @@ This final scene of the Bible is where the story of this present world ends. But
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes12-TheoDialogue-Q1>1. <Accent>Doctrinal Importance:</Accent> Why is the study of the future important? What key events will take place that define the essence of Christian hope?</Question>
-<Question id=TheStoryFinalSes12-TheoDialogue-Q2>2. <Accent>Return of Christ:</Accent> What will be the nature of Christ's return to earth? Why is this important? How does this passage describe the importance of Jesus' return?</Question>
-<Question id=TheStoryFinalSes12-TheoDialogue-Q3>3. <Accent>Enemies' Defeat:</Accent> What will become of the enemies of God (i.e., Satan, sin, death, evil)? How is their ultimate defeat, described in this passage, important as a part of the whole story of Scripture?</Question>
-<Question id=TheStoryFinalSes12-TheoDialogue-Q4>4. <Accent>Bodily Resurrection:</Accent> Why is the resurrection of the dead core to the Christian hope? How will the resurrection come about as narrated in this vision?</Question>
-<Question id=TheStoryFinalSes12-TheoDialogue-Q5>5. <Accent>Eternal State:</Accent> What will life be like in the new heavens and new earth? How does this passage describe eternal life and the new creation?</Question>
-<Question id=TheStoryFinalSes12-TheoDialogue-Q6>6. <Accent>God's Revealed Word:</Accent> What do Christians believe about God's revealed word? How does this passage teach us about the character of God's word?</Question>
+<Question id=TheStorySes12-TheoDialogue-Q1>1. <Accent>Doctrinal Importance:</Accent> Why is the study of the future important? What key events will take place that define the essence of Christian hope?</Question>
+<Question id=TheStorySes12-TheoDialogue-Q2>2. <Accent>Return of Christ:</Accent> What will be the nature of Christ's return to earth? Why is this important? How does this passage describe the importance of Jesus' return?</Question>
+<Question id=TheStorySes12-TheoDialogue-Q3>3. <Accent>Enemies' Defeat:</Accent> What will become of the enemies of God (i.e., Satan, sin, death, evil)? How is their ultimate defeat, described in this passage, important as a part of the whole story of Scripture?</Question>
+<Question id=TheStorySes12-TheoDialogue-Q4>4. <Accent>Bodily Resurrection:</Accent> Why is the resurrection of the dead core to the Christian hope? How will the resurrection come about as narrated in this vision?</Question>
+<Question id=TheStorySes12-TheoDialogue-Q5>5. <Accent>Eternal State:</Accent> What will life be like in the new heavens and new earth? How does this passage describe eternal life and the new creation?</Question>
+<Question id=TheStorySes12-TheoDialogue-Q6>6. <Accent>God's Revealed Word:</Accent> What do Christians believe about God's revealed word? How does this passage teach us about the character of God's word?</Question>
 
 ### Biblical Commentary
 
@@ -218,12 +218,12 @@ The life of faith is a life of hope. While we enjoy blessings and benefits from 
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes12-EnteringStory-Q1>1. <Accent>Christian Hope:</Accent> What is hope, and why is it important for disciples of Jesus? How has this passage grown your understanding of Christian hope?</Question>
-<Question id=TheStoryFinalSes12-EnteringStory-Q2>2. <Accent>Discouragement and Sin:</Accent> When you feel discouraged or fearful, what are good and bad ways that you try to find hope?</Question>
-<Question id=TheStoryFinalSes12-EnteringStory-Q3>3. <Accent>Encouragement and Promise:</Accent> How are each of the promises of the life to come (i.e., return of Jesus, defeat of Satan, resurrection from the dead, judgment of evil, and recreation of the world) encouraging to you?</Question>
-<Question id=TheStoryFinalSes12-EnteringStory-Q4>4. <Accent>Vision of the Future:</Accent> How does this vision of the future world strengthen your faith in Christ?</Question>
-<Question id=TheStoryFinalSes12-EnteringStory-Q5>5. <Accent>Hope and Gospel Witness:</Accent> How might living a life of hope help you in your witness of Christ?</Question>
-<Question id=TheStoryFinalSes12-EnteringStory-Q6>6. <Accent>God's Word:</Accent> How has your view of God's word changed throughout this whole study_?_</Question>
+<Question id=TheStorySes12-EnteringStory-Q1>1. <Accent>Christian Hope:</Accent> What is hope, and why is it important for disciples of Jesus? How has this passage grown your understanding of Christian hope?</Question>
+<Question id=TheStorySes12-EnteringStory-Q2>2. <Accent>Discouragement and Sin:</Accent> When you feel discouraged or fearful, what are good and bad ways that you try to find hope?</Question>
+<Question id=TheStorySes12-EnteringStory-Q3>3. <Accent>Encouragement and Promise:</Accent> How are each of the promises of the life to come (i.e., return of Jesus, defeat of Satan, resurrection from the dead, judgment of evil, and recreation of the world) encouraging to you?</Question>
+<Question id=TheStorySes12-EnteringStory-Q4>4. <Accent>Vision of the Future:</Accent> How does this vision of the future world strengthen your faith in Christ?</Question>
+<Question id=TheStorySes12-EnteringStory-Q5>5. <Accent>Hope and Gospel Witness:</Accent> How might living a life of hope help you in your witness of Christ?</Question>
+<Question id=TheStorySes12-EnteringStory-Q6>6. <Accent>God's Word:</Accent> How has your view of God's word changed throughout this whole study_?_</Question>
 
 ### Spiritual Practice
 
@@ -237,7 +237,7 @@ The life of faith is a life of hope. While we enjoy blessings and benefits from 
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes12-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes12-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -249,6 +249,6 @@ The life of faith is a life of hope. While we enjoy blessings and benefits from 
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes12-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes12-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

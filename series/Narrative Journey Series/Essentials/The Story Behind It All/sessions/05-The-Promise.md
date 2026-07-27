@@ -37,12 +37,12 @@ The life of discipleship is based upon God's word. God's word of promise demonst
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes5-Hearing-Q1>1. <Accent>Read Genesis 5:28–32:</Accent> How does this text describe Noah and his hopeful role for humanity?</Question>
-<Question id=TheStoryFinalSes5-Hearing-Q2>2. <Accent>Read Genesis 6:1–13:</Accent> At the time of Noah, what were things like on earth? What was God's evaluation of the human condition?</Question>
-<Question id=TheStoryFinalSes5-Hearing-Q3>3. <Accent>Read Genesis 6:13–7:5:</Accent> What instructions did God give to Noah? What did these instructions reveal about God's judgment and salvation?</Question>
-<Question id=TheStoryFinalSes5-Hearing-Q4>4. <Accent>Read Genesis 7:6–24:</Accent> How did God judge the earth? What happened when the floodwaters covered the earth?</Question>
-<Question id=TheStoryFinalSes5-Hearing-Q5>5. <Accent>Read Genesis 8:1–19:</Accent> How did God bring relief from the floodwaters? What events took place to bring about the end of the flood?</Question>
-<Question id=TheStoryFinalSes5-Hearing-Q6>6. <Accent>Read Genesis 8:20–9:17:</Accent> What did Noah do after he exited the ark? What words did God speak to establish his relationship with creation?</Question>
+<Question id=TheStorySes5-Hearing-Q1>1. <Accent>Read Genesis 5:28–32:</Accent> How does this text describe Noah and his hopeful role for humanity?</Question>
+<Question id=TheStorySes5-Hearing-Q2>2. <Accent>Read Genesis 6:1–13:</Accent> At the time of Noah, what were things like on earth? What was God's evaluation of the human condition?</Question>
+<Question id=TheStorySes5-Hearing-Q3>3. <Accent>Read Genesis 6:13–7:5:</Accent> What instructions did God give to Noah? What did these instructions reveal about God's judgment and salvation?</Question>
+<Question id=TheStorySes5-Hearing-Q4>4. <Accent>Read Genesis 7:6–24:</Accent> How did God judge the earth? What happened when the floodwaters covered the earth?</Question>
+<Question id=TheStorySes5-Hearing-Q5>5. <Accent>Read Genesis 8:1–19:</Accent> How did God bring relief from the floodwaters? What events took place to bring about the end of the flood?</Question>
+<Question id=TheStorySes5-Hearing-Q6>6. <Accent>Read Genesis 8:20–9:17:</Accent> What did Noah do after he exited the ark? What words did God speak to establish his relationship with creation?</Question>
 
 ### Storycraft
 
@@ -50,11 +50,11 @@ The life of discipleship is based upon God's word. God's word of promise demonst
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes5-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes5-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes5-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes5-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -66,11 +66,11 @@ The life of discipleship is based upon God's word. God's word of promise demonst
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes5-TheoDialogue-Q1>1. <Accent>Human Condition:</Accent> What is the condition of humanity as people living in a fallen and sinful world? How does this narrative reveal the sinful human condition?</Question>
-<Question id=TheStoryFinalSes5-TheoDialogue-Q2>2. <Accent>Divine Promises:</Accent> Why is it important that God makes and keeps his promises? As God worked out his plan to restore creation through Noah, what kinds of promises (both warnings and blessings) did God give?</Question>
-<Question id=TheStoryFinalSes5-TheoDialogue-Q3>3. <Accent>Salvation and Judgment:</Accent> How does God promise judgment and salvation to humanity? How do God's promises in the flood narrative tell us about God's plan to restore fallen creation?</Question>
-<Question id=TheStoryFinalSes5-TheoDialogue-Q4>4. <Accent>Covenant Relationship:</Accent> How does a covenant define God's relationship with his people? What is important about God's covenant with Noah?</Question>
-<Question id=TheStoryFinalSes5-TheoDialogue-Q5>5. <Accent>Biblical Revelation:</Accent> What does the nature of God's promises tell us about the content and character of God's revealed word (i.e., the Bible)? How do we see God's character revealed in the biblical account of the flood?</Question>
+<Question id=TheStorySes5-TheoDialogue-Q1>1. <Accent>Human Condition:</Accent> What is the condition of humanity as people living in a fallen and sinful world? How does this narrative reveal the sinful human condition?</Question>
+<Question id=TheStorySes5-TheoDialogue-Q2>2. <Accent>Divine Promises:</Accent> Why is it important that God makes and keeps his promises? As God worked out his plan to restore creation through Noah, what kinds of promises (both warnings and blessings) did God give?</Question>
+<Question id=TheStorySes5-TheoDialogue-Q3>3. <Accent>Salvation and Judgment:</Accent> How does God promise judgment and salvation to humanity? How do God's promises in the flood narrative tell us about God's plan to restore fallen creation?</Question>
+<Question id=TheStorySes5-TheoDialogue-Q4>4. <Accent>Covenant Relationship:</Accent> How does a covenant define God's relationship with his people? What is important about God's covenant with Noah?</Question>
+<Question id=TheStorySes5-TheoDialogue-Q5>5. <Accent>Biblical Revelation:</Accent> What does the nature of God's promises tell us about the content and character of God's revealed word (i.e., the Bible)? How do we see God's character revealed in the biblical account of the flood?</Question>
 
 ### Biblical Commentary
 
@@ -234,11 +234,11 @@ Noah's story shows us that God is a promise-giving and promise-keeping God. The 
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes5-EnteringStory-Q1>1. <Accent>Human Depravity:</Accent> How has sin affected your life and the world? How can you relate the description of human depravity in this narrative to your own life and the world around you?</Question>
-<Question id=TheStoryFinalSes5-EnteringStory-Q2>2. <Accent>Warning of Judgment:</Accent> How do you respond to God's word of judgment for sin? How is this story a warning for your own life?</Question>
-<Question id=TheStoryFinalSes5-EnteringStory-Q3>3. <Accent>Experiencing Salvation:</Accent> How have you experienced God's salvation? What aspects of Noah's own story can you relate to in terms of God rescuing you from judgment?</Question>
-<Question id=TheStoryFinalSes5-EnteringStory-Q4>4. <Accent>Covenant Relationship:</Accent> What does it mean to live in a covenant relationship with God? How does Noah's narrative guide you to embrace your relationship with God with seriousness and devotion?</Question>
-<Question id=TheStoryFinalSes5-EnteringStory-Q5>5. <Accent>God's Promises:</Accent> Why might we have a hard time believing God's promises? What does it look like to live a life that trusts in God's word?</Question>
+<Question id=TheStorySes5-EnteringStory-Q1>1. <Accent>Human Depravity:</Accent> How has sin affected your life and the world? How can you relate the description of human depravity in this narrative to your own life and the world around you?</Question>
+<Question id=TheStorySes5-EnteringStory-Q2>2. <Accent>Warning of Judgment:</Accent> How do you respond to God's word of judgment for sin? How is this story a warning for your own life?</Question>
+<Question id=TheStorySes5-EnteringStory-Q3>3. <Accent>Experiencing Salvation:</Accent> How have you experienced God's salvation? What aspects of Noah's own story can you relate to in terms of God rescuing you from judgment?</Question>
+<Question id=TheStorySes5-EnteringStory-Q4>4. <Accent>Covenant Relationship:</Accent> What does it mean to live in a covenant relationship with God? How does Noah's narrative guide you to embrace your relationship with God with seriousness and devotion?</Question>
+<Question id=TheStorySes5-EnteringStory-Q5>5. <Accent>God's Promises:</Accent> Why might we have a hard time believing God's promises? What does it look like to live a life that trusts in God's word?</Question>
 
 ### Spiritual Practice
 
@@ -252,7 +252,7 @@ Noah's story shows us that God is a promise-giving and promise-keeping God. The 
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes5-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes5-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -264,6 +264,6 @@ Noah's story shows us that God is a promise-giving and promise-keeping God. The 
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes5-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes5-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

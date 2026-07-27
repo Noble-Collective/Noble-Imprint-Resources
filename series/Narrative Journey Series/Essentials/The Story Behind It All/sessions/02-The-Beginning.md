@@ -39,11 +39,11 @@ The story of creation is foundational to all that it means to be human and what 
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes2-Hearing-Q1>1. <Accent>Read Genesis 1:1–2:</Accent> What were things initially like when God began to create the world?</Question>
-<Question id=TheStoryFinalSes2-Hearing-Q2>2. <Accent>Read Genesis 1:3–31:</Accent> What did God create on each of the six days of creation?</Question>
-<Question id=TheStoryFinalSes2-Hearing-Q3>3. <Accent>Read Genesis 1:3–31:</Accent> What rhythms and patterns do you see in how God created the world?</Question>
-<Question id=TheStoryFinalSes2-Hearing-Q4>4. <Accent>Read Genesis 1:26–31:</Accent> What was unique about how and why God created humans?</Question>
-<Question id=TheStoryFinalSes2-Hearing-Q5>5. <Accent>Read Genesis 2:1–3:</Accent> What did God do on the seventh day of creation? What was so special about this day?</Question>
+<Question id=TheStorySes2-Hearing-Q1>1. <Accent>Read Genesis 1:1–2:</Accent> What were things initially like when God began to create the world?</Question>
+<Question id=TheStorySes2-Hearing-Q2>2. <Accent>Read Genesis 1:3–31:</Accent> What did God create on each of the six days of creation?</Question>
+<Question id=TheStorySes2-Hearing-Q3>3. <Accent>Read Genesis 1:3–31:</Accent> What rhythms and patterns do you see in how God created the world?</Question>
+<Question id=TheStorySes2-Hearing-Q4>4. <Accent>Read Genesis 1:26–31:</Accent> What was unique about how and why God created humans?</Question>
+<Question id=TheStorySes2-Hearing-Q5>5. <Accent>Read Genesis 2:1–3:</Accent> What did God do on the seventh day of creation? What was so special about this day?</Question>
 
 ### Storycraft
 
@@ -51,11 +51,11 @@ The story of creation is foundational to all that it means to be human and what 
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes2-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes2-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes2-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes2-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -67,10 +67,10 @@ The story of creation is foundational to all that it means to be human and what 
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes2-TheoDialogue-Q1>1. <Accent>The Nature and Character of God:</Accent> What is God like? What is true about God? What does the story of creation teach us about God's character?</Question>
-<Question id=TheStoryFinalSes2-TheoDialogue-Q2>2. <Accent>The Beauty of the World:</Accent> What was the world like when God originally created it? How does this account depict the original creation?</Question>
-<Question id=TheStoryFinalSes2-TheoDialogue-Q3>3. <Accent>The Nature of Humanity:</Accent> What does it mean to be human? What is true about human beings? What does this narrative teach us about the nature of humanity?</Question>
-<Question id=TheStoryFinalSes2-TheoDialogue-Q4>4. <Accent>Origins of the World:</Accent> What stories about the origins of the world exist in your culture? How do these origin stories compare with the creation account in Genesis?</Question>
+<Question id=TheStorySes2-TheoDialogue-Q1>1. <Accent>The Nature and Character of God:</Accent> What is God like? What is true about God? What does the story of creation teach us about God's character?</Question>
+<Question id=TheStorySes2-TheoDialogue-Q2>2. <Accent>The Beauty of the World:</Accent> What was the world like when God originally created it? How does this account depict the original creation?</Question>
+<Question id=TheStorySes2-TheoDialogue-Q3>3. <Accent>The Nature of Humanity:</Accent> What does it mean to be human? What is true about human beings? What does this narrative teach us about the nature of humanity?</Question>
+<Question id=TheStorySes2-TheoDialogue-Q4>4. <Accent>Origins of the World:</Accent> What stories about the origins of the world exist in your culture? How do these origin stories compare with the creation account in Genesis?</Question>
 
 ### Biblical Commentary
 
@@ -224,10 +224,10 @@ Our understanding of the story behind all reality will grow as we start to recog
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes2-EnteringStory-Q1>1. <Accent>Knowing God:</Accent> How is this passage helping you understand God more truly? What characteristics of God made an impression on you?</Question>
-<Question id=TheStoryFinalSes2-EnteringStory-Q2>2. <Accent>Godly Values:</Accent> Does your life resemble God's priorities of truth, goodness, beauty, freedom, justice, and dignity? Where do these priorities show up in your life? Where are they absent in your life?</Question>
-<Question id=TheStoryFinalSes2-EnteringStory-Q3>3. <Accent>Human Accountability:</Accent> Does accountability to God bring you joy or despair? Why or why not?</Question>
-<Question id=TheStoryFinalSes2-EnteringStory-Q4>4. <Accent>Life Change:</Accent> What changes could you make to align yourself with God's will? What would be appropriate responses to God as Creator?</Question>
+<Question id=TheStorySes2-EnteringStory-Q1>1. <Accent>Knowing God:</Accent> How is this passage helping you understand God more truly? What characteristics of God made an impression on you?</Question>
+<Question id=TheStorySes2-EnteringStory-Q2>2. <Accent>Godly Values:</Accent> Does your life resemble God's priorities of truth, goodness, beauty, freedom, justice, and dignity? Where do these priorities show up in your life? Where are they absent in your life?</Question>
+<Question id=TheStorySes2-EnteringStory-Q3>3. <Accent>Human Accountability:</Accent> Does accountability to God bring you joy or despair? Why or why not?</Question>
+<Question id=TheStorySes2-EnteringStory-Q4>4. <Accent>Life Change:</Accent> What changes could you make to align yourself with God's will? What would be appropriate responses to God as Creator?</Question>
 
 ### Spiritual Practice
 
@@ -241,7 +241,7 @@ Our understanding of the story behind all reality will grow as we start to recog
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes2-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes2-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -253,7 +253,7 @@ Our understanding of the story behind all reality will grow as we start to recog
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes2-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes2-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
 

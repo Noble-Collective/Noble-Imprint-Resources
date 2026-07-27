@@ -37,10 +37,10 @@ Throughout the biblical narrative—the true story behind it all—we have seen 
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes11-Hearing-Q1>1. <Accent>Read Revelation 12:1–17:</Accent> How does the red dragon oppose God's kingdom? What conflicts, attacks, and battles develop in the narrative? How did God bring about his defeat?</Question>
-<Question id=TheStoryFinalSes11-Hearing-Q2>2. <Accent>Read Revelation 13:1–10:</Accent> How does the first beast oppose God's kingdom? How are believers called to respond?</Question>
-<Question id=TheStoryFinalSes11-Hearing-Q3>3. <Accent>Read Revelation 13:11–18:</Accent> How does the second beast oppose God's kingdom? How are believers called to respond?</Question>
-<Question id=TheStoryFinalSes11-Hearing-Q4>4. <Accent>Read Revelation 14:1–20:</Accent> Who appears in this final scene of this vision? What various messages do angels bring at the conclusion of this passage?</Question>
+<Question id=TheStorySes11-Hearing-Q1>1. <Accent>Read Revelation 12:1–17:</Accent> How does the red dragon oppose God's kingdom? What conflicts, attacks, and battles develop in the narrative? How did God bring about his defeat?</Question>
+<Question id=TheStorySes11-Hearing-Q2>2. <Accent>Read Revelation 13:1–10:</Accent> How does the first beast oppose God's kingdom? How are believers called to respond?</Question>
+<Question id=TheStorySes11-Hearing-Q3>3. <Accent>Read Revelation 13:11–18:</Accent> How does the second beast oppose God's kingdom? How are believers called to respond?</Question>
+<Question id=TheStorySes11-Hearing-Q4>4. <Accent>Read Revelation 14:1–20:</Accent> Who appears in this final scene of this vision? What various messages do angels bring at the conclusion of this passage?</Question>
 
 ### Storycraft
 
@@ -48,11 +48,11 @@ Throughout the biblical narrative—the true story behind it all—we have seen 
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes11-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes11-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes11-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes11-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -64,11 +64,11 @@ Throughout the biblical narrative—the true story behind it all—we have seen 
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes11-TheoDialogue-Q1>1. <Accent>Spiritual Conflict:</Accent> How is life like a spiritual battle? In what ways does this passage vividly describe the conflict between the kingdom of darkness and the kingdom of righteousness?</Question>
-<Question id=TheStoryFinalSes11-TheoDialogue-Q2>2. <Accent>Kingdom Rule:</Accent> What is the nature and reality of God's kingdom? Using the passage as a guide, what is the nature and reality of God's rule and reign over his creation?</Question>
-<Question id=TheStoryFinalSes11-TheoDialogue-Q3>3. <Accent>Christ as King:</Accent> In what ways does Jesus rule as King? How does John's vision depict Jesus' victory and rule?</Question>
-<Question id=TheStoryFinalSes11-TheoDialogue-Q4>4. <Accent>Kingdom Living:</Accent> How are God's people to live as members of his kingdom? How does this story call the church and Christian disciples to a kingdom lifestyle?</Question>
-<Question id=TheStoryFinalSes11-TheoDialogue-Q5>5. <Accent>Already and Not Yet:</Accent> To what extent has Christ's victorious kingdom arrived? To what extent is the full and final victory of Christ's kingdom still to come in the future? How does this passage highlight Christ's kingdom as both a present reality and yet to come?</Question>
+<Question id=TheStorySes11-TheoDialogue-Q1>1. <Accent>Spiritual Conflict:</Accent> How is life like a spiritual battle? In what ways does this passage vividly describe the conflict between the kingdom of darkness and the kingdom of righteousness?</Question>
+<Question id=TheStorySes11-TheoDialogue-Q2>2. <Accent>Kingdom Rule:</Accent> What is the nature and reality of God's kingdom? Using the passage as a guide, what is the nature and reality of God's rule and reign over his creation?</Question>
+<Question id=TheStorySes11-TheoDialogue-Q3>3. <Accent>Christ as King:</Accent> In what ways does Jesus rule as King? How does John's vision depict Jesus' victory and rule?</Question>
+<Question id=TheStorySes11-TheoDialogue-Q4>4. <Accent>Kingdom Living:</Accent> How are God's people to live as members of his kingdom? How does this story call the church and Christian disciples to a kingdom lifestyle?</Question>
+<Question id=TheStorySes11-TheoDialogue-Q5>5. <Accent>Already and Not Yet:</Accent> To what extent has Christ's victorious kingdom arrived? To what extent is the full and final victory of Christ's kingdom still to come in the future? How does this passage highlight Christ's kingdom as both a present reality and yet to come?</Question>
 
 ### Biblical Commentary
 
@@ -221,11 +221,11 @@ The thrust of this heavenly vision is an appeal to kingdom living. By faith in C
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes11-EnteringStory-Q1>1. <Accent>Conflict of Kingdoms:</Accent> How have you experienced the conflict between good and evil in this world? How does your experience relate to the experiences of this passage?</Question>
-<Question id=TheStoryFinalSes11-EnteringStory-Q2>2. <Accent>God's Conquering Kingdom:</Accent> In what ways have you seen God's kingdom conquer or advance against Satan's kingdom? Have you become a citizen of God's kingdom by placing your faith in Christ?</Question>
-<Question id=TheStoryFinalSes11-EnteringStory-Q3>3. <Accent>Full and Final Coming of God's Kingdom:</Accent> As you anticipate Christ's future return to earth, what hopes do you have of when He hands over the kingdom to God the Father (cf. 1 Corinthians 15:24)?</Question>
-<Question id=TheStoryFinalSes11-EnteringStory-Q4>4. <Accent>Citizens of God's Kingdom:</Accent> How much does your life resemble that of a citizen of Christ's kingdom? How can you tell?</Question>
-<Question id=TheStoryFinalSes11-EnteringStory-Q5>5. <Accent>Full Commitment to King Jesus:</Accent> What would it look like to live a life of full commitment to Christ, one that follows the Lamb wherever he goes?</Question>
+<Question id=TheStorySes11-EnteringStory-Q1>1. <Accent>Conflict of Kingdoms:</Accent> How have you experienced the conflict between good and evil in this world? How does your experience relate to the experiences of this passage?</Question>
+<Question id=TheStorySes11-EnteringStory-Q2>2. <Accent>God's Conquering Kingdom:</Accent> In what ways have you seen God's kingdom conquer or advance against Satan's kingdom? Have you become a citizen of God's kingdom by placing your faith in Christ?</Question>
+<Question id=TheStorySes11-EnteringStory-Q3>3. <Accent>Full and Final Coming of God's Kingdom:</Accent> As you anticipate Christ's future return to earth, what hopes do you have of when He hands over the kingdom to God the Father (cf. 1 Corinthians 15:24)?</Question>
+<Question id=TheStorySes11-EnteringStory-Q4>4. <Accent>Citizens of God's Kingdom:</Accent> How much does your life resemble that of a citizen of Christ's kingdom? How can you tell?</Question>
+<Question id=TheStorySes11-EnteringStory-Q5>5. <Accent>Full Commitment to King Jesus:</Accent> What would it look like to live a life of full commitment to Christ, one that follows the Lamb wherever he goes?</Question>
 
 ### Spiritual Practice
 
@@ -239,7 +239,7 @@ The thrust of this heavenly vision is an appeal to kingdom living. By faith in C
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes11-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes11-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -251,6 +251,6 @@ The thrust of this heavenly vision is an appeal to kingdom living. By faith in C
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes11-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes11-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

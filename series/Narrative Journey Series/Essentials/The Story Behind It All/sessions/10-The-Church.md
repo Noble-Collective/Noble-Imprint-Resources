@@ -37,10 +37,10 @@ While each letter provides a unique perspective of one church, the whole set of 
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes10-Hearing-Q1>1. <Accent>Read Revelation 1:9–20:</Accent> How is Jesus described in John's vision?</Question>
-<Question id=TheStoryFinalSes10-Hearing-Q2>2. <Accent>Read Revelation 2:1–3:22:</Accent> Why is each church commended?</Question>
-<Question id=TheStoryFinalSes10-Hearing-Q3>3. <Accent>Read Revelation 2:1–3:22:</Accent> What rebuke does each church receive?</Question>
-<Question id=TheStoryFinalSes10-Hearing-Q4>4. <Accent>Read Revelation 2:1–3:22:</Accent> What other common elements are written to each of the churches?</Question>
+<Question id=TheStorySes10-Hearing-Q1>1. <Accent>Read Revelation 1:9–20:</Accent> How is Jesus described in John's vision?</Question>
+<Question id=TheStorySes10-Hearing-Q2>2. <Accent>Read Revelation 2:1–3:22:</Accent> Why is each church commended?</Question>
+<Question id=TheStorySes10-Hearing-Q3>3. <Accent>Read Revelation 2:1–3:22:</Accent> What rebuke does each church receive?</Question>
+<Question id=TheStorySes10-Hearing-Q4>4. <Accent>Read Revelation 2:1–3:22:</Accent> What other common elements are written to each of the churches?</Question>
 
 ### Storycraft
 
@@ -48,11 +48,11 @@ While each letter provides a unique perspective of one church, the whole set of 
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes10-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes10-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes10-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes10-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -64,10 +64,10 @@ While each letter provides a unique perspective of one church, the whole set of 
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes10-TheoDialogue-Q1>1. <Accent>Christ Community:</Accent> What is the identity and nature of the church? How does this biblical passage help clarify this?</Question>
-<Question id=TheStoryFinalSes10-TheoDialogue-Q2>2. <Accent>Church Maturity:</Accent> What are the dynamics and characteristics of a mature and well-established church? What are the signs of decline and decay in a local church? In what ways do the seven letters explain church maturity and warn against church decline?</Question>
-<Question id=TheStoryFinalSes10-TheoDialogue-Q3>3. <Accent>Purpose and Priorities:</Accent> How important is the church in God's overall plan? How does this passage reveal the core purposes and priorities of the church?</Question>
-<Question id=TheStoryFinalSes10-TheoDialogue-Q4>4. <Accent>Roles and Relationships:</Accent> How should the church approach its various roles and relationships? How does John's vision commend our relationships in various life spheres?</Question>
+<Question id=TheStorySes10-TheoDialogue-Q1>1. <Accent>Christ Community:</Accent> What is the identity and nature of the church? How does this biblical passage help clarify this?</Question>
+<Question id=TheStorySes10-TheoDialogue-Q2>2. <Accent>Church Maturity:</Accent> What are the dynamics and characteristics of a mature and well-established church? What are the signs of decline and decay in a local church? In what ways do the seven letters explain church maturity and warn against church decline?</Question>
+<Question id=TheStorySes10-TheoDialogue-Q3>3. <Accent>Purpose and Priorities:</Accent> How important is the church in God's overall plan? How does this passage reveal the core purposes and priorities of the church?</Question>
+<Question id=TheStorySes10-TheoDialogue-Q4>4. <Accent>Roles and Relationships:</Accent> How should the church approach its various roles and relationships? How does John's vision commend our relationships in various life spheres?</Question>
 
 ### Biblical Commentary
 
@@ -254,11 +254,11 @@ God has appointed his church as a Spirit-filled community of Jesus followers to 
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes10-EnteringStory-Q1>1. <Accent>Commitment to the Church:</Accent> How committed are you to your local church? What role does the church have in your own life?</Question>
-<Question id=TheStoryFinalSes10-EnteringStory-Q2>2. <Accent>Obstacles to Church Participation:</Accent> What are the barriers that hinder or challenge your commitment to your local church?</Question>
-<Question id=TheStoryFinalSes10-EnteringStory-Q3>3. <Accent>Understanding the Church:</Accent> How is your understanding of the nature and purpose of the church growing and developing?</Question>
-<Question id=TheStoryFinalSes10-EnteringStory-Q4>4. <Accent>Contribution to the Community:</Accent> What specific contributions can you make to your church to increase its maturity and your own?</Question>
-<Question id=TheStoryFinalSes10-EnteringStory-Q5>5. <Accent>Church Health Check:</Accent> How would you describe the health and maturity of your church? Which commendations and critiques in these seven letters are fitting for your own church?</Question>
+<Question id=TheStorySes10-EnteringStory-Q1>1. <Accent>Commitment to the Church:</Accent> How committed are you to your local church? What role does the church have in your own life?</Question>
+<Question id=TheStorySes10-EnteringStory-Q2>2. <Accent>Obstacles to Church Participation:</Accent> What are the barriers that hinder or challenge your commitment to your local church?</Question>
+<Question id=TheStorySes10-EnteringStory-Q3>3. <Accent>Understanding the Church:</Accent> How is your understanding of the nature and purpose of the church growing and developing?</Question>
+<Question id=TheStorySes10-EnteringStory-Q4>4. <Accent>Contribution to the Community:</Accent> What specific contributions can you make to your church to increase its maturity and your own?</Question>
+<Question id=TheStorySes10-EnteringStory-Q5>5. <Accent>Church Health Check:</Accent> How would you describe the health and maturity of your church? Which commendations and critiques in these seven letters are fitting for your own church?</Question>
 
 ### Spiritual Practice
 
@@ -272,7 +272,7 @@ God has appointed his church as a Spirit-filled community of Jesus followers to 
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes10-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes10-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -284,6 +284,6 @@ God has appointed his church as a Spirit-filled community of Jesus followers to 
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes10-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes10-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

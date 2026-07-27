@@ -38,11 +38,11 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes1-Hearing-Q1>1. <Accent>Read Job 1:1–5:</Accent> What kind of man was Job? How is he described in this passage? (Focus on Job 1:1–5.)</Question>
-<Question id=TheStoryFinalSes1-Hearing-Q2>2. <Accent>Read Job 1:6–12; 2:1–6:</Accent> What did God and Satan talk about during the two meetings recorded in this story? (Focus on Job 1:6–12.)</Question>
-<Question id=TheStoryFinalSes1-Hearing-Q3>3. <Accent>Read Job 1:13–19; 2:7–9:</Accent> What kind of suffering did Job experience? (Focus on Job 1:13–19; 2:7–8)</Question>
-<Question id=TheStoryFinalSes1-Hearing-Q4>4. <Accent>Read Job 1:20–22; 2:9–10:</Accent> How did Job respond to his suffering? How is his response different than the response of his wife? (Focus on Job 1:20–22.)</Question>
-<Question id=TheStoryFinalSes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering? (Focus on Job 2:11–13.)</Question>
+<Question id=TheStorySes1-Hearing-Q1>1. <Accent>Read Job 1:1–5:</Accent> What kind of man was Job? How is he described in this passage? (Focus on Job 1:1–5.)</Question>
+<Question id=TheStorySes1-Hearing-Q2>2. <Accent>Read Job 1:6–12; 2:1–6:</Accent> What did God and Satan talk about during the two meetings recorded in this story? (Focus on Job 1:6–12.)</Question>
+<Question id=TheStorySes1-Hearing-Q3>3. <Accent>Read Job 1:13–19; 2:7–9:</Accent> What kind of suffering did Job experience? (Focus on Job 1:13–19; 2:7–8)</Question>
+<Question id=TheStorySes1-Hearing-Q4>4. <Accent>Read Job 1:20–22; 2:9–10:</Accent> How did Job respond to his suffering? How is his response different than the response of his wife? (Focus on Job 1:20–22.)</Question>
+<Question id=TheStorySes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering? (Focus on Job 2:11–13.)</Question>
 
 ### Storycraft
 
@@ -50,11 +50,11 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes1-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes1-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes1-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes1-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -66,10 +66,10 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes1-TheoDialogue-Q1>1. <Accent>Blessed Life:</Accent> What makes life good? How does Job exemplify a meaningful life?</Question>
-<Question id=TheStoryFinalSes1-TheoDialogue-Q2>2. <Accent>Suffering:</Accent> What kind of suffering exists in the world? How does Job's story help us understand suffering and hardship?</Question>
-<Question id=TheStoryFinalSes1-TheoDialogue-Q3>3. <Accent>God and the Spiritual World:</Accent> What does this story teach us about God and the spiritual world?</Question>
-<Question id=TheStoryFinalSes1-TheoDialogue-Q4>4. <Accent>Faith:</Accent> What does it look like to trust God? How is Job an example of a man of genuine faith?</Question>
+<Question id=TheStorySes1-TheoDialogue-Q1>1. <Accent>Blessed Life:</Accent> What makes life good? How does Job exemplify a meaningful life?</Question>
+<Question id=TheStorySes1-TheoDialogue-Q2>2. <Accent>Suffering:</Accent> What kind of suffering exists in the world? How does Job's story help us understand suffering and hardship?</Question>
+<Question id=TheStorySes1-TheoDialogue-Q3>3. <Accent>God and the Spiritual World:</Accent> What does this story teach us about God and the spiritual world?</Question>
+<Question id=TheStorySes1-TheoDialogue-Q4>4. <Accent>Faith:</Accent> What does it look like to trust God? How is Job an example of a man of genuine faith?</Question>
 
 ### Biblical Commentary
 
@@ -233,11 +233,11 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes1-EnteringStory-Q1>1. <Accent>Personal Loss:</Accent> What loss or grief have you experienced in life?</Question>
-<Question id=TheStoryFinalSes1-EnteringStory-Q2>2. <Accent>Emotions of Grief:</Accent> What kinds of emotions did you experience during your loss?</Question>
-<Question id=TheStoryFinalSes1-EnteringStory-Q3>3. <Accent>Responding to Pain:</Accent> What are some of the ways you have tended to respond during suffering and hardship? Have your responses changed over the years? If so, how?</Question>
-<Question id=TheStoryFinalSes1-EnteringStory-Q4>4. <Accent>Seeing God's Hand:</Accent> How can you see God at work in and through those losses? In what ways is it still hard to see God's presence in those difficult situations?</Question>
-<Question id=TheStoryFinalSes1-EnteringStory-Q5>5. <Accent>Life of Faith:</Accent> How is God calling you to live a life of faith?</Question>
+<Question id=TheStorySes1-EnteringStory-Q1>1. <Accent>Personal Loss:</Accent> What loss or grief have you experienced in life?</Question>
+<Question id=TheStorySes1-EnteringStory-Q2>2. <Accent>Emotions of Grief:</Accent> What kinds of emotions did you experience during your loss?</Question>
+<Question id=TheStorySes1-EnteringStory-Q3>3. <Accent>Responding to Pain:</Accent> What are some of the ways you have tended to respond during suffering and hardship? Have your responses changed over the years? If so, how?</Question>
+<Question id=TheStorySes1-EnteringStory-Q4>4. <Accent>Seeing God's Hand:</Accent> How can you see God at work in and through those losses? In what ways is it still hard to see God's presence in those difficult situations?</Question>
+<Question id=TheStorySes1-EnteringStory-Q5>5. <Accent>Life of Faith:</Accent> How is God calling you to live a life of faith?</Question>
 
 ### Spiritual Practice
 
@@ -277,7 +277,7 @@ What is amazing about God? How is he worthy of our praise? _Praise God with spec
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes1-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes1-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -289,6 +289,6 @@ What is amazing about God? How is he worthy of our praise? _Praise God with spec
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes1-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes1-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->

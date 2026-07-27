@@ -37,11 +37,11 @@ Like Cornelius, we each have our own unique story of salvation. Although God sav
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStoryFinalSes9-Hearing-Q1>1. <Accent>Read Acts 10:1–8:</Accent> How is Cornelius described in this passage? What happened in Cornelius' vision?</Question>
-<Question id=TheStoryFinalSes9-Hearing-Q2>2. <Accent>Read Acts 10:9–33:</Accent> What took place that brought about the meeting of Peter with Cornelius' household?</Question>
-<Question id=TheStoryFinalSes9-Hearing-Q3>3. <Accent>Read Acts 10:34–43:</Accent> What was the core message Peter preached to Cornelius' household?</Question>
-<Question id=TheStoryFinalSes9-Hearing-Q4>4. <Accent>Read Acts 10:44–48:</Accent> After hearing the message of the gospel, what happened to Cornelius and his household?</Question>
-<Question id=TheStoryFinalSes9-Hearing-Q5>5. <Accent>Read Acts 11:1–18:</Accent> When Peter gave his report in Jerusalem, what did Peter say about the conversion of Cornelius and his household?</Question>
+<Question id=TheStorySes9-Hearing-Q1>1. <Accent>Read Acts 10:1–8:</Accent> How is Cornelius described in this passage? What happened in Cornelius' vision?</Question>
+<Question id=TheStorySes9-Hearing-Q2>2. <Accent>Read Acts 10:9–33:</Accent> What took place that brought about the meeting of Peter with Cornelius' household?</Question>
+<Question id=TheStorySes9-Hearing-Q3>3. <Accent>Read Acts 10:34–43:</Accent> What was the core message Peter preached to Cornelius' household?</Question>
+<Question id=TheStorySes9-Hearing-Q4>4. <Accent>Read Acts 10:44–48:</Accent> After hearing the message of the gospel, what happened to Cornelius and his household?</Question>
+<Question id=TheStorySes9-Hearing-Q5>5. <Accent>Read Acts 11:1–18:</Accent> When Peter gave his report in Jerusalem, what did Peter say about the conversion of Cornelius and his household?</Question>
 
 ### Storycraft
 
@@ -49,11 +49,11 @@ Like Cornelius, we each have our own unique story of salvation. Although God sav
 
 #### Narrative Elements
 
-<!-- @include: NarrativeElementsQuestion id="TheStoryFinalSes9-Storycraft-Q1" -->
+<!-- @include: NarrativeElementsQuestion id="TheStorySes9-Storycraft-Q1" -->
 
 #### Story Retell
 
-<!-- @include: StoryRetellQuestion id="TheStoryFinalSes9-Storycraft-Q2" -->
+<!-- @include: StoryRetellQuestion id="TheStorySes9-Storycraft-Q2" -->
 
 <!-- @include: NarrativeStructureInfographic -->
 
@@ -65,11 +65,11 @@ Like Cornelius, we each have our own unique story of salvation. Although God sav
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheStoryFinalSes9-TheoDialogue-Q1>1. <Accent>Elements of Conversion:</Accent> How does God bring about conversion in human lives? How are these core elements of conversion exemplified in Cornelius' story?</Question>
-<Question id=TheStoryFinalSes9-TheoDialogue-Q2>2. <Accent>Gospel Message:</Accent> What is the core message of the gospel? What must be believed to be saved? How can we learn the core message of the gospel from Peter's speech to Cornelius and his household?</Question>
-<Question id=TheStoryFinalSes9-TheoDialogue-Q3>3. <Accent>Salvation Received:</Accent> How is salvation received? How must a person respond to receive God's saving work in his life? How did Cornelius and his household respond to the gospel message?</Question>
-<Question id=TheStoryFinalSes9-TheoDialogue-Q4>4. <Accent>Salvation Applied:</Accent> What are the effects of salvation? What change is brought about as a result of genuine belief in the gospel? What evidence of transformation happened to Cornelius and his household?</Question>
-<Question id=TheStoryFinalSes9-TheoDialogue-Q5>5. <Accent>Continuing Conversion:</Accent> To what extent is conversion a point-in-time event and an ongoing process of transformation? How are both of these dynamics clearly seen in this biblical narrative?</Question>
+<Question id=TheStorySes9-TheoDialogue-Q1>1. <Accent>Elements of Conversion:</Accent> How does God bring about conversion in human lives? How are these core elements of conversion exemplified in Cornelius' story?</Question>
+<Question id=TheStorySes9-TheoDialogue-Q2>2. <Accent>Gospel Message:</Accent> What is the core message of the gospel? What must be believed to be saved? How can we learn the core message of the gospel from Peter's speech to Cornelius and his household?</Question>
+<Question id=TheStorySes9-TheoDialogue-Q3>3. <Accent>Salvation Received:</Accent> How is salvation received? How must a person respond to receive God's saving work in his life? How did Cornelius and his household respond to the gospel message?</Question>
+<Question id=TheStorySes9-TheoDialogue-Q4>4. <Accent>Salvation Applied:</Accent> What are the effects of salvation? What change is brought about as a result of genuine belief in the gospel? What evidence of transformation happened to Cornelius and his household?</Question>
+<Question id=TheStorySes9-TheoDialogue-Q5>5. <Accent>Continuing Conversion:</Accent> To what extent is conversion a point-in-time event and an ongoing process of transformation? How are both of these dynamics clearly seen in this biblical narrative?</Question>
 
 ### Biblical Commentary
 
@@ -214,11 +214,11 @@ The historical reality of Jesus' saving work requires human reception for salvat
 
 <!-- @include: ReflectionDirections -->
 
-<Question id=TheStoryFinalSes9-EnteringStory-Q1>1. <Accent>Finding Favor with God:</Accent> What are some wrong ways you try (and have tried) to find favor with God? How does Cornelius' religious devotion confront and expose your own vain efforts to earn God's salvation?</Question>
-<Question id=TheStoryFinalSes9-EnteringStory-Q2>2. <Accent>Standing Before God:</Accent> How would you describe your standing before God? Have you received God's salvation? If not, what is keeping you from doing so?</Question>
-<Question id=TheStoryFinalSes9-EnteringStory-Q3>3. <Accent>Life Change:</Accent> What transformation and change has the gospel brought into your life? How can you relate to the change that happened in Cornelius' story?</Question>
-<Question id=TheStoryFinalSes9-EnteringStory-Q4>4. <Accent>Continual Transformation:</Accent> How is God continuing to bring about change and transformation in your life?</Question>
-<Question id=TheStoryFinalSes9-EnteringStory-Q5>5. <Accent>Deepening Trust in God:</Accent> In what ways can you deepen your trust in God's saving work regularly?</Question>
+<Question id=TheStorySes9-EnteringStory-Q1>1. <Accent>Finding Favor with God:</Accent> What are some wrong ways you try (and have tried) to find favor with God? How does Cornelius' religious devotion confront and expose your own vain efforts to earn God's salvation?</Question>
+<Question id=TheStorySes9-EnteringStory-Q2>2. <Accent>Standing Before God:</Accent> How would you describe your standing before God? Have you received God's salvation? If not, what is keeping you from doing so?</Question>
+<Question id=TheStorySes9-EnteringStory-Q3>3. <Accent>Life Change:</Accent> What transformation and change has the gospel brought into your life? How can you relate to the change that happened in Cornelius' story?</Question>
+<Question id=TheStorySes9-EnteringStory-Q4>4. <Accent>Continual Transformation:</Accent> How is God continuing to bring about change and transformation in your life?</Question>
+<Question id=TheStorySes9-EnteringStory-Q5>5. <Accent>Deepening Trust in God:</Accent> In what ways can you deepen your trust in God's saving work regularly?</Question>
 
 ### Spiritual Practice
 
@@ -232,7 +232,7 @@ The historical reality of Jesus' saving work requires human reception for salvat
 
 <!-- @include: ApplicationDirections -->
 
-<!-- @include: ApplicationQuestions id="TheStoryFinalSes9-RehearseScript" -->
+<!-- @include: ApplicationQuestions id="TheStorySes9-RehearseScript" -->
 
 <!-- @include: MinistryPracticesInfographic -->
 
@@ -244,6 +244,6 @@ The historical reality of Jesus' saving work requires human reception for salvat
 
 <!-- @include: StrategyDirections -->
 
-<!-- @include: StrategyQuestions id="TheStoryFinalSes9-PublicizeTruth" -->
+<!-- @include: StrategyQuestions id="TheStorySes9-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
