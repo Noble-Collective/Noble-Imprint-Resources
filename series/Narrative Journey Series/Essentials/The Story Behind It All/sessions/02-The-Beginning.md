@@ -1,5 +1,7 @@
 # Session 2: The Beginning
 
+<div class="ig-theme-blush">
+
 ## Session Overview
 
 ### Creedal Statement
@@ -254,3 +256,5 @@ Our understanding of the story behind all reality will grow as we start to recog
 <!-- @include: StrategyQuestions id="TheStoryFinalSes2-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
+
+</div>

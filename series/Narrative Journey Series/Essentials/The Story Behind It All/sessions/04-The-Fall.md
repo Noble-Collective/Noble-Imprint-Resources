@@ -1,5 +1,7 @@
 # Session 4: The Fall
 
+<div class="ig-theme-outline">
+
 ## Session Overview
 
 ### Creedal Statement
@@ -249,3 +251,5 @@ _In the space below, use the following questions to guide you as you write a con
 <!-- @include: StrategyQuestions id="TheStoryFinalSes4-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
+
+</div>

@@ -1,5 +1,7 @@
 # Session 3: The Image
 
+<div class="ig-theme-card">
+
 ## Session Overview
 
 ### Creedal Statement
@@ -271,3 +273,5 @@ Above all that God had made, humanity stands in a unique place, embodying the pi
 <!-- @include: StrategyQuestions id="TheStoryFinalSes3-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
+
+</div>
