@@ -201,4 +201,3 @@ God sent his Son, Jesus, as his promised deliverer to rescue sinful humans from 
 <!-- draft-save-test -->
 <!-- version check test -->
 <!-- version check test -->
-<!-- poll test -->
