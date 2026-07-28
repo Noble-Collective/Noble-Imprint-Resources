@@ -3,12 +3,15 @@
   "subtitle": "A Narrative Journey of Christian Formation",
   "order": 3,
   "color": {
-    "##": "#000000",
-    "###": "#000000",
-    "####": "#000000",
-    "#####": "#000000"
+    "#": "#be9d26",
+    "##": "#be9d26",
+    "###": "#be9d26",
+    "####": "#be9d26",
+    "#####": "#be9d26",
+    "######": "#be9d26"
   },
-  "banner": "Preview",
+  "accent": "#be9d26",
+  "banner": "Pre-Release",
   "status": "public",
   "maxNavHeadingLevel": 3
 }
