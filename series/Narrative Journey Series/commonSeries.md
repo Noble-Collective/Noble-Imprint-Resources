@@ -235,3 +235,42 @@ As they accept God's invitation to global mission, Christians have been called t
 
 In sum, the common framework overlaid in each session attempts to outline a _formative hermeneutic_: a transformative way to engage God's word as a community of faith. Through this process, God's people gather around carefully selected biblical passages as a means to become established in the faith. In this community study process, disciples engage the text, discuss its truth, examine their lives, edify the faith community, and bear witness to the truth in their spheres of influence. Engaging the text in this way not only anchors the church in the truth of God's word, it also teaches disciples how to study any passage of Scripture in a well-rounded and formative manner. Moreover, by placing the Scriptures in the center of the church, the community of faith grows to maturity and becomes equipped as a witness to the surrounding world.
 </SessionOverview>
+
+<!--
+  NarrativeJourneySeriesList — the front-matter "A Narrative Journey Series" page (full series
+  list). PublishingLicensing — the shared copyright/licensing text. Both are SERIES-LEVEL;
+  each book's 00-Front-Matter.md @includes them under book-specific headings.
+-->
+<NarrativeJourneySeriesList>
+_Foundations_
+
+- The Call of Christ: A Narrative Journey of Christian Faith
+
+_Essentials_
+
+- The Story Behind It All: A Narrative Journey of Christian Belief
+- The Best Possible Life: A Narrative Journey of Christian Living
+- The Open Invitation: A Narrative Journey of Christian Formation
+- The Bond Between Us: A Narrative Journey of Christian Community
+- The Glory Due His Name: A Narrative Journey of Christian Devotion
+- The Kingdom Come: A Narrative Journey of Christian Witness
+
+_Pathways_
+
+- The Ends of the Earth: A Narrative Journey of Christian Mission
+- The Sacred Script: A Narrative Journey of Christian Worldview
+- The Making of a Shepherd: A Narrative Journey of Christian Leadership
+- The Aim of Our Charge: A Narrative Journey of Christian Instruction
+</NarrativeJourneySeriesList>
+
+<PublishingLicensing>
+Series: A Narrative Journey
+
+© 2026 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
+
+Published by Noble Imprint (www.nobleimprint.com), a church-based publishing collaborative and ministry of Noble Collective (www.noblecollective.org).
+
+This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+
+Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
+</PublishingLicensing>
