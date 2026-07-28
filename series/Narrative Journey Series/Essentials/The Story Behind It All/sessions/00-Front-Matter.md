@@ -20,7 +20,8 @@
 
 ## Publishing and Licensing
 
-_The Story Behind It All: A Narrative Journey of Christian Belief_, Pre-Release Edition  
+_The Story Behind It All: A Narrative Journey of Christian Belief_, Pre-Release Edition
+
 <!-- @include: PublishingLicensing -->
 
 ## Series Introduction

@@ -16,7 +16,8 @@
 
 ## Publishing and Licensing
 
-_The Best Possible Life: A Narrative Journey of Christian Living_, Pre-Release Edition  
+_The Best Possible Life: A Narrative Journey of Christian Living_, Pre-Release Edition
+
 <!-- @include: PublishingLicensing -->
 
 ## Series Introduction
