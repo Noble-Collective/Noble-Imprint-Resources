@@ -7,8 +7,6 @@
 - **Scripture Memory** - For the grace of God has appeared, bringing salvation to everyone. It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age. Titus 2:11-12
 - **Catechism** - Q: What is impacted by our faith in Christ? A: Living.
 
-PSALM INTRODUCTION: Psalm 15, 128
-
 ## Introduction
 
 You have been set free! If you trust Christ as your Savior, God has rescued you from your sins, granted you victory over Satan, preserved you from divine wrath, and promised you life unending. Through Jesus, you have been delivered from bondage and ushered into freedom. Your former life of sin, destruction, and corruption no longer defines you and it no longer controls you.
