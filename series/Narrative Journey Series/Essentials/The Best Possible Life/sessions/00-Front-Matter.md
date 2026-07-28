@@ -1,14 +1,14 @@
 # Front Matter
 
-## The Story Behind It All
+## The Best Possible Life
 
-_A Narrative Journey of Christian Belief_
+_A Narrative Journey of Christian Living_
 
 Narrative Journey Series · Essentials
 
 ## Copyright
 
-The Story Behind It All: A Narrative Journey of Christian Belief
+The Best Possible Life: A Narrative Journey of Christian Living
 © 2024 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
 
 Published by Noble Imprint (www.nobleimprint.com).
