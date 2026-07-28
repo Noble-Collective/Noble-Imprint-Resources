@@ -159,18 +159,36 @@ Welcome to the Narrative Journey! This series is a labor of love offered to the 
 
 Fashioned after the ministry of Christ, rooted in the historic practice of catechism, tailored for the establishment and expansion of the church, and re-envisioned for a postmodern society, the Narrative Journey facilitates a churchwide dialogue around key biblical narratives, illuminating core elements to the Christian life. As a whole, the Narrative Journey is divided into three subseries—Foundations, Essentials, and Pathways—which generally correspond to the growth process of a maturing Christian. Foundations orients new believers to basics of the Christian faith, preparing them for baptism. Essentials establishes disciples and churches in core biblical teaching, covering the topics of Christian belief, living, formation, community, and devotion. Pathways equips emerging leaders in fundamentals of Christian mission, worldview, leadership, and ministry. Like fountainheads from which living waters flow, each of these subseries—and their related topical domains—serve as headsprings that irrigate Christians and churches in their journey of discipleship.
 
-| Subseries | Volume | Focus |
-| :--- | :--- | :--- |
-| Foundations | The Call of Christ | Explores the basic content of the Christian faith—orienting new believers from Acts 2. |
-| Essentials | The Story Behind It All | Addresses the doctrinal fountainheads of Christian belief—built upon the Apostles' Creed. |
-|  | The Best Possible Life | Illuminates the moral substructure of Christian living—structured around the Ten Commandments. |
-|  | The Open Invitation | Cultivates godly habits of Christian formation—birthed from the Lord's Prayer. |
-|  | The Bond Between Us | Commends vital characteristics of Christian community—envisioned as the household of God. |
-|  | The Glory Due His Name | Rediscovers the distinctive center of Christian devotion—rooted in baptism and the Lord's Supper. |
-| Pathways | The Ends of the Earth | Enjoins God's people to worldwide Christian mission—inspired by the Book of Acts. |
-|  | The Sacred Script | Offers a biblical foundation to a Christian worldview—rendered through the scriptural metanarrative. |
-|  | The Making of a Shepherd | Presents an inspiring profile on Christian leadership—shown through biblical exemplars. |
-|  | The Aim of Our Charge | Develops a sound pedagogy of Christian instruction—traversing through key biblical narratives. |
+| Narrative Journey FOUNDATIONS |
+| :--- |
+
+| | |
+| :--- | :--- |
+| faith fundamentals for new believers | The Narrative Journey begins with orienting new believers to the basic elements of the Christian faith. This multi-session study through Acts 2 explores key aspects to being a follower of Jesus as it prepares disciples to join the Christian community through baptism. |
+| The Call of Christ | Explores the basic content of the Christian faith—orienting new believers from Acts 2. |
+
+| Narrative Journey ESSENTIALS |
+| :--- |
+
+| | |
+| :--- | :--- |
+| core discipleship for local churches | The second set of books in the Narrative Journey series establishes believers and churches in the essentials of the Christian faith. Exploring carefully selected biblical narratives (arranged under the topics of Christian belief, living, habits, community, and devotion), the community of faith grows deep roots in core Christian teaching. |
+| The Story Behind It All | Addresses the doctrinal fountainheads of Christian belief—built upon the Apostles' Creed. |
+| The Best Possible Life | Illuminates the moral substructure of Christian living—structured around the Ten Commandments. |
+| The Open Invitation | Cultivates godly habits of Christian formation—birthed from the Lord's Prayer. |
+| The Bond Between Us | Commends vital characteristics of Christian community—envisioned as the household of God. |
+| The Glory Due His Name | Rediscovers the distinctive center of Christian devotion—rooted in baptism and the Lord's Supper. |
+
+| Narrative Journey PATHWAYS |
+| :--- |
+
+| | |
+| :--- | :--- |
+| basic training for emerging leaders | The third set of books in the Narrative Journey series equips emerging leaders with a rudimentary understanding of Christian ministry. Teaching mature believers how to participate in God's work, these books explore the fundamental nature of Christian mission, the unfolding design of the biblical (meta)narrative, the vital landscape of godly leadership, and the elementary principles of formational teaching. |
+| The Ends of the Earth | Enjoins God's people to worldwide Christian mission—inspired by the Book of Acts. |
+| The Sacred Script | Offers a biblical foundation to a Christian worldview—rendered through the scriptural metanarrative. |
+| The Making of a Shepherd | Presents an inspiring profile on Christian leadership—shown through biblical exemplars. |
+| The Aim of Our Charge | Develops a sound pedagogy of Christian instruction—traversing through key biblical narratives. |
 
 In general, these topics build from (and expand upon) a long tradition of catechism in the history of the church, which taught the essentials of the faith through key summaries: the Apostles' Creed, the Ten Commandments, the Lord's Prayer, the sacraments (baptism and Communion), and the biblical metanarrative. Throughout the history of the church, each of these summative statements focused on a vital domain—a core content area—of the Christian life. The Apostles' Creed sums up the essence of Christian belief. The Ten Commandments offer a summary of godly living. The Lord's Prayer guides believers into the habits and rhythms of relating to God. The sacraments of baptism and communion instruct the church in Christian worship. And the biblical metanarrative offers an overarching framework to understand God's work in his world. In the Narrative Journey, we have built our catechetical process on the framework of these summary statements as we have also enriched the experience with additional biblical teaching. We hope that readers will find this series to be quite unoriginal, in the sense that it is structured around these same core teachings that Christians have always treasured (see series summary above).
 
