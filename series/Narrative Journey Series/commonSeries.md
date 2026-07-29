@@ -342,13 +342,6 @@ _Following Jesus is a lifelong venture of continuous progress. In this final sec
 
 <Recall_FaithPractice_GrowthEvaluation>
 Mature disciples practice regular self-examination in which they keep track of their progress in the faith. Take time to reflect on your growth in the specific objectives of this study. Use the following guide to assess how well you developed in each area.
-
-The evaluation considers five metrics:
-- **Conviction: establish** a mature Christian understanding of core Christian belief
-- **Commitment: cultivate** a deepening commitment to the core essentials of the faith
-- **Conduct: demonstrate** skill in articulating the fundamentals of Christian doctrine
-- **Community: undertake** teaching the Christian basics to others in family, church, and society
-- **Character: embody** godly living that comes from right belief in the truth
 </Recall_FaithPractice_GrowthEvaluation>
 
 <Recall_FaithPractice_NextSteps>
