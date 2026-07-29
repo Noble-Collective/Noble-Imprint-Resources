@@ -2,6 +2,10 @@
 
 ## Overview
 
+### Creedal Statement
+
+<!-- @include: LordsPrayer -->
+
 ### Key Elements
 - **Key Passage** - Preview
 - **Scripture Memory** - And without faith it is impossible to please God, because anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him. Hebrews 11:6

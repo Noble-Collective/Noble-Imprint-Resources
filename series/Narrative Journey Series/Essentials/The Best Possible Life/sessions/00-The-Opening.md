@@ -2,6 +2,10 @@
 
 ## Overview
 
+### Creedal Statement
+
+<!-- @include: TenCommandments -->
+
 ### Key Elements
 - **Key Passage** - Preview
 - **Scripture Memory** - For the grace of God has appeared, bringing salvation to everyone. It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age. Titus 2:11-12
