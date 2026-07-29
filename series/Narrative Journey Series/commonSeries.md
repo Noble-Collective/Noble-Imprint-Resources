@@ -274,3 +274,89 @@ This book is published under a CC BY-SA license, which means that you have permi
 
 Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
 </PublishingLicensing>
+
+
+<!-- ───────────────── The Recall — shared framework blocks ───────────────── -->
+
+<Recall_BookOverview_Directions>
+_Disciples mature as they get grounded in the essentials of the faith. In this section, summarize the main idea of this study, retell one of the biblical narratives from your Storycraft, and review the core biblical passages explored in this study._
+</Recall_BookOverview_Directions>
+
+<Recall_BookOverview_KeyIdea>
+After such an intensive study, it is important to sum up our learning. Think through the broad theme(s) of this study. Summarize the main idea in your own words in a way that broadly addresses all the main teachings.
+</Recall_BookOverview_KeyIdea>
+
+<Recall_BookOverview_StoryRetell>
+We deepen our knowledge of those things that we can articulate in our own words (and it's even better if we can recite from memory). Pick one of the biblical narratives from this study. Review and update your Storycraft and prepare to share your revised version with your faith community. Consider sharing it from memory.
+</Recall_BookOverview_StoryRetell>
+
+<Recall_BookOverview_NarrativeReview>
+God wants us to become fluent in speaking his word to others. Summarize the twelve biblical narratives that were studied over the past weeks. Identify the basic narrative content and overarching theme that each passage addressed. Use the space below to record your overview (i.e., chart, diagram, drawing, storyboard).
+</Recall_BookOverview_NarrativeReview>
+
+<Recall_FaithFoundation_Directions>
+_God gifts us with Christian community as a critical environment for ongoing faith formation. In this section, interact with the discussion questions and record significant insights you have gleaned over the course of this study._
+</Recall_FaithFoundation_Directions>
+
+<Recall_FaithFoundation_DiscussionDirections>
+God grows our faith in the context of loving and committed community relationships. Explore the following discussion questions with your faith community in order to review the impact of this study in various domains of life.
+</Recall_FaithFoundation_DiscussionDirections>
+
+<Recall_FaithFoundation_DiscussionQuestions>
+<Question id={id}-Q1>1. What **new beliefs** and **convictions** have you developed as a result of this study?</Question>
+
+<Question id={id}-Q2>2. How has God exposed **sinful areas** of your heart? How has God stirred you to **great joy**?</Question>
+
+<Question id={id}-Q3>3. What **new behaviors** and **habits** is God calling you to develop?</Question>
+
+<Question id={id}-Q4>4. In what ways have you already seen God **change your relationships**?</Question>
+</Recall_FaithFoundation_DiscussionQuestions>
+
+<Recall_FaithFoundation_SignificantInsights>
+It is important to keep track of insights and lessons God has taught us as we trek in our faith journey. Identify significant quotes, key verses, biblical principles, or community comments that you encountered throughout the course of this study. Record these in the space below and share a few in your group discussion.
+</Recall_FaithFoundation_SignificantInsights>
+
+<Recall_LearningPlan_Directions>
+_The life of discipleship is a journey of lifelong learning. Use the list of selected passages and recommended reading as a starting place for ongoing development in this key area of the Christian faith._
+</Recall_LearningPlan_Directions>
+
+<Recall_LearningPlan_SelectedPassages>
+God's word is the ultimate guide for life and godliness. Glance at the passages below. Identify one or two passages that you will study (or memorize) as a means of further development in this area.
+</Recall_LearningPlan_SelectedPassages>
+
+<Recall_LearningPlan_RecommendedReading>
+God wants you to continue growing in this area of your Christian life. Survey the books below and prayerfully consider one book to read in order to continue your growth in this area.
+</Recall_LearningPlan_RecommendedReading>
+
+<Recall_CoreProject_Directions>
+_A mature faith integrates God's truth into the reality of life. Use this section to synthesize your learning over the course of the past weeks by producing a confessional summary statement and writing a journal reflection._
+</Recall_CoreProject_Directions>
+
+<Recall_CoreProject_JournalReflection>
+It is important to periodically reflect on how God is growing us in godliness. Write a reflection considering the ways in which your life has been changed as a result of this study.
+</Recall_CoreProject_JournalReflection>
+
+<Recall_FaithPractice_Directions>
+_Following Jesus is a lifelong venture of continuous progress. In this final section, evaluate your growth in the outlined objectives, identify practical next steps, and commit fellow community members to God in a time of focused prayer._
+</Recall_FaithPractice_Directions>
+
+<Recall_FaithPractice_GrowthEvaluation>
+Mature disciples practice regular self-examination in which they keep track of their progress in the faith. Take time to reflect on your growth in the specific objectives of this study. Use the following guide to assess how well you developed in each area.
+
+The evaluation considers five metrics:
+- **Conviction: establish** a mature Christian understanding of core Christian belief
+- **Commitment: cultivate** a deepening commitment to the core essentials of the faith
+- **Conduct: demonstrate** skill in articulating the fundamentals of Christian doctrine
+- **Community: undertake** teaching the Christian basics to others in family, church, and society
+- **Character: embody** godly living that comes from right belief in the truth
+</Recall_FaithPractice_GrowthEvaluation>
+
+<Recall_FaithPractice_NextSteps>
+God calls us to follow him in all spheres of life: individual, family, church, and world. Identify concrete decisions and measurable actions you can take to apply these principles in each life sphere. Record these goals below.
+
+Individual Family Church World
+</Recall_FaithPractice_NextSteps>
+
+<Recall_FaithPractice_CommunityPrayer>
+We can only hope to grow in our faith by God's divine help. In the context of your faith community, celebrate areas of growth and share upcoming goals. Then, spend time praying for each other as a community.
+</Recall_FaithPractice_CommunityPrayer>

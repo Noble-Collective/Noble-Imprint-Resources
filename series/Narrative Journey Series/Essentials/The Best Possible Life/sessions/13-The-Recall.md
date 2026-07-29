@@ -27,47 +27,41 @@ God's word is not only a record of his redemptive acts throughout history, it is
 
 ## Book Overview: Surveying the Landscape
 
-_Disciples mature as they get grounded in the essentials of the faith. In this section, summarize the main idea of this study, retell one of the biblical narratives from your Storycraft, and review the core biblical passages explored in this study._
+<!-- @include: Recall_BookOverview_Directions -->
 
 ### Key Idea
 
-After such an intensive study, it is important to sum up our learning. Think through the broad theme(s) of this study. Summarize the main idea in your own words in a way that broadly addresses all the main teachings.
+<!-- @include: Recall_BookOverview_KeyIdea -->
 
 ### Story Retell
 
-We deepen our knowledge of those things that we can articulate in our own words (and it's even better if we can recite from memory). Pick one of the biblical narratives from this study. Review and update your Storycraft and prepare to share your revised version with your faith community. Consider sharing it from memory.
+<!-- @include: Recall_BookOverview_StoryRetell -->
 
 ### Narrative Review
 
-God wants us to become fluent in speaking his word to others. Summarize the twelve biblical narratives that were studied over the past weeks. Identify the basic narrative content and overarching theme that each passage addressed. Use the space below to record your overview (i.e., chart, diagram, drawing, storyboard).
+<!-- @include: Recall_BookOverview_NarrativeReview -->
 
 ## Faith Foundation: Exploring the Terrain
 
-_God gifts us with Christian community as a critical environment for ongoing faith formation. In this section, interact with the discussion questions and record significant insights you have gleaned over the course of this study._
+<!-- @include: Recall_FaithFoundation_Directions -->
 
 ### Discussion Questions
 
-God grows our faith in the context of loving and committed community relationships. Explore the following discussion questions with your faith community in order to review the impact of this study in various domains of life.
+<!-- @include: Recall_FaithFoundation_DiscussionDirections -->
 
-<Question id=TheBestPossibleLifeRecall-Discussion-Q1>1. What **new beliefs** and **convictions** have you developed as a result of this study?</Question>
-
-<Question id=TheBestPossibleLifeRecall-Discussion-Q2>2. How has God exposed **sinful areas** of your heart? How has God stirred you to **great joy**?</Question>
-
-<Question id=TheBestPossibleLifeRecall-Discussion-Q3>3. What **new behaviors** and **habits** is God calling you to develop?</Question>
-
-<Question id=TheBestPossibleLifeRecall-Discussion-Q4>4. In what ways have you already seen God **change your relationships**?</Question>
+<!-- @include: Recall_FaithFoundation_DiscussionQuestions id="TheBestPossibleLifeRecall-Discussion" -->
 
 ### Significant Insights
 
-It is important to keep track of insights and lessons God has taught us as we trek in our faith journey. Identify significant quotes, key verses, biblical principles, or community comments that you encountered throughout the course of this study. Record these in the space below and share a few in your group discussion.
+<!-- @include: Recall_FaithFoundation_SignificantInsights -->
 
 ## Learning Plan: Charting the Course
 
-_The life of discipleship is a journey of lifelong learning. Use the list of selected passages and recommended reading as a starting place for ongoing development in this key area of the Christian faith._
+<!-- @include: Recall_LearningPlan_Directions -->
 
 ### Selected Passages
 
-God's word is the ultimate guide for life and godliness. Glance at the passages below. Identify one or two passages that you will study (or memorize) as a means of further development in this area.
+<!-- @include: Recall_LearningPlan_SelectedPassages -->
 
 - **Session 1: The Way** (Ruth 1:1-4:22)
 
@@ -95,7 +89,7 @@ God's word is the ultimate guide for life and godliness. Glance at the passages 
 
 ### Recommended Reading
 
-God wants you to continue growing in this area of your Christian life. Survey the books below and prayerfully consider one book to read in order to continue your growth in this area.
+<!-- @include: Recall_LearningPlan_RecommendedReading -->
 
 - **Session 1: The Way** (Ruth 1:1-4:22) — 
 
@@ -123,7 +117,7 @@ God wants you to continue growing in this area of your Christian life. Survey th
 
 ## Core Project: Synthesizing the Faith
 
-_A mature faith integrates God's truth into the reality of life. Use this section to synthesize your learning over the course of the past weeks by producing a confessional summary statement and writing a journal reflection._
+<!-- @include: Recall_CoreProject_Directions -->
 
 ### Code of Conduct
 
@@ -133,22 +127,15 @@ The **code of conduct** should be **short** (summarizes the key biblical teachin
 
 ### Journal Reflection
 
-It is important to periodically reflect on how God is growing us in godliness. Write a reflection considering the ways in which your life has been changed as a result of this study.
+<!-- @include: Recall_CoreProject_JournalReflection -->
 
 ## Faith Practice: Following the Way
 
-_Following Jesus is a lifelong venture of continuous progress. In this final section, evaluate your growth in the outlined objectives, identify practical next steps, and commit fellow community members to God in a time of focused prayer._
+<!-- @include: Recall_FaithPractice_Directions -->
 
 ### Growth Evaluation
 
-Mature disciples practice regular self-examination in which they keep track of their progress in the faith. Take time to reflect on your growth in the specific objectives of this study. Use the following guide to assess how well you developed in each area.
-
-The evaluation considers five metrics:
-- **Conviction: establish** a mature Christian understanding of core Christian belief
-- **Commitment: cultivate** a deepening commitment to the core essentials of the faith
-- **Conduct: demonstrate** skill in articulating the fundamentals of Christian doctrine
-- **Community: undertake** teaching the Christian basics to others in family, church, and society
-- **Character: embody** godly living that comes from right belief in the truth
+<!-- @include: Recall_FaithPractice_GrowthEvaluation -->
 
 **Exemplary** deep understanding of God-honoring relationships, using scriptural passages to contend against culture values exemplary devotion to God's plan for relationships, defending family and church as foundations for societal impact sound order and rich experience across relational spheres, serving as a model and competent guide to other believers lasting contribution in various relationships, assuming leadership responsibility for others obvious appropriation of Christian virtues into one's life, embracing growth as a lifelong pursuit
 
@@ -162,10 +149,8 @@ The evaluation considers five metrics:
 
 ### Next Steps
 
-God calls us to follow him in all spheres of life: individual, family, church, and world. Identify concrete decisions and measurable actions you can take to apply these principles in each life sphere. Record these goals below.
-
-Individual Family Church World
+<!-- @include: Recall_FaithPractice_NextSteps -->
 
 ### Community Prayer
 
-We can only hope to grow in our faith by God's divine help. In the context of your faith community, celebrate areas of growth and share upcoming goals. Then, spend time praying for each other as a community.
+<!-- @include: Recall_FaithPractice_CommunityPrayer -->
