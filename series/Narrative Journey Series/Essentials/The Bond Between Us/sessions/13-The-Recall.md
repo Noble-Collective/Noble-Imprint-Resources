@@ -68,7 +68,7 @@ This study does not cover everything that can (and should) be said about Christi
 | Session 1 | Family | Genesis 2:4–25; Deuteronomy 6:1–25; Joshua 24:1–33; Psalm 78:1–72; Colossians 3:18–4:1; 1 Timothy 5:1–16 |
 | Session 2 | Marriage | Leviticus 18:1–30; Deuteronomy 24:1–4; Ruth 1:1–4:22; 1 Corinthians 7:1–40; Ephesians 5:22–33; 1 Peter 3:1–7 |
 | Session 3 | Parenting | Psalm 139:1–24; Proverbs 23:12–24:2; Hebrews 12:1–17; Ephesians 6:1–4; 2 Timothy 3:10–16 |
-| Session 4 | Friendship | Genesis 4:1–26; 25:19–34; 37:1–36; Proverbs 25:28–26:28; John 15:12–17; Acts 20:1–21:26; Philppians 4:2–9 |
+| Session 4 | Friendship | Genesis 4:1–26; 25:19–34; 37:1–36; Proverbs 25:28–26:28; John 15:12–17; Acts 20:1–21:26; Philippians 4:2–9 |
 | Session 5 | Civic Engagement | Psalm 2:1–12; Proverbs 16:1–15; 20:2–28; Jeremiah 29:1–32; Romans 13:1–7; 1 Timothy 2:1–7; Titus 3:1–15; 1 Peter 2:13–17 |
 | Session 6 | Vocation | Psalm 90:1–17; Ecclesiastes 1:1–4:6; Ephesians 2:1–10; 6:5–11; 2 Thessalonians 3:6–15; James 2:14–26 |
 | Session 7 | Church | Isaiah 42:1–9; 49:1–7; Ephesians 2:11–3:21; 1 Timothy 2:8–3:15; Hebrews 10:19–25; 1 Peter 2:4–12 |
@@ -77,26 +77,24 @@ This study does not cover everything that can (and should) be said about Christi
 | Session 10 | Global Network | 2 Corinthians 8:1–9:15; Philippians 4:10–23; Colossians 4:7–18; Romans 15:8–33; Philemon 1–25 |
 | Session 11 | World Engagement | Psalm 1:1–6; Jeremiah 2:1–3:14; 2 Corinthians 10:1–6; Ephesians 6:10–24; 2 Timothy 3:1–9; Titus 1:10–16 |
 | Session 12 | Outsiders | Leviticus 19:1–18; 2 Kings 4:1–44; Amos 6:1–14; Mark 7:1–37; Luke 10:25–37; James 1:1–27 |
-
 ### Recommended Reading
 
 <!-- @include: Recall_LearningPlan_RecommendedReading -->
 
 | Session | Topic | Recommended Reading |
 | :--- | :--- | :--- |
-| Session 1 | Family | Elisabeth Elliot, The Shaping of a Christian Family<br>Donald S. Whitney, Family Worship |
-| Session 2 | Marriage | Andreas J. Köstenberger and David W. Jones, Marriage and the Family<br>John MacArthur Jr., Divine Design |
-| Session 3 | Parenting | Voddie Baucham Jr., Family Shepherds<br>Tedd Tripp, Shepherding a Child's Heart |
-| Session 4 | Friendship | C. S. Lewis, The Four Loves<br>Joel R. Beeke and Michael A. G. Haykin, How Should We Develop Biblical Friendship? |
-| Session 5 | Civic Engagement | James K. A. Smith, How (Not) to Be Secular<br>David F. Wells, God in the Wasteland |
-| Session 6 | Vocation | Timothy Keller, Every Good Endeavor<br>Ben Witherington III, Work: A Kingdom Perspective on Labor |
-| Session 7 | Church | Scot McKnight, A Fellowship of Differents<br>Joseph H. Hellerman, When the Church Was a Family |
-| Session 8 | Community Virtues | Dietrich Bonhoeffer, Life Together<br>Jim Wilder, The Other Half of Church |
-| Session 9 | Common Life | Tim Chester, Total Church<br>Mark Dever, Nine Marks of a Healthy Church |
-| Session 10 | Global Network | Colin Marshall and Tony Payne, The Trellis and the Vine<br>George Miley, Loving the Church … Blessing the Nations |
-| Session 11 | World Engagement | Francis A. Schaeffer, The Church Before the Watching World<br>Russell Moore, Onward: Engaging the Culture without Losing the Gospel |
-| Session 12 | Outsiders | Rosaria Butterfield, The Gospel Comes with a House Key<br>Christine D. Pohl, Making Room |
-
+| Session 1 | Family | Elisabeth Elliot, _The Shaping of a Christian Family_<br>Donald S. Whitney, _Family Worship_ |
+| Session 2 | Marriage | Andreas J. Köstenberger and David W. Jones, _Marriage and the Family_<br>John MacArthur Jr., _Divine Design_ |
+| Session 3 | Parenting | Voddie Baucham Jr., _Family Shepherds_<br>Tedd Tripp, _Shepherding a Child's Heart_ |
+| Session 4 | Friendship | C. S. Lewis, _The Four Loves_<br>Joel R. Beeke and Michael A. G. Haykin, _How Should We Develop Biblical Friendship?_ |
+| Session 5 | Civic Engagement | James K. A. Smith, _How (Not) to Be Secular_<br>David F. Wells, _God in the Wasteland_ |
+| Session 6 | Vocation | Timothy Keller, _Every Good Endeavor_<br>Ben Witherington III, _Work: A Kingdom Perspective on Labor_ |
+| Session 7 | Church | Scot McKnight, _A Fellowship of Differents_<br>Joseph H. Hellerman, _When the Church Was a Family_ |
+| Session 8 | Community Virtues | Dietrich Bonhoeffer, _Life Together_<br>Jim Wilder, _The Other Half of Church_ |
+| Session 9 | Common Life | Tim Chester, _Total Church_<br>Mark Dever, _Nine Marks of a Healthy Church_ |
+| Session 10 | Global Network | Colin Marshall and Tony Payne, _The Trellis and the Vine_<br>George Miley, _Loving the Church … Blessing the Nations_ |
+| Session 11 | World Engagement | Francis A. Schaeffer, _The Church Before the Watching World_<br>Russell Moore, _Onward: Engaging the Culture without Losing the Gospel_ |
+| Session 12 | Outsiders | Rosaria Butterfield, _The Gospel Comes with a House Key_<br>Christine D. Pohl, _Making Room_ |
 ## Core Project: Synthesizing the Faith
 
 <!-- @include: Recall_CoreProject_Directions -->
