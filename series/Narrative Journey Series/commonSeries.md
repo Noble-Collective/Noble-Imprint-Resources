@@ -347,7 +347,10 @@ Mature disciples practice regular self-examination in which they keep track of t
 <Recall_FaithPractice_NextSteps>
 God calls us to follow him in all spheres of life: individual, family, church, and world. Identify concrete decisions and measurable actions you can take to apply these principles in each life sphere. Record these goals below.
 
-Individual Family Church World
+<Question id={id}-Q1>Individual</Question>
+<Question id={id}-Q2>Family</Question>
+<Question id={id}-Q3>Church</Question>
+<Question id={id}-Q4>World</Question>
 </Recall_FaithPractice_NextSteps>
 
 <Recall_FaithPractice_CommunityPrayer>

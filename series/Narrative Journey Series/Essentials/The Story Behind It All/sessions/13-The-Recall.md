@@ -170,7 +170,7 @@ The **creedal confession** should be **short** (summarizes the key biblical teac
 
 ### Next Steps
 
-<!-- @include: Recall_FaithPractice_NextSteps -->
+<!-- @include: Recall_FaithPractice_NextSteps id="TheStoryRecall-NextSteps" -->
 
 ### Community Prayer
 
