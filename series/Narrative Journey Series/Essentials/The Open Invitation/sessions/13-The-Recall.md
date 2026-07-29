@@ -9,6 +9,8 @@
 
 ## Conclusion
 
+Coming soon.
+
 ## Book Overview: Surveying the Landscape
 
 <!-- @include: Recall_BookOverview_Directions -->
