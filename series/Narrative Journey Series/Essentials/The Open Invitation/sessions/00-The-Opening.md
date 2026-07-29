@@ -116,18 +116,18 @@ Record any initial observations or community insights below.
 
 | Biblical Passage | Teacher | Date |
 | :--- | :--- | :--- |
-| **Session 1: The Temple** (Luke 2:21-52) |  |  |
-| **Session 2: The Meal** (John 21:1-25) |  |  |
-| **Session 3: The Retreat** (Mark 6:30-56) |  |  |
-| **Session 4: The Well** (John 4:1-42) |  |  |
-| **Session 5: The Towel** (John 13:1-38) |  |  |
-| **Session 6: The Garden** (Mark 14:32-42) |  |  |
-| **Session 7: The Mountain** (Mark 8:27-9:29) |  |  |
-| **Session 8: The Treasure** (Matthew 19:16-30) |  |  |
-| **Session 9: The Flask** (Luke 7:36-50) |  |  |
-| **Session 10: The Scroll** (Luke 4:14-44) |  |  |
-| **Session 11: The Wilderness** (Matthew 4:1-11) |  |  |
-| **Session 12: The Sabbath** (Matthew 11:25-12:21) |  |  |
+| **Session 1: The Temple**<br>(Luke 2:21-52) |  |  |
+| **Session 2: The Meal**<br>(John 21:1-25) |  |  |
+| **Session 3: The Retreat**<br>(Mark 6:30-56) |  |  |
+| **Session 4: The Well**<br>(John 4:1-42) |  |  |
+| **Session 5: The Towel**<br>(John 13:1-38) |  |  |
+| **Session 6: The Garden**<br>(Mark 14:32-42) |  |  |
+| **Session 7: The Mountain**<br>(Mark 8:27-9:29) |  |  |
+| **Session 8: The Treasure**<br>(Matthew 19:16-30) |  |  |
+| **Session 9: The Flask**<br>(Luke 7:36-50) |  |  |
+| **Session 10: The Scroll**<br>(Luke 4:14-44) |  |  |
+| **Session 11: The Wilderness**<br>(Matthew 4:1-11) |  |  |
+| **Session 12: The Sabbath**<br>(Matthew 11:25-12:21) |  |  |
 
 ### Project Preview
 

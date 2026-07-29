@@ -112,18 +112,18 @@ Record any initial observations or community insights below.
 
 | Biblical Passage | Teacher | Date |
 | :--- | :--- | :--- |
-| **Session 1: The Way** (Ruth 1:1-4:22) |  |  |
-| **Session 2: The Furnace** (Daniel 3:1-30) |  |  |
-| **Session 3: The Idol** (Exodus 32:1-35) |  |  |
-| **Session 4: The Fire** (Leviticus 8:1-10:20) |  |  |
-| **Session 5: The Land** (Joshua 3:1-6:27) |  |  |
-| **Session 6: The Anointed** (1 Samuel 24:1-26:25) |  |  |
-| **Session 7: The Keeper** (Genesis 4:1-26) |  |  |
-| **Session 8: The Appeal** (Judges 13:1-16:31) |  |  |
-| **Session 9: The Vineyard** (1 Kings 21:1-29) |  |  |
-| **Session 10: The Voice** (Nehemiah 6:1-7:4) |  |  |
-| **Session 11: The Craving** (Numbers 11:1-35) |  |  |
-| **Session 12: The Contest** (Esther 1:1-10:3) |  |  |
+| **Session 1: The Way**<br>(Ruth 1:1-4:22) |  |  |
+| **Session 2: The Furnace**<br>(Daniel 3:1-30) |  |  |
+| **Session 3: The Idol**<br>(Exodus 32:1-35) |  |  |
+| **Session 4: The Fire**<br>(Leviticus 8:1-10:20) |  |  |
+| **Session 5: The Land**<br>(Joshua 3:1-6:27) |  |  |
+| **Session 6: The Anointed**<br>(1 Samuel 24:1-26:25) |  |  |
+| **Session 7: The Keeper**<br>(Genesis 4:1-26) |  |  |
+| **Session 8: The Appeal**<br>(Judges 13:1-16:31) |  |  |
+| **Session 9: The Vineyard**<br>(1 Kings 21:1-29) |  |  |
+| **Session 10: The Voice**<br>(Nehemiah 6:1-7:4) |  |  |
+| **Session 11: The Craving**<br>(Numbers 11:1-35) |  |  |
+| **Session 12: The Contest**<br>(Esther 1:1-10:3) |  |  |
 
 ## Core Project: Synthesizing the Faith
 

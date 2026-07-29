@@ -116,18 +116,18 @@ Record any initial observations or community insights below.
 
 | Biblical Passage | Teacher | Date |
 | :--- | :--- | :--- |
-| **Session 1: The Battle** (Job 1:1–2:13) |  |  |
-| **Session 2: The Beginning** (Genesis 1:1–2:3) |  |  |
-| **Session 3: The Image** (Genesis 2:4–25) |  |  |
-| **Session 4: The Fall** (Genesis 3:1–24) |  |  |
-| **Session 5: The Promise** (Genesis 5:28–9:17) |  |  |
-| **Session 6: The Coming** (Luke 1:1–2:21) |  |  |
-| **Session 7: The Cross** (Mark 15:1–16:8) |  |  |
-| **Session 8: The Spirit** (Acts 1:1–2:47) |  |  |
-| **Session 9: The Change** (Acts 10:1–11:18) |  |  |
-| **Session 10: The Church** (Revelation 1:9–3:22) |  |  |
-| **Session 11: The Kingdom** (Revelation 12:1–14:20) |  |  |
-| **Session 12: The Finale** (Revelation 19:11–22:21) |  |  |
+| **Session 1: The Battle**<br>(Job 1:1–2:13) |  |  |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3) |  |  |
+| **Session 3: The Image**<br>(Genesis 2:4–25) |  |  |
+| **Session 4: The Fall**<br>(Genesis 3:1–24) |  |  |
+| **Session 5: The Promise**<br>(Genesis 5:28–9:17) |  |  |
+| **Session 6: The Coming**<br>(Luke 1:1–2:21) |  |  |
+| **Session 7: The Cross**<br>(Mark 15:1–16:8) |  |  |
+| **Session 8: The Spirit**<br>(Acts 1:1–2:47) |  |  |
+| **Session 9: The Change**<br>(Acts 10:1–11:18) |  |  |
+| **Session 10: The Church**<br>(Revelation 1:9–3:22) |  |  |
+| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) |  |  |
+| **Session 12: The Finale**<br>(Revelation 19:11–22:21) |  |  |
 
 ## Core Project: Synthesizing the Faith
 
