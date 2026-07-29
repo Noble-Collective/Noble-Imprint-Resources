@@ -94,7 +94,7 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 | Session 8 | Holy Spirit | Sinclair B. Ferguson, _The Holy Spirit_<br>R. C. Sproul, _The Mystery of the Holy Spirit_ |
 | Session 9 | Conversion | Augustine, _The Confessions_<br>Charles H. Spurgeon, _All of Grace_ |
 | Session 10 | Church | Robert J. Banks, _Paul's Idea of Community_<br>Francis A. Schaeffer, _The Church before the Watching World_ |
-| Session 11 | Kingdom | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants -_ Scot McKnight_, Kingdom Conspiracy_ |
+| Session 11 | Kingdom | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants: A Concise Biblical Theology_<br>Scot McKnight, _Kingdom Conspiracy: Returning to the Radical Mission of the Local Church_ |
 | Session 12 | Future Hope | John Piper, _Come, Lord Jesus_<br>N. T. Wright, _Surprised by Hope_ |
 
 ## Core Project: Synthesizing the Faith
