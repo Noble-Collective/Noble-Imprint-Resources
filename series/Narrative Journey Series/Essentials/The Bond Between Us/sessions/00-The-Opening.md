@@ -31,7 +31,7 @@ Further, foundations of Christian community also provide a context where Christi
 
 In this study, we offer twelve biblical narratives that deal with various aspects of Christian relationships. The stories are divided into two main groups. The first set of six stories will address relationships connected with the Christian family and surrounding society. The second set of six stories addresses spheres of relationship involving the church community. Broadly speaking, these two sets of stories relate to each other in dynamic ways. While the family is a basic unit of relationships for individual development and society, the church is God's redeemed people operating as a family of faith.
 
-Connected together, the biblical passages form a pathway by which we can mature in our approach to Christian relationships. Aiming to establish godly families, we explore six passages that orient believers to foundations of community life in a Christian household. The journey taken through these six stories teaches believers how to live in the context of family (Genesis 15:1–19:38), marriage (Genesis 24:1–67), parenting (1 Samuel 1:1–3:21), friendship (1 Samuel 18:1–20:42), government (Daniel 1:1–2:49; 4:1–6:28), and work (Nehemiah 1:1–7:4). Building off of the foundations of godly family life, we explore six more stories related to Christian community, now considering the context of the church. Through these six stories, Christians learn to relate to Jesus as a family of faith (Mark 3:7–35), care for one another with community virtues (Matthew 17:22–18:35), practice a common life by caring for the needy of the community (Acts 4:32–6:7), understand relationship with leaders and other churches (Acts 14:19–16:5), interact with domains of the surrounding world (Acts 16:11–18:17), and practice hospitality to outsiders (Acts 27:1–28:31).
+Connected together, the biblical passages form a pathway by which we can mature in our approach to Christian relationships. Aiming to establish godly families, we explore six passages that orient believers to foundations of community life in a Christian household. The journey taken through these six stories teaches believers how to live in the context of family (Genesis 15:1–19:38), marriage (Genesis 24:1–67), parenting (1 Samuel 1:1–3:21), friendship (1 Samuel 18:1–20:42), government (Daniel 1:1–2:49; 4:1–6:28), and work (Nehemiah 1:1–7:4). Building off of the foundations of godly family life, we explore six more stories related to Christian community, now considering the context of the church. Through these six stories, Christians learn to relate to Jesus as a family of faith (Mark 3:7–35), care for one another with community virtues (Matthew 17:22–18:35), practice a common life by caring for the needy of the community (Acts 4:32–6:7), understand relationship with leaders and other churches (Acts 14:19–16:5), interact with domains of the surrounding world (Acts 16:6–18:17), and practice hospitality to outsiders (Acts 27:1–28:31).
 
 God has placed each of us in various spheres of influence. These relationships are testing grounds where our faith is put into practice. The bond we enjoy with other humans is one of the great mysteries and joys of God's created world. In the Fall, these relationships became places of pain, hardship, brokenness, and abuse. In Christ, God powerfully redeems and transforms the way we approach our relationships with one another. In the very call of discipleship, Jesus wants us to consider how we can order each domain and relationship after God's design. Our maturity of faith is reflected by our willingness to do just this.
 
@@ -57,7 +57,7 @@ Discussing various domains of human relationships is not easy. Humans disappoint
 | **Session 8: The Community**<br>(Matthew 17:22–18:35) | Jesus grounds his people in the core virtues of community life. |
 | **Session 9: The Commons**<br>(Acts 4:32–6:7) | The early church practices radical generosity in meeting the needs of its members. |
 | **Session 10: The Network**<br>(Acts 14:19–16:5) | The early church establishes core leaders and connects itself as a network of churches as a means to participate in God's global work. |
-| **Session 11: The Worlds**<br>(Acts 16:11–18:17) | Paul exemplifies how to winsomely engage the world in its spiritual, economic, legal, civic (social and political), intellectual, cultural, and religious domains. |
+| **Session 11: The Worlds**<br>(Acts 16:6–18:17) | Paul exemplifies how to winsomely engage the world in its spiritual, economic, legal, civic (social and political), intellectual, cultural, and religious domains. |
 | **Session 12: The Other**<br>(Acts 27:1–28:31) | Paul experiences and extends hospitality to show how Christians engage with those who are outsiders. |
 
 ### Key Idea
@@ -124,7 +124,7 @@ Record any initial observations or community insights below.
 | **Session 8: The Community**<br>(Matthew 17:22–18:35) |  |  |
 | **Session 9: The Commons**<br>(Acts 4:32–6:7) |  |  |
 | **Session 10: The Network**<br>(Acts 14:19–16:5) |  |  |
-| **Session 11: The Worlds**<br>(Acts 16:11–18:17) |  |  |
+| **Session 11: The Worlds**<br>(Acts 16:6–18:17) |  |  |
 | **Session 12: The Other**<br>(Acts 27:1–28:31) |  |  |
 
 ## Core Project: Synthesizing the Faith
