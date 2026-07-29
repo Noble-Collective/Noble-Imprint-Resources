@@ -1,5 +1,23 @@
 {
   "title": "Berean Standard Bible",
   "description": "A quality, modern-day English translation rooted in careful research.",
-  "version": "BSB"
+  "version": "BSB",
+  "language": "en",
+  "audiobook": {
+    "enabled": true,
+    "language_normalization": true,
+    "voice_id": "MI88rOZjXbH22N8KHXUo",
+    "model_id": "eleven_multilingual_v2",
+    "quality_preset": "high",
+    "voice_settings": {
+      "stability": 0.71,
+      "similarity_boost": 0.5,
+      "style": 0.0,
+      "speed": 0.90
+    },
+    "books": {
+      "PRO": { "enabled": true },
+      "2TI": { "enabled": true }
+    }
+  }
 }
