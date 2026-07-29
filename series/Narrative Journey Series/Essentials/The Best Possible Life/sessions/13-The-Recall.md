@@ -63,57 +63,39 @@ God's word is not only a record of his redemptive acts throughout history, it is
 
 <!-- @include: Recall_LearningPlan_SelectedPassages -->
 
-- **Session 1: The Way** (Ruth 1:1-4:22)
-
-- **Session 2: The Furnace** (Daniel 3:1-30)
-
-- **Session 3: The Idol** (Exodus 32:1-35)
-
-- **Session 4: The Fire** (Leviticus 8:1-10:20)
-
-- **Session 5: The Land** (Joshua 3:1-6:27)
-
-- **Session 6: The Anointed** (1 Samuel 24:1-26:25)
-
-- **Session 7: The Keeper** (Genesis 4:1-26)
-
-- **Session 8: The Appeal** (Judges 13:1-16:31)
-
-- **Session 9: The Vineyard** (1 Kings 21:1-29)
-
-- **Session 10: The Voice** (Nehemiah 6:1-7:4)
-
-- **Session 11: The Craving** (Numbers 11:1-35)
-
-- **Session 12: The Contest** (Esther 1:1-10:3)
+| Session | Topic | Passages |
+| :--- | :--- | :--- |
+| Session 1 | The Way |  |
+| Session 2 | The Furnace |  |
+| Session 3 | The Idol |  |
+| Session 4 | The Fire |  |
+| Session 5 | The Land |  |
+| Session 6 | The Anointed |  |
+| Session 7 | The Keeper |  |
+| Session 8 | The Appeal |  |
+| Session 9 | The Vineyard |  |
+| Session 10 | The Voice |  |
+| Session 11 | The Craving |  |
+| Session 12 | The Contest |  |
 
 ### Recommended Reading
 
 <!-- @include: Recall_LearningPlan_RecommendedReading -->
 
-- **Session 1: The Way** (Ruth 1:1-4:22) — 
-
-- **Session 2: The Furnace** (Daniel 3:1-30) — 
-
-- **Session 3: The Idol** (Exodus 32:1-35) — 
-
-- **Session 4: The Fire** (Leviticus 8:1-10:20) — 
-
-- **Session 5: The Land** (Joshua 3:1-6:27) — 
-
-- **Session 6: The Anointed** (1 Samuel 24:1-26:25) — 
-
-- **Session 7: The Keeper** (Genesis 4:1-26) — 
-
-- **Session 8: The Appeal** (Judges 13:1-16:31) — 
-
-- **Session 9: The Vineyard** (1 Kings 21:1-29) — 
-
-- **Session 10: The Voice** (Nehemiah 6:1-7:4) — 
-
-- **Session 11: The Craving** (Numbers 11:1-35) — 
-
-- **Session 12: The Contest** (Esther 1:1-10:3) — 
+| Session | Topic | Recommended Reading |
+| :--- | :--- | :--- |
+| Session 1 | The Way |  |
+| Session 2 | The Furnace |  |
+| Session 3 | The Idol |  |
+| Session 4 | The Fire |  |
+| Session 5 | The Land |  |
+| Session 6 | The Anointed |  |
+| Session 7 | The Keeper |  |
+| Session 8 | The Appeal |  |
+| Session 9 | The Vineyard |  |
+| Session 10 | The Voice |  |
+| Session 11 | The Craving |  |
+| Session 12 | The Contest |  |
 
 ## Core Project: Synthesizing the Faith
 

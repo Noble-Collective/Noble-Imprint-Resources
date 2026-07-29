@@ -47,57 +47,39 @@
 
 <!-- @include: Recall_LearningPlan_SelectedPassages -->
 
-- **Session 1: The Temple** (Luke 2:21–52)
-
-- **Session 2: The Meal** (John 21:1–25)
-
-- **Session 3: The Retreat** (Mark 6:30–56)
-
-- **Session 4: The Well** (John 4:1–42)
-
-- **Session 5: The Towel** (John 13:1–38)
-
-- **Session 6: The Garden** (Mark 14:32–42)
-
-- **Session 7: The Mountain** (Mark 8:27–9:29)
-
-- **Session 8: The Treasure** (Matthew 19:16–30)
-
-- **Session 9: The Flask** (Luke 7:36–50)
-
-- **Session 10: The Scroll** (Luke 4:14–44)
-
-- **Session 11: The Wilderness** (Matthew 4:1–11)
-
-- **Session 12: The Sabbath** (Matthew 11:25–12:21)
+| Session | Topic | Passages |
+| :--- | :--- | :--- |
+| Session 1 | The Temple |  |
+| Session 2 | The Meal |  |
+| Session 3 | The Retreat |  |
+| Session 4 | The Well |  |
+| Session 5 | The Towel |  |
+| Session 6 | The Garden |  |
+| Session 7 | The Mountain |  |
+| Session 8 | The Treasure |  |
+| Session 9 | The Flask |  |
+| Session 10 | The Scroll |  |
+| Session 11 | The Wilderness |  |
+| Session 12 | The Sabbath |  |
 
 ### Recommended Reading
 
 <!-- @include: Recall_LearningPlan_RecommendedReading -->
 
-- **Session 1: The Temple** — ____
-
-- **Session 2: The Meal** — ____
-
-- **Session 3: The Retreat** — ____
-
-- **Session 4: The Well** — ____
-
-- **Session 5: The Towel** — ____
-
-- **Session 6: The Garden** — ____
-
-- **Session 7: The Mountain** — ____
-
-- **Session 8: The Treasure** — ____
-
-- **Session 9: The Flask** — ____
-
-- **Session 10: The Scroll** — ____
-
-- **Session 11: The Wilderness** — ____
-
-- **Session 12: The Sabbath** — ____
+| Session | Topic | Recommended Reading |
+| :--- | :--- | :--- |
+| Session 1 | The Temple |  |
+| Session 2 | The Meal |  |
+| Session 3 | The Retreat |  |
+| Session 4 | The Well |  |
+| Session 5 | The Towel |  |
+| Session 6 | The Garden |  |
+| Session 7 | The Mountain |  |
+| Session 8 | The Treasure |  |
+| Session 9 | The Flask |  |
+| Session 10 | The Scroll |  |
+| Session 11 | The Wilderness |  |
+| Session 12 | The Sabbath |  |
 
 ## Core Project: Synthesizing the Faith
 
