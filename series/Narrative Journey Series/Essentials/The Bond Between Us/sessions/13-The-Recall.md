@@ -101,6 +101,12 @@ This study does not cover everything that can (and should) be said about Christi
 
 <!-- @include: Recall_CoreProject_Directions -->
 
+### Community Covenant
+
+God calls us into covenant relationships with himself and other believers. As a community or as an individual, write a **community covenant** that serves as a condensed, memorable summary of the core biblical teachings on Christian community (consider a line, phrase, or short sentence for each topic/session in this study).
+
+The **community covenant** should be **short** (summarizes the key biblical teachings in a condensed and accessible format), **memorable** (articulates biblical principles in a way that is easily memorizable), **usable** (expresses the covenant as a statement that can be affirmed and confessed together as a church community), **accurate** (makes correct, biblical affirmations of Christian community), and **comprehensive** (addresses all major domains of interpersonal relationships).
+
 ### Journal Reflection
 
 <!-- @include: Recall_CoreProject_JournalReflection -->

@@ -5,7 +5,7 @@
 ### Key Elements
 - **Key Passage** - Review
 - **Scripture Memory** - ____
-- **Catechism** - ____
+- **Catechism** - Q: What is the foundation of the Christian life? A: Faith.
 
 ## Conclusion
 
