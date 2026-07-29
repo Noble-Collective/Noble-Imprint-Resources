@@ -137,22 +137,13 @@ Record any initial observations or community insights below.
 
 ### Project Preview
 
-A firm conviction of Christian truth is foundational to a mature faith. Therefore, at the end of this book, you will be asked to write a **creedal statement**. This creed is a condensed and memorable summary of the core biblical teachings on Christian belief. It is also a capstone project for this study. You can write this individually or as a community. The aim of this project is to help you synthesize all that you will learn over the course of this study as it relates to _the essential teachings of the Christian faith_. As we trek through the next twelve sessions, it will be important to keep this project in your mind.
+Coming soon.
 
-The following criteria will help guide your thinking about how you (and your church community) might draft such a statement. The creedal statement should be
-- **short**: summarizes the key biblical teachings in a condensed and accessible format
-- **memorable**: articulates biblical principles in a way that is easily memorizable
-- **usable**: expresses the creed as a statement that can be affirmed and confessed together as a church community
-- **accurate**: makes correct, biblical affirmations of Christian belief
-- **comprehensive**: addresses all major areas of Christian teaching
-
-### Example Creed
+### Example ____
 
 As we journey toward Christian maturity, we should learn from other disciples. As we study the Scriptures together, the community of Christ followers helps each of us hone our thinking around what is true. As you prepare to write your own mission manifesto (and share it with other believers), review the following statement as an example of this capstone project.
 
-> Lord's Prayer???
-
-<< A Christian Creed
+Coming soon.
 
 ### Imaginative Storytelling
 
