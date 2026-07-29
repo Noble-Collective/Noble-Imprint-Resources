@@ -3,12 +3,15 @@
   "subtitle": "A Narrative Journey of Christian Devotion",
   "order": 5,
   "color": {
-    "##": "#000000",
-    "###": "#000000",
-    "####": "#000000",
-    "#####": "#000000"
+    "#": "#25a9ad",
+    "##": "#25a9ad",
+    "###": "#25a9ad",
+    "####": "#25a9ad",
+    "#####": "#25a9ad",
+    "######": "#25a9ad"
   },
-  "banner": "Preview",
+  "accent": "#25a9ad",
+  "banner": "Pre-Release",
   "status": "public",
   "maxNavHeadingLevel": 3
 }

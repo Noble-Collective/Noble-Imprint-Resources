@@ -1,1 +1,3 @@
-
+<DevotionCreed>
+Coming soon.
+</DevotionCreed>
