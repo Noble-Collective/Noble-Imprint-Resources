@@ -51,18 +51,18 @@ However, there is a second reason to locate your spiritual growth in the context
 
 | Session | Focus |
 | :--- | :--- |
-| **Session 1: The Temple** (Luke 2:21-52) | Jesus models formation through practice. |
-| **Session 2: The Meal** (John 21:1-25) | Jesus engenders Christian community through hospitality. |
-| **Session 3: The Retreat** (Mark 6:30-56) | Jesus nurtures intimacy through solitude. |
-| **Session 4: The Well** (John 4:1-42) | Jesus elevates devotion through worship. |
-| **Session 5: The Towel** (John 13:1-38) | Jesus models kingdom living through humble service. |
-| **Session 6: The Garden** (Mark 14:32-42) | Jesus exhibits submission through prayer. |
-| **Session 7: The Mountain** (Mark 8:27-9:29) | Jesus underscores mystery through silence. |
-| **Session 8: The Treasure** (Matthew 19:16-30) | Jesus promotes simplicity through stewardship. |
-| **Session 9: The Flask** (Luke 7:36-50) | Jesus offers freedom through confession. |
-| **Session 10: The Scroll** (Luke 4:14-44) | Jesus enables ministry through the word. |
-| **Session 11: The Wilderness** (Matthew 4:1-11) | Jesus exercises discipline through fasting. |
-| **Session 12: The Sabbath** (Matthew 11:25-12:21) | Jesus offers deliverance through Sabbath. |
+| **Session 1: The Temple**<br>(Luke 2:21-52) | Jesus models formation through practice. |
+| **Session 2: The Meal**<br>(John 21:1-25) | Jesus engenders Christian community through hospitality. |
+| **Session 3: The Retreat**<br>(Mark 6:30-56) | Jesus nurtures intimacy through solitude. |
+| **Session 4: The Well**<br>(John 4:1-42) | Jesus elevates devotion through worship. |
+| **Session 5: The Towel**<br>(John 13:1-38) | Jesus models kingdom living through humble service. |
+| **Session 6: The Garden**<br>(Mark 14:32-42) | Jesus exhibits submission through prayer. |
+| **Session 7: The Mountain**<br>(Mark 8:27-9:29) | Jesus underscores mystery through silence. |
+| **Session 8: The Treasure**<br>(Matthew 19:16-30) | Jesus promotes simplicity through stewardship. |
+| **Session 9: The Flask**<br>(Luke 7:36-50) | Jesus offers freedom through confession. |
+| **Session 10: The Scroll**<br>(Luke 4:14-44) | Jesus enables ministry through the word. |
+| **Session 11: The Wilderness**<br>(Matthew 4:1-11) | Jesus exercises discipline through fasting. |
+| **Session 12: The Sabbath**<br>(Matthew 11:25-12:21) | Jesus offers deliverance through Sabbath. |
 
 ### Key Idea
 
@@ -130,6 +130,10 @@ Record any initial observations or community insights below.
 | **Session 10: The Scroll**<br>(Luke 4:14-44) |  |  |
 | **Session 11: The Wilderness**<br>(Matthew 4:1-11) |  |  |
 | **Session 12: The Sabbath**<br>(Matthew 11:25-12:21) |  |  |
+
+## Core Project: Synthesizing the Faith
+
+<!-- @include: Opening_CoreProject_Directions -->
 
 ### Project Preview
 

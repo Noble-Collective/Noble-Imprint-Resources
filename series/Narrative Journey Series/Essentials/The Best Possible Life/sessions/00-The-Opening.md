@@ -51,18 +51,18 @@ In this effort to outline the major contours of a Christian lifestyle, we do so 
 
 | Session | Focus |
 | :--- | :--- |
-| **Session 1: The Way** (Ruth 1:1-4:22) | Ruth embodied faithfulness in godly living. |
-| **Session 2: The Furnace** (Daniel 3:1-30) | Shadrach, Meshach, and Abednego resisted idolatry and demonstrated full allegiance to God. |
-| **Session 3: The Idol** (Exodus 32:1-35) | Aaron and the Israelites fell to the temptation of idolatry and worshiped a carved image. |
-| **Session 4: The Fire** (Leviticus 8:1-10:20) | Aaron and his son showed sincere reverence to God while Nadab and Abihu failed to honor God |
-| **Session 5: The Land** (Joshua 3:1-6:27) | Joshua led the people of Israel into the land of promised rest. |
-| **Session 6: The Anointed** (1 Samuel 24:1-26:25) | David (and Abigail) honored God-appointed authority. |
-| **Session 7: The Keeper** (Genesis 4:1-26) | Cain violated the dignity of humanity by killing his brother, Abel. |
-| **Session 8: The Appeal** (Judges 13:1-16:31) | Samson compromised his life mission by yielding to sexual sin |
-| **Session 9: The Vineyard** (1 Kings 21:1-29) | Ahab and Jezebel murdered Naboth in order to steal his property. |
-| **Session 10: The Voice** (Nehemiah 6:1-7:4) | Nehemiah guarded himself against verbal attacks of his hostile opponents. |
-| **Session 11: The Craving** (Numbers 11:1-35) | The Israelites fell prey to their appetites and their covetous desires led to their ruin. |
-| **Session 12: The Contest** (Esther 1:1-10:3) | Esther demonstrated growth in the faith as she served God in a difficult time and culture. |
+| **Session 1: The Way**<br>(Ruth 1:1-4:22) | Ruth embodied faithfulness in godly living. |
+| **Session 2: The Furnace**<br>(Daniel 3:1-30) | Shadrach, Meshach, and Abednego resisted idolatry and demonstrated full allegiance to God. |
+| **Session 3: The Idol**<br>(Exodus 32:1-35) | Aaron and the Israelites fell to the temptation of idolatry and worshiped a carved image. |
+| **Session 4: The Fire**<br>(Leviticus 8:1-10:20) | Aaron and his son showed sincere reverence to God while Nadab and Abihu failed to honor God |
+| **Session 5: The Land**<br>(Joshua 3:1-6:27) | Joshua led the people of Israel into the land of promised rest. |
+| **Session 6: The Anointed**<br>(1 Samuel 24:1-26:25) | David (and Abigail) honored God-appointed authority. |
+| **Session 7: The Keeper**<br>(Genesis 4:1-26) | Cain violated the dignity of humanity by killing his brother, Abel. |
+| **Session 8: The Appeal**<br>(Judges 13:1-16:31) | Samson compromised his life mission by yielding to sexual sin |
+| **Session 9: The Vineyard**<br>(1 Kings 21:1-29) | Ahab and Jezebel murdered Naboth in order to steal his property. |
+| **Session 10: The Voice**<br>(Nehemiah 6:1-7:4) | Nehemiah guarded himself against verbal attacks of his hostile opponents. |
+| **Session 11: The Craving**<br>(Numbers 11:1-35) | The Israelites fell prey to their appetites and their covetous desires led to their ruin. |
+| **Session 12: The Contest**<br>(Esther 1:1-10:3) | Esther demonstrated growth in the faith as she served God in a difficult time and culture. |
 
 ### Key Idea
 

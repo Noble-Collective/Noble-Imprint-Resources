@@ -51,18 +51,18 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 | Session | Focus |
 | :--- | :--- |
-| **Session 1: The Battle** (Job 1:1–2:13) | Job demonstrated genuine faith as he suffered painfully. |
-| **Session 2: The Beginning** (Genesis 1:1–2:3) | The eternal and sovereign God created the whole world by his powerful word. |
-| **Session 3: The Image** (Genesis 2:4–25) | God made the first humans and placed them in his garden paradise. |
-| **Session 4: The Fall** (Genesis 3:1–24) | The first humans doubted God's word, disobeyed his command, and ruined God's perfect world with their prideful sin. |
-| **Session 5: The Promise** (Genesis 5:28–9:17) | God announced his intent to destroy sinful humanity and to save his faithful followers. |
-| **Session 6: The Coming** (Luke 1:1–2:21) | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy. |
-| **Session 7: The Cross** (Mark 15:1–16:8) | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
-| **Session 8: The Spirit** (Acts 1:1–2:47) | After Jesus' heavenly ascension, the Holy Spirit came upon the first Christians, making them powerful witnesses of Christ. |
-| **Session 9: The Change** (Acts 10:1–11:18) | Cornelius and his household heard the gospel message preached by Peter and responded to it in faith. |
-| **Session 10: The Church** (Revelation 1:9–3:22) | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion. |
-| **Session 11: The Kingdom** (Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom. |
-| **Session 12: The Finale** (Revelation 19:11–22:21) | John wrote his vision of the new creation of the world. |
+| **Session 1: The Battle**<br>(Job 1:1–2:13) | Job demonstrated genuine faith as he suffered painfully. |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3) | The eternal and sovereign God created the whole world by his powerful word. |
+| **Session 3: The Image**<br>(Genesis 2:4–25) | God made the first humans and placed them in his garden paradise. |
+| **Session 4: The Fall**<br>(Genesis 3:1–24) | The first humans doubted God's word, disobeyed his command, and ruined God's perfect world with their prideful sin. |
+| **Session 5: The Promise**<br>(Genesis 5:28–9:17) | God announced his intent to destroy sinful humanity and to save his faithful followers. |
+| **Session 6: The Coming**<br>(Luke 1:1–2:21) | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy. |
+| **Session 7: The Cross**<br>(Mark 15:1–16:8) | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
+| **Session 8: The Spirit**<br>(Acts 1:1–2:47) | After Jesus' heavenly ascension, the Holy Spirit came upon the first Christians, making them powerful witnesses of Christ. |
+| **Session 9: The Change**<br>(Acts 10:1–11:18) | Cornelius and his household heard the gospel message preached by Peter and responded to it in faith. |
+| **Session 10: The Church**<br>(Revelation 1:9–3:22) | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion. |
+| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom. |
+| **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world. |
 
 ### Key Idea
 
