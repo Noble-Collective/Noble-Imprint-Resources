@@ -41,13 +41,13 @@ The twelve biblical texts in this study establish believers in essentials of Chr
 
 What we believe matters. In fact, our convictions about what is true are of utmost importance. From our foundations of belief, we form an understanding of God, ourselves, and the world. These faith foundations impact the way we live in the world and relate to others. They determine our present wellbeing and our future destiny. Our beliefs impact our emotions and drive our conduct. They shape what we consider beautiful and what we confront as evil. While no person can understand reality with exhaustive precision, it is possible to come to a true and accurate understanding of reality. With the Bible as a sure and sacred guide, disciples can understand what God is doing in the world. And, having come to a clear conviction of this narrative—the story behind it all—believers can align their own personal life story with the trajectory of God's unfolding story.
 
-## Survey the Landscape
+## Book Overview: Surveying the Landscape
 
-_Discipleship is a process of establishing believers in the essentials of the Christian faith. In this section, explore the core content, consider the key idea, and articulate particular areas of interest in this study._
+<!-- @include: Opening_BookOverview_Directions -->
 
 ### Core Content
 
-An outline of Christian teaching is like a map for the journey of faith. Survey the twelve scriptural passages and associated themes that will set the itinerary for your upcoming study.
+<!-- @include: Opening_CoreContent_Directions -->
 
 - **Session 1: The Battle** (Job 1:1–2:13) — Job demonstrated genuine faith as he suffered painfully.
 
@@ -75,13 +75,13 @@ An outline of Christian teaching is like a map for the journey of faith. Survey 
 
 ### Key Idea
 
-Faithful disciples plant firm roots in the soil of biblical principles. Review the main idea of this study. Discuss how the individual narratives and corresponding themes relate to this overarching theme.
+<!-- @include: Opening_KeyIdea_Directions -->
 
 <Accent>Key Idea:</Accent> _Disciples of Christ are as strong in faith as they are established in the essentials of Christian belief._
 
 ### Personal Interest
 
-The essentials of the Christian faith are extremely relevant to our lives. Pick one or two biblical passages or study themes that capture your attention. Briefly discuss with your community what most interests you about these narratives and topics.
+<!-- @include: Opening_PersonalInterest_Directions -->
 
 <Question id=TheStoryOpening-Interest-Q1>1. Which biblical narrative or study topic is most relevant to your cultural context?</Question>
 
@@ -89,11 +89,11 @@ The essentials of the Christian faith are extremely relevant to our lives. Pick 
 
 ## Faith Foundation: Exploring the Terrain
 
-_God calls his people to move beyond a superficial understanding of Christian essentials. Use the discussion questions and key quotes to ponder with others how the subject area of study is of great importance in the Christian faith._
+<!-- @include: Opening_FaithFoundation_Directions -->
 
 ### Discussion Questions
 
-Disciples progress in the faith in the context of committed Christian community. Discuss the following questions with other believers as a means to orient your community to the subject of this study.
+<!-- @include: Opening_Discussion_Directions -->
 
 <Question id=TheStoryOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
 
@@ -103,7 +103,7 @@ Disciples progress in the faith in the context of committed Christian community.
 
 ### Significant Quote
 
-Christians learn from believers who live in different generations and cultures. Read the following quote and discuss with others what it suggests about the importance of Christian witness.
+<!-- @include: Opening_SignificantQuote_Directions -->
 
 > A Church which is a mere boneless body, like a jelly-fish, a colourless, bloodless, creedless Pantheon, in which every one is right and nobody is wrong who is in earnest, and in which it does not matter a jot what is preached and taught, so long as the preachers are sincere, — such a Church is an unpractical absurdity, and the baseless fabric of a dream. The Church which abandons all limits, and will not proclaim to mankind what it believes, or would have its members believe, may do very well for Cloudland or Utopia ; but it will never do for a world where there are tears and crosses, troubles and sorrows, sickness and death.
 
@@ -113,17 +113,15 @@ Record any initial observations or community insights below.
 
 ## Learning Plan: Charting the Course
 
-_Formative biblical interpretation fosters Christian growth as the faith community purposefully engages the scriptural text. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey._
+<!-- @include: Opening_LearningPlan_Directions -->
 
 ### Session Framework
 
-The Scriptures bear authority over every area of our lives. To deeply understand any particular passage, disciples must engage the text at various levels. In the Narrative Journey series, a common study framework is applied to each core session. This common framework helps disciples engage each biblical passage in exegetical, theological, personal, ministry, and missional ways. This dynamic hermeneutical approach (a spiraling process through five movements that serves to deepen your understanding as you engage the text multiple times) helps believers and churches faithfully engage the Scriptures for life transformation.
-
-Review the five movements of this interpretive framework and discuss how this hermeneutical approach helps individuals and communities engage the biblical text in a way that reforms our thinking and changes our lives.
+<!-- @include: Opening_SessionFramework_Intro -->
 
 ### Planning Calendar
 
-Wisdom calls believers and the community to approach an ordered process of faith development with diligence and preparation. Use the following calendar to plan out dates and teachers for the various sessions in this study.
+<!-- @include: Opening_PlanningCalendar_Directions -->
 
 - **Session 1: The Battle** (Job 1:1–2:13)
 
@@ -151,7 +149,7 @@ Wisdom calls believers and the community to approach an ordered process of faith
 
 ## Core Project: Synthesizing the Faith
 
-_Genuine disciples integrate the truth of God's word into their personal and community life. In this section, you will preview the capstone project, view an example confessional statement, and imagine how God might want to change your life through this study._
+<!-- @include: Opening_CoreProject_Directions -->
 
 ### Project Preview
 
@@ -176,7 +174,7 @@ As we journey toward Christian maturity, we should learn from other disciples. A
 
 ### Imaginative Storytelling
 
-Believers in Jesus look forward to the future with hope and anticipation. As you consider the overarching topic of this study, think about how God wants to mature you in the faith. Specifically, imagine how your life would be different as God grows you into a mature Christian.
+<!-- @include: Opening_ImaginativeStorytelling_Directions -->
 
 If I could know the truth about life, these are some things I would want to understand…
 
@@ -184,11 +182,11 @@ If I could grow in my understanding of the truth, this is how my life would look
 
 ## Faith Practice: Following the Way
 
-_Discipleship involves a lifetime of following Jesus in a context of Christian community. Familiarize yourself with the growth outcomes of this study, identify an area of focus, and pray for God's transformative work in the course of the upcoming weeks._
+<!-- @include: Opening_FaithPractice_Directions -->
 
 ### Growth Outcomes
 
-Setting growth goals helps to refine our Christian walk. As you look ahead to the upcoming study, read through the following outcomes to clarify ways in which God would have you grow in your faith.
+<!-- @include: Opening_GrowthOutcomes_Directions -->
 
 As a result of this study, disciples, families, and churches will …
 - **establish** a mature Christian understanding of the essentials of the Christian faith
@@ -198,8 +196,8 @@ As a result of this study, disciples, families, and churches will …
 
 ### Focused Area
 
-Growth in the Christian life often happens one step at a time. Identify one of the above outcomes in which you want to grow. Name this specific outcome to your community, asking them to support you in prayer.
+<!-- @include: Opening_FocusedArea_Directions -->
 
 ### Community Prayer
 
-We depend upon God's power to grow each step in our Christian journeys. Pray that God would help each person in your community mature in the identified growth areas. Feel free to use the space below to write out a personal prayer or record requests from other members that you can keep in prayer throughout the course of this study.
+<!-- @include: Opening_CommunityPrayer_Directions -->

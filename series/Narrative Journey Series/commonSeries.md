@@ -356,3 +356,72 @@ God calls us to follow him in all spheres of life: individual, family, church, a
 <Recall_FaithPractice_CommunityPrayer>
 We can only hope to grow in our faith by God's divine help. In the context of your faith community, celebrate areas of growth and share upcoming goals. Then, spend time praying for each other as a community.
 </Recall_FaithPractice_CommunityPrayer>
+
+
+<!-- ───────────────── The Opening — shared framework blocks ───────────────── -->
+
+<Opening_BookOverview_Directions>
+_Discipleship is a process of establishing believers in the essentials of the Christian faith. In this section, explore the core content, consider the key idea, and articulate particular areas of interest in this study._
+</Opening_BookOverview_Directions>
+
+<Opening_CoreContent_Directions>
+An outline of Christian teaching is like a map for the journey of faith. Survey the twelve scriptural passages and associated themes that will set the itinerary for your upcoming study.
+</Opening_CoreContent_Directions>
+
+<Opening_KeyIdea_Directions>
+Faithful disciples plant firm roots in the soil of biblical principles. Review the main idea of this study. Discuss how the individual narratives and corresponding themes relate to this overarching theme.
+</Opening_KeyIdea_Directions>
+
+<Opening_PersonalInterest_Directions>
+The essentials of the Christian faith are extremely relevant to our lives. Pick one or two biblical passages or study themes that capture your attention. Briefly discuss with your community what most interests you about these narratives and topics.
+</Opening_PersonalInterest_Directions>
+
+<Opening_FaithFoundation_Directions>
+_God calls his people to move beyond a superficial understanding of Christian essentials. Use the discussion questions and key quote to ponder with others how the subject area of study is of great importance in the Christian faith._
+</Opening_FaithFoundation_Directions>
+
+<Opening_Discussion_Directions>
+Disciples progress in the faith in the context of committed Christian community. Discuss the following questions with other believers as a means to orient your community to the subject of this study.
+</Opening_Discussion_Directions>
+
+<Opening_SignificantQuote_Directions>
+Christians learn from believers who live in different generations and cultures. Read the following quote and discuss with others what it suggests about the importance of Christian witness.
+</Opening_SignificantQuote_Directions>
+
+<Opening_LearningPlan_Directions>
+_Formative biblical interpretation fosters Christian growth as the faith community purposefully engages the scriptural text. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey._
+</Opening_LearningPlan_Directions>
+
+<Opening_SessionFramework_Intro>
+The Scriptures bear authority over every area of our lives. To deeply understand any particular passage, disciples must engage the text at various levels. In the Narrative Journey series, a common study framework is applied to each core session. This common framework helps disciples engage each biblical passage in exegetical, theological, personal, ministry, and missional ways. This dynamic hermeneutical approach (a spiraling process through five movements that serves to deepen your understanding as you engage the text multiple times) helps believers and churches faithfully engage the Scriptures for life transformation.
+
+Review the five movements of this interpretive framework and discuss how this hermeneutical approach helps individuals and communities engage the biblical text in a way that reforms our thinking and changes our lives.
+</Opening_SessionFramework_Intro>
+
+<Opening_PlanningCalendar_Directions>
+Wisdom calls believers and the community to approach an ordered process of faith development with diligence and preparation. Use the following calendar to plan out dates and teachers for the various sessions in this study.
+</Opening_PlanningCalendar_Directions>
+
+<Opening_CoreProject_Directions>
+_Genuine disciples integrate the truth of God's word into their personal and community life. In this section, you will preview the capstone project, view an example confessional statement, and imagine how God might want to change your life through this study._
+</Opening_CoreProject_Directions>
+
+<Opening_ImaginativeStorytelling_Directions>
+Believers in Jesus look forward to the future with hope and anticipation. As you consider the overarching topic of this study, think about how God wants to mature you in the faith. Specifically, imagine how your life would be different as God grows you into a mature Christian.
+</Opening_ImaginativeStorytelling_Directions>
+
+<Opening_FaithPractice_Directions>
+_Discipleship involves a lifetime of following Jesus in a context of Christian community. Familiarize yourself with the growth outcomes of this study, identify an area of focus, and pray for God's transformative work in the course of the upcoming weeks._
+</Opening_FaithPractice_Directions>
+
+<Opening_GrowthOutcomes_Directions>
+Setting growth goals helps to refine our Christian walk. As you look ahead to the upcoming study, read through the following outcomes to clarify ways in which God would have you grow in your faith.
+</Opening_GrowthOutcomes_Directions>
+
+<Opening_FocusedArea_Directions>
+Growth in the Christian life often happens one step at a time. Identify one of the above outcomes in which you want to grow. Name this specific outcome to your community, asking them to support you in prayer.
+</Opening_FocusedArea_Directions>
+
+<Opening_CommunityPrayer_Directions>
+We depend upon God's power to grow each step in our Christian journeys. Pray that God would help each person in your community mature in the identified growth areas. Feel free to use the space below to write out a personal prayer or record requests from other members that you can keep in prayer throughout the course of this study.
+</Opening_CommunityPrayer_Directions>
