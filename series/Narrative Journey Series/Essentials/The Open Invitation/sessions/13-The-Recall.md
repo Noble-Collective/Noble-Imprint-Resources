@@ -4,12 +4,10 @@
 
 ### Key Elements
 - **Key Passage** - Review
-- **Scripture Memory** - __________
-- **Catechism** - __________
+- **Scripture Memory** - ____
+- **Catechism** - ____
 
 ## Conclusion
-
-__________
 
 ## Book Overview: Surveying the Landscape
 
@@ -77,37 +75,33 @@ __________
 
 <!-- @include: Recall_LearningPlan_RecommendedReading -->
 
-- **Session 1: The Temple** — __________
+- **Session 1: The Temple** — ____
 
-- **Session 2: The Meal** — __________
+- **Session 2: The Meal** — ____
 
-- **Session 3: The Retreat** — __________
+- **Session 3: The Retreat** — ____
 
-- **Session 4: The Well** — __________
+- **Session 4: The Well** — ____
 
-- **Session 5: The Towel** — __________
+- **Session 5: The Towel** — ____
 
-- **Session 6: The Garden** — __________
+- **Session 6: The Garden** — ____
 
-- **Session 7: The Mountain** — __________
+- **Session 7: The Mountain** — ____
 
-- **Session 8: The Treasure** — __________
+- **Session 8: The Treasure** — ____
 
-- **Session 9: The Flask** — __________
+- **Session 9: The Flask** — ____
 
-- **Session 10: The Scroll** — __________
+- **Session 10: The Scroll** — ____
 
-- **Session 11: The Wilderness** — __________
+- **Session 11: The Wilderness** — ____
 
-- **Session 12: The Sabbath** — __________
+- **Session 12: The Sabbath** — ____
 
 ## Core Project: Synthesizing the Faith
 
 <!-- @include: Recall_CoreProject_Directions -->
-
-### __________
-
-__________
 
 ### Journal Reflection
 
@@ -123,11 +117,11 @@ __________
 
 | Objective | Exemplary | Mature | Developing | Emerging | Unsound |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Conviction:** establish a mature Christian __________ | deep understanding of __________ | accurate understanding of __________, grounded in core biblical teaching as a countercultural worldview | growing but partial familiarity with __________, learning biblical foundations and perceiving cultural errors | general awareness of __________, willing to engage Bible as source of truth and realizing faults in wider culture | deficient views of __________, hesitant to trust biblical teaching and broad conformity to cultural norms |
-| **Commitment:** cultivate a deepening commitment to __________ | exemplary devotion to __________ | clear and compelling commitment to __________, embracing __________ | eager pursuit of mature Christian __________, upholding the central importance of __________ | initial interest and attraction to Christian __________, open to being trained and instructed in biblical teaching | open resistance and opposition to __________, being reluctant and averse to __________ |
-| **Conduct:** demonstrate __________ | sound and rich command of __________ | convincing maturity in __________, demonstrating biblical orientation and faith foundations in __________ | noticeable progress in __________, making __________ | early movement to __________, exerting effort and energy to __________ | disordered and dysfunctional __________, being ignorant of and inattentive to truth |
-| **Community:** undertake __________ in family, church, and society | lasting contribution in __________ | active engagement in all __________, making personal investment __________ | expanding participation in __________, developing a sense of __________ | beginning involvement __________, seeking __________ | misplaced focus on one's role __________, displaying __________ |
-| **Character:** embody __________ | obvious appropriation of __________ | clear demonstration of core virtues that __________, showing the fruit of Christian character | promising signs of being reformed __________, practicing repentance __________ | first indications that one is reorienting life after biblical __________, possessing a desire to pursue __________ | obvious lack of Christian character, life gripped by destructive __________ |
+| **Conviction:** establish a mature Christian ____ | deep understanding of ____ | accurate understanding of ____, grounded in core biblical teaching as a countercultural worldview | growing but partial familiarity with ____, learning biblical foundations and perceiving cultural errors | general awareness of ____, willing to engage Bible as source of truth and realizing faults in wider culture | deficient views of ____, hesitant to trust biblical teaching and broad conformity to cultural norms |
+| **Commitment:** cultivate a deepening commitment to ____ | exemplary devotion to ____ | clear and compelling commitment to ____, embracing ____ | eager pursuit of mature Christian ____, upholding the central importance of ____ | initial interest and attraction to Christian ____, open to being trained and instructed in biblical teaching | open resistance and opposition to ____, being reluctant and averse to ____ |
+| **Conduct:** demonstrate ____ | sound and rich command of ____ | convincing maturity in ____, demonstrating biblical orientation and faith foundations in ____ | noticeable progress in ____, making ____ | early movement to ____, exerting effort and energy to ____ | disordered and dysfunctional ____, being ignorant of and inattentive to truth |
+| **Community:** undertake ____ in family, church, and society | lasting contribution in ____ | active engagement in all ____, making personal investment ____ | expanding participation in ____, developing a sense of ____ | beginning involvement ____, seeking ____ | misplaced focus on one's role ____, displaying ____ |
+| **Character:** embody ____ | obvious appropriation of ____ | clear demonstration of core virtues that ____, showing the fruit of Christian character | promising signs of being reformed ____, practicing repentance ____ | first indications that one is reorienting life after biblical ____, possessing a desire to pursue ____ | obvious lack of Christian character, life gripped by destructive ____ |
 
 ### Next Steps
 
