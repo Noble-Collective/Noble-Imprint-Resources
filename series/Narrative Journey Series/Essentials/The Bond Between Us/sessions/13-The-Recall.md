@@ -1,0 +1,130 @@
+# The Recall
+
+## Overview
+
+### Key Elements
+- **Key Passage** - Review
+- **Scripture Memory** - "Carry one another's burdens, and in this way you will fulfill the law of Christ." Galatians 6:2
+- **Catechism** - Q: How are Christians to relate to one another? A: Community.
+
+## Conclusion
+
+> For where two or three gather together in My name, there am I with them.
+
+<< Matthew 18:20
+
+> Woe to him that is alone. David was alone when, Satan drew him to defile his neighbor's wife. While the sheep flock together they are safe, as being under the shepherd's eye; but if one straggle from the rest, it is quickly a prey to the ravenous wolf. It is no hard matter to rob that house that stands far from neighbors. The cruel pirate Satan watches for those vessels that sail without a convoy.
+
+<< George Swinnock, _The Christian Man's Calling_
+
+In this study, we coursed through biblical waters to discover God's plan for Christian community. Knowing that God is himself is a community—God the Father, God the Son, and God the Holy Spirit—we would expect no less than interpersonal relationships being a vital component of our Christian faith. In fact, the path toward Christian maturity involves growth in the way we interact with others. The Scriptures instruct disciples how to faithfully relate to others in various spheres of life. It is this simple and important agenda that has occupied the sessions of this book.
+
+The first six sessions of this book explored elements of Christian community that grow out of an ordered family. In Genesis 15:1–19:38, we saw the foundational and formative importance of the family in shaping all other interpersonal relationships. The narrative about Isaac and Rebekah in Genesis 24:1–67 provided a meaningful portrait of marriage: a sacred union of one man and one woman joined together in covenant relationship. Within the context of a godly marriage, parents raise their children to follow God's ways. In 1 Samuel 1:1–3:21 we recounted principles of parenting from Hannah and Samuel (and the contrast of Eli and his sons). The deep bond of friendship between David and Jonathan in 1 Samuel 18:1–20:42 provided an inspiring vision for genuine friendship and fraternal camaraderie. In Daniel 1:1–2:49 and 4:1–6:28, we observed Daniel navigate meaningful engagement in the public sector in a way that was faithful to God's ways. Then, we witnessed Nehemiah embrace his vocation (and lifework) in Nehemiah 1:1–7:73 in such a way that is instructive for disciples of all cultures and epochs.
+
+God builds his people—the community of faith—as an ordered household. In Mark 3:7–35, we saw Jesus build his church as a family of faithful Christ followers. Heeding Jesus' teaching in Matthew 17:22–18:35, we learned about essential community virtues that bind God's people together in genuine care and selfless service. Christian community is enjoyed with such a depth that members steward (and even sell) their possessions to meet urgent needs within the community of faith, as we saw in Acts 4:32–6:7. Christians need to learn how to relate to leaders and other churches. The narrative of Acts 14:19–16:5 helped guide us toward this end. Placed in a hostile world of competing values, Christians need to learn to winsomely and wisely engage various domains of society. A brief glimpse at Paul's second missionary journey in Acts 16:11–17:33 helped facilitate this exploration. Finally, Paul's circuitous journey to Rome in Acts 27:1–28:31 helped to instruct us how Christians should engage those who are outsiders.
+
+This study does not cover everything that can (and should) be said about Christian community. It does, however, offer an introductory and formative exposure to this most important topic of the Christian faith. The narratives are as instructional as they are inspiring. We simply cannot mature in our faith without attending to the domain of interpersonal relationships. As we grow in these various spheres—and strengthen the bond between us—we progress as disciples of Christ. Such progress leads us one step further toward the rich joys and blessings promised for followers of Jesus. In this final session, use the following pages as a means to review, synthesize, commit, and celebrate all that God has done in your midst!
+
+## Book Overview: Surveying the Landscape
+
+<!-- @include: Recall_BookOverview_Directions -->
+
+### Key Idea
+
+<!-- @include: Recall_BookOverview_KeyIdea -->
+
+### Story Retell
+
+<!-- @include: Recall_BookOverview_StoryRetell -->
+
+### Narrative Review
+
+<!-- @include: Recall_BookOverview_NarrativeReview -->
+
+## Faith Foundation: Exploring the Terrain
+
+<!-- @include: Recall_FaithFoundation_Directions -->
+
+### Discussion Questions
+
+<!-- @include: Recall_FaithFoundation_DiscussionDirections -->
+
+<!-- @include: Recall_FaithFoundation_DiscussionQuestions id="TheBondBetweenUsRecall-Discussion" -->
+
+### Significant Insights
+
+<!-- @include: Recall_FaithFoundation_SignificantInsights -->
+
+## Learning Plan: Charting the Course
+
+<!-- @include: Recall_LearningPlan_Directions -->
+
+### Selected Passages
+
+<!-- @include: Recall_LearningPlan_SelectedPassages -->
+
+| Session | Topic | Passages |
+| :--- | :--- | :--- |
+| Session 1 |  |  |
+| Session 2 |  |  |
+| Session 3 |  |  |
+| Session 4 |  |  |
+| Session 5 |  |  |
+| Session 6 |  |  |
+| Session 7 |  |  |
+| Session 8 |  |  |
+| Session 9 |  |  |
+| Session 10 |  |  |
+| Session 11 |  |  |
+| Session 12 |  |  |
+
+### Recommended Reading
+
+<!-- @include: Recall_LearningPlan_RecommendedReading -->
+
+| Session | Topic | Recommended Reading |
+| :--- | :--- | :--- |
+| Session 1 |  |  |
+| Session 2 |  |  |
+| Session 3 |  |  |
+| Session 4 |  |  |
+| Session 5 |  |  |
+| Session 6 |  |  |
+| Session 7 |  |  |
+| Session 8 |  |  |
+| Session 9 |  |  |
+| Session 10 |  |  |
+| Session 11 |  |  |
+| Session 12 |  |  |
+
+## Core Project: Synthesizing the Faith
+
+<!-- @include: Recall_CoreProject_Directions -->
+
+### Journal Reflection
+
+<!-- @include: Recall_CoreProject_JournalReflection -->
+
+## Faith Practice: Following the Way
+
+<!-- @include: Recall_FaithPractice_Directions -->
+
+### Growth Evaluation
+
+<!-- @include: Recall_FaithPractice_GrowthEvaluation -->
+
+| Objective | Exemplary | Mature | Developing | Emerging | Unsound |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Conviction:** establish a mature Christian perspective of interpersonal relationships | deep understanding of God-honoring relationships, using scriptural passages to contend against culture values | accurate understanding of godly relationships, grounded in core biblical teaching as a countercultural worldview | growing but partial familiarity with God's design for relationships, learning biblical foundations and perceiving cultural errors | general awareness of ordered relationships across various life spheres, willing to engage Bible as source of truth and realizing faults in wider culture | deficient views of interpersonal relationships, hesitant to trust biblical teaching and broad conformity to cultural norms |
+| **Commitment:** cultivate a deepening commitment to God's plan for the family and church in society | exemplary devotion to God's plan for relationships, defending family and church as foundations for societal impact | clear and compelling commitment to godly relationships, embracing God's design for family and church in wider society | eager pursuit of mature Christian relationality, upholding the central importance of family and church community | initial interest and attraction to Christian lifestyle, open to being trained and instructed in biblical teaching of family and church | open resistance and opposition to God's order for interpersonal relationships, being reluctant and averse to shape relationships God's way |
+| **Conduct:** demonstrate rightly ordered relationships across life spheres | sound order and rich experience across relational spheres, serving as a model and competent guide to other believers | convincing maturity in relational spheres, demonstrating biblical orientation and faith foundations in interactions with others | noticeable progress in aligning relationships after God's design, making healthy adjustments in various relationships | early movement to structure relationships in healthy and sound ways, exerting effort and energy to reorder some relationships | disordered and dysfunctional relationships in many spheres of life, being ignorant of and inattentive to truth |
+| **Community:** undertake meaningful participation in family, church, and society | lasting contribution in various relationships, assuming leadership responsibility for others | active engagement in all life relationships, making personal investment in the well-being of others | expanding participation in various life spheres, developing a sense of accountability for relationships | beginning involvement across life relationships, seeking godly balance and involvement in the lives of others | misplaced focus on one's role in relationships, displaying a spirit of self-interest and self-centeredness |
+| **Character:** embody spiritual fruit of core relational virtues | obvious appropriation of Christian virtues into one's life, embracing growth as a lifelong pursuit | clear demonstration of core virtues that foster mature relationships, showing fruit of Christian character | promising signs of being reformed after the ways of Jesus, practicing repentance and obedience | first indications that one is reorienting life after biblical values, possessing a desire to pursue godliness | obvious lack of Christian character, life gripped by destructive vices and sinful passions |
+
+### Next Steps
+
+<!-- @include: Recall_FaithPractice_NextSteps id="TheBondBetweenUsRecall-NextSteps" -->
+
+### Community Prayer
+
+<!-- @include: Recall_FaithPractice_CommunityPrayer -->

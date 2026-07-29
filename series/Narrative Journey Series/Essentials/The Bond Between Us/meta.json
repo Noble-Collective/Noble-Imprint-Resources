@@ -3,12 +3,15 @@
   "subtitle": "A Narrative Journey of Christian Community",
   "order": 4,
   "color": {
-    "##": "#000000",
-    "###": "#000000",
-    "####": "#000000",
-    "#####": "#000000"
+    "#": "#de6d36",
+    "##": "#de6d36",
+    "###": "#de6d36",
+    "####": "#de6d36",
+    "#####": "#de6d36",
+    "######": "#de6d36"
   },
-  "banner": "Preview",
+  "accent": "#de6d36",
+  "banner": "Pre-Release",
   "status": "public",
   "maxNavHeadingLevel": 3
 }
