@@ -65,18 +65,18 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 | Session | Topic | Passages |
 | :--- | :--- | :--- |
-| Session 1 | Faith | Deuteronomy 6:1–25; Job 42:1–17; Psalm 42:1–11; Isaiah 26:1–21; John 16:16–33; Romans 5:1–11; Hebrews 12:1–17; James 5:7–20 |
-| Session 2 | Creation | Psalm 19:1–14; 104:1–25; 147:1–20; Isaiah 41:1–29; 42:1–17; 43:1–28; 44:1–28; John 1:1–18; Colossians 1:15–23; Hebrews 1:1–14 |
-| Session 3 | Humanity | Psalm 8:1–9; 139:1–24; Ecclesiastes 1:1–18; Jeremiah 1:1–19; Matthew 12:1–14; James 2:1–13; 1 John 2:28–3:24 |
-| Session 4 | Sin | Genesis 11:1–9; Psalm 32:1–11; 51:1–19; Jeremiah 17:1–13; Romans 1:18–32; 2:1–29; 3:1–31; 5:12–21; Ephesians 2:1–10; James 1:1–27 |
-| Session 5 | Promise | Jeremiah 31:31–40; Psalm 78:1–72; Romans 4:13–25; 2 Corinthians 3:1–18; Hebrews 6:13–20; 2 Peter 3:1–13 |
-| Session 6 | Jesus' Birth | Genesis 18:1–21; 32:22–32; Joshua 5:1–15; Daniel 3:1–30; Isaiah 7:10–25; 9:1–7; Matthew 1:1–25; John 1:19–34; Philippians 2:1–30 |
-| Session 7 | Jesus' Death and Resurrection | Genesis 22:1–24; Isaiah 52:13–53:12; Matthew 26:1–75; John 10:1–21; – Titus 3:1–15; Hebrews 9:1–28; 10:1–18; 1 Peter 2:18–25; 1 John 1:1–2:6 |
-| Session 8 | Holy Spirit | – Isaiah 61:1–11; Ezekiel 36:22–38; 37:1–14; Joel 2:1–32; John 14:15–31; 15:26–16:15; Romans 8:1–17; Galatians 5:16–26 |
-| Session 9 | Conversion | John 3:1–21; Acts 9:1–31; Romans 10:1–21; Ephesians 1:1–23; Philippians 3:1–4:1; Colossians 3:1–17 |
-| Session 10 | Church | Exodus 19:1–25; 1 Corinthians 12:12–31; 1 Corinthians 14:26–40; Ephesians 2:11–22; Hebrews 10:19–39; 1 Peter 2:1–12 |
-| Session 11 | Kingdom | Psalm 2:1–12; Daniel 2:1–49; Matthew 13:24–58; 25:1–30; 2 Timothy 4:1–22; Hebrews 12:18–29; Revelation 4:1–5:14 |
-| Session 12 | Future Hope | Isaiah 65:1–25; 66:1–24; Zechariah 14:1–21; Daniel 7:1–28; 1 Corinthians 15:1–58; 2 Corinthians 5:1–21; 1 Thessalonians 4:13–5:11 |
+| Session 1 | Faith | Deuteronomy 6:1–25; Job 42:1–17; Psalm 42:1–11; Isaiah 26:1–21; John 16:16–33; Romans 5:1–11; Hebrews 12:1–17; James 5:7–20 |
+| Session 2 | Creation | Psalm 19:1–14; 104:1–25; 147:1–20; Isaiah 41:1–29; 42:1–17; 43:1–28; 44:1–28; John 1:1–18; Colossians 1:15–23; Hebrews 1:1–14 |
+| Session 3 | Humanity | Psalm 8:1–9; 139:1–24; Ecclesiastes 1:1–18; Jeremiah 1:1–19; Matthew 12:1–14; James 2:1–13; 1 John 2:28–3:24 |
+| Session 4 | Sin | Genesis 11:1–9; Psalm 32:1–11; 51:1–19; Jeremiah 17:1–13; Romans 1:18–32; 2:1–29; 3:1–31; 5:12–21; Ephesians 2:1–10; James 1:1–27 |
+| Session 5 | Promise | Jeremiah 31:31–40; Psalm 78:1–72; Romans 4:13–25; 2 Corinthians 3:1–18; Hebrews 6:13–20; 2 Peter 3:1–13 |
+| Session 6 | Jesus' Birth | Genesis 18:1–21; 32:22–32; Joshua 5:1–15; Daniel 3:1–30; Isaiah 7:10–25; 9:1–7; Matthew 1:1–25; John 1:19–34; Philippians 2:1–30 |
+| Session 7 | Jesus' Death and Resurrection | Genesis 22:1–24; Isaiah 52:13–53:12; Matthew 26:1–75; John 10:1–21; Titus 3:1–15; Hebrews 9:1–28; 10:1–18; 1 Peter 2:18–25; 1 John 1:1–2:6 |
+| Session 8 | Holy Spirit | Isaiah 61:1–11; Ezekiel 36:22–38; 37:1–14; Joel 2:1–32; John 14:15–31; 15:26–16:15; Romans 8:1–17; Galatians 5:16–26 |
+| Session 9 | Conversion | John 3:1–21; Acts 9:1–31; Romans 10:1–21; Ephesians 1:1–23; Philippians 3:1–4:1; Colossians 3:1–17 |
+| Session 10 | Church | Exodus 19:1–25; 1 Corinthians 12:12–31; 1 Corinthians 14:26–40; Ephesians 2:11–22; Hebrews 10:19–39; 1 Peter 2:1–12 |
+| Session 11 | Kingdom | Psalm 2:1–12; Daniel 2:1–49; Matthew 13:24–58; 25:1–30; 2 Timothy 4:1–22; Hebrews 12:18–29; Revelation 4:1–5:14 |
+| Session 12 | Future Hope | Isaiah 65:1–25; 66:1–24; Zechariah 14:1–21; Daniel 7:1–28; 1 Corinthians 15:1–58; 2 Corinthians 5:1–21; 1 Thessalonians 4:13–5:11 |
 
 ### Recommended Reading
 
@@ -84,18 +84,18 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 | Session | Topic | Recommended Reading |
 | :--- | :--- | :--- |
-| Session 1 | Faith | Paul David Tripp, _Suffering: Gospel Hope When Life Doesn't Make Sense_; Christopher J. H. Wright, _The God I Don't Understand_ |
-| Session 2 | Creation | Andrew Peterson, _The God of the Garden_; Jonathan R. Wilson, _God's Good World_ |
-| Session 3 | Humanity | Anthony A. Hoekema, _Created in God's Image_; Owen Strachan, _Reenchanting Humanity_ |
-| Session 4 | Sin | G. K. Beale, _We Become What We Worship_; Cornelius Plantinga, _Not the Way It's Supposed to Be_ |
-| Session 5 | Promise | Walter C. Kaiser, Jr., _The Promise-Plan of God_; Paul R. Williamson, _Sealed with an Oath_ |
-| Session 6 | Jesus' Birth | Michael Reeves, _Rejoicing in Christ_; Benjamin B. Warfield, _The Lord of Glory_ |
-| Session 7 | Jesus' Death and Resurrection | John Stott, _The Cross of Christ_; D. Martyn Lloyd-Jones, _The Cross: God's Way of Salvation_ |
-| Session 8 | Holy Spirit | Sinclair B. Ferguson, _The Holy Spirit_; R. C. Sproul, _The Mystery of the Holy Spirit_ |
-| Session 9 | Conversion | Augustine, _The Confessions_; Charles H. Spurgeon, _All of Grace_ |
-| Session 10 | Church | Robert J. Banks, _Paul's Idea of Community_; Francis A. Schaeffer, _The Church before the Watching World_ |
-| Session 11 | Kingdom | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants -_ Scot McKnight_, Kingdom Conspiracy_ |
-| Session 12 | Future Hope | John Piper, _Come, Lord Jesus_; N. T. Wright, _Surprised by Hope_ |
+| Session 1 | Faith | Paul David Tripp, _Suffering: Gospel Hope When Life Doesn't Make Sense_<br>Christopher J. H. Wright, _The God I Don't Understand_ |
+| Session 2 | Creation | Andrew Peterson, _The God of the Garden_<br>Jonathan R. Wilson, _God's Good World_ |
+| Session 3 | Humanity | Anthony A. Hoekema, _Created in God's Image_<br>Owen Strachan, _Reenchanting Humanity_ |
+| Session 4 | Sin | G. K. Beale, _We Become What We Worship_<br>Cornelius Plantinga, _Not the Way It's Supposed to Be_ |
+| Session 5 | Promise | Walter C. Kaiser, Jr., _The Promise-Plan of God_<br>Paul R. Williamson, _Sealed with an Oath_ |
+| Session 6 | Jesus' Birth | Michael Reeves, _Rejoicing in Christ_<br>Benjamin B. Warfield, _The Lord of Glory_ |
+| Session 7 | Jesus' Death and Resurrection | John Stott, _The Cross of Christ_<br>D. Martyn Lloyd-Jones, _The Cross: God's Way of Salvation_ |
+| Session 8 | Holy Spirit | Sinclair B. Ferguson, _The Holy Spirit_<br>R. C. Sproul, _The Mystery of the Holy Spirit_ |
+| Session 9 | Conversion | Augustine, _The Confessions_<br>Charles H. Spurgeon, _All of Grace_ |
+| Session 10 | Church | Robert J. Banks, _Paul's Idea of Community_<br>Francis A. Schaeffer, _The Church before the Watching World_ |
+| Session 11 | Kingdom | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants -_ Scot McKnight_, Kingdom Conspiracy_ |
+| Session 12 | Future Hope | John Piper, _Come, Lord Jesus_<br>N. T. Wright, _Surprised by Hope_ |
 
 ## Core Project: Synthesizing the Faith
 

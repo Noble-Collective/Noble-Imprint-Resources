@@ -65,18 +65,18 @@ God's word is not only a record of his redemptive acts throughout history, it is
 
 | Session | Topic | Passages |
 | :--- | :--- | :--- |
-| Session 1 |  |  |
-| Session 2 |  |  |
-| Session 3 |  |  |
-| Session 4 |  |  |
-| Session 5 |  |  |
-| Session 6 |  |  |
-| Session 7 |  |  |
-| Session 8 |  |  |
-| Session 9 |  |  |
-| Session 10 |  |  |
-| Session 11 |  |  |
-| Session 12 |  |  |
+| Session 1 |  |  |
+| Session 2 |  |  |
+| Session 3 |  |  |
+| Session 4 |  |  |
+| Session 5 |  |  |
+| Session 6 |  |  |
+| Session 7 |  |  |
+| Session 8 |  |  |
+| Session 9 |  |  |
+| Session 10 |  |  |
+| Session 11 |  |  |
+| Session 12 |  |  |
 
 ### Recommended Reading
 
@@ -84,18 +84,18 @@ God's word is not only a record of his redemptive acts throughout history, it is
 
 | Session | Topic | Recommended Reading |
 | :--- | :--- | :--- |
-| Session 1 |  |  |
-| Session 2 |  |  |
-| Session 3 |  |  |
-| Session 4 |  |  |
-| Session 5 |  |  |
-| Session 6 |  |  |
-| Session 7 |  |  |
-| Session 8 |  |  |
-| Session 9 |  |  |
-| Session 10 |  |  |
-| Session 11 |  |  |
-| Session 12 |  |  |
+| Session 1 |  |  |
+| Session 2 |  |  |
+| Session 3 |  |  |
+| Session 4 |  |  |
+| Session 5 |  |  |
+| Session 6 |  |  |
+| Session 7 |  |  |
+| Session 8 |  |  |
+| Session 9 |  |  |
+| Session 10 |  |  |
+| Session 11 |  |  |
+| Session 12 |  |  |
 
 ## Core Project: Synthesizing the Faith
 
