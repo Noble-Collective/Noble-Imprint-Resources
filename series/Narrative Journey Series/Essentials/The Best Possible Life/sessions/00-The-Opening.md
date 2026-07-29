@@ -106,6 +106,8 @@ Record any initial observations or community insights below.
 
 <!-- @include: Opening_SessionFramework_Intro -->
 
+<!-- @include: Opening_SessionFrameworkInfographic -->
+
 ### Planning Calendar
 
 <!-- @include: Opening_PlanningCalendar_Directions -->

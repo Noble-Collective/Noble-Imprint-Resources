@@ -425,3 +425,32 @@ Growth in the Christian life often happens one step at a time. Identify one of t
 <Opening_CommunityPrayer_Directions>
 We depend upon God's power to grow each step in our Christian journeys. Pray that God would help each person in your community mature in the identified growth areas. Feel free to use the space below to write out a personal prayer or record requests from other members that you can keep in prayer throughout the course of this study.
 </Opening_CommunityPrayer_Directions>
+
+
+<Opening_SessionFrameworkInfographic>
+<figure class="five-movements">
+<svg viewBox="0 0 780 600" width="100%" role="img" aria-label="The five movements of each session" style="color: var(--accent, #8D4449); max-width:640px; display:block; margin:0.5rem auto; font-family: Georgia, 'Times New Roman', serif;">
+<circle cx="390" cy="290" r="150" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2 7" stroke-linecap="round" opacity="0.75"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(478.2,168.6) rotate(36.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(532.7,336.4) rotate(108.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(390.0,440.0) rotate(180.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(247.3,336.4) rotate(252.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(301.8,168.6) rotate(324.0)" fill="currentColor"/>
+<circle cx="390.0" cy="140.0" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(390.0,140.0)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-9 C-4,-12 -10,-12 -14,-10 L-14,8 C-10,6 -4,6 0,9 C4,6 10,6 14,8 L14,-10 C10,-12 4,-12 0,-9 Z"/><line x1="0" y1="-9" x2="0" y2="9"/></g>
+<text text-anchor="middle" y="46.0"><tspan x="390.0" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Biblical Interpretation</tspan><tspan x="390.0" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Hearing the Word</tspan><tspan x="390.0" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">exploring the textual</tspan><tspan x="390.0" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">details of the passage</tspan></text>
+<circle cx="532.7" cy="243.6" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(532.7,243.6)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="-7" cy="-5" r="5"/><circle cx="8" cy="-3" r="4"/><path d="M-15,10 C-15,1 1,1 1,10"/><path d="M3,9 C3,2 16,2 16,9"/></g>
+<text text-anchor="start" y="225.6"><tspan x="572.7" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Theological Dialogue</tspan><tspan x="572.7" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Discussing the Plot</tspan><tspan x="572.7" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">discerning timeless truths</tspan><tspan x="572.7" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">of the Christian faith</tspan></text>
+<circle cx="478.2" cy="411.4" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(478.2,411.4)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="13"/><path d="M6,-6 L-2,2 L-6,6 L2,-2 Z" fill="currentColor" stroke="none"/><circle cx="0" cy="0" r="1.6" fill="currentColor" stroke="none"/></g>
+<text text-anchor="start" y="393.4"><tspan x="518.2" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Personal Reflection</tspan><tspan x="518.2" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Entering the Story</tspan><tspan x="518.2" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">practicing God’s ways</tspan><tspan x="518.2" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">in our personal lives</tspan></text>
+<circle cx="301.8" cy="411.4" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(301.8,411.4)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11,-12 C-3,-11 -11,2 -11,12 C-1,12 12,4 12,-9 Z"/><line x1="-6" y1="12" x2="6" y2="0"/><line x1="-2" y1="4" x2="6" y2="4"/><line x1="-5" y1="8" x2="2" y2="8"/></g>
+<text text-anchor="end" y="393.4"><tspan x="261.8" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Ministry Practice</tspan><tspan x="261.8" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Rehearsing the Script</tspan><tspan x="261.8" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">edifying the church</tspan><tspan x="261.8" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">community with God’s word</tspan></text>
+<circle cx="247.3" cy="243.6" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(247.3,243.6)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="13"/><ellipse cx="0" cy="0" rx="5.5" ry="13"/><line x1="-13" y1="0" x2="13" y2="0"/><line x1="-11" y1="-6" x2="11" y2="-6"/><line x1="-11" y1="6" x2="11" y2="6"/></g>
+<text text-anchor="end" y="225.6"><tspan x="207.3" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Missional Outreach</tspan><tspan x="207.3" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Publicizing the Truth</tspan><tspan x="207.3" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">engaging the unbelieving</tspan><tspan x="207.3" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">world with the gospel</tspan></text>
+</svg>
+</figure>
+</Opening_SessionFrameworkInfographic>
