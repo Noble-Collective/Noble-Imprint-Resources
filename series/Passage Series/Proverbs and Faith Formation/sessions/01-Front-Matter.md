@@ -1,0 +1,29 @@
+# Front Matter
+
+## Hear, My Son
+
+_A Primer on Proverbs 1–9 as a Tool for Faith Formation_
+
+Matthew R. Lynskey
+
+_Collection: Vade Mecum: Concise Explorations for Christians on the Way_
+
+## Publishing and Licensing
+
+Cover Image: de Neter, Laurentius. _The Broad and the Narrow Way_. 1630. Oil on panel, 59 × 78 cm. Museum Catharijneconvent.
+
+© 2026 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
+
+Published by Noble Imprint (www.nobleimprint.com).
+
+This primer is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+
+Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
+
+## Executive Summary
+
+Many read Proverbs for daily doses of wisdom; not many use it to build a foundation for spiritual growth. This primer on Proverbs 1–9 explores the beginning chapters of Proverbs as _a biblical framework for faith formation and moral development in the wisdom tradition_. Upholding Proverbs as divinely inspired revelation, this introduction shows that Solomon's wisdom anthology is indispensably useful for character development, parental care, Christian education, basic discipleship, and Christian ministry. In this way, Proverbs is immensely profitable for all Christian leaders—parents, mentors, ministers, pastors, elders—who oversee the spiritual formation of others. Inasmuch as Proverbs offers the content and substance of wisdom in its magnificent array of proverbial sayings, Proverbs 1–9 specifically establishes a theology of formation—_transformative schooling in the ways of God_. Essentially, the first nine chapters of Proverbs are discourses—fatherly lectures—on how people change, how people learn, and how people grow in wisdom. Its educational thrust is matched by its spiritual quality. Alongside Solomon's repeated and direct appeals to embrace wisdom, the theological underpinnings of Proverbs 1–9 incubate practical principles of faith and moral development. Once the structure, substance, and intent of Proverbs 1–9 is rightly understood, overseers and shepherds of all kinds will find Solomon's ancient compendium timeless and relevant, offering superlative insight into faith formation, spiritual pilgrimage, rites of passage, spiritual pedagogy, and portraits of biblical masculinity and femininity.
+
+![Diptych with Mary and Her Son Flanked by Archangels, Apostles and a Saint](seyon_diptych_with_mary_and_her)
+
+![King Solomon Writing the Book of Proverbs](bruyn_king_solomon_writing_book_proverbs)

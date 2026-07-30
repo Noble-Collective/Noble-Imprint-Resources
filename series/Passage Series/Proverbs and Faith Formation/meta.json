@@ -1,7 +1,7 @@
 {
   "language": "en",
   "title": "Hear, My Son",
-  "subtitle": "A Primer on Proverbs as a Tool for Faith Formation",
+  "subtitle": "A Primer on Proverbs 1–9 as a Tool for Faith Formation",
   "order": 4,
   "color": {
     "##": "#000000",
@@ -10,7 +10,7 @@
     "#####": "#000000"
   },
   "banner": "Pre-Release",
-  "status": "hidden",
+  "status": "public",
   "audiobook": {
     "enabled": true,
     "language_normalization": true,
