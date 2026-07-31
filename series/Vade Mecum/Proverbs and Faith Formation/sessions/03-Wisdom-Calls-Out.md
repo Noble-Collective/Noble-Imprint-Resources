@@ -1,12 +1,12 @@
 # Wisdom Calls Out
 
-## The Enduring Relevance of Proverbs
-
 > The wisest men are the best, and the best the wisest; but a counterfeit of knowledge is the great deceiver of the world. Millions take the knowledge of bare words, with the grammatical and logical sense, instead of the knowledge of the things themselves, which by these are signified; as if the glass would nourish without the wine, or the dish without the meat, or the clothing or skin were all the man…
 >
 > …God, and holiness, and heaven, are better known by many serious unlearned Christians that cannot accurately dispute about them, than by many learned men, who can excellently speak of that which their souls are unacquainted with. The hypocrite's religion is but an art; the true Christian's is a habit, which is a divine nature.
 
 << Richard Baxter, The Catechising of Families
+
+## The Enduring Relevance of Proverbs
 
 Proverbs maintains an enduring relevance for humanity. Proverbs is timely and timeless—a treasure trove for disciple and church leader, father and mother, youth and adult, world citizen and civic ruler. Across ages, eras, and cultures, Proverbs proves the relevance and superiority of God's eternal wisdom. It unashamedly asserts that this is God's world and those who rightly order their lives after God's design will best navigate the complexity of this fallen cosmos with a well-lived life. Proverbs is God's inspired word to help us live wisely in the whole of life—to faithfully trek through the current world and to joyfully enter into the world to come, world without end. It addresses both our temporal earthly existence and unending eternal bliss. As we read "the proverbs of Solomon" (1:1) given to his son, we find ourselves among his audience—among his other "sons" (4:1; cf. 5:7; 7:24; 8:32)—eager to obtain a life of spiritual understanding. <Callout>Although Proverbs is an ancient text, "wisdom calls out" (1:20) to us even today as it was calling out to Solomon's son in his day.</Callout>
 
