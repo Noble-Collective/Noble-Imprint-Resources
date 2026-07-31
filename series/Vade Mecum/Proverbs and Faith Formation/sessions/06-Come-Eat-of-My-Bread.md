@@ -1,5 +1,13 @@
 # Come, Eat of My Bread
 
+> When we are undertaking a long journey or voyage we should get an instructor … Grace begins at home; there is the factory of all the virtues; there this life has become exquisitely refined by a continual progress …
+>
+> … there, whether men are silent or whether they speak, there is large opportunity for being instructed in this heavenly citizenship through the actual practice of it … the man who acts as well as teaches … he is the man who is truly living, and has the bloom of beauty.
+
+<< Gregory of Nyssa, On Virginity
+
+![Wisdom Has Built Her House](anonymous_wisdom_has_built_her_house "Anonymous. Wisdom Has Built Her House. 1548. Tempera on<br>wood, 146 × 106 cm. State Tretyakov Gallery.")
+
 ## Making Passage Across Life's Thresholds
 
 ![The Stages of Life](friedrich_stages_life "Friedrich, Caspar David. The Stages of Life. 1834. Oil on<br>canvas, 72.5 × 94 cm. Museum der bildenden Künste.")
@@ -39,3 +47,5 @@ But moral development is much more than measuring the mere goodness or badness o
 <Question id="Pro-Ch4-RefQue-2">2. Did you have any help in navigating the major milestones of your life and faith? What was your experience like as you went through major transitions in life and discipleship?</Question>
 <Question id="Pro-Ch4-RefQue-3">3. Why might it be important for Christian families and church communities to take rites of passage and liminality seriously? What are the consequences if we do not help people navigate the major transitions of life?</Question>
 <Question id="Pro-Ch4-RefQue-4">4. What are key characteristics of a rite of passage? How might we approach rites of passage from a distinctively Christian perspective? How does the book of Proverbs assist us in this work?</Question>
+
+![The Three Ages](dacastelfranco_three_ages "da Castelfranco, Giorgione. The Three Ages. 1500.<br>Oil on panel, 62 × 77 cm. Palazzo Pitti.")
