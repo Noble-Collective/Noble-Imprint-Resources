@@ -1,9 +1,5 @@
 # "The Fear of the Lord": Proverbs as Coherent Vision of Faith Formation
 
-> The business done in the home is nothing less than the shaping of the bodies and souls of humanity. The family is the factory that manufactures mankind.
-
-<< G. K. Chesterton, New Witness
-
 ![Old Man Praying](dou_old_man_praying "Dou, Gerrit. Old Man Praying. 1670. Oil on panel,<br>18 × 12.7 cm. Leiden Collection.")
 
 Understanding the enduring relevance of Proverbs calls for us to understand how its preeminent theme of wisdom fits in the larger project of faith formation. For many, the book of Proverbs is an ancient compendium of wisdom sayings: a collection of assorted, concise, and practical observations on living life well. Not a few read this portion of Scripture for the ease of its immediate application and real-world implementation. Succinct and compact, many of these wise sayings lodge themselves in one's mind as they directly connect (sometimes effortlessly) with shared human experience. It is true that a bulk of this inspired Scripture consists of pithy maxims relevant to a wide range of useful topics: self-control, marriage, friendship, speech, finances, business, neighborliness, oaths, and work. An arrangement of sayings that can feel at times dispersed, Proverbs' diffuse arrangement matches the (at times) scattered and unpredictable realities of life. In this sense, Proverbs is accessible and adored because it profitably and profoundly addresses humanity's felt needs and pressing concerns, while also speaking to existential questions of meaning and purpose. The collection of inspired wisdom is applicable in its breadth and profound in its depth, giving it a universal quality.

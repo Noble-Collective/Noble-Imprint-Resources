@@ -17,3 +17,9 @@ Before delving into the aforementioned matrix of ideas, note the logical flow an
 ![Three Philosophers](giorgione_three_philosophers "Giorgione. Three Philosophers. 1508. Oil on canvas, 25.5 ×<br>146.2 cm. Kunsthistorisches Museum.")
 
 ![Benediction Being Read in the Synagogue](toorenvliet_benediction_being_read_in_synagogue "Toorenvliet, Jacob. Benediction Being Read in the Synagogue. 1670. Oil on<br>canvas, 66 × 82.5 cm. National Museum of Art.")
+
+> The wisest men are the best, and the best the wisest; but a counterfeit of knowledge is the great deceiver of the world. Millions take the knowledge of bare words, with the grammatical and logical sense, instead of the knowledge of the things themselves, which by these are signified; as if the glass would nourish without the wine, or the dish without the meat, or the clothing or skin were all the man…
+>
+> …God, and holiness, and heaven, are better known by many serious unlearned Christians that cannot accurately dispute about them, than by many learned men, who can excellently speak of that which their souls are unacquainted with. The hypocrite's religion is but an art; the true Christian's is a habit, which is a divine nature.
+
+<< Richard Baxter, The Catechising of Families
