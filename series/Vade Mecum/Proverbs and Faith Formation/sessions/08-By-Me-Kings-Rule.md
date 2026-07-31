@@ -41,3 +41,5 @@ Inasmuch as Proverbs is for both young and old, it is also for both men and wome
 ![Panel Portrait of a Man](anonymous_panel_portrait_man "Anonymous. Panel Portrait of a Man. Late 1st Century CE. Encaustic (wax and<br>pigments) on wood, 39.4 × 20.5 cm. The Walters Art Museum.")
 
 ![Panel Portrait of a Woman](anonymous_panel_portrait_woman "Anonymous. Panel Portrait of a Woman. 2nd Century CE. Encaustic (wax and<br>pigments) on wood, 44 × 18.9 × 1.4 cm. The Walters Art Museum.")
+
+![Standing Young Man at the Window in His Study Reading](drost_standing_young_man_at_window "Drost, Willem. Standing Young Man at the Window in His Study Reading. 1647. Oil<br>on canvas, 79.5 × 88.7 cm. Statens Museum for Kunst.")
