@@ -12,7 +12,7 @@
   "banner": "Pre-Release",
   "status": "public",
   "audiobook": {
-    "enabled": true,
+    "enabled": false,
     "language_normalization": true,
     "project_id": null,
     "voice_id": "jRAAK67SEFE9m7ci5DhD",
