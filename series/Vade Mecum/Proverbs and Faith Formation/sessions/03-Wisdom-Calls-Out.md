@@ -18,8 +18,6 @@ Solomon had to prepare his son for a dangerous world—a menacing cosmos filled 
 
 <Callout>Yet the book of Proverbs assists us in navigating a world fraught with subtle and hostile enemies.</Callout> Solomon's counsel beckons us to wisdom in the fear of God, a fear that will help us to revere God in awe and affection such that we do not fear the surrounding foes nor yield to their tyrannical demands. But Solomon was not only interested in raising a son who would embody wisdom to navigate a dangerous world. He wanted his son to grow up to be a man who would deploy his faith—a faith formed in wisdom—into a broken world, _enacting godly prudence in society on behalf of God_. That is, Solomon wanted his son to grow up to be regal agent who would transform the disordered world, reclaim it for righteousness, reorder it after God's design, and render it subservient to Christ. Solomon wanted young women to forsake the life of the wayward harlot and to embrace the nobility of a virtuous woman. Femininity adorned with faith, wisdom, and godliness becomes a potent, sanctifying influence in the world. Proverbs' penchant toward juxtaposition, helps young disciples—male and female—learn their specific roles in being righteous and redemptive agents in the world. The voice of Lady Wisdom still calls out to us with undiminished relevance, eager to help us face the complex and troublesome challenges of our day with an unswerving faith, a venturesome spirit, and an uncompromising conviction. What we will see next is that the plentiful fruit of biblical wisdom is born from the womb of an indispensable spiritual organ—the fear of the Lord.
 
-![Benediction Being Read in the Synagogue](toorenvliet_benediction_being_read_in_synagogue "Toorenvliet, Jacob. Benediction Being Read in the Synagogue. 1670. Oil on<br>canvas, 66 × 82.5 cm. National Museum of Art.")
-
 ![Seven Liberal Arts](pesellino_seven_liberal_arts "Pesellino, Francesco. Seven Liberal Arts. 1450. Tempera on panel,<br>41.5 × 147.3 cm. Birmingham Museum of Art.")
 
 ## Key Ideas
@@ -37,3 +35,5 @@ Solomon had to prepare his son for a dangerous world—a menacing cosmos filled 
 <Question id="Pro-Ch1-RefQue-4">4. How might Proverbs be relevant to your own faith journey? How might it help you in the leadership, family, ministry, and vocational roles which God has given you?</Question>
 
 ![An Elderly Man in Prayer](rijn_an_elderly_man_in_prayer "Follower of Rembrandt van Rijn. An Elderly Man in Prayer. 1660. Oil on<br>canvas, 87.3 × 72 cm. The Cleveland Museum of Art.")
+
+![Benediction Being Read in the Synagogue](toorenvliet_benediction_being_read_in_synagogue "Toorenvliet, Jacob. Benediction Being Read in the Synagogue. 1670. Oil on<br>canvas, 66 × 82.5 cm. National Museum of Art.")
