@@ -46,3 +46,5 @@ When wisdom in the fear of God takes spiritual formation seriously, we must beco
 <Question id="Pro-Ch5-RefQue-2">2. When have you ever experienced true life change? What were the dynamics and elements that encouraged real and enduring transformation?</Question>
 <Question id="Pro-Ch5-RefQue-3">3. How does Proverbs 1–9 serve as a spiritual pedagogy—an introduction into spiritual formation and transformative learning? How does it give insight into how people change and grow?</Question>
 <Question id="Pro-Ch5-RefQue-4">4. How do these principle help you develop your own skills in parenting, teaching, and ministry?</Question>
+
+![The Night School](haanen_night_school "Haanen, George Gillis. The Night School. 1835. Oil on<br>panel, 64 × 50 cm. Rijksmuseum.")
