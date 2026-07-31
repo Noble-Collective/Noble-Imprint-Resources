@@ -1,5 +1,11 @@
 # Do Not Forget My Teaching
 
+> We teach morality while we teach spirituality; and I have always found that the gospel produces the best morality in all the world…Morality, however, by itself is comparatively a small thing. The best part of what you teach is godliness. I said not, 'religion,' but godliness. Many people are religious after a fashion, without being godly…
+>
+> …Many have all the externals of godliness, all the outside of piety; such men we call 'religious,' but they have no right thought about God. They think about their place of worship, their Sunday, their books, but nothing about God. He who does not respect God, pray to God, love God, is an ungodly man, whatever his external religion may be.
+
+<< Charles H. Spurgeon, "Come, Ye Children"
+
 ## Developing a Biblically-Based Spiritual Pedagogy
 
 ![Young Man Before the Seven Liberal Arts](botticelli_young_man_before_seven_liberal "Botticelli, Sandro. Young Man Before the Seven Liberal Arts.<br>1445. Fresco, tempera, plaster, 238 × 284 cm. Louvre Museum.")
