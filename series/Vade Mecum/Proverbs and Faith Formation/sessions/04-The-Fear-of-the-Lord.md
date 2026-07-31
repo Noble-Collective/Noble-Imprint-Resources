@@ -1,5 +1,9 @@
 # The Fear of the Lord
 
+> The business done in the home is nothing less than the shaping of the bodies and souls of humanity. The family is the factory that manufactures mankind.
+
+<< G. K. Chesterton, New Witness
+
 ## Proverbs as Coherent Vision of Faith Formation
 
 ![Old Man Praying](dou_old_man_praying "Dou, Gerrit. Old Man Praying. 1670. Oil on panel,<br>18 × 12.7 cm. Leiden Collection.")
@@ -31,3 +35,5 @@ Although it is ancient in origin, Proverbs is timeless in its relevance. For tho
 <Question id="Pro-Ch2-RefQue-2">2. How do people actually change? When have you experienced real spiritual transformation in your life? What made this progress in the faith possible?</Question>
 <Question id="Pro-Ch2-RefQue-3">3. What is the benefit of understanding the stages of the spiritual life? How would you describe the season of life and faith development you currently find yourself in?</Question>
 <Question id="Pro-Ch2-RefQue-4">4. How aligned are your inner and outer world? Do you tend to focus more on external behavior or inner development? What would change in your life if these were more aligned with each other?</Question>
+
+![The Bible Reading](greuze_bible_reading "Greuze, Jean-Baptiste. The Bible Reading. 1755. Oil on<br>canvas, 65.3 × 82.4 cm. Louvre Museum.")
