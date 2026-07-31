@@ -1,4 +1,6 @@
-# "Come, Eat of My Bread": Making Passage Across Life's Thresholds
+# Come, Eat of My Bread
+
+## Making Passage Across Life's Thresholds
 
 ![The Stages of Life](friedrich_stages_life "Friedrich, Caspar David. The Stages of Life. 1834. Oil on<br>canvas, 72.5 × 94 cm. Museum der bildenden Künste.")
 

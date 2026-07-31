@@ -1,4 +1,6 @@
-# "The Fear of the Lord": Proverbs as Coherent Vision of Faith Formation
+# The Fear of the Lord
+
+## Proverbs as Coherent Vision of Faith Formation
 
 ![Old Man Praying](dou_old_man_praying "Dou, Gerrit. Old Man Praying. 1670. Oil on panel,<br>18 × 12.7 cm. Leiden Collection.")
 

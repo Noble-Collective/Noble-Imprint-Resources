@@ -1,4 +1,6 @@
-# "By Me Kings Rule": Healthy Portraits of Godly Manhood and Womanhood
+# By Me Kings Rule
+
+## Healthy Portraits of Godly Manhood and Womanhood
 
 ![Two Wings of a Triptych with Portraits of Donors with Saints Adrian and John the Baptist](pourbus_two_wings_triptych_with_portraits "Pourbus, Pieter. Two Wings of a Triptych with Portraits of<br>Donors with Saints Adrian and John the Baptist. 1530. Oil on<br>panel, 91 × 29 cm. Rijksmuseum.")
 

@@ -1,4 +1,6 @@
-# "Do Not Forget My Teaching": Developing a Biblically-Based Spiritual Pedagogy
+# Do Not Forget My Teaching
+
+## Developing a Biblically-Based Spiritual Pedagogy
 
 ![Young Man Before the Seven Liberal Arts](botticelli_young_man_before_seven_liberal "Botticelli, Sandro. Young Man Before the Seven Liberal Arts.<br>1445. Fresco, tempera, plaster, 238 × 284 cm. Louvre Museum.")
 

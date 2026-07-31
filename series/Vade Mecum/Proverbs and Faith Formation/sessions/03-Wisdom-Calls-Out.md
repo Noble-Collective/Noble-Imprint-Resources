@@ -1,4 +1,6 @@
-# "Wisdom Calls Out": The Enduring Relevance of Proverbs
+# Wisdom Calls Out
+
+## The Enduring Relevance of Proverbs
 
 ![The Seven Liberal Arts](giovanniguidi_seven_liberal_arts "Giovanni Guidi, Giovanni di ser. The Seven Liberal Arts. 1460. Tempera on wood<br>with gold finishes, 50 cm × 159 cm. Museu Nacional d'Art de Catalunya.")
 

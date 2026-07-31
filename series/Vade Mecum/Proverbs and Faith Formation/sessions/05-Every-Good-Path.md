@@ -1,4 +1,6 @@
-# "Every Good Path": The Life of Faith as Journey and Quest
+# Every Good Path
+
+## The Life of Faith as Journey and Quest
 
 ![The Three Ages](dacastelfranco_three_ages "da Castelfranco, Giorgione. The Three Ages. 1500.<br>Oil on panel, 62 × 77 cm. Palazzo Pitti.")
 
