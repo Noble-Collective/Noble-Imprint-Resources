@@ -8,8 +8,6 @@
 
 ## Healthy Portraits of Godly Manhood and Womanhood
 
-![Two Wings of a Triptych with Portraits of Donors with Saints Adrian and John the Baptist](pourbus_two_wings_triptych_with_portraits "Pourbus, Pieter. Two Wings of a Triptych with Portraits of<br>Donors with Saints Adrian and John the Baptist. 1530. Oil on<br>panel, 91 × 29 cm. Rijksmuseum.")
-
 To view faith formation as becoming wise in the fear of God is to gain a helpful picture of what it looks like to be mature. But faith maturity, moral formation, and growth in biblical wisdom are not generic. Side by side, Proverbs offers portraits of godly manhood and godly womanhood. The reader of Proverbs is to look at the exemplars in Proverbs as models to emulate and the depictions of folly as warnings to heed. While there are characteristics commonly shared between mature men and women, godly men and godly women will uniquely display wisdom and faith maturity. The thesis of Proverbs is simple: wisdom turns boys into honorable men, girls into noble women, the simple into wise rulers, those who lack sense into just governors, the ignoble into paragons of virtue and nobility. Proverbs gives us pictures of kingly men and noble women.
 
 This thesis is seen throughout the whole book. Proverbs begins with Solomon's household instruction to his son (1:8-10, 15) and ends with Lemuel's words on what it means to be a noble king (31:1-9) and virtuous woman (31:10-31). It is also detailed in the introductory section of Proverbs 1–9. In this introduction, Solomon constantly addresses his "son" (1:8, 10, 15; 2:1; 3:1, 11; 3:21; 4:10, 20; 5:1, 20; 6:1, 3, 20; 7:1), and at times speaks to "sons" (4:1; 5:7; 7:24; 8:32), potentially to address the larger community of faith. The family instruction from mother and father (1:8; 4:3; 6:20; cf. 10:1) to a youth eventually becomes an invitation to royalty: "by me kings reign, and rulers enact just laws; by me princes rule, and all nobles who govern justly" (8:15-16).
@@ -29,6 +27,8 @@ Inasmuch as Proverbs is for both young and old, it is also for both men and wome
 <Question id="Pro-Ch6-RefQue-1">1. How does our culture view men and woman? What are some points of current cultural confusion around masculinity and femininity?</Question>
 <Question id="Pro-Ch6-RefQue-2">2. How does Proverbs (as a whole and the first nine chapters) offer portraits of godly manhood and womanhood? What characters are at play in the beginning chapters of Proverbs? How do these characters serve the larger agenda of depicting faith formation in wisdom?</Question>
 <Question id="Pro-Ch6-RefQue-3">3. How do these portraits help shape your understanding of what it means to grow in the faith? How important is modeling and emulation to wisdom and faith formation?</Question>
+
+![Two Wings of a Triptych with Portraits of Donors with Saints Adrian and John the Baptist](pourbus_two_wings_triptych_with_portraits "Pourbus, Pieter. Two Wings of a Triptych with Portraits of<br>Donors with Saints Adrian and John the Baptist. 1530. Oil on<br>panel, 91 × 29 cm. Rijksmuseum.")
 
 ![Panel Portrait of a Man](anonymous_panel_portrait_man "Anonymous. Panel Portrait of a Man. Late 1st Century CE. Encaustic (wax and<br>pigments) on wood, 39.4 × 20.5 cm. The Walters Art Museum.")
 
