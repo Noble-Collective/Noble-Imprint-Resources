@@ -26,5 +26,13 @@
     },
     "pronunciation_dictionary_id": null
   },
-  "maxNavHeadingLevel": 2
+  "maxNavHeadingLevel": 2,
+  "sessionNumbers": {
+    "03-Wisdom-Calls-Out.md": 1,
+    "04-The-Fear-of-the-Lord.md": 2,
+    "05-Every-Good-Path.md": 3,
+    "06-Come-Eat-of-My-Bread.md": 4,
+    "07-Do-Not-Forget-My-Teaching.md": 5,
+    "08-By-Me-Kings-Rule.md": 6
+  }
 }
