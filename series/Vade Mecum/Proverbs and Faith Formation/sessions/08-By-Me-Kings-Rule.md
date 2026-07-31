@@ -1,5 +1,11 @@
 # By Me Kings Rule
 
+> It is a strange fact that the law of sex runs through all Christian work. The feminine element is needed as well as the masculine. Man may be aggressive, bold, strong, fitted to pioneer, organize, administer…
+>
+> …but woman is patient, impressive, tender, sympathetic, fitted to win, to soothe, to comfort, to minister. Both together bring to the work the complete furnishing that leaves no element of adaptation lacking.
+
+<< Arthur T. Pierson, The New Acts of the Apostles
+
 ## Healthy Portraits of Godly Manhood and Womanhood
 
 ![Two Wings of a Triptych with Portraits of Donors with Saints Adrian and John the Baptist](pourbus_two_wings_triptych_with_portraits "Pourbus, Pieter. Two Wings of a Triptych with Portraits of<br>Donors with Saints Adrian and John the Baptist. 1530. Oil on<br>panel, 91 × 29 cm. Rijksmuseum.")
@@ -23,3 +29,7 @@ Inasmuch as Proverbs is for both young and old, it is also for both men and wome
 <Question id="Pro-Ch6-RefQue-1">1. How does our culture view men and woman? What are some points of current cultural confusion around masculinity and femininity?</Question>
 <Question id="Pro-Ch6-RefQue-2">2. How does Proverbs (as a whole and the first nine chapters) offer portraits of godly manhood and womanhood? What characters are at play in the beginning chapters of Proverbs? How do these characters serve the larger agenda of depicting faith formation in wisdom?</Question>
 <Question id="Pro-Ch6-RefQue-3">3. How do these portraits help shape your understanding of what it means to grow in the faith? How important is modeling and emulation to wisdom and faith formation?</Question>
+
+![Panel Portrait of a Man](anonymous_panel_portrait_man "Anonymous. Panel Portrait of a Man. Late 1st Century CE. Encaustic (wax and<br>pigments) on wood, 39.4 × 20.5 cm. The Walters Art Museum.")
+
+![Panel Portrait of a Woman](anonymous_panel_portrait_woman "Anonymous. Panel Portrait of a Woman. 2nd Century CE. Encaustic (wax and<br>pigments) on wood, 44 × 18.9 × 1.4 cm. The Walters Art Museum.")

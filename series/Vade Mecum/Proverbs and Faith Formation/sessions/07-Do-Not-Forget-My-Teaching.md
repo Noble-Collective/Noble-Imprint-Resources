@@ -6,13 +6,11 @@
 
 << Charles H. Spurgeon, "Come, Ye Children"
 
-## Developing a Biblically-Based Spiritual Pedagogy
-
-![Young Man Before the Seven Liberal Arts](botticelli_young_man_before_seven_liberal "Botticelli, Sandro. Young Man Before the Seven Liberal Arts.<br>1445. Fresco, tempera, plaster, 238 × 284 cm. Louvre Museum.")
-
 > Godliness is true wisdom.
 
 << Augustine, On the Spirit and the Letter
+
+## Developing a Biblically-Based Spiritual Pedagogy
 
 From a biblical standpoint, successfully making passage from one faith milestone to the next is best understood as a _rite of transformation_. Inasmuch as we are pilgrims who make progress in the journey of faith, we are also works in progress who are becoming more and more who God wants us to be. Problems result when we enter a new life season without experiencing an accompanying and fitting change. Too many biological adults are spiritual children. Skilled professionals can sadly remain amateurs at life. Seasoned seniors who reach their latter years can be just as childish as a toddler. Many reach adulthood but cling to immature and adolescent trivialities. Intellectual giants and academic luminaries can be juvenile in character and lacking in spiritual vibrancy. In we are not intentional about spiritual formation, parents can successfully bear children without the maturity to actually raise children.
 
@@ -20,19 +18,9 @@ Essentially, to advance in years is not the same as to grow in the faith. To bec
 
 Strewn throughout Proverbs 1–9 are identifiable elements that contribute to a biblical anthropology: _a theological understanding of the essential makeup of humanity_. In this opening section of Proverbs, Solomon's lectures to his son help all readers consider the various aspects of human composition. Humans are complex creatures made up of a multitude of faculties. Typically, people identify the physical (bodily-material) and spiritual (non-material-numinous) dimensions of humanity. Others understand and classify human proficiencies with the threefold domains of character, knowledge, and skill. Proverbs offers a unique and nuanced take on human makeup. Understanding Proverbs' depiction of human nature—the various faculties of human composition—helps us to focus our learning in transformative ways.
 
-![Panel Portrait of a Man](anonymous_panel_portrait_man "Anonymous. Panel Portrait of a Man. Late 1st Century CE. Encaustic (wax and<br>pigments) on wood, 39.4 × 20.5 cm. The Walters Art Museum.")
-
 To understand biblical spirituality and to shepherd Christian formation, we must attend to the whole of the human—body (3:8; 4:22; 5:11) and soul (2:10; 3:22). Solomon's lectures address various components of humanity. While we cannot do an exhaustive treatment of this study, we can highlight several components to showcase Proverbs' advanced and nuanced anthropology. Clearly, Solomon addresses human _knowledge_: what we comprehend and understand (1:2, 4, 7, 29; 2:2-3, 5-6, 9-10; 3:13; 5:1-2; 8:9-10, 12; cf. 9:13). Israel's king also appeals to _affections_: the things we love and hate, adore and despise (1:7, 22, 29-30; 3:11; 4:6; 5:12, 19; 6:16, 30; 7:18; 8:13, 17, 21, 36; 9:8). Solomon is also concerned about good and godly _desires_: the things which bring us pleasure, satisfaction, and delight (1:13, 19; 26, 31; 2:10, 14; 3:10, 15, 31; 4:17; 5:18-19; 6:30; 7:18; 8:11, 21, 30-31; 9:17). He is urgent about healthy _relationships_: the people we attach ourselves to, the associations we make, the intimate relationships we enjoy, and the commitments we establish (1:11, 14-15; 2:17, 19; 4:15; 5:8, 15-20; 6:1, 14, 19). Solomon connects moral formation in wisdom to how one responds to _authority_: deference toward leaders, but more so receptivity to God's word, acceptance of God's truth, and submission to God's rule (1:3; 2:1; 3:11; 4:10)
 
 Additionally, Proverbs issues warnings about our _conduct_: the way we act, behave, and live our lives (1:11, 16; 3:22; 6:18). It also summons us to moral _character_: a quality of life expressed in virtue, godliness, and righteousness (1:3; 2:7-9, 21; 3:32; 4:11). Along with Solomon's son, we are encouraged to establish and cultivate _spirituality_: a genuine relationship with the one and only living God based upon faith, trust, and the fear of the Lord. We are enjoined to develop _attention_: focus, intentionality, and concentration on what is most important (1:8, 25, 33; 2:2; 3:21; 4:1, 10, 20-21, 23; 4:25; 5:1, 11; 7:24; 8:6, 33-34). Humans must grow in godly _attractions_: to be drawn toward that which is honorable, noble, dignified, excellent, and praisworthy (1:9-10; 3:16, 22, 35; 4:8-9; 5:9; 6:24, 33; 8:6, 15-16, 18; 9:13). Proverbs seeks to train us in correct _values_: treasuring, keeping, and guarding that which is most precious and important (2:1, 20; 3:1, 3, 9, 14-16; 3:21; 4:4, 8, 13; 5:2; 6:20; 7:1-3; 8:10-11, 19). We are called to train our _will_: learn to make right decisions and orient our lives on a good trajectory that leads to life and reward (1:10, 23-25, 29, 32; 3:27, 31; 4:26-27; 5:7; 7:25). In addition, we notice the importance of _memory_ (2:17; 3:1; 4:5), _speech_ (2:3; 3:28; 4:24; 5:2; 6:2-3, 17, 19; 8:6-9; 9:12; cf. 2:12, 16; 3:33; 5:3; 6:12, 24; 7:5, 21), _emotions_ (2:14; 3:24-25; 5:18; 8:30- 31), loyalty (1:8; 4:2, 4-6; 6:20), _inclination_ (1:28; 2:2-4; 4:20; 5:1, 13), _intentions_ (1:31-32; 2:15, 22; 3:29, 32; 6:13-14, 18), and _wonder_ and _imagination_ (8:1-36).
-
-![Panel Portrait of a Woman](anonymous_panel_portrait_woman "Anonymous. Panel Portrait of a Woman. 2nd Century CE. Encaustic (wax and<br>pigments) on wood, 44 × 18.9 × 1.4 cm. The Walters Art Museum.")
-
-> It is a strange fact that the law of sex runs through all Christian work. The feminine element is needed as well as the masculine. Man may be aggressive, bold, strong, fitted to pioneer, organize, administer…
->
-> …but woman is patient, impressive, tender, sympathetic, fitted to win, to soothe, to comfort, to minister. Both together bring to the work the complete furnishing that leaves no element of adaptation lacking.
-
-<< Arthur T. Pierson, The New Acts of the Apostles
 
 The theological anthropology in Proverbs 1–9 presents a holistic view of humanity and calls us to specific learning objectives. <Callout>We should prudently shape our instruction, teaching, preaching, discipleship, and counseling to address the various faculties of human makeup.</Callout> Whether pastor, parent, or pedagogue, faith leaders should learn to shape, scaffold, and direct their instruction to the whole person: establish true belief (knowledge), develop competency (skill), order loves (affection), shape appetites (desires), stir wonder (awe), capture imagination (curiosity), shape character (virtue), form healthy attachments (relationships), fortify attention (focus), develop habits (custom), hone skills (proficiency), purify motives (intention), train judgment (good sense), reform conduct (behavior), and mature attractions (appeal and draw). Overarching these domains of learning is a goal to cultivate the fear of God in order to build a biblical worldview—a God-centered way of seeing the world and living in it.
 
@@ -52,5 +40,7 @@ When wisdom in the fear of God takes spiritual formation seriously, we must beco
 <Question id="Pro-Ch5-RefQue-2">2. When have you ever experienced true life change? What were the dynamics and elements that encouraged real and enduring transformation?</Question>
 <Question id="Pro-Ch5-RefQue-3">3. How does Proverbs 1–9 serve as a spiritual pedagogy—an introduction into spiritual formation and transformative learning? How does it give insight into how people change and grow?</Question>
 <Question id="Pro-Ch5-RefQue-4">4. How do these principle help you develop your own skills in parenting, teaching, and ministry?</Question>
+
+![Young Man Before the Seven Liberal Arts](botticelli_young_man_before_seven_liberal "Botticelli, Sandro. Young Man Before the Seven Liberal Arts.<br>1445. Fresco, tempera, plaster, 238 × 284 cm. Louvre Museum.")
 
 ![The Night School](haanen_night_school "Haanen, George Gillis. The Night School. 1835. Oil on<br>panel, 64 × 50 cm. Rijksmuseum.")
