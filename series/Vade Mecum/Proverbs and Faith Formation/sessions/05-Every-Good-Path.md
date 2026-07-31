@@ -4,11 +4,7 @@
 
 ![The Three Ages](dacastelfranco_three_ages "da Castelfranco, Giorgione. The Three Ages. 1500.<br>Oil on panel, 62 × 77 cm. Palazzo Pitti.")
 
-> When we are undertaking a long journey or voyage we should get an instructor … Grace begins at home; there is the factory of all the virtues; there this life has become exquisitely refined by a continual progress …
->
-> … there, whether men are silent or whether they speak, there is large opportunity for being instructed in this heavenly citizenship through the actual practice of it … the man who acts as well as teaches … he is the man who is truly living, and has the bloom of beauty.
-
-<< Gregory of Nyssa, On Virginity
+<Callout>When we are undertaking a long journey or voyage we should get an instructor … Grace begins at home; there is the factory of all the virtues; there this life has become exquisitely refined by a continual progress … there, whether men are silent or whether they speak, there is large opportunity for being instructed in this heavenly citizenship through the actual practice of it … the man who acts as well as teaches … he is the man who is truly living, and has the bloom of beauty.</Callout>
 
 One of the main ways Proverbs depicts progress in wisdom is through the overarching motif of journey. <Callout>Solomon's lectures to his son present the life of faith as _a wayfinding venture_.</Callout> Serving as a root metaphor, the image of journey (and quest) is employed throughout the whole of Proverbs, but it is vividly set forth in Proverbs 1–9. Essentially, one's life is characterized by the path on which one walks. In its grand scheme, Proverbs presents only two paths to choose: the way of the wicked (2:12-13, 15; 4:19) and the path of righteousness (2:8-9; 4:11, 18). The journey of life will take us to many corners and crossings where we will have to choose a direction to walk—a way to live (1:20-21; 7:8, 12; 8:2; 9:15). As people journey through life, boisterous and seductive voices will entice us to crooked and cursed paths (1:10-14; 7:10-23; 9:13-18). To their contrary, sages, parents, and teachers urge us to forsake these serpentine byways and destructive detours, heeding the voice of wisdom and maintaing our course on the straigth paths of righteousness (1:8-9, 20-33; 2:1-2; 3:1-2; 4:1- 2, 10-11, 20-21; 5:1-2, 7; 7:24; 8:1-36; 9:3-6)—"every good path" (2:9).
 

@@ -4,9 +4,7 @@
 
 ![Young Man Before the Seven Liberal Arts](botticelli_young_man_before_seven_liberal "Botticelli, Sandro. Young Man Before the Seven Liberal Arts.<br>1445. Fresco, tempera, plaster, 238 × 284 cm. Louvre Museum.")
 
-> Godliness is true wisdom.
-
-<< Augustine, On the Spirit and the Letter
+<Callout>Godliness is true wisdom.</Callout>
 
 From a biblical standpoint, successfully making passage from one faith milestone to the next is best understood as a _rite of transformation_. Inasmuch as we are pilgrims who make progress in the journey of faith, we are also works in progress who are becoming more and more who God wants us to be. Problems result when we enter a new life season without experiencing an accompanying and fitting change. Too many biological adults are spiritual children. Skilled professionals can sadly remain amateurs at life. Seasoned seniors who reach their latter years can be just as childish as a toddler. Many reach adulthood but cling to immature and adolescent trivialities. Intellectual giants and academic luminaries can be juvenile in character and lacking in spiritual vibrancy. In we are not intentional about spiritual formation, parents can successfully bear children without the maturity to actually raise children.
 
@@ -22,11 +20,7 @@ Additionally, Proverbs issues warnings about our _conduct_: the way we act, beha
 
 ![Panel Portrait of a Woman](anonymous_panel_portrait_woman "Anonymous. Panel Portrait of a Woman. 2nd Century CE. Encaustic (wax and<br>pigments) on wood, 44 × 18.9 × 1.4 cm. The Walters Art Museum.")
 
-> It is a strange fact that the law of sex runs through all Christian work. The feminine element is needed as well as the masculine. Man may be aggressive, bold, strong, fitted to pioneer, organize, administer…
->
-> …but woman is patient, impressive, tender, sympathetic, fitted to win, to soothe, to comfort, to minister. Both together bring to the work the complete furnishing that leaves no element of adaptation lacking.
-
-<< Arthur T. Pierson, The New Acts of the Apostles
+<Callout>It is a strange fact that the law of sex runs through all Christian work. The feminine element is needed as well as the masculine. Man may be aggressive, bold, strong, fitted to pioneer, organize, administer … but woman is patient, impressive, tender, sympathetic, fitted to win, to soothe, to comfort, to minister. Both together bring to the work the complete furnishing that leaves no element of adaptation lacking.</Callout>
 
 The theological anthropology in Proverbs 1–9 presents a holistic view of humanity and calls us to specific learning objectives. <Callout>We should prudently shape our instruction, teaching, preaching, discipleship, and counseling to address the various faculties of human makeup.</Callout> Whether pastor, parent, or pedagogue, faith leaders should learn to shape, scaffold, and direct their instruction to the whole person: establish true belief (knowledge), develop competency (skill), order loves (affection), shape appetites (desires), stir wonder (awe), capture imagination (curiosity), shape character (virtue), form healthy attachments (relationships), fortify attention (focus), develop habits (custom), hone skills (proficiency), purify motives (intention), train judgment (good sense), reform conduct (behavior), and mature attractions (appeal and draw). Overarching these domains of learning is a goal to cultivate the fear of God in order to build a biblical worldview—a God-centered way of seeing the world and living in it.
 
