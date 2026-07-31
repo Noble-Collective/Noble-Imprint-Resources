@@ -6,6 +6,14 @@
 
 << Arthur T. Pierson, The New Acts of the Apostles
 
+> A wise Christian has his will melted into God's will, and thinks it best to be at his finding. God is wise, he knows whether we need food or physic; and if we could acquiesce in providence, the quarrel would soon be at an end. O what a strange creature would man be, if he were what he could wish himself! Be content to be at God's allowance; God knows which is the fittest pasture to put his sheep in; sometimes a more barren ground does well, whereas rank pasture may rot.
+
+<< Thomas Watson, The Art of Divine Contentment
+
+> If, therefore, God be our greatest good; if there can be no good but in His favour, nor any evil but in departing from Him, then it is plain, that he who judges it the best thing he can do to please God to the utmost of his power, who worships and adores Him with all his heart and soul, who would rather have a pious mind than all the dignities and honours in the world, shows himself to be in the highest state of human wisdom.
+
+<< William Law, A Serious Call to a Devout and Holy Life
+
 ## Healthy Portraits of Godly Manhood and Womanhood
 
 ![Two Wings of a Triptych with Portraits of Donors with Saints Adrian and John the Baptist](pourbus_two_wings_triptych_with_portraits "Pourbus, Pieter. Two Wings of a Triptych with Portraits of<br>Donors with Saints Adrian and John the Baptist. 1530. Oil on<br>panel, 91 × 29 cm. Rijksmuseum.")
