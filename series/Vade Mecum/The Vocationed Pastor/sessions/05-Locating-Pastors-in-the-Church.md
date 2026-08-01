@@ -34,7 +34,7 @@ Most all skilled and well-compensated jobs in the west require specific degrees 
 
 Putting these last 2 sections together, below is a high-level comparison summary:
 
-_Diagram — Comparison of traditionally trained pastors and vocationed pastors. (To be reproduced.)_
+![Comparison of institution-trained and vocationed pastors](diagram_comparison "Comparison of traditionally trained pastors and vocationed pastors")
 
 ## Key Ideas
 

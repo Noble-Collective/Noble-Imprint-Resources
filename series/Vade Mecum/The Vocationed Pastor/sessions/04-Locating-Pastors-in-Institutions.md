@@ -38,7 +38,7 @@ There are a limited number of openly available, paid, full-time (vocational) pas
 
 The chart below maps out the progression of a ‘traditional’ pastoral path:
 
-_Diagram — Progression for those whose primary calling begins as pastoral (traditional path). (To be reproduced.)_
+![The traditional pastoral path](diagram_traditional_path "Progression for those whose primary calling begins as pastoral (traditional path)")
 
 In terms of a scalable strategy for developing leaders to empower the global church, institutions having a central role seems self-defeating: many of the graduates and their families end up in the global church’s “support system”. They are either directly compensated by local churches growing their staff or perhaps as instructors in the same kind of institutions in which they started. And as those churches and institutions grow their staff, they must be fed with more churched people giving toward pastors or more students paying tuition for professors – feeding the cycle.
 

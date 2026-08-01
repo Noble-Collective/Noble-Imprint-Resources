@@ -28,7 +28,7 @@ This training, whatever form it takes, should grow them in character – involvi
 
 The chart below presents a fundamentally different primary model, which is to focus on a sustainable incoming-earning vocation early in life while intimately involved in the life of a local church that can empower you for leadership:
 
-_Diagram — Progression for those whose calling begins with a “tent-making” vocation & becomes pastoral. (To be reproduced.)_
+![The tent-making pastoral path](diagram_tentmaking_path "Progression for those whose calling begins with a “tent-making” vocation & becomes pastoral")
 
 ## Key Ideas
 

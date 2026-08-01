@@ -10,6 +10,7 @@
     "####": "#000000",
     "#####": "#000000"
   },
+  "accent": "#663336",
   "banner": "Pre-Release",
   "status": "public",
   "audiobook": {
