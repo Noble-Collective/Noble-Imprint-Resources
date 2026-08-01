@@ -26,7 +26,7 @@ This training, whatever form it takes, should grow them in character – involvi
 
 **Fifth, guide young believers interested in full-time ministry towards developing a tent-making vocation first.** For some particularly called young people, the answer still might be attending Bible College and seminary directly out of high school. But for many, and I would contend for most, arming them first with a “tent making” vocation – work that can sustain them and their family that does not draw on the resources of the global church – will pay lifelong dividends. This “steering toward the marketplace” should not, however, be at the expense of a missional and pastoral mindset. We should still seek to incorporate these youths into leadership training processes as early as possible; the difference will be the level of responsibility we give them – it should be proportional to their age, maturity level, and life situation.
 
-The chart below presents a fundamentally different primary model, which is to focus on a sustainable incoming-earning vocation early in life while intimately involved in the life of a local church that can empower you for leadership:
+The chart below presents a fundamentally different primary model, which is to focus on a sustainable income-earning vocation early in life while intimately involved in the life of a local church that can empower you for leadership:
 
 ![The tent-making pastoral path](diagram_tentmaking_path "Progression for those whose calling begins with a “tent-making” vocation & becomes pastoral")
 
