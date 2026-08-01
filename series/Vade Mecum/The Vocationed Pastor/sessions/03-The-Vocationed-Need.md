@@ -10,7 +10,7 @@ Dr. Tim Keller wrote an article called “Leadership and Church Size Dynamics”
 
 - When a church considers adding paid full-time staff members, an important factor is that the person’s role can “grow the giving that will pay his or her salary”.
 
-In most all North American evangelical churches, Keller’s observations and dynamics are spot on. As churches get larger, more paid staff are needed by that church to do the work of ministry (and the more specialized the staff need to be). I want to challenge these assumptions, but just a little bit.
+In most all North American evangelical churches, Keller’s observations and dynamics are spot on. As churches get larger, more paid staff are needed by that church to do the work of ministry (and the more specialized the staff need to be). These assumptions, however, are worth challenging — if only a little.
 
 When you insert the concept of a church training and empowering vocationed pastors within their congregation as a primary thrust into these size dynamics, does anything change? Is the best way to scale the church to greater size and influence always by adding paid staff? In certain situations, the answer will be a resounding yes. This is in no way a proposal for eliminating paid staff or vocational pastors – we sincerely need men who will give the fullness of their lives, time, and attention to studying God’s word, training leaders, preaching, and leading his church in various capacities. And most importantly, we need vocational pastors to identify, train, and empower vocationed pastors. But should the paid staff be the only men doing the shepherding care? And can a paid staff member really care well for the shepherding needs of a few hundred people?
 

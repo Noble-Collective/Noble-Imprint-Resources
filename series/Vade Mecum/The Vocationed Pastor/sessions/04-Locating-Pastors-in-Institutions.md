@@ -28,7 +28,7 @@ In each of these cases, new leaders were chosen by existing leaders (or by God d
 
 God has used young people all through history for great things: Joseph, Joshua, Samuel, David, Josiah, and Timothy to name a few from Scripture, and Calvin, Whitefield, Edwards, and many more since. The young and zealous need to be celebrated. Paul even directly defends his gifted, youthful protégé Timothy: “Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.” (1 Timothy 4:12).
 
-At the same time, we need to recognize the day in which we live. Most who enroll in Bible Colleges and seminaries are coming directly out of high school. At the risk of overgeneralizing today’s youth, I will proceed:  they lack life experience. Ministry experience. Wisdom. And further, on average, each new generation seems to deteriorate its standards for maturity and competency more so than the last. Of course, there are wonderful exceptions. But generally, are these young people ready for shepherding God’s flock after a few years of classes? Some are. But most are not.
+At the same time, we need to recognize the day in which we live. Most who enroll in Bible Colleges and seminaries are coming directly out of high school. At the risk of overgeneralizing today’s youth: they often lack life experience. Ministry experience. Wisdom. And further, on average, each new generation seems to deteriorate its standards for maturity and competency more so than the last. Of course, there are wonderful exceptions. But generally, are these young people ready for shepherding God’s flock after a few years of classes? Some are. But most are not.
 
 **A track that becomes full-time ministry or… bust?**
 
