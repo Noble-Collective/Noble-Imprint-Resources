@@ -10,9 +10,9 @@ Dr. Tim Keller wrote an article called “Leadership and Church Size Dynamics”
 
 - When a church considers adding paid full-time staff members, an important factor is that the person’s role can “grow the giving that will pay his or her salary”.
 
-In most all North American evangelical churches, Keller’s observations and dynamics are spot on. As churches get larger, more paid staff are needed by that church to do the work of ministry (and the more specialized the staff need to be). These assumptions, however, are worth challenging — if only a little.
+In almost all North American evangelical churches, Keller’s observations and dynamics are spot on. As churches get larger, more paid staff are needed by that church to do the work of ministry (and the more specialized the staff need to be). These assumptions, however, are worth challenging—if only a little.
 
-When you insert the concept of a church training and empowering vocationed pastors within their congregation as a primary thrust into these size dynamics, does anything change? Is the best way to scale the church to greater size and influence always by adding paid staff? In certain situations, the answer will be a resounding yes. This is in no way a proposal for eliminating paid staff or vocational pastors – we sincerely need men who will give the fullness of their lives, time, and attention to studying God’s word, training leaders, preaching, and leading his church in various capacities. And most importantly, we need vocational pastors to identify, train, and empower vocationed pastors. But should the paid staff be the only men doing the shepherding care? And can a paid staff member really care well for the shepherding needs of a few hundred people?
+When you insert the concept of a church training and empowering vocationed pastors within their congregation as a primary thrust into these size dynamics, does anything change? Is the best way to scale the church to greater size and influence always by adding paid staff? In certain situations, the answer will be a resounding yes. This is in no way a proposal for eliminating paid staff or vocational pastors—we sincerely need men who will give the fullness of their lives, time, and attention to studying God’s word, training leaders, preaching, and leading his church in various capacities. And most importantly, we need vocational pastors to identify, train, and empower vocationed pastors. But should the paid staff be the only men doing the shepherding care? And can a paid staff member really care well for the shepherding needs of a few hundred people?
 
 ## Unpacking Scripture
 
@@ -32,7 +32,7 @@ As part of Paul’s instructions to the church, he clarifies that elders (overse
 
 **Matthew 10:9-10, Luke 10:7**
 
-During Jesus’ ministry he sent out the 12 disciples on a mission, and later sent out 72 disciples on a similar mission. When sending them, he told them not to acquire “gold or silver or copper for your belts” (Matthew 10:9) but clarified they could eat and drink in the house of Christians or “son of peace” (Luke 10:6), for “the laborer deserves his wages” (Luke 10:7).
+During Jesus’ ministry he sent out the twelve disciples on a mission, and later sent out seventy-two disciples on a similar mission. When sending them, he told them not to acquire “gold or silver or copper for your belts” (Matthew 10:9) but clarified they could eat and drink in the house of Christians or “son of peace” (Luke 10:6), for “the laborer deserves his wages” (Luke 10:7).
 
 To summarize, across all these passages, two main categories emerge of church leaders who can or should be paid by the church:
 
@@ -40,11 +40,11 @@ To summarize, across all these passages, two main categories emerge of church le
 
 - Those who are toiling and laboring for the local church, and primarily those who preach the gospel
 
-While Scriptures make it clear there are roles in God’s church for those who draw income from the church for their labors, it must also be noted that examples of such things happening are few. In fact, it’s just the opposite – many of the examples we see show how drawing income from the church was relinquished for the good of the church. While much of this motivation had to do with ensuring the people understood motives were pure and not giving them any obstacles to belief, it also speaks to us some principles of work and compensation in the church.
+While Scriptures make it clear there are roles in God’s church for those who draw income from the church for their labors, it must also be noted that examples of such things happening are few. In fact, it’s just the opposite—many of the examples we see show how drawing income from the church was relinquished for the good of the church. While much of this motivation had to do with ensuring the people understood motives were pure and not giving them any obstacles to belief, it also speaks to us some principles of work and compensation in the church.
 
 **1 Corinthians 9:15-18**
 
-Despite Paul’s right to lay claim to compensation, he does not take advantage of it – he “has made no use of any of these rights, nor [was he] writing these things to secure any such provision” (vs. 15). He wants to “present the gospel free of charge” (vs. 18).
+Despite Paul’s right to lay claim to compensation, he does not take advantage of it—he “has made no use of any of these rights, nor [was he] writing these things to secure any such provision” (vs. 15). He wants to “present the gospel free of charge” (vs. 18).
 
 **1 Thessalonians 2:9-10**
 
@@ -52,17 +52,17 @@ After verse 6 where Paul says they “could have made demands as apostles of Chr
 
 **2 Thessalonians 3:6-9**
 
-In the context of warning the church against being idle, Paul shared how they should imitate him – how he was not idle, did not eat anyone’s bread, but toiled night and day so he wouldn’t be a burden. Then he clarified “it was not because we do not have that right, but to give you in ourselves an example to imitate” (vs. 9).
+In the context of warning the church against being idle, Paul shared how they should imitate him—how he was not idle, did not eat anyone’s bread, but toiled night and day so he wouldn’t be a burden. Then he clarified “it was not because we do not have that right, but to give you in ourselves an example to imitate” (vs. 9).
 
 **Acts 18:1-4**
 
-In Corinth, Paul found Christians (Aquila and Priscilla) who were of the same profession as him – tent makers. He stayed with them and worked with them. While Paul could easily call on resources from a multitude of people and churches who would be ready and willing to give, he intentionally focused his time and talents on a trade.
+In Corinth, Paul found Christians (Aquila and Priscilla) who were of the same profession as he—tent makers. He stayed with them and worked with them. While Paul could easily call on resources from a multitude of people and churches who would be ready and willing to give, he intentionally focused his time and talents on a trade.
 
 **Acts 20:33-35**
 
 In his farewell speech to the elders at Ephesus, Paul reiterates how his own hands provided for his necessities, and he took no silver or gold from anyone, in order to show that “in all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, ‘It is more blessed to give than to receive’”.
 
-If all who are called to serve in pastoral leadership in the church expect compensation, the model quickly becomes unsustainable – for reasons both spiritual and practical. Paul knew this. If each pastoral leader, regardless of what they do, requires full financial support from their people, it will be a model that hinders and fights growth rather than fosters it.
+If all who are called to serve in pastoral leadership in the church expect compensation, the model quickly becomes unsustainable—for reasons both spiritual and practical. Paul knew this. If each pastoral leader, regardless of what they do, requires full financial support from their people, it will be a model that hinders and fights growth rather than fosters it.
 
 For the global movement of the church to continue multiplying, a multitude of pastors are needed. To renew the Western church from within, a multitude of pastors are needed. We need pastoral overseers of the flock to establish the church and grow her to maturity, and for many this will not mean itinerant missionary work to share the gospel, nor will it mean weekly toiling in preaching and teaching.
 
