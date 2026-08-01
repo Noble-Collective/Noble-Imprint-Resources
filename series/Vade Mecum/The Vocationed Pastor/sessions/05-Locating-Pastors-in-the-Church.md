@@ -30,7 +30,7 @@ Committing to a pastoral, shepherding leadership role in the church is no small 
 
 **A vocationed pastor has a sustainable income that feeds resources into the church rather than drawing them away.**
 
-Most all skilled and well-compensated jobs in the west require specific degrees from specific types of universities. Whether you want to be an accountant, nurse, engineer, lawyer, doctor, scientist, teacher, business owner, architect, banker, or something else, specialized training is almost always required. And whether it’s one of these jobs or one of many others, what better time to pursue a sustainable “tent-making” vocation than early in life? Upon graduation you then enter the working world, invest into a solid church community, and focus on getting established in your faith and pursuing maturity.
+Most all skilled and well-compensated jobs in the West require specific degrees from specific types of universities. Whether you want to be an accountant, nurse, engineer, lawyer, doctor, scientist, teacher, business owner, architect, banker, or something else, specialized training is almost always required. And whether it’s one of these jobs or one of many others, what better time to pursue a sustainable “tent-making” vocation than early in life? Upon graduation you then enter the working world, invest into a solid church community, and focus on getting established in your faith and pursuing maturity.
 
 Putting these last 2 sections together, below is a high-level comparison summary:
 

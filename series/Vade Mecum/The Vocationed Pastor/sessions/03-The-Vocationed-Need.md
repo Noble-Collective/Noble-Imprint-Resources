@@ -2,7 +2,7 @@
 
 ## Why Paid Staff Alone Cannot Scale the Church
 
-Dr. Tim Keller wrote an article called “Leadership and Church Size Dynamics” which is extremely helpful in understanding how western churches of various sizes grow, and many insights are spot on. When Dr. Keller talks about how smaller churches grow, some interesting points about vocational pastors and their capacity emerge:
+Dr. Tim Keller wrote an article called “Leadership and Church Size Dynamics” which is extremely helpful in understanding how Western churches of various sizes grow, and many insights are spot on. When Dr. Keller talks about how smaller churches grow, some interesting points about vocational pastors and their capacity emerge:
 
 - A full-time minister cannot personally shepherd more than a few hundred people, depending on the context and amount of help he has.
 
@@ -28,7 +28,7 @@ Paul indicated to the church at Thessalonica that they “could have made demand
 
 **1 Timothy 5:17-18**
 
-As part of Paul’s instructions to the church, he clarifies that elders (overseers of the flock) who rule well, especially those “who labor in preaching and teaching”, are worthy of being paid (“double honor”). The word “labor” here is implying much hard work and time that makes you tired. And for those putting in that kind of time, he indicates they be renumerated.
+As part of Paul’s instructions to the church, he clarifies that elders (overseers of the flock) who rule well, especially those “who labor in preaching and teaching”, are worthy of being paid (“double honor”). The word “labor” here is implying much hard work and time that makes you tired. And for those putting in that kind of time, he indicates they be remunerated.
 
 **Matthew 10:9-10, Luke 10:7**
 
@@ -52,7 +52,7 @@ After verse 6 where Paul says they “could have made demands as apostles of Chr
 
 **2 Thessalonians 3:6-9**
 
-In the context of warning the church against being idle, Paul shared how they should imitate him – how was not idle, did not eat anyone’s bread, but toiled night and day so he wouldn’t be a burden. Then he clarified “it was not because we do not have that right, but to give you in ourselves an example to imitate” (vs. 9).
+In the context of warning the church against being idle, Paul shared how they should imitate him – how he was not idle, did not eat anyone’s bread, but toiled night and day so he wouldn’t be a burden. Then he clarified “it was not because we do not have that right, but to give you in ourselves an example to imitate” (vs. 9).
 
 **Acts 18:1-4**
 
@@ -64,7 +64,7 @@ In his farewell speech to the elders at Ephesus, Paul reiterates how his own han
 
 If all who are called to serve in pastoral leadership in the church expect compensation, the model quickly becomes unsustainable – for reasons both spiritual and practical. Paul knew this. If each pastoral leader, regardless of what they do, requires full financial support from their people, it will be a model that hinders and fights growth rather than fosters it.
 
-For the global movement of the church to continue multiplying, a multitude of pastors are needed. To renew the western church from within, a multitude of pastors are needed. We need pastoral overseers of the flock to establish the church and grow her to maturity, and for many this will not mean itinerant missionary work to share the gospel, nor will it mean weekly toiling in preaching and teaching.
+For the global movement of the church to continue multiplying, a multitude of pastors are needed. To renew the Western church from within, a multitude of pastors are needed. We need pastoral overseers of the flock to establish the church and grow her to maturity, and for many this will not mean itinerant missionary work to share the gospel, nor will it mean weekly toiling in preaching and teaching.
 
 Paul clearly recognized the untenable nature of only having full-time paid pastors meeting the needs of the church, and he took it upon himself to model what it looks like to be both laboring in a trade and laboring for the church. While some pastors should be paid by the church to be effective, for the sake of the progress of the gospel, most will need to be vocationed like Paul. Where will they all come from?
 
