@@ -1,6 +1,6 @@
 # Front Matter
 
-## The Vocationed Pastor
+## From Among You
 
 _Scaling the Global Church with a Vocationed Pastor Model_
 
