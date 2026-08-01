@@ -5,4 +5,4 @@
 
 ## Artwork
 
-- ter Brugghen, Hendrick. _The Calling of Saint Matthew_. 1620. Oil on canvas, 152 × 195 cm. Musée des Beaux-Arts, Le Havre.
+- ter Brugghen, Hendrick. _The Calling of Saint Matthew_. 1620. Oil on canvas, 152 × 195 cm. Musée d'art moderne André Malraux (MuMa), Le Havre.
