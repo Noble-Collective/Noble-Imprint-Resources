@@ -46,11 +46,11 @@ While Scriptures make it clear there are roles in God’s church for those who d
 
 Despite Paul’s right to lay claim to compensation, he does not take advantage of it – he “has made no use of any of these rights, nor [was he] writing these things to secure any such provision” (vs. 15). He wants to “present the gospel free of charge” (vs. 18).
 
-**1 Thess. 2:9-10**
+**1 Thessalonians 2:9-10**
 
 After verse 6 where Paul says they “could have made demands as apostles of Christ”, he goes on to say they labored and toiled “that we might not be a burden to any of you” (vs. 9), implying they not only worked to proclaim the gospel but also worked hard to provide for themselves simultaneously.
 
-**2 Thess. 3:6-9**
+**2 Thessalonians 3:6-9**
 
 In the context of warning the church against being idle, Paul shared how they should imitate him – how was not idle, did not eat anyone’s bread, but toiled night and day so he wouldn’t be a burden. Then he clarified “it was not because we do not have that right, but to give you in ourselves an example to imitate” (vs. 9).
 

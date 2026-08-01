@@ -2,6 +2,7 @@
   "language": "en",
   "title": "From Among You",
   "subtitle": "Scaling the Global Church with a Vocationed Pastor Model",
+  "author": "Steve Lundy",
   "order": 2,
   "color": {
     "##": "#000000",
@@ -9,8 +10,8 @@
     "####": "#000000",
     "#####": "#000000"
   },
-  "banner": "Draft",
-  "status": "hidden",
+  "banner": "Pre-Release",
+  "status": "public",
   "audiobook": {
     "enabled": false
   },
