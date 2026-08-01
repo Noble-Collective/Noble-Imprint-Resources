@@ -1,0 +1,24 @@
+{
+  "language": "en",
+  "title": "The Vocationed Pastor",
+  "subtitle": "Scaling the Global Church with a Vocationed Pastor Model",
+  "order": 2,
+  "color": {
+    "##": "#000000",
+    "###": "#000000",
+    "####": "#000000",
+    "#####": "#000000"
+  },
+  "banner": "Draft",
+  "status": "hidden",
+  "audiobook": {
+    "enabled": false
+  },
+  "maxNavHeadingLevel": 2,
+  "sessionNumbers": {
+    "03-The-Vocationed-Need.md": 1,
+    "04-Locating-Pastors-in-Institutions.md": 2,
+    "05-Locating-Pastors-in-the-Church.md": 3,
+    "06-A-Journey-to-Build-Vocationed-Pastors.md": 4
+  }
+}
