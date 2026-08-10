@@ -9,7 +9,7 @@
 ## Resources for Building Vocationed Pastors
 
 - [Antioch School of Church Planting and Leadership Development](https://antiochschool.edu). Ames, IA: BILD International.
-- BILD International. _[The First Principles Series](https://store.bild.org)_. Ames, IA: BILD International.
+- BILD International. _[The First Principles Series](https://bild.org/training-system)_. Ames, IA: BILD International.
 - [BiblicalTraining](https://www.biblicaltraining.org). Founded by Bill Mounce, 2007.
 - _[Narrative Journey Series](/#series-narrative-journey-series)_. Noble Imprint.
 
