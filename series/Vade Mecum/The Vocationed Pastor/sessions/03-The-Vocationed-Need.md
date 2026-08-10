@@ -68,6 +68,7 @@ For the global movement of the church to continue multiplying, a multitude of pa
 
 Paul clearly recognized the untenable nature of only having full-time paid pastors meeting the needs of the church, and he took it upon himself to model what it looks like to be both laboring in a trade and laboring for the church. While some pastors should be paid by the church to be effective, for the sake of the progress of the gospel, most will need to be vocationed like Paul. Where will they all come from?
 
+<!--
 ## Key Ideas
 
 - A full-time paid pastor can personally shepherd only so many people; scaling the church by adding paid staff alone is financially and practically limited.
@@ -81,3 +82,4 @@ Paul clearly recognized the untenable nature of only having full-time paid pasto
 <Question id="VP-Ch1-RefQue-2">2. How do Tim Keller’s church-size dynamics play out in churches you know? What are the limits of scaling only by adding paid staff?</Question>
 <Question id="VP-Ch1-RefQue-3">3. What do you make of the pattern of Paul relinquishing his right to compensation? What principles about work and pay in the church does it suggest?</Question>
 <Question id="VP-Ch1-RefQue-4">4. If most pastors will need to be “vocationed,” where might such leaders come from in your own church?</Question>
+-->

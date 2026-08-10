@@ -36,6 +36,7 @@ Putting these last two sections together, below is a high-level comparison summa
 
 ![Comparison of institution-trained and vocationed pastors](diagram_comparison "Comparison of traditionally trained pastors and vocationed pastors")
 
+<!--
 ## Key Ideas
 
 - A large, underused pool of potential leaders already exists within the local congregation—no longer limited by the church budget.
@@ -49,3 +50,4 @@ Putting these last two sections together, below is a high-level comparison summa
 <Question id="VP-Ch3-RefQue-2">2. What mindset shifts would your church need to move from a staff-centralized model to multiplying pastors from within?</Question>
 <Question id="VP-Ch3-RefQue-3">3. How does training in the context of the local church shape character and skill differently than a classroom does?</Question>
 <Question id="VP-Ch3-RefQue-4">4. What practical barriers (time, motivation, structures) would you need to address to build a team of vocationed pastors?</Question>
+-->

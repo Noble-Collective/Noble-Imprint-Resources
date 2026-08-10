@@ -44,6 +44,7 @@ In terms of a scalable strategy for developing leaders to empower the global chu
 
 Isn’t there a better way?
 
+<!--
 ## Key Ideas
 
 - The need for leaders in the global church far exceeds the number of Bible college and seminary graduates pursuing pastoral work.
@@ -57,3 +58,4 @@ Isn’t there a better way?
 <Question id="VP-Ch2-RefQue-2">2. How did the early church identify and commission leaders? How does that compare to how it is typically done today?</Question>
 <Question id="VP-Ch2-RefQue-3">3. What are the risks of entrusting shepherding primarily to the young and inexperienced? How can youth still be celebrated and developed?</Question>
 <Question id="VP-Ch2-RefQue-4">4. Have you seen the “full-time ministry or bust” pattern play out? What were its effects on the person and the church?</Question>
+-->

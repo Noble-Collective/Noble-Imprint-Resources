@@ -20,6 +20,8 @@ This primer is published under a CC BY-SA license, which means that you have per
 
 Unless otherwise noted, Scripture quotations are taken from the English Standard Version (ESV).
 
+<!--
 ## Executive Summary
 
 Most pastors in the West are trained in an institution and then compensated directly by a local church. While this model is necessary, can it fully meet the needs of the global church? This primer argues that, alongside our bivocational and vocational pastors, the church must heavily invest in a different kind of leader—the _vocationed pastor_: a believer first established in a sustainable "tent-making" vocation, and then trained, from within the local church, to shepherd God's flock. Drawing on Scripture, Tim Keller's church-size dynamics, and the author's own experience, it contrasts locating pastors within institutions versus within the church, sketches an example pathway for churches to identify, train, and empower vocationed pastors, and casts a vision for scaling the global church without multiplying its budget.
+-->

@@ -30,6 +30,7 @@ The chart below presents a fundamentally different primary model, which is to fo
 
 ![The tent-making pastoral path](diagram_tentmaking_path "Progression for those whose calling begins with a “tent-making” vocation & becomes pastoral")
 
+<!--
 ## Key Ideas
 
 - Every believer is part of a royal priesthood; God may gift anyone—not only the seminary-bound—to shepherd his flock.
@@ -43,3 +44,4 @@ The chart below presents a fundamentally different primary model, which is to fo
 <Question id="VP-Ch4-RefQue-2">2. How healthy are the small, church-like gatherings in your church as places where members are known and leaders are apprenticed?</Question>
 <Question id="VP-Ch4-RefQue-3">3. What would a church-based training process in character, knowledge, and skill look like in your context?</Question>
 <Question id="VP-Ch4-RefQue-4">4. How might you steer a young person drawn to ministry toward a tent-making vocation while still investing in their pastoral formation?</Question>
+-->
