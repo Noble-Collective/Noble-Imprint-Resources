@@ -1,7 +1,17 @@
 # Bibliography
 
-- Keller, Timothy. "Leadership and Church Size Dynamics." Redeemer City to City.
-- Snyder, Howard A. _Signs of the Spirit: How God Reshapes the Church_.
+## Works Cited
+
+- Keller, Timothy. "[Leadership and Church Size Dynamics](https://redeemercitytocity.com/articles-stories/leadership-and-church-size-dynamics-how-strategy-changes-with-growth)." Redeemer City to City. Originally published in _The Movement Newsletter_, 2006.
+- Snyder, Howard A. _Signs of the Spirit: How God Reshapes the Church_. Eugene, OR: Wipf & Stock, 1997. First published 1989 by Zondervan.
+- Steffan, Melissa. "[Barely 4 in 10 MDivs Plan to Pastor Full-Time](https://www.christianitytoday.com/2013/05/barely-4-in-10-mdivs-plan-to-pastor-full-time/)." _Christianity Today_, May 30, 2013. Reporting data from the Association of Theological Schools.
+
+## Resources for Building Vocationed Pastors
+
+- [Antioch School of Church Planting and Leadership Development](https://antiochschool.edu). Ames, IA: BILD International.
+- BILD International. _[The First Principles Series](https://store.bild.org)_. Ames, IA: BILD International.
+- [BiblicalTraining](https://www.biblicaltraining.org). Founded by Bill Mounce, 2007.
+- _[Narrative Journey Series](/#series-narrative-journey-series)_. Noble Imprint.
 
 ## Artwork
 
