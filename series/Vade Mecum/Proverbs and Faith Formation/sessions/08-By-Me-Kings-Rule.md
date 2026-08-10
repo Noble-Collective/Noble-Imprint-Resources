@@ -6,7 +6,7 @@
 
 << Arthur T. Pierson, The New Acts of the Apostles
 
-## Healthy Portraits of Godly Manhood and Womanhood
+## Portraits of Godly Manhood and Womanhood
 
 To view faith formation as becoming wise in the fear of God is to gain a helpful picture of what it looks like to be mature. But faith maturity, moral formation, and growth in biblical wisdom are not generic. Side by side, Proverbs offers portraits of godly manhood and godly womanhood. The reader of Proverbs is to look at the exemplars in Proverbs as models to emulate and the depictions of folly as warnings to heed. While there are characteristics commonly shared between mature men and women, godly men and godly women will uniquely display wisdom and faith maturity. The thesis of Proverbs is simple: wisdom turns boys into honorable men, girls into noble women, the simple into wise rulers, those who lack sense into just governors, the ignoble into paragons of virtue and nobility. Proverbs gives us pictures of kingly men and noble women.
 
@@ -24,7 +24,7 @@ Inasmuch as Proverbs is for both young and old, it is also for both men and wome
 
 ## Reflection Questions
 
-<Question id="Pro-Ch6-RefQue-1">1. How does our culture view men and woman? What are some points of current cultural confusion around masculinity and femininity?</Question>
+<Question id="Pro-Ch6-RefQue-1">1. How does our culture view men and women? What are some points of current cultural confusion around masculinity and femininity?</Question>
 <Question id="Pro-Ch6-RefQue-2">2. How does Proverbs (as a whole and the first nine chapters) offer portraits of godly manhood and womanhood? What characters are at play in the beginning chapters of Proverbs? How do these characters serve the larger agenda of depicting faith formation in wisdom?</Question>
 <Question id="Pro-Ch6-RefQue-3">3. How do these portraits help shape your understanding of what it means to grow in the faith? How important is modeling and emulation to wisdom and faith formation?</Question>
 
