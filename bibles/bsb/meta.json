@@ -11,7 +11,7 @@
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",
     "voice_settings": {
-      "stability": 0.71,
+      "stability": 0.80,
       "similarity_boost": 0.5,
       "style": 0.0,
       "speed": 0.90
