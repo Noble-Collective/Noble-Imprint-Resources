@@ -6,7 +6,7 @@
   "audiobook": {
     "enabled": true,
     "language_normalization": true,
-    "request_stitching": false,
+    "request_stitching": true,
     "voice_id": "MI88rOZjXbH22N8KHXUo",
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",
