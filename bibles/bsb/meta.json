@@ -6,11 +6,12 @@
   "audiobook": {
     "enabled": true,
     "language_normalization": true,
+    "request_stitching": false,
     "voice_id": "MI88rOZjXbH22N8KHXUo",
     "model_id": "eleven_multilingual_v2",
     "quality_preset": "high",
     "voice_settings": {
-      "stability": 0.80,
+      "stability": 0.71,
       "similarity_boost": 0.5,
       "style": 0.0,
       "speed": 0.90
