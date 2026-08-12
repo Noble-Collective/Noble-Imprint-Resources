@@ -14,7 +14,8 @@
   "banner": "Pre-Release",
   "status": "public",
   "audiobook": {
-    "enabled": false
+    "enabled": false,
+    "chunking_strategy": "linear"
   },
   "maxNavHeadingLevel": 2,
   "sessionNumbers": {

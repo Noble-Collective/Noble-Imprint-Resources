@@ -14,6 +14,7 @@
   "status": "public",
   "audiobook": {
     "enabled": false,
+    "chunking_strategy": "linear",
     "language_normalization": true,
     "project_id": null,
     "voice_id": "jRAAK67SEFE9m7ci5DhD",

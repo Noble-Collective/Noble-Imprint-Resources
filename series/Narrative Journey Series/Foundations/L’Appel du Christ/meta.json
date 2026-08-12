@@ -13,6 +13,7 @@
   "status": "public",
   "audiobook": {
     "enabled": false,
+    "chunking_strategy": "linear",
     "language_normalization": false,
     "voice_id": "aQROLel5sQbj1vuIVi6B",
     "model_id": "eleven_multilingual_v2",
