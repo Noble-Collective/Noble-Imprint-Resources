@@ -1,0 +1,13 @@
+{
+  "label": "Our pinned BSB copy",
+  "pinnedAt": "2026-08-29",
+  "printing": "3rd Printing (approx)",
+  "note": "Intentionally pinned as of this date. We review upstream changes manually before pulling them in, so our copy may sit a few verses behind the publisher.",
+  "upstreamLastSeen": {
+    "source": "https://bereanbible.com/bsb.txt",
+    "lastModified": "Fri, 31 Jul 2026 14:02:14 GMT",
+    "contentLength": 4291058,
+    "sha256": "7b3268309565774a4a87bb0902111716b84c36b8ee89e10ec3a1bc8df3b4715c",
+    "checkedAt": "2026-08-29T10:55:38.181Z"
+  }
+}
