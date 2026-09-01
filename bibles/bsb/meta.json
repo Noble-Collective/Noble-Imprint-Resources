@@ -19,7 +19,33 @@
     },
     "books": {
       "PRO": { "enabled": true },
-      "2TI": { "enabled": true }
+      "MAT": { "enabled": true },
+      "MRK": { "enabled": true },
+      "LUK": { "enabled": true },
+      "JHN": { "enabled": true },
+      "ACT": { "enabled": true },
+      "ROM": { "enabled": true },
+      "1CO": { "enabled": true },
+      "2CO": { "enabled": true },
+      "GAL": { "enabled": true },
+      "EPH": { "enabled": true },
+      "PHP": { "enabled": true },
+      "COL": { "enabled": true },
+      "1TH": { "enabled": true },
+      "2TH": { "enabled": true },
+      "1TI": { "enabled": true },
+      "2TI": { "enabled": true },
+      "TIT": { "enabled": true },
+      "PHM": { "enabled": true },
+      "HEB": { "enabled": true },
+      "JAS": { "enabled": true },
+      "1PE": { "enabled": true },
+      "2PE": { "enabled": true },
+      "1JN": { "enabled": true },
+      "2JN": { "enabled": true },
+      "3JN": { "enabled": true },
+      "JUD": { "enabled": true },
+      "REV": { "enabled": true }
     }
   }
 }
