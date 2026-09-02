@@ -1,10 +1,13 @@
 # Bibliography
 
-## Works Cited
+<Bibliography>
 
 - Keller, Timothy. "[Leadership and Church Size Dynamics](https://redeemercitytocity.com/articles-stories/leadership-and-church-size-dynamics-how-strategy-changes-with-growth)." Redeemer City to City. Originally published in _The Movement Newsletter_, 2006.
 - Snyder, Howard A. _Signs of the Spirit: How God Reshapes the Church_. Eugene, OR: Wipf & Stock, 1997. First published 1989 by Zondervan.
 - Steffan, Melissa. "[Barely 4 in 10 MDivs Plan to Pastor Full-Time](https://www.christianitytoday.com/2013/05/barely-4-in-10-mdivs-plan-to-pastor-full-time/)." _Christianity Today_, May 30, 2013. Reporting data from the Association of Theological Schools.
+- ter Brugghen, Hendrick. _The Calling of Saint Matthew_. 1620. Oil on canvas, 152 × 195 cm. Musée d'art moderne André Malraux (MuMa), Le Havre.
+
+</Bibliography>
 
 ## Resources for Building Vocationed Pastors
 
@@ -12,7 +15,3 @@
 - BILD International. _[The First Principles Series](https://bild.org/training-system)_. Ames, IA: BILD International.
 - [BiblicalTraining](https://www.biblicaltraining.org). Founded by Bill Mounce, 2007.
 - _[Narrative Journey Series](/#series-narrative-journey-series)_. Noble Imprint.
-
-## Artwork
-
-- ter Brugghen, Hendrick. _The Calling of Saint Matthew_. 1620. Oil on canvas, 152 × 195 cm. Musée d'art moderne André Malraux (MuMa), Le Havre.
