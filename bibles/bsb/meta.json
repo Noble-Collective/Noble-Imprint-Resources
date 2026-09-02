@@ -18,6 +18,15 @@
       "speed": 0.90
     },
     "books": {
+      "GEN": { "enabled": true },
+      "EXO": { "enabled": true },
+      "LEV": { "enabled": true },
+      "NUM": { "enabled": true },
+      "DEU": { "enabled": true },
+      "JOS": { "enabled": true },
+      "JDG": { "enabled": true },
+      "RUT": { "enabled": true },
+      "1SA": { "enabled": true },
       "PRO": { "enabled": true },
       "MAT": { "enabled": true },
       "MRK": { "enabled": true },
