@@ -13,7 +13,7 @@
   "banner": "Pre-Release",
   "status": "public",
   "audiobook": {
-    "enabled": false,
+    "enabled": true,
     "chunking_strategy": "linear",
     "language_normalization": true,
     "project_id": null,
