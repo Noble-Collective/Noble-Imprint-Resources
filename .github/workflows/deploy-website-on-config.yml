@@ -1,0 +1,30 @@
+name: Deploy Website on Config Change
+
+# When a book's meta.json changes (e.g. flipping audiobook.enabled true), the
+# website's per-instance content-tree cache would otherwise go stale for up to
+# ~10 min on any already-running instance — so a newly-enabled audiobook can
+# appear on some instances but not others. A fresh Cloud Run revision replaces
+# ALL instances at once, so the change is live everywhere together.
+#
+# Text-only edits (session .md) don't need this — notify-website.yml's cache
+# refresh + the 10-min TTL handle those. This fires ONLY on meta.json changes,
+# which are infrequent, so the extra build+deploy cost is negligible.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/meta.json'
+
+jobs:
+  trigger-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website Build and Deploy (config changed → all instances fresh)
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+        run: |
+          gh workflow run deploy.yml \
+            --repo Noble-Collective/Noble-Imprint-Resource-Website \
+            --ref main
+          echo "Dispatched website deploy — a fresh Cloud Run revision will pick up the config change on all instances."
