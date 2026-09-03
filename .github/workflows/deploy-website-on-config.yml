@@ -1,14 +1,14 @@
-name: Deploy Website on Config Change
+name: Refresh Website Cache on Config Change
 
 # When a book's meta.json changes (e.g. flipping audiobook.enabled true), the
-# website's per-instance content-tree cache would otherwise go stale for up to
-# ~10 min on any already-running instance — so a newly-enabled audiobook can
-# appear on some instances but not others. A fresh Cloud Run revision replaces
-# ALL instances at once, so the change is live everywhere together.
+# change must reach ALL website instances together. The website bakes a content-tree
+# SNAPSHOT into its Docker image (src/.content-tree-cache.json) for fast cold starts,
+# so a plain deploy would ship the STALE snapshot. The correct action is to trigger
+# refresh-cache.yml, which REGENERATES the snapshot from live content, commits it, and
+# that commit auto-deploys a fresh image — so every instance serves the new config.
 #
-# Text-only edits (session .md) don't need this — notify-website.yml's cache
-# refresh + the 10-min TTL handle those. This fires ONLY on meta.json changes,
-# which are infrequent, so the extra build+deploy cost is negligible.
+# Text-only edits (session .md) don't need this — notify-website.yml's runtime cache
+# refresh handles those. This fires ONLY on meta.json changes (infrequent).
 
 on:
   push:
@@ -17,14 +17,14 @@ on:
       - '**/meta.json'
 
 jobs:
-  trigger-deploy:
+  trigger-cache-refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger website Build and Deploy (config changed → all instances fresh)
+      - name: Trigger website cache regeneration (regenerates baked snapshot → auto-deploys)
         env:
           GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
         run: |
-          gh workflow run deploy.yml \
+          gh workflow run refresh-cache.yml \
             --repo Noble-Collective/Noble-Imprint-Resource-Website \
             --ref main
-          echo "Dispatched website deploy — a fresh Cloud Run revision will pick up the config change on all instances."
+          echo "Dispatched refresh-cache: regenerates the baked content-tree snapshot from live content, commits it, and the commit auto-deploys a fresh image → new config live on all instances."
