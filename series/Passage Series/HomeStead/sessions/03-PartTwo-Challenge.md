@@ -122,9 +122,9 @@ Example: "God, help me to raise my children in the discipline and instruction of
 
 *After concluding this spiritual discipline, reflect on what God is teaching you. Discuss the following questions as a small group.*
 
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-1">1. What did you learn (observations, insights, or questions) from this time with God?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-2">2. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
-<Question id="Home-ParTwoCha-DaiDev-DayOne-MorRea-RecKeyImp-3">3. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MidPra-RecKeyImp-1">1. What did you learn (observations, insights, or questions) from this time with God?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MidPra-RecKeyImp-2">2. What did you think of this spiritual practice? What was encouraging? What was challenging? How can you incorporate this practice into your daily life?</Question>
+<Question id="Home-ParTwoCha-DaiDev-DayOne-MidPra-RecKeyImp-3">3. How did you encounter God during this time? What did God teach you about himself? What did God show you about yourself?</Question>
 
 #### Evening Reflection
 
