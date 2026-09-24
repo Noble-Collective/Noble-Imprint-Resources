@@ -172,7 +172,7 @@ Fashioned after the ministry of Christ, rooted in the historic practice of catec
 
 | | |
 | :--- | :--- |
-| core discipleship for local churches | The second set of books in the _Narrative Journey_ series establishes believers and churches in the essentials of the Christian faith. Exploring carefully selected biblical narratives (arranged under the topics of Christian belief, living, habits, community, and devotion), the community of faith grows deep roots in core Christian teaching. |
+| core discipleship for local churches | The second set of books in the _Narrative Journey_ series establishes believers and churches in the essentials of the Christian faith. Exploring carefully selected biblical narratives (arranged under the topics of Christian belief, living, habits, community, devotion, and witness), the community of faith grows deep roots in core Christian teaching. |
 | The Story Behind It All | Addresses the doctrinal fountainheads of Christian belief—built upon the Apostles' Creed. |
 | The Best Possible Life | Illuminates the moral substructure of Christian living—structured around the Ten Commandments. |
 | The Open Invitation | Cultivates godly habits of Christian formation—birthed from the Lord's Prayer. |
