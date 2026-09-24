@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - 1 Samuel 24:1–26:25
 - **Scripture Memory** - Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work. Titus 3:1
-- **Catechism Question** - Q: How are believers to treat those in authority? A: With honor.
+- **Catechism** - Q: How are believers to treat those in authority? A: With honor.
 
 ## Introduction
 

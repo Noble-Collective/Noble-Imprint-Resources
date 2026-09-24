@@ -218,8 +218,6 @@ Request: Lift Up to God Your Needs
 
 Intercession: Come to God for Another's Issue
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script

@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - 1 Kings 21:1–29
 - **Scripture Memory** - Instruct those who are rich in the present age not to be conceited and not to put their hope in the uncertainty of wealth, but in God, who richly provides all things for us to enjoy. 1 Timothy 6:17
-- **Catechism Question** - Q: Who are we in relationship to our possessions? A: Stewards.
+- **Catechism** - Q: Who are we in relationship to our possessions? A: Stewards.
 
 ## Introduction
 

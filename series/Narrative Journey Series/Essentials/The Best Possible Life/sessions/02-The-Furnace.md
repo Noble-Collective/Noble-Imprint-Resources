@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Daniel 3:1–30
 - **Scripture Memory** - Know therefore this day and take to heart that the Lord is God in heaven above and on the earth below; there is no other. Deuteronomy 4:39
-- **Catechism Question** - Q: What does God require of us first and foremost? A: Love.
+- **Catechism** - Q: What does God require of us first and foremost? A: Love.
 
 ## Introduction
 

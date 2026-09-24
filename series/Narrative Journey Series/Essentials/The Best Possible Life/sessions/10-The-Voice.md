@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Nehemiah 6:1–7:4
 - **Scripture Memory** - My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger, for man's anger does not bring about the righteousness that God desires. James 1:19–20
-- **Catechism Question** - Q: What instrument can bring life or death? A: Tongue.
+- **Catechism** - Q: What instrument can bring life or death? A: Tongue.
 
 ## Introduction
 

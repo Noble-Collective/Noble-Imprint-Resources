@@ -240,8 +240,6 @@ Offering our lives to serve the well-being of others is God's strategy to help r
 
 In the upcoming week, think through an act of service that you can provide for someone else. Think of an act that meets a real need, will require time, and allows you to put yourself in the service of others without expecting payback. Then, do it. As you perform this act, think through the experience: What hesitations did you have? What mixed motives were present? How might you prepare yourself better for a subsequent act of service?
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script

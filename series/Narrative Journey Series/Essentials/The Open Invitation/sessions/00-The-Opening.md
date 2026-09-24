@@ -86,21 +86,13 @@ However, there is a second reason to locate your spiritual growth in the context
 
 <!-- @include: Opening_Discussion_Directions -->
 
-<Question id=TheOpenInvitationOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
-
-<Question id=TheOpenInvitationOpening-Discussion-Q2>2. Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
-
-<Question id=TheOpenInvitationOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
+Coming soon.
 
 ### Significant Quote
 
 <!-- @include: Opening_SignificantQuote_Directions -->
 
-> A Church which is a mere boneless body, like a jelly-fish, a colourless, bloodless, creedless Pantheon, in which every one is right and nobody is wrong who is in earnest, and in which it does not matter a jot what is preached and taught, so long as the preachers are sincere, — such a Church is an unpractical absurdity, and the baseless fabric of a dream. The Church which abandons all limits, and will not proclaim to mankind what it believes, or would have its members believe, may do very well for Cloudland or Utopia ; but it will never do for a world where there are tears and crosses, troubles and sorrows, sickness and death.
-
-<< J. C. Ryle, _Principles for Churchmen_
-
-Record any initial observations or community insights below.
+Coming soon.
 
 ## Learning Plan: Charting the Course
 

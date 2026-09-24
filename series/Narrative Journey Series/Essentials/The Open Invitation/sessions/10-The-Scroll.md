@@ -231,8 +231,6 @@ As the Living Word of God, Jesus based his life and ministry on God's word. We, 
 
 In the upcoming week, commit to memorizing a passage of Scripture. Take time to work on the passage every day. Read through it. Use the space below to write it out. Pray it back to God. Talk about it with others. Think about how it applies to your life. Afterward, consider how you can more intentionally make God's Word a central point of your life.
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script

@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Genesis 4:1–26
 - **Scripture Memory** - Everyone who hates his brother is a murderer, and you know that eternal life does not reside in a murderer. 1 John 3:15
-- **Catechism Question** - Q: What gift from God should we treasure? A: Life.
+- **Catechism** - Q: What gift from God should we treasure? A: Life.
 
 ## Introduction
 

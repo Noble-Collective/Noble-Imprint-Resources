@@ -223,8 +223,6 @@ The faith practice of confession offers a path of freedom from the entanglement 
 
 In the upcoming week, take time to write out a prayer of confession. In your confession, include aspects that relate to personal sin, God's glory, and gospel belief. Read your prayer to God in a kneeling position. Find time to share your prayer with a trusted believer in the faith. Then, reflect on the importance of maintaining this practice of confession in your Christian life.
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script

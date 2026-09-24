@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Leviticus 8:1–10:20
 - **Scripture Memory** - Sing to the Lord, all the earth. Proclaim His salvation day after day. Declare His glory among the nations, His wonderful deeds among all peoples. For great is the Lord, and greatly to be praised; He is to be feared above all gods. 1 Chronicles 16:23–25
-- **Catechism Question** - Q: How does God expect his name to be treated? A: Glory.
+- **Catechism** - Q: How does God expect his name to be treated? A: Glory.
 
 ## Introduction
 

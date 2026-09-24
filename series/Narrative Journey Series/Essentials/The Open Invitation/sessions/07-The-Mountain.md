@@ -218,8 +218,6 @@ Silence is a powerful practice to aid us in the Christian life. Silence can expo
 
 In the following week, find some space to be silent. Try to spend an entire day not speaking about yourself. Then afterward, record what was surprising, insightful, and challenging about such an activity. Also, think through how such a practice of silence will be a part of your regular practice as a Christian.
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script

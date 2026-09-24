@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Judges 13:1–16:36
 - **Scripture Memory** - But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed. Ephesians 5:3
-- **Catechism Question** - Q: What should define our relationships? A: Purity.
+- **Catechism** - Q: What should define our relationships? A: Purity.
 
 ## Introduction
 

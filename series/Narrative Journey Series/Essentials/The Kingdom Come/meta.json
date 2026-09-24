@@ -3,12 +3,15 @@
   "subtitle": "A Narrative Journey of Christian Witness",
   "order": 6,
   "color": {
-    "##": "#000000",
-    "###": "#000000",
-    "####": "#000000",
-    "#####": "#000000"
+    "#": "#5f5fe0",
+    "##": "#5f5fe0",
+    "###": "#5f5fe0",
+    "####": "#5f5fe0",
+    "#####": "#5f5fe0",
+    "######": "#5f5fe0"
   },
-  "banner": "Preview",
+  "accent": "#5f5fe0",
+  "banner": "Pre-Release",
   "status": "public",
   "maxNavHeadingLevel": 3
 }

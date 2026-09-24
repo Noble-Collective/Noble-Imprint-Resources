@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Numbers 11:1–35
 - **Scripture Memory** - Instead, clothe yourselves with the Lord Jesus Christ, and make no provision for the desires of the flesh. Romans 13:14
-- **Catechism Question** - Q: Where is the fountain of godly living? A: Heart.
+- **Catechism** - Q: Where is the fountain of godly living? A: Heart.
 
 ## Introduction
 

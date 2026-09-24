@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Esther 1:1–10:3
 - **Scripture Memory** - We proclaim Him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ. Colossians 1:28
-- **Catechism Question** - Q: What is our goal for progress in the faith? A: Maturity.
+- **Catechism** - Q: What is our goal for progress in the faith? A: Maturity.
 
 ## Introduction
 

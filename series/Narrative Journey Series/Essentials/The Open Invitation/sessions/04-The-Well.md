@@ -237,8 +237,6 @@ Celebrating God's Work: How has God acted on your behalf?
 
 Resting in God's Wisdom: What comfort does the wisdom and knowledge of God bring to your life?
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script

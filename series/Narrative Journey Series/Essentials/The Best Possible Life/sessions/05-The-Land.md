@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Joshua 3:1–6:27
 - **Scripture Memory** - And he said, "My presence will go with you, and I will give you rest." Exodus 33:14
-- **Catechism Question** - Q: What does the Sabbath offer God's people? A: Rest.
+- **Catechism** - Q: What does the Sabbath offer God's people? A: Rest.
 
 ## Introduction
 

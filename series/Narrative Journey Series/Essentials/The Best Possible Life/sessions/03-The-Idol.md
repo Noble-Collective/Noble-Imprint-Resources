@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Exodus 32:1–35
 - **Scripture Memory** - O come, let us worship and bow down; let us kneel before the Lord our Maker. For He is our God, and we are the people of His pasture, the sheep under His care. Psalm 95:6–7
-- **Catechism Question** - Q: How should we relate to God? A: Worship.
+- **Catechism** - Q: How should we relate to God? A: Worship.
 
 ## Introduction
 

@@ -230,8 +230,6 @@ Sabbath is God's gift to his people. God's people are a community of the Sabbath
 
 In the upcoming week, take time to practice the Sabbath. Give a 24-hour period of time to break from work, refocus your life, and act in a way that offers Jesus' life-restoring power to someone else. Afterward, reflect on how the practice of Sabbath was a means of experiencing the deliverance given to us in the gospel.
 
-**
-
 <!-- @include: SpiritualPracticesInfographic -->
 
 ## Ministry Practice: Rehearsing the Script
