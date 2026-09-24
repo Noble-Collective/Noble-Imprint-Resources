@@ -13,7 +13,9 @@
 
 ## Introduction
 
-He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. "By His stripes you are healed." 1 Peter 2:24
+> He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. "By His stripes you are healed."
+
+<< 1 Peter 2:24
 
 > Christ by his death has provided a better place … a place more glorious than Adam's Paradise … A place, not only built by the word of God, but cemented and prepared by the blood of Christ. By the law against sin, we were to have our bodies reduced to dust, and our souls lie under the sentence of the wrath of God. But our crucified Saviour … purchased the redemption of our body, to be evidenced by a resurrection … and a standing security of our souls in a place of bliss … As Adam brought in the empire of death, so Christ … brought in the empire of life … We lost a paradise by sin, and have gained a heaven by the cross.
 
@@ -91,9 +93,9 @@ The central pillar of Christianity is the gospel. Said another way, Jesus' death
 
 << 1 Peter 3:18
 
-> We are not called to proclaim philosophy and metaphysics, but the simple gospel. Man's fall, his need of a new birth, forgiveness through atonement, and salvation as the result of faith, these are our battle-ax and weapons of war. C. H.
+> We are not called to proclaim philosophy and metaphysics, but the simple gospel. Man's fall, his need of a new birth, forgiveness through atonement, and salvation as the result of faith, these are our battle-ax and weapons of war.
 
-<< Spurgeon, _Lectures to My Students_
+<< C. H. Spurgeon, _Lectures to My Students_
 
 ##### Introduction
 
@@ -173,9 +175,9 @@ Innocent, yet bearing the condemnation in the place of humans, Jesus opened the 
 
 Evening had arrived, and it was "the day before the Sabbath" (15:42). A respected Jewish leader named Joseph of Arimathea went to Pilate and asked for Jesus' body so he could prepare it for burial (15:43). This was a bold act on Joseph's part (15:43). Joseph was "a prominent Council" and he was "waiting for the kingdom of God" (15:43). Pilate was "surprised to hear that Jesus was already dead" (15:44) and confirmed with the Roman centurion that this was the case. After learning that Jesus had in fact already died, Pilate "granted the body to Joseph" (15:45). Joseph wrapped Jesus' body in linens and laid him in a tomb that was cut out of a rock; then he rolled a large stone to close the entrance of the tomb (15:46). Two of the women, Mary Magdalene and Mary, mother of James, saw where Jesus was buried (15:47).
 
-##### Biblical Principle
+###### Biblical Principles
 
-_Death of Death_. As the cross was an instrument of execution, Jesus experienced death and the grave. Jesus was delivered to death willingly, of his own accord. Judas delivered Jesus in his betrayal (cf. 14:10–11). The religious leaders delivered Jesus in their accusations (15:1, 10). Pilate delivered Jesus in his people-pleasing acquiescence (15:15). However, in the end, Jesus voluntarily gave up his life to die for each of us. Jesus' death is a factual historical event, verified by Pilate (15:44–45), Joseph (15:43, 46), and Jesus' disciples (15:47). That Jesus' death occurred on "Preparation Day" (15:42) is significant. For Jews, the Day of Preparation was the "day before the Sabbath" (15:42). This day represented the final day of the work week. In Jewish practice, these final activities of preparation were followed by Sabbath rest. To a greater degree, Jesus' crucifixion (and eventual resurrection) represented the successful accomplishment of the divine work of salvation that would bring promised rest to God's people.
+<Accent>_Death of Death._</Accent> As the cross was an instrument of execution, Jesus experienced death and the grave. Jesus was delivered to death willingly, of his own accord. Judas delivered Jesus in his betrayal (cf. 14:10–11). The religious leaders delivered Jesus in their accusations (15:1, 10). Pilate delivered Jesus in his people-pleasing acquiescence (15:15). However, in the end, Jesus voluntarily gave up his life to die for each of us. Jesus' death is a factual historical event, verified by Pilate (15:44–45), Joseph (15:43, 46), and Jesus' disciples (15:47). That Jesus' death occurred on "Preparation Day" (15:42) is significant. For Jews, the Day of Preparation was the "day before the Sabbath" (15:42). This day represented the final day of the work week. In Jewish practice, these final activities of preparation were followed by Sabbath rest. To a greater degree, Jesus' crucifixion (and eventual resurrection) represented the successful accomplishment of the divine work of salvation that would bring promised rest to God's people.
 
 As Joseph, the Jewish leader who was "waiting for the kingdom of God" (15:43), handled Jesus' body with care and respect, so too should we honor and revere the crucified Lord. His death is a kingdom work of redemption. In his crucifixion, Jesus experienced actual death, a dreadful enemy of humanity! Buried in a borrowed tomb, Jesus took death with him to the grave. Humans use medicine to postpone death, use amusement to ignore the imminence of death, or live in consuming fear of death. Only Jesus, crucified and buried, can procure our true escape from death.
 

@@ -93,9 +93,9 @@ God's redemptive work in Christ is to save people and form them into a community
 
 << Ephesians 3:10–11
 
-> The church of the Lord Jesus is the chosen agent for the exhibition of the manifold wisdom of God. The unfolding, the clear and full display of this wisdom, will necessarily present all the attributes of the divine Being in their harmonious, their sublimest operations … It is not surprising then, that the church in her progress to full maturity, presents to the view of angels those things into which they desire to look. If the church in the changes through which she passes to the completion of her honored destiny, attracts the gaze of "the principalities and powers in the heavenly places," she should be no less an object of intense regard to "all men" on this earth. William B.
+> The church of the Lord Jesus is the chosen agent for the exhibition of the manifold wisdom of God. The unfolding, the clear and full display of this wisdom, will necessarily present all the attributes of the divine Being in their harmonious, their sublimest operations … It is not surprising then, that the church in her progress to full maturity, presents to the view of angels those things into which they desire to look. If the church in the changes through which she passes to the completion of her honored destiny, attracts the gaze of "the principalities and powers in the heavenly places," she should be no less an object of intense regard to "all men" on this earth.
 
-<< Johnson, _The Gospel Developed_
+<< William B. Johnson, _The Gospel Developed_
 
 ##### Introduction
 

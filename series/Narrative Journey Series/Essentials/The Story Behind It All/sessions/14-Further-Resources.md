@@ -222,120 +222,120 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 
 #### Session 1: The Battle
 
-- Week 1 · Deuteronomy 6:1 · 25 · Deuteronomy 10:12 · 22 · Deuteronomy 11:1 · 32 · Joshua 1:1 · 9 · Job 42:1 · 17
-
-- Week 2 · Psalm 42:1 · 11 · Psalm 43:1 · 5 · Psalm 44:1 · 26 · Proverbs 3:1 · 12 · Isaiah 26:1 · 21
-
-- Week 3 · Matthew 5:1 · 15 · John 16:16 · 33 · Romans 5:1 · 11 · 2 Corinthians 4:1 · 18 · Hebrews 11:1 · 40
-
-- Week 4 · Hebrews 12:1 · 17 · James 5:7 · 20 · 1 Peter 1:1 · 12 · 1 Peter 4:12 · 19 · 1 Peter 5:6 · 14
+| Week 1 | Week 2 | Week 3 | Week 4 |
+| :--- | :--- | :--- | :--- |
+| Deuteronomy 6:1–25 | Psalm 42:1–11 | Matthew 5:1–15 | Hebrews 12:1–17 |
+| Deuteronomy 10:12–22 | Psalm 43:1–5 | John 16:16–33 | James 5:7–20 |
+| Deuteronomy 11:1–32 | Psalm 44:1–26 | Romans 5:1–11 | 1 Peter 1:1–12 |
+| Joshua 1:1–9 | Proverbs 3:1–12 | 2 Corinthians 4:1–18 | 1 Peter 4:12–19 |
+| Job 42:1–17 | Isaiah 26:1–21 | Hebrews 11:1–40 | 1 Peter 5:6–14 |
 
 #### Session 2: The Beginning
 
-- Week 5 · Deuteronomy 32:1 · 47 · Job 38:1 · 41 · Job 39:1 · 30 · Psalm 19:1 · 14 · Psalm 33:1 · 22
-
-- Week 6 · Psalm 104:1 · 25 · Psalm 147:1 · 20 · Isaiah 40:1 · 31 · Isaiah 41:1 · 29 · Isaiah 42:1 · 17
-
-- Week 7 · Isaiah 43:1 · 28 · Isaiah 44:1 · 28 · John 1:1 · 18 · Acts 14:8 · 18 · Acts 17:22 · 34
-
-- Week 8 · 2 Corinthians 3:1 · 18 · Colossians 1:15 · 23 · 1 Timothy 4:1 · 5 · Hebrews 1:1 · 14 · Hebrews 4:1 · 11
+| Week 5 | Week 6 | Week 7 | Week 8 |
+| :--- | :--- | :--- | :--- |
+| Deuteronomy 32:1–47 | Psalm 104:1–25 | Isaiah 43:1–28 | 2 Corinthians 3:1–18 |
+| Job 38:1–41 | Psalm 147:1–20 | Isaiah 44:1–28 | Colossians 1:15–23 |
+| Job 39:1–30 | Isaiah 40:1–31 | John 1:1–18 | 1 Timothy 4:1–5 |
+| Psalm 19:1–14 | Isaiah 41:1–29 | Acts 14:8–18 | Hebrews 1:1–14 |
+| Psalm 33:1–22 | Isaiah 42:1–17 | Acts 17:22–34 | Hebrews 4:1–11 |
 
 #### Session 3: The Image
 
-- Week 9 · Psalm 8:1 · 9 · Psalm 90:1 · 17 · Psalm 127:1 · 5 · Psalm 139:1 · 24 · Psalm 144:1 · 15
-
-- Week 10 · Ecclesiastes 1:1 · 18 · Ecclesiastes 2:1 · 26 · Ecclesiastes 3:1 · 22 · Ecclesiastes 4:1 · 16 · Ecclesiastes 5:1 · 20
-
-- Week 11 · Jeremiah 1:1 · 19 · Matthew 6:25 · 34 · Matthew 11:25 · 29 · Matthew 12:1 · 14 · 1 Corinthians 7:1 · 16
-
-- Week 12 · 1 Corinthians 7:17 · 40 · Ephesians 5:22 · 6:4 · 2 Timothy 2:14 · 26 · James 2:1 · 13 · 1 John 2:28 · 3:24
+| Week 9 | Week 10 | Week 11 | Week 12 |
+| :--- | :--- | :--- | :--- |
+| Psalm 8:1–9 | Ecclesiastes 1:1–18 | Jeremiah 1:1–19 | 1 Corinthians 7:17–40 |
+| Psalm 90:1–17 | Ecclesiastes 2:1–26 | Matthew 6:25–34 | Ephesians 5:22–6:4 |
+| Psalm 127:1–5 | Ecclesiastes 3:1–22 | Matthew 11:25–29 | 2 Timothy 2:14–26 |
+| Psalm 139:1–24 | Ecclesiastes 4:1–16 | Matthew 12:1–14 | James 2:1–13 |
+| Psalm 144:1–15 | Ecclesiastes 5:1–20 | 1 Corinthians 7:1–16 | 1 John 2:28–3:24 |
 
 #### Session 4: The Fall
 
-- Week 13 · Genesis 4:1 · 26 · Genesis 5:1 · 32 · Genesis 11:1 · 9 · Judges 2:1 · 23 · 2 Kings 17:1 · 41
-
-- Week 14 · Psalm 32:1 · 11 · Psalm 51:1 · 19 · Ecclesiastes 9:1 · 18 · Jeremiah 17:1 · 13 · Ezekiel 6:1 · 14
-
-- Week 15 · Matthew 4:1 · 11 · Romans 1:18 · 32 · Romans 2:1 · 29 · Romans 3:1 · 31 · Romans 5:12 · 21
-
-- Week 16 · Romans 7:1 · 25 · 1 Corinthians 10:1 · 33 · Ephesians 2:1 · 10 · 2 Timothy 3:1 · 9 · James 1:1 · 27
+| Week 13 | Week 14 | Week 15 | Week 16 |
+| :--- | :--- | :--- | :--- |
+| Genesis 4:1–26 | Psalm 32:1–11 | Matthew 4:1–11 | Romans 7:1–25 |
+| Genesis 5:1–32 | Psalm 51:1–19 | Romans 1:18–32 | 1 Corinthians 10:1–33 |
+| Genesis 11:1–9 | Ecclesiastes 9:1–18 | Romans 2:1–29 | Ephesians 2:1–10 |
+| Judges 2:1–23 | Jeremiah 17:1–13 | Romans 3:1–31 | 2 Timothy 3:1–9 |
+| 2 Kings 17:1–41 | Ezekiel 6:1–14 | Romans 5:12–21 | James 1:1–27 |
 
 #### Session 5: The Promise
 
-- Week 17 · Genesis 15:1 · 21 · Genesis 17:1 · 27 · Deuteronomy 9:1 · 29 · Deuteronomy 28:1 · 68 · Deuteronomy 29:1 · 29
-
-- Week 18 · Joshua 23:1 · 16 · Joshua 24:1 · 33 · Jeremiah 31:31 · 40 · Psalm 78:1 · 31 · Psalm 78:32 · 72
-
-- Week 19 · Matthew 24:1 · 51 · Romans 4:13 · 25 · 2 Corinthians 3:1 · 18 · 2 Corinthians 4:1 · 18 · Hebrews 6:13 · 20
-
-- Week 20 · Hebrews 7:1 · 28 · Hebrews 8:1 · 13 · 1 Peter 3:18 · 22 · 2 Peter 1:1 · 21 · 2 Peter 3:1 · 13
+| Week 17 | Week 18 | Week 19 | Week 20 |
+| :--- | :--- | :--- | :--- |
+| Genesis 15:1–21 | Joshua 23:1–16 | Matthew 24:1–51 | Hebrews 7:1–28 |
+| Genesis 17:1–27 | Joshua 24:1–33 | Romans 4:13–25 | Hebrews 8:1–13 |
+| Deuteronomy 9:1–29 | Jeremiah 31:31–40 | 2 Corinthians 3:1–18 | 1 Peter 3:18–22 |
+| Deuteronomy 28:1–68 | Psalm 78:1–31 | 2 Corinthians 4:1–18 | 2 Peter 1:1–21 |
+| Deuteronomy 29:1–29 | Psalm 78:32–72 | Hebrews 6:13–20 | 2 Peter 3:1–13 |
 
 #### Session 6: The Coming
 
-- Week 21 · Genesis 18:1 · 21 · Genesis 32:22 · 32 · Deuteronomy 18:15 · 22 · Joshua 5:1 · 15 · 1 Samuel 2:1 · 11
-
-- Week 22 · Daniel 3:1 · 30 · Isaiah 7:10 · 25 · Isaiah 9:1 · 7 · Hosea 11:1 · 7 · Micah 5:1 · 15
-
-- Week 23 · Matthew 1:1 · 25 · Matthew 2:1 · 23 · John 1:19 · 34 · John 3:1 · 36 · Galatians 4:1 · 20
-
-- Week 24 · Philippians 2:1 · 30 · Colossians 2:6 · 15 · Hebrews 4:14 · 5:10 · 1 Timothy 1:12 · 20 · 1 Timothy 3:14 · 16; 6:11 · 16
+| Week 21 | Week 22 | Week 23 | Week 24 |
+| :--- | :--- | :--- | :--- |
+| Genesis 18:1–21 | Daniel 3:1–30 | Matthew 1:1–25 | Philippians 2:1–30 |
+| Genesis 32:22–32 | Isaiah 7:10–25 | Matthew 2:1–23 | Colossians 2:6–15 |
+| Deuteronomy 18:15–22 | Isaiah 9:1–7 | John 1:19–34 | Hebrews 4:14–5:10 |
+| Joshua 5:1–15 | Hosea 11:1–7 | John 3:1–36 | 1 Timothy 1:12–20 |
+| 1 Samuel 2:1–11 | Micah 5:1–15 | Galatians 4:1–20 | 1 Timothy 3:14–16; 6:11–16 |
 
 #### Session 7: The Cross
 
-- Week 25 · Genesis 22:1 · 24 · Exodus 12:1 · 51 · Exodus 13:1 · 22 · Exodus 14:1 · 31 · Leviticus 16:1 · 34
-
-- Week 26 · Isaiah 52:13 · 53:12 · Psalm 22:1 · 31 · Matthew 26:1 · 75 · Mark 9:1 · 13 · John 10:1 · 21
-
-- Week 27 · Acts 2:14 · 41 · Acts 13:13 · 52 · Romans 6:1 · 23 · 1 Corinthians 1:18 · 31 · 1 Corinthians 11:17 · 34
-
-- Week 28 · Titus 3:1 · 15 · Hebrews 9:1 · 28 · Hebrews 10:1 · 18 · 1 Peter 2:18 · 25 · 1 John 1:1 · 2:6
+| Week 25 | Week 26 | Week 27 | Week 28 |
+| :--- | :--- | :--- | :--- |
+| Genesis 22:1–24 | Isaiah 52:13–53:12 | Acts 2:14–41 | Titus 3:1–15 |
+| Exodus 12:1–51 | Psalm 22:1–31 | Acts 13:13–52 | Hebrews 9:1–28 |
+| Exodus 13:1–22 | Matthew 26:1–75 | Romans 6:1–23 | Hebrews 10:1–18 |
+| Exodus 14:1–31 | Mark 9:1–13 | 1 Corinthians 1:18–31 | 1 Peter 2:18–25 |
+| Leviticus 16:1–34 | John 10:1–21 | 1 Corinthians 11:17–34 | 1 John 1:1–2:6 |
 
 #### Session 8: The Spirit
 
-- Week 29 · Exodus 31:1 · 11 · Isaiah 61:1 · 11 · Isaiah 63:7 · 14 · Ezekiel 36:22 · 38 · Ezekiel 37:1 · 14
-
-- Week 30 · Joel 2:1 · 32 · Matthew 12:15 · 32 · John 14:15 · 31 · John 15:26 · 16:15 · Luke 4:16 · 30
-
-- Week 31 · Luke 24:36 · 53 · Acts 8:4 · 25 · Acts 19:1 · 20 · Romans 8:1 · 17 · 1 Corinthians 2:6 · 16
-
-- Week 32 · 1 Corinthians 6:12 · 20 · 1 Corinthians 12:1 · 11 · 1 Corinthians 14:1 · 25 · Galatians 5:16 · 26 · 1 John 4:1 · 6
+| Week 29 | Week 30 | Week 31 | Week 32 |
+| :--- | :--- | :--- | :--- |
+| Exodus 31:1–11 | Joel 2:1–32 | Luke 24:36–53 | 1 Corinthians 6:12–20 |
+| Isaiah 61:1–11 | Matthew 12:15–32 | Acts 8:4–25 | 1 Corinthians 12:1–11 |
+| Isaiah 63:7–14 | John 14:15–31 | Acts 19:1–20 | 1 Corinthians 14:1–25 |
+| Ezekiel 36:22–38 | John 15:26–16:15 | Romans 8:1–17 | Galatians 5:16–26 |
+| Ezekiel 37:1–14 | Luke 4:16–30 | 1 Corinthians 2:6–16 | 1 John 4:1–6 |
 
 #### Session 9: The Change
 
-- Week 33 · Deuteronomy 30:1 · 20 · Matthew 13:1 · 23 · Matthew 16:13 · 28 · Luke 5:17 · 32 · Luke 7:36 · 50
-
-- Week 34 · John 3:1 · 21 · John 4:1 · 45 · Acts 8:26 · 40 · Acts 9:1 · 31 · Acts 24:1 · 27
-
-- Week 35 · Acts 25:1 · 27 · Acts 26:1 · 32 · Romans 10:1 · 21 · Galatians 1:1 · 24 · Galatians 2:1 · 21
-
-- Week 36 · Galatians 3:1 · 29 · Galatians 5:1 · 15 · Ephesians 1:1 · 23 · Philippians 3:1 · 4:1 · Colossians 3:1 · 17
+| Week 33 | Week 34 | Week 35 | Week 36 |
+| :--- | :--- | :--- | :--- |
+| Deuteronomy 30:1–20 | John 3:1–21 | Acts 25:1–27 | Galatians 3:1–29 |
+| Matthew 13:1–23 | John 4:1–45 | Acts 26:1–32 | Galatians 5:1–15 |
+| Matthew 16:13–28 | Acts 8:26–40 | Romans 10:1–21 | Ephesians 1:1–23 |
+| Luke 5:17–32 | Acts 9:1–31 | Galatians 1:1–24 | Philippians 3:1–4:1 |
+| Luke 7:36–50 | Acts 24:1–27 | Galatians 2:1–21 | Colossians 3:1–17 |
 
 #### Session 10: The Church
 
-- Week 37 · Exodus 18:1 · 27 · Exodus 19:1 · 25 · Exodus 20:1 · 21 · Deuteronomy 4:1 · 14 · Hosea 1:1 · 11
-
-- Week 38 · Matthew 18:1 · 35 · Romans 12:1 · 21 · Romans 14:1 · 15:7 · 1 Corinthians 1:10 · 17 · 1 Corinthians 3:1 · 23
-
-- Week 39 · 1 Corinthians 5:1 · 13 · 1 Corinthians 12:12 · 31 · 1 Corinthians 14:26 · 40 · Ephesians 2:11 · 22 · 1 Thessalonians 2:17 · 3:13
-
-- Week 40 · 1 Thessalonians 5:12 · 28 · Hebrews 10:19 · 39 · 1 Peter 2:1 · 12 · 1 Peter 4:7 · 11 · 1 Peter 5:1 · 5
+| Week 37 | Week 38 | Week 39 | Week 40 |
+| :--- | :--- | :--- | :--- |
+| Exodus 18:1–27 | Matthew 18:1–35 | 1 Corinthians 5:1–13 | 1 Thessalonians 5:12–28 |
+| Exodus 19:1–25 | Romans 12:1–21 | 1 Corinthians 12:12–31 | Hebrews 10:19–39 |
+| Exodus 20:1–21 | Romans 14:1–15:7 | 1 Corinthians 14:26–40 | 1 Peter 2:1–12 |
+| Deuteronomy 4:1–14 | 1 Corinthians 1:10–17 | Ephesians 2:11–22 | 1 Peter 4:7–11 |
+| Hosea 1:1–11 | 1 Corinthians 3:1–23 | 1 Thessalonians 2:17–3:13 | 1 Peter 5:1–5 |
 
 #### Session 11: The Kingdom
 
-- Week 41 · Psalm 2:1 · 12 · Psalm 45:1 · 17 · Psalm 72:1 · 20 · Psalm 110:1 · 7 · Psalm 145:1 · 21
-
-- Week 42 · Jeremiah 23:1 · 8 · Daniel 2:1 · 49 · Daniel 4:1 · 37 · Daniel 6:1 · 28 · Obadiah 1 · 21
-
-- Week 43 · Matthew 6:1 · 24 · Matthew 13:24 · 58 · Matthew 25:1 · 30 · Mark 10:13 · 52 · Ephesians 6:10 · 20
-
-- Week 44 · Colossians 1:9 · 18 · 1 Thessalonians 2:1 · 16 · 2 Timothy 4:1 · 22 · Hebrews 12:18 · 29 · Revelation 4:1 · 5:14
+| Week 41 | Week 42 | Week 43 | Week 44 |
+| :--- | :--- | :--- | :--- |
+| Psalm 2:1–12 | Jeremiah 23:1–8 | Matthew 6:1–24 | Colossians 1:9–18 |
+| Psalm 45:1–17 | Daniel 2:1–49 | Matthew 13:24–58 | 1 Thessalonians 2:1–16 |
+| Psalm 72:1–20 | Daniel 4:1–37 | Matthew 25:1–30 | 2 Timothy 4:1–22 |
+| Psalm 110:1–7 | Daniel 6:1–28 | Mark 10:13–52 | Hebrews 12:18–29 |
+| Psalm 145:1–21 | Obadiah 1–21 | Ephesians 6:10–20 | Revelation 4:1–5:14 |
 
 #### Session 12: The Finale
 
-- Week 45 · Isaiah 65:1 · 25 · Isaiah 66:1 · 24 · Ezekiel 48:1 · 35 · Zechariah 14:1 · 21 · Daniel 7:1 · 28
-
-- Week 46 · Daniel 8:1 · 27 · Daniel 12:1 · 13 · Joel 3:1 · 21 · Amos 9:1 · 15 · Zephaniah 3:1 · 20
-
-- Week 47 · Matthew 25:31 · 46 · Romans 8:18 · 39 · Romans 16:17 · 27 · 1 Corinthians 15:1 · 58 · 2 Corinthians 5:1 · 21
-
-- Week 48 · 1 Thessalonians 4:13 · 5:11 · 2 Thessalonians 1:1 · 12 · 2 Thessalonians 2:1 · 17 · 2 Peter 2:1 · 22 · Jude 1 · 25
+| Week 45 | Week 46 | Week 47 | Week 48 |
+| :--- | :--- | :--- | :--- |
+| Isaiah 65:1–25 | Daniel 8:1–27 | Matthew 25:31–46 | 1 Thessalonians 4:13–5:11 |
+| Isaiah 66:1–24 | Daniel 12:1–13 | Romans 8:18–39 | 2 Thessalonians 1:1–12 |
+| Ezekiel 48:1–35 | Joel 3:1–21 | Romans 16:17–27 | 2 Thessalonians 2:1–17 |
+| Zechariah 14:1–21 | Amos 9:1–15 | 1 Corinthians 15:1–58 | 2 Peter 2:1–22 |
+| Daniel 7:1–28 | Zephaniah 3:1–20 | 2 Corinthians 5:1–21 | Jude 1–25 |

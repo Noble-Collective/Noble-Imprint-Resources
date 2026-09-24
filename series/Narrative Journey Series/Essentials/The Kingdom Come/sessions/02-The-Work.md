@@ -37,17 +37,11 @@ Whether you are a new believer or have been following Jesus for decades, this na
 
 <!-- @include: ObservationDirections -->
 
-> >
-
-1. **Read John 1:1–18**: In this opening prologue, what do we learn about Jesus and John the Baptist?
-
-2. **Read John 1:19–28**: What did John the Baptist tell the religious leaders about who he was and what his divine calling was?
-
-3. **Read John 1:29–34**: What did John the Baptist tell others about Jesus?
-
-4. **Read John 1:35–42**: How did Andrew and Peter come to follow Jesus?
-
-5. **Read John 1:43–51**: How did Philip and Nathanael come to follow Jesus?
+<Question id=TheKingdomComeSes2-Hearing-Q1>1. <Accent>Read John 1:1–18:</Accent> In this opening prologue, what do we learn about Jesus and John the Baptist?</Question>
+<Question id=TheKingdomComeSes2-Hearing-Q2>2. <Accent>Read John 1:19–28:</Accent> What did John the Baptist tell the religious leaders about who he was and what his divine calling was?</Question>
+<Question id=TheKingdomComeSes2-Hearing-Q3>3. <Accent>Read John 1:29–34:</Accent> What did John the Baptist tell others about Jesus?</Question>
+<Question id=TheKingdomComeSes2-Hearing-Q4>4. <Accent>Read John 1:35–42:</Accent> How did Andrew and Peter come to follow Jesus?</Question>
+<Question id=TheKingdomComeSes2-Hearing-Q5>5. <Accent>Read John 1:43–51:</Accent> How did Philip and Nathanael come to follow Jesus?</Question>
 
 ### Storycraft
 
@@ -71,10 +65,10 @@ Whether you are a new believer or have been following Jesus for decades, this na
 
 <!-- @include: DiscussionDirections -->
 
-1. **Jesus' Centrality**: What central truths are crucial to understand Jesus and his work of salvation? How is John the Baptist's identity and vocation centered around Jesus?  
-2. **Evangelistic Work**: How are disciples supposed to represent Jesus to the world? How does the ministry of John the Baptist give us an example of this kind of work?  
-3. **Jesus' Person and Work**: What is the core content of the gospel message? What do the messages of John the Baptist, Jesus, and the first disciples teach us about the person and work of Jesus?  
-4. **Evangelistic Responsibility**: What responsibility do disciples have to tell others about Jesus? What do the stories of Andrew and Philip teach us about the relationship between the life of discipleship and the duty of evangelism?
+<Question id=TheKingdomComeSes2-TheoDialogue-Q1>1. <Accent>Jesus' Centrality:</Accent> What central truths are crucial to understand Jesus and his work of salvation? How is John the Baptist's identity and vocation centered around Jesus?</Question>
+<Question id=TheKingdomComeSes2-TheoDialogue-Q2>2. <Accent>Evangelistic Work:</Accent> How are disciples supposed to represent Jesus to the world? How does the ministry of John the Baptist give us an example of this kind of work?</Question>
+<Question id=TheKingdomComeSes2-TheoDialogue-Q3>3. <Accent>Jesus' Person and Work:</Accent> What is the core content of the gospel message? What do the messages of John the Baptist, Jesus, and the first disciples teach us about the person and work of Jesus?</Question>
+<Question id=TheKingdomComeSes2-TheoDialogue-Q4>4. <Accent>Evangelistic Responsibility:</Accent> What responsibility do disciples have to tell others about Jesus? What do the stories of Andrew and Philip teach us about the relationship between the life of discipleship and the duty of evangelism?</Question>
 
 ### Biblical Commentary
 

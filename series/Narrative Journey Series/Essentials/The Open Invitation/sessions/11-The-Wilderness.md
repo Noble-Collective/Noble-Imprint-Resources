@@ -38,9 +38,9 @@ Look around, and you will find endless opportunities to indulge your appetites, 
 <!-- @include: ObservationDirections -->
 
 <Question id=TheOpenInvitationSes11-Hearing-Q1>1. <Accent>Read Matthew 4:1–2:</Accent> What were the circumstances surrounding Jesus' temptation in the wilderness?</Question>
-<Question id=TheOpenInvitationSes11-Hearing-Q2>2. **Read Matthew 4:3–4:** How did the devil tempt Jesus in the first temptation? How did Jesus respond?</Question>
+<Question id=TheOpenInvitationSes11-Hearing-Q2>2. <Accent>Read Matthew 4:3–4:</Accent> How did the devil tempt Jesus in the first temptation? How did Jesus respond?</Question>
 <Question id=TheOpenInvitationSes11-Hearing-Q3>3. <Accent>Read Matthew 4:5–7:</Accent> How did the devil tempt Jesus in the second temptation? How did Jesus respond?</Question>
-<Question id=TheOpenInvitationSes11-Hearing-Q4>4. **Read Matthew 4:8–10:** How did the devil tempt Jesus in the third temptation? How did Jesus respond?</Question>
+<Question id=TheOpenInvitationSes11-Hearing-Q4>4. <Accent>Read Matthew 4:8–10:</Accent> How did the devil tempt Jesus in the third temptation? How did Jesus respond?</Question>
 <Question id=TheOpenInvitationSes11-Hearing-Q5>5. <Accent>Read Matthew 4:11:</Accent> What happened after the final temptation?</Question>
 
 ### Storycraft

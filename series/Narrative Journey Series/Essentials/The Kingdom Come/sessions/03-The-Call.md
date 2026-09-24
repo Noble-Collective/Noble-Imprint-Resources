@@ -37,15 +37,10 @@ This narrative instructs us as it relates to Christian witness. It will challeng
 
 <!-- @include: ObservationDirections -->
 
-> >
-
-1. **Read Luke 5:1–11**:  What miracle did Jesus perform as he called some of his first disciples? How did Simon Peter and Jesus respond after this miracle?
-
-2. **Read Luke 5:12–16**: How did the healing of the leper take place? What were the results of Jesus healing this man?
-
-3. **Read Luke 5:17–26**:  How did the healing of the paralyzed man take place? What happened after this man's healing?
-
-4. **Read Luke 5:27–32**: How did Levi become a follower of Jesus, and how did he introduce others to Jesus? What did Jesus think about Levi's witness?
+<Question id=TheKingdomComeSes3-Hearing-Q1>1. <Accent>Read Luke 5:1–11:</Accent> What miracle did Jesus perform as he called some of his first disciples? How did Simon Peter and Jesus respond after this miracle?</Question>
+<Question id=TheKingdomComeSes3-Hearing-Q2>2. <Accent>Read Luke 5:12–16:</Accent> How did the healing of the leper take place? What were the results of Jesus healing this man?</Question>
+<Question id=TheKingdomComeSes3-Hearing-Q3>3. <Accent>Read Luke 5:17–26:</Accent> How did the healing of the paralyzed man take place? What happened after this man's healing?</Question>
+<Question id=TheKingdomComeSes3-Hearing-Q4>4. <Accent>Read Luke 5:27–32:</Accent> How did Levi become a follower of Jesus, and how did he introduce others to Jesus? What did Jesus think about Levi's witness?</Question>
 
 ### Storycraft
 

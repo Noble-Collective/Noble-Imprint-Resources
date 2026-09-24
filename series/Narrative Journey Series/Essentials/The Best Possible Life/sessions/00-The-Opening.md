@@ -146,7 +146,7 @@ The following criteria will help guide your thinking about how you (and your chu
 
 As we journey toward Christian maturity, we should learn from other disciples. As we study the Scriptures together, the community of Christ followers helps each of us hone our thinking around what is true. As you prepare to write your own mission manifesto (and share it with other believers), review the following statement as an example of this capstone project.
 
-==We live==
+Coming soon.
 
 ### Imaginative Storytelling
 

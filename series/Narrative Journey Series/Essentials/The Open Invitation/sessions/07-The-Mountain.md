@@ -38,7 +38,7 @@ This biblical text connects the practice of silence to the life of faith. In thi
 <!-- @include: ObservationDirections -->
 
 <Question id=TheOpenInvitationSes7-Hearing-Q1>1. <Accent>Read Mark 8:27–9:1:</Accent> What did Jesus and his disciples talk about at Caesarea Philippi? What did they discuss about Jesus' identity, vocation, and the nature of discipleship?</Question>
-<Question id=TheOpenInvitationSes7-Hearing-Q2>2. **Read Mark 9:2–8:** What did Peter, James, and John experience on the mountain? What took place after Jesus' appearance was gloriously transfigured?</Question>
+<Question id=TheOpenInvitationSes7-Hearing-Q2>2. <Accent>Read Mark 9:2–8:</Accent> What did Peter, James, and John experience on the mountain? What took place after Jesus' appearance was gloriously transfigured?</Question>
 <Question id=TheOpenInvitationSes7-Hearing-Q3>3. <Accent>Read Mark 9:9–13:</Accent> On the way down the mountain, what conversation did Jesus have with his disciples?</Question>
 <Question id=TheOpenInvitationSes7-Hearing-Q4>4. <Accent>Read Mark 9:14–18:</Accent> When Jesus reconnected with the rest of his disciples, what argument was taking place?</Question>
 <Question id=TheOpenInvitationSes7-Hearing-Q5>5. <Accent>Read Mark 9:19–29:</Accent> How did Jesus respond to the father and the boy in the heat of the controversy that emerged? At the end, what lesson did Jesus give to his disciples?</Question>

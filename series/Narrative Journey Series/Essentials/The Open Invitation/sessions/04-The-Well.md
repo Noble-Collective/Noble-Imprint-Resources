@@ -65,7 +65,7 @@ The account of the Samaritan woman is significant on various levels. It records 
 
 <!-- @include: DiscussionDirections -->
 
-<Question id=TheOpenInvitationSes4-TheoDialogue-Q1>1. **Genuine Christian Worship:** What is the nature of true Christian worship? How does this story teach and exemplify genuine devotion to God?</Question>
+<Question id=TheOpenInvitationSes4-TheoDialogue-Q1>1. <Accent>Genuine Christian Worship:</Accent> What is the nature of true Christian worship? How does this story teach and exemplify genuine devotion to God?</Question>
 <Question id=TheOpenInvitationSes4-TheoDialogue-Q2>2. <Accent>Spiritual Practices of Worship:</Accent> What kinds of practices can Christians do to express worship and devotion to God? How can this biblical narrative help guide believers in the practical activities of worship?</Question>
 <Question id=TheOpenInvitationSes4-TheoDialogue-Q3>3. <Accent>Obstacles to Christian Worship:</Accent> What are some obstacles to the spiritual practice of worship? How can some of these potential barriers be observed in this scriptural text?</Question>
 <Question id=TheOpenInvitationSes4-TheoDialogue-Q4>4. <Accent>Identity of Christ:</Accent> How is the identity and work of Christ central to Christian worship? In what ways does Jesus' identity and vocation form a core teaching of this story?</Question>
@@ -220,7 +220,7 @@ God invites us to fully consecrate our lives to him in true worship. As Jesus wa
 <!-- @include: ReflectionDirections -->
 
 <Question id=TheOpenInvitationSes4-EnteringStory-Q1>1. <Accent>Worship Competitors:</Accent> What things—or people—compete with your worship and devotion to God?</Question>
-<Question id=TheOpenInvitationSes4-EnteringStory-Q2>2. **Embracing Jesus' True Identity:** To what extent has Jesus become living water, true prophet, expected Messiah, and Savior in your own life?</Question>
+<Question id=TheOpenInvitationSes4-EnteringStory-Q2>2. <Accent>Embracing Jesus' True Identity:</Accent> To what extent has Jesus become living water, true prophet, expected Messiah, and Savior in your own life?</Question>
 <Question id=TheOpenInvitationSes4-EnteringStory-Q3>3. <Accent>True Worship:</Accent> When have you participated in true Christian worship? What was this experience like?</Question>
 <Question id=TheOpenInvitationSes4-EnteringStory-Q4>4. <Accent>Worship Practices:</Accent> What spiritual practices can you incorporate in your life to grow in worship and devotion to God?</Question>
 <Question id=TheOpenInvitationSes4-EnteringStory-Q5>5. <Accent>Expecting Life Transformation:</Accent> How would your life look differently if you consecrated it to God in worship?</Question>

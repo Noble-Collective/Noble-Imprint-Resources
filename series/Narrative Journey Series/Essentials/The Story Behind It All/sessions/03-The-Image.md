@@ -96,9 +96,9 @@ At the apex of creation, God made human beings. Created as the image of God, fas
 
 << Psalm 8:3–6
 
-> Things common to all men are more important than the things peculiar to any men. Ordinary things are more valuable than extraordinary things; nay, they are more extraordinary … The sense of the miracle of humanity itself should be always more vivid to us than any marvels of power, intellect, art, or civilization. The mere man on two legs, as such, should be felt as something more heartbreaking than any music and more startling than any caricature. Gilbert K.
+> Things common to all men are more important than the things peculiar to any men. Ordinary things are more valuable than extraordinary things; nay, they are more extraordinary … The sense of the miracle of humanity itself should be always more vivid to us than any marvels of power, intellect, art, or civilization. The mere man on two legs, as such, should be felt as something more heartbreaking than any music and more startling than any caricature.
 
-<< Chesterton, _Orthodoxy_
+<< Gilbert K. Chesterton, _Orthodoxy_
 
 ##### Introduction
 

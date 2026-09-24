@@ -216,7 +216,7 @@ Our commitment to follow God's plan for marriage is crucial for enjoying the ric
 
 #### Session Synopsis
 
-| SESSION 3 SYNOPSIS |
+| SESSION 2 SYNOPSIS |
 | :--- |
 
 | | |

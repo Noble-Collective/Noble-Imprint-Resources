@@ -231,7 +231,7 @@ The disciple's duty to Christian witness is a call to search after sinners. As J
 
 #### Session Synopsis
 
-| SESSION 8 SYNOPSIS |
+| SESSION 6 SYNOPSIS |
 | :--- |
 
 | | |

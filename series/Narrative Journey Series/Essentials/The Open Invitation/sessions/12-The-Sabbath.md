@@ -221,7 +221,7 @@ Sabbath is God's gift to his people. God's people are a community of the Sabbath
 <Question id=TheOpenInvitationSes12-EnteringStory-Q1>1. <Accent>Feelings of Unease:</Accent> In what ways do you feel restless, disordered, and uneasy in life?</Question>
 <Question id=TheOpenInvitationSes12-EnteringStory-Q2>2. <Accent>Practicing Sabbath:</Accent> How well are you practicing principles of Sabbath and rest in your life? What have been your positive or negative experiences?</Question>
 <Question id=TheOpenInvitationSes12-EnteringStory-Q3>3. <Accent>Objections to Sabbath:</Accent> What are some objections or concerns you have about the principle of Sabbath practice?</Question>
-<Question id=TheOpenInvitationSes12-EnteringStory-Q4>4. **Experiencing God through Sabbath:** How might your life experience and express God's goodness, deliverance, and mercy by practicing Sabbath?</Question>
+<Question id=TheOpenInvitationSes12-EnteringStory-Q4>4. <Accent>Experiencing God through Sabbath:</Accent> How might your life experience and express God's goodness, deliverance, and mercy by practicing Sabbath?</Question>
 <Question id=TheOpenInvitationSes12-EnteringStory-Q5>5. <Accent>Acts of Mercy:</Accent> What specific acts of mercy and goodness can you incorporate into your Sabbath practice?</Question>
 
 ### Spiritual Practice
