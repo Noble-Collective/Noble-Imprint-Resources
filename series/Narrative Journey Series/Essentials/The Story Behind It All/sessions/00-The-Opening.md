@@ -148,8 +148,6 @@ The following criteria will help guide your thinking about how you (and your chu
 
 ### Example Creed
 
-As we journey toward Christian maturity, we should learn from other disciples. As we study the Scriptures together, the community of Christ followers helps each of us hone our thinking around what is true. As you prepare to write your own mission manifesto (and share it with other believers), review the following statement as an example of this capstone project.
-
 > We believe in God Almighty, the sovereign Creator of all things. He is the one and only true God—Father, Son, and Holy Spirit. He made humans, male and female, in his image. The crown of his creation, the first humans ruined God's perfect world in their prideful rebellion. God gave his word to destroy the wicked and save believers.
 >
 > God fulfilled his word by sending his one and only Son into the world. For us and our salvation, Jesus suffered, died, was buried, and rose again from the dead. After Jesus ascended to heaven, God sent the Holy Spirit to empower Jesus' disciples and to raise his people to new life in Christ. Truly, the kingdom of God has triumphed over the forces of evil and Christians hope for the return of Jesus, the defeat of Satan, the judgment of the wicked, the resurrection of the body, and life everlasting in the new creation of the world.

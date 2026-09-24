@@ -5,7 +5,7 @@
 ### Key Elements
 - **Key Passage** - Review
 - **Scripture Memory** - ____
-- **Catechism** - Q: What is the foundation of the Christian life? A: Faith.
+- **Catechism** - ____
 
 ## Conclusion
 
@@ -86,6 +86,10 @@ Coming soon.
 ## Core Project: Synthesizing the Faith
 
 <!-- @include: Recall_CoreProject_Directions -->
+
+### ____
+
+Coming soon.
 
 ### Journal Reflection
 

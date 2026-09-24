@@ -103,9 +103,7 @@ God's word is not only a record of his redemptive acts throughout history, it is
 
 ### Code of Conduct
 
-God calls us to believe the truth revealed in his word. As a community or as an individual, write a **code of conduct** that serves as a condensed, memorable summary of the core biblical teachings on Christian living (consider a line, phrase, or short sentence for each topic/session in this study).
-
-The **code of conduct** should be **short** (summarizes the key biblical teachings in a condensed and accessible format), **memorable** (articulates biblical principles in a way that is easily memorizable), **usable** (expresses the summary statement that can be affirmed and confessed together as a church community), **accurate** (makes correct, biblical affirmations), and **comprehensive** (addresses all major domains of this area of Christian teaching).
+Coming soon.
 
 ### Journal Reflection
 

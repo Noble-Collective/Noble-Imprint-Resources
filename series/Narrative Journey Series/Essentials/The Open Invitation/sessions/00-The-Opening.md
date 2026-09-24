@@ -8,18 +8,10 @@
 
 ### Key Elements
 - **Key Passage** - Preview
-- **Scripture Memory** - And without faith it is impossible to please God, because anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him. Hebrews 11:6
-- **Catechism** - Q: What is the foundation of the Christian life? A: Faith.
+- **Scripture Memory** - ____
+- **Catechism** - ____
 
 ## Introduction
-
-> Hold on to the pattern of sound teaching you have heard from me, with the faith and love that are in Christ Jesus.
-
-<< 2 Timothy 1:13
-
-> The Person of Christ is to me the surest as well as the most sacred of all facts; as certain as my own personal existence; yea, even more so: for Christ lives in me, and he is the only valuable part of my existence. I am nothing without my Saviour; I am all with him, and would not exchange him for the whole world. To give up faith in Christ is to give up faith in humanity; to believe in him is to believe in the redemption and final glorification of men; and this faith is the best inspiration to a holy and useful life for the good of our race and the glory of God.
-
-<< Philip Schaff, _The Person of Christ_
 
 This book is about how to commune with God and grow in your faith. As disciples of Christ, God is inviting each of us to enjoy vibrant, dynamic, and abundant fellowship with him. Although a relationship with God is only possible based on what God does for us (in Christ through the gospel), cultivating our relationship with him is a practice that we do continually with God (in habit through spiritual discipline). Like all relationships, we form patterns and habits as we interact with others. These patterns will either enrich or injure the bonds of that relationship. A relationship is itself an invitation to continually strengthen these bonds that unite two parties together. This is no less true with our walk with God. As the Christian life is God's invitation to an ongoing life with him, spiritual disciplines are our response to this sincere and open invitation to practice his presence on a daily basis.
 
@@ -68,7 +60,7 @@ However, there is a second reason to locate your spiritual growth in the context
 
 <!-- @include: Opening_KeyIdea_Directions -->
 
-<Accent>Key Idea:</Accent> _Disciples of Christ are as strong in faith as they are established in the essentials of Christian belief._
+Coming soon.
 
 ### Personal Interest
 
@@ -132,8 +124,6 @@ Coming soon.
 Coming soon.
 
 ### Example ____
-
-As we journey toward Christian maturity, we should learn from other disciples. As we study the Scriptures together, the community of Christ followers helps each of us hone our thinking around what is true. As you prepare to write your own mission manifesto (and share it with other believers), review the following statement as an example of this capstone project.
 
 Coming soon.
 
