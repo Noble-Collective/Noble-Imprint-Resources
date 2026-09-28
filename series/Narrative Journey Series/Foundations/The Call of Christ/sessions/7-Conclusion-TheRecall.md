@@ -2,6 +2,7 @@
 
 ## Session Overview
 
+<!-- page 128 -->
 ### Confessional Statement
 
 > Disciples of Christ:
@@ -16,6 +17,7 @@
 - **Scripture Memory**: “And he said to all, ‘If anyone would come after me, let him deny himself and take up his cross daily and follow me’.” **Luke 9:23**
 - **Catechism Question**: Q: What is the process of growing in our Christian faith? A: Discipleship.
 
+<!-- page 130 -->
 ## Introduction
 
 > _Therefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving._
@@ -26,12 +28,13 @@
 
 Jesus is calling sinful humans to freely receive the forgiveness of their sins and reconciliation with God by entrusting their lives to him in complete dependence, sincere trust, and full allegiance. Jesus has achieved what all humans most deeply long for (salvation and redemption from sin), but none can accomplish in their own strength. As humans have become estranged from God in sin and rebellion, Jesus is the only way back to God. His birth, life, ministry, death, resurrection, ascension, and second coming make salvation possible. Jesus is calling sinful people to receive the offer of salvation and become disciples of Christ.
 
-Christian disciples respond to Jesus’ call by surrendering their whole life to his authority and care. Becoming a Christian involves much more than ascribing to a certain set of beliefs, attempting to live up to a lofty moral code, practicing particular spiritual rituals, attending scheduled religious services, or performing sanctioned rites of worship. While beliefs, conduct, habits, community participation, and corporate devotion are all crucial essentials of the Christian faith, they amount to nothing if one does not know Jesus in genuine faith. Christianity is based upon God’s _gracious initiative_ in saving sinful humanity, not upon _humanity’s diligent performance_ of religious actions. Only once we have received God’s merciful _offer of life_ can we (together with other believers) enjoy a _new way of living_ in Christ. The seed of sincere faith in Christ germinates and grows to produce firmly rooted, deeply established, and fruit-bearing Christians.
+Christian disciples respond to Jesus’ call by surrendering their whole life to his authority and care. Becoming a Christian involves much more than ascribing to a certain set of beliefs, attempting to live up to a lofty moral code, practicing particular spiritual rituals, attending scheduled religious services, or performing sanctioned rites of worship. While beliefs, conduct, habits, community participation, and corporate devotion are all crucial essentials of the Christian faith, they amount to nothing if one does not know Jesus in genuine faith. Christianity is based upon God’s _gracious initiative_ in saving sinful humanity, not upon _humanity’s diligent performance_ of religious actions. Only once we have received God’s merciful _offer of life_ can we (together with other believers) enjoy <!-- page 131 -->a _new way of living_ in Christ. The seed of sincere faith in Christ germinates and grows to produce firmly rooted, deeply established, and fruit-bearing Christians.
 
 This study explored the basics of the Christian faith. The opening narrative in Acts 2:1–36 recounted a miraculous sign and public proclamation of the gospel message. This portion of the story outlined the key events around Jesus’ life that brought about salvation for sinful humanity. The next scene in Acts 2:37–41 described a massive response of the crowd to become followers of Christ. This section was greatly instructive as to what it means to receive salvation through faith and repentance and then to publicize this faith through baptism. In the final scene, Acts 2:42–47 depicts the vibrant, worshiping life of the early church. This summary not only served as a capstone for the biblical narrative but also offered a window to understand what it means to be fully devoted to Christ and grow in this devotion as a church community.
 
 Although rich and instructive, this short biblical narrative does not say everything about what it means to be a Christian. While it sets the overall framework of the faith, its structural work will need more building and development. As a disciple of Christ, there will be much more to learn throughout the whole of your life. God will continue to grow you, change you, and transform you. Rather than trekking aimlessly forward, however, biblical wisdom suggests it is prudent to participate in an establishing process that is ordered and intentionally designed. The subsequent studies in the _Narrative Journey Essentials_ serve this end as they walk you through these core teachings of the Christian faith in more detail. As you trek forward on the “path of life,” take confidence that as a Christian—a disciple who follows the living and resurrected Christ—you are not alone and Jesus is guiding you each step of the way!
 
+<!-- page 132 -->
 ## Book Overview: Surveying the Landscape
 
 _Mature disciples are established in the essentials of the Christian faith. In this section, summarize the main idea of discipleship, retell the narrative of Acts 2:1-47, and identify any significant observations or insights from the study._
@@ -44,10 +47,12 @@ _Mature disciples are established in the essentials of the Christian faith. In t
 
 <Question id=TheCallConc-StoryRetell>Retell the basic narrative of Acts 2:1–47. Try to highlight the main movement of the narrative in a way that captures the key moments of the church being established.</Question>
 
+<!-- page 133 -->
 ### Important Ideas 
 
 <Question id=TheCallConc-Ideas>Identify significant quotes, key verses, biblical principles, or community comments that you encountered throughout the course of this study. Record these in the space below and share a few in your group discussion.</Question>
 
+<!-- page 134 -->
 ## Faith Foundation: Exploring the Terrain
 
 _The journey of discipleship is a community journey. In this section, discuss what you learned about the Christian faith as a result of this study and explore the specific story of your church with a church leader._
@@ -64,10 +69,12 @@ God grows new believers in the faith through loving and meaningful interaction w
 
 <Question id=TheCallConc-Discussion-Q4>4. Who are the people God wants you to tell the gospel? How does God want to share the gospel with these people?</Question>
 
+<!-- page 135 -->
 ### Church Story
 
 <Question id=TheCallConc-ChurchStory> Discuss with your mentor or spiritual leader the specific details of your church. Ask your church leader to explain the **distinctive beliefs, discipleship pathways, community connections,** and **mission philosophy** of the faith community. Consider interviewing another disciple in the church family to learn more about the church. Record any insights or questions from these conversations below.</Question>
 
+<!-- page 136 -->
 ## Learning Plan: Charting the course
 
 _The life of discipleship is a lifelong venture. Consider the list of resources and recommended reading, identify next steps of growth, and use planning calendar to chart out a path for ongoing learning and maturity._
@@ -98,6 +105,7 @@ God’s word is our sufficient guide for matters of faith and godly living. Glan
 |**The Making of a Shepherd**                                   | Presents an inspiring profile on Christian leadership— shown through biblical exemplars.
 |**The Aim of Our Charge**                                |Develops a sound pedagogy of Christian instruction— traversing through key biblical narratives
 
+<!-- page 137 -->
 ### Next steps
 
 Identify next steps to help you grow in your faith. Try to identify at least one next step in each category.
@@ -116,6 +124,7 @@ What are your next steps to...
 
 <Question id=TheCallconc-3monthplan>Use the space below to set goals for the next three months. Discuss these goals with your church leader and church community.</Question>
 
+<!-- page 138 -->
 ## Core Project: Synthesizing the faith
 
 _The narrative of how you came to follow Jesus is a powerful story that can help you grow in your faith, encourage the church community, and share the gospel with unbelievers. Use this section to record your testimony, gospel summary, and church commitment._
@@ -128,6 +137,7 @@ Record your faith journey below, combining your work in the previous sessions to
 - <Question id=TheCallConc-PersNarr2>**Personal Testimony:** This is your story of how God has changed your life and your understanding of baptism.</Question>
 - <Question id=TheCallConc-PersNarr3>**Church Commitment:** This is your intention to commit to God’s people.</Question>
 
+<!-- page 140 -->
 ## Faith Practice: Following the Way 
 
 _Following Jesus is a lifelong venture of continuous progress. In this final section, explore the core commitments of the Christian faith, share your testimony with others, and reflect on your baptism/membership experience._
@@ -147,6 +157,7 @@ The following statements summarize core commitments disciples make when they fol
 <Question id=TheCallCon-Commitment-Q5>Name:</Question>
 <Question id=TheCallCon-Commitment-Q6>Date:</Question>
 
+<!-- page 141 -->
 ### Practice Sharing
 
 After completing the final draft of your personal narrative, find one or two other people with whom you can practice. Start with a family member or church leader, but also consider sharing your story with an unbeliever.

@@ -2,6 +2,7 @@
 
 ## Session Overview
 
+<!-- page 24 -->
 ### Confessional Statement
 
 >Disciples of Christ:
@@ -17,6 +18,7 @@
 - **Scripture Memory**: “My sheep hear my voice, and I know them, and they follow me. I give them eternal life, and they will never perish, and no one will snatch them out of my hand.” **John 10:27–28**
 - **Catechism Question**: Q: What is a follower of Christ called? A: Disciple
 
+<!-- page 26 -->
 ## Introduction
 
 > _Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”_  
@@ -27,7 +29,7 @@
 
 Jesus is calling people to follow him on the path to life. As Savior, Jesus secured salvation for sinful humans. Humans seek earnestly for meaning, purpose, and harmony in their lives. This instinct is built into our human makeup. However, the fact that our searching often leaves us empty and lost means that something has gone terribly wrong with the human condition. Jesus’ invitation to become his disciple is an invitation to find what we have been looking for all along: a restored and reconciled relationship with our Creator. Jesus himself is the answer to all our greatest ailments and the fulfillment of all our deepest longings. He has come to rescue us from the wayward road of human sin and misery—a road that leads to death and destruction— and set us on the path of joy and fullness. A path that leads to life and blessing.
 
-Human sin is an obvious reality. The brokenness and dysfunction of the world (and human experience) are evidenced all around us. Most would readily admit that the world does not seem to function the way it should. Although there is much to enjoy at an interpersonal level, human relationships often face disappointment, tension, and conflict. Nations and governments engage in seemingly endless strife. Political leaders often nurse appetites of greed that lead to the exploitation of others. Cultural value systems and ideologies often cut against the grain of biblical values. It is not better within our own personal lives. At an individual level, humans bear suffering and hardships that are physical, emotional, mental, and behavioral in nature. Only in Jesus can people find rescue and relief from the burden and chaos brought about by human sin.
+Human sin is an obvious reality. The brokenness and dysfunction of the world (and human experience) are evidenced all around us. Most would readily admit that the world does not seem to function the way it should. Although there is much to enjoy at an interpersonal level, human relationships often face disappointment, tension, and conflict. Nations and governments engage in seemingly endless strife. Political leaders often nurse appetites of greed that lead to the exploitation of others. Cultural value systems and ideologies often cut against the grain of biblical values. It is not better within our own personal lives. At an individual level, humans bear suffering and hardships that are physical, emotional, <!-- page 27 -->mental, and behavioral in nature. Only in Jesus can people find rescue and relief from the burden and chaos brought about by human sin.
 
 This study outlines the fundamentals of what it means to follow Jesus on the path of life. It is based on the biblical narrative found in Acts 2:1–47. The scope of this scriptural account serves as a sketch of the basics of the Christian faith. The historical events recorded in this biblical passage mark the birth of the church. This narrative about the origins of the Christian community provides insight into the foundations of the Christian faith. For weeks after Jesus’ resurrection, he made many appearances to his disciples to prove that he had come back to life and risen from the dead (Acts 1:1–3). Promising to send the Holy Spirit to empower his followers (1:4–8), Jesus ascended to heaven before his disciples’ eyes (1:9–11).
 
@@ -38,9 +40,10 @@ As our study follows the storyline in Acts 2:1–47, we will clarify the basic e
 > Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them. And when they saw him they worshiped him, but some doubted. And Jesus came and said to them, “All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.” 
 << **Matthew 28:16-20**
 
+<!-- page 28 -->
 ## Book Overview: Surveying the Landscape
 
-_Jesus calls people to follow him as his disciples. Like stepping stones on a pilgrimage, Acts 2:1–47 outlines stepping stones for the journey of discipleship. In this opening section, explore the core content of this study, consider the key idea of discipleship, and articulate your past experience in matters of faith._
+_Jesus calls people to follow him as his disciples. Like stepping stones on a pilgrimage, Acts 2:1–47 outlines stepping stones for the journey of discipleship. In this opening section, explore the core content of this study, consider the key idea of discipleship, and articulate your <!-- page 29 -->past experience in matters of faith._
 
 ### Core Content
 
@@ -67,6 +70,7 @@ Before people become followers of Christ, they have usually had some interaction
 
 <Question id=TheCallIntro-Experience-Q3>3. What has been your previous experience with church? Did you have any good or bad experiences with the church? Have you ever been a member of a church?</Question>
 
+<!-- page 30 -->
 ## Faith Foundation: Exploring the Terrain
 
 _When Jesus invites people to follow him, he calls them to deeply trust him and wholly commit to him. Use the discussion questions and key quote to ponder the core commitments of being a follower of Christ_
@@ -83,6 +87,7 @@ Christians commit themselves to God, God’s ways, God’s people, and God’s w
 
 <Question id=TheCallIntro-Exploring-Q4>4. **Mission:** How can Christians serve God in the world? What is your understanding of God’s mission in the world? How might God want to use you for his global purposes?</Question>
 
+<!-- page 31 -->
 ### Significant Quote
 
 Faith is the foundation of a disciple’s life. Read the following quote and discuss with others what it means to be a follower of Christ.
@@ -92,6 +97,7 @@ Faith is the foundation of a disciple’s life. Read the following quote and dis
 
 <Question id=TheCallIntro-Quote-Q1> Record any initial observations or community insights below.</Question>
 
+<!-- page 32 -->
 ## Learning Plan: Charting the Course
 
 _Jesus calls his disciples to commit themselves to the study of his Word. Overview the basic framework of this study, make a plan to complete each session, and identify a church leader (and a group of other believers) to help guide you through this process._
@@ -100,6 +106,7 @@ _Jesus calls his disciples to commit themselves to the study of his Word. Overvi
 
 The Scriptures are the only reliable guide for life. In the Bible, God outlines the foundations of the Christian faith. In order to help guide new disciples in fruitful Bible study, the following diagram overviews a process of biblical interpretation. This process invites disciples to read the Bible to understand what it says, to grasp what it means, to obey what it commands, to implement what it teaches, and to witness what it proclaims. These five movements form the framework of this Bible study process. It will help you understand the core passage of this study and equip you to study the Scriptures indefinitely into the future.
 
+<!-- page 33 -->
 ### Planning Calendar
 
 Taking first steps in the faith, disciples of Jesus devote themseles to an ordered process of growth and learning. Use the following calendar to plan your journey through this study of the fundamentals of the Christian faith.
@@ -115,6 +122,7 @@ Taking first steps in the faith, disciples of Jesus devote themseles to an order
 
 <Question id=TheCallIntro-Community-Q1>Disciples follow Jesus in the context of community. If you haven’t already done so, identify a church leader to mentor and guide you through this process. Also, identify a group of other believers with whom you can take this journey together. Write their names below.</Question>
 
+<!-- page 34 -->
 ## Core Project: Synthesizing the Faith 
 
 _Each of us has a story. God wants us to share with others how we came to follow Jesus. In this section, you will preview a simple way to tell your own personal narrative and imagine what life will be like as a disciple of Christ._
@@ -127,6 +135,7 @@ Over the course of this study, you will reflect on the ways God has changed your
 - **Personal Testimony:** In Session 2, you will tell the story about how you came to faith in Jesus and you will share your understanding of baptism.
 - **Church Covenant:** In Session 3, you will state your intention to commit to God’s people.
 
+<!-- page 35 -->
 ### Imaginative Storytelling
 
 Think about the next season of life into which God is inviting you. Imagine your
@@ -134,9 +143,10 @@ life as a Christian, your participation in a church family, the challenges you m
 face, and the way God might use you to serve his purposes in the world. Reflect
 on these thoughts with others.
 
+<!-- page 36 -->
 ## Faith Practice: Following the Way 
 
-_Disciples follow Jesus over the course of a lifetime. Familiarize yourself with core Christian commitments, identify specific prayer requests, and pray for God’s transformative work in the course of the upcoming weeks._
+_Disciples follow Jesus over the course of a lifetime. Familiarize yourself with core Christian commitments, identify specific <!-- page 37 -->prayer requests, and pray for God’s transformative work in the course of the upcoming weeks._
 
 ### Christian Commitments 
 
