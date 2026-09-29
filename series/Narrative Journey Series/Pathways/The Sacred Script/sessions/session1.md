@@ -248,7 +248,7 @@ Apply the Text: _God calls his people to follow what the Bible teaches. In this 
 
 <Question id=TheSacredSes1-EnteringStory-Q1>1. How would you evaluate your own life in light of its originally intended purpose seen in creation?</Question>
 <Question id=TheSacredSes1-EnteringStory-Q2>2. How can you see the cycles of creation, rebellion, and hopeful restoration in your own life?</Question>
-<Question id=TheSacredSes1-EnteringStory-Q3>3. <Question id=TheSacredSes1-EnteringStory-Q1>1. What errors in your thinking need to be corrected about origins? Which characters do you most resonate with in this opening cluster of origin stories?</Question>
+<Question id=TheSacredSes1-EnteringStory-Q3>3. What errors in your thinking need to be corrected about origins? Which characters do you most resonate with in this opening cluster of origin stories?</Question>
 <Question id=TheSacredSes1-EnteringStory-Q4>4. In your journey of faith, what is the next step that you believe God is calling you to in your faith pilgrimage?</Question>
 
 ### Spiritual Practice
