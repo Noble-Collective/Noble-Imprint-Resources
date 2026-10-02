@@ -176,7 +176,7 @@ Apply the Text: _Use the reflection questions to examine your life in light of t
 ### Spiritual Practice: Fully Devoted
 
 > _So, whether you eat or drink, or whatever you do, do all to the glory of God._ 
-<< **1 Corinthians10:31–32**
+<< **1 Corinthians 10:31–32**
 
 > _If...we are to live unto God at any time, or in any place, we are to live unto him at all times, and in all places .... [if things are] the best things at all times, and in all places ... they are the best things at any time or in any place._ 
 << **William Law, _A Serious Call_**
