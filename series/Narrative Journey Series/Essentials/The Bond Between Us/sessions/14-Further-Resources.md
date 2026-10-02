@@ -142,23 +142,23 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 
 #### Session 2: The Union
 
-| Week 5 | Week 6 | Week 7 | Week 8 |
+| Week 5 | Week 6                                 | Week 7 | Week 8 |
 | :--- | :--- | :--- | :--- |
-| Genesis 24:1–67 | Psalm 45:1–18; Proverbs 5:1–23 | Leviticus 18:1–30 Deuteronomy 24:1–4 | Matthew 5:27–32; 19:1–12; Mark 10:1–12; Luke 20:27–40; John 8:1–11 |
-| Genesis 29:1–30:24 | Proverbs 6:20–35; 7:1–27 | Hosea 1:1–4:19 | 1 Corinthians 7:1–40; Romans 7:1–6 |
+| Genesis 24:1–67 | Psalm 45:1–17; Proverbs 5:1–23         | Leviticus 18:1–30 Deuteronomy 24:1–4 | Matthew 5:27–32; 19:1–12; Mark 10:1–12; Luke 20:27–40; John 8:1–11 |
+| Genesis 29:1–30:24 | Proverbs 6:20–35; 7:1–27               | Hosea 1:1–4:19 | 1 Corinthians 7:1–40; Romans 7:1–6 |
 | Genesis 38:1–39:23 | Proverbs 31:10–31; Ecclesiastes 9:7–10 | Malachi 2:10–16 | 1 Corinthians 6:12–20; Ephesians 5:3–14; 1 Thessalonians 4:1–8 |
-| Ruth 1:1–2:23 | Song of Solomon 1:1–4:16 | Ezekiel 16:1–63 | Ephesians 5:22–33; 1 Peter 3:1–7 |
-| Ruth 4:1–4:22 | Song of Solomon 5:1–8:14 | Isaiah 54:1–17; 62:1–5; Jeremiah 31:31–34 | Revelation 19:1–21; 21:1–22:5 |
+| Ruth 1:1–2:23 | Song of Solomon 1:1–4:16               | Ezekiel 16:1–63 | Ephesians 5:22–33; 1 Peter 3:1–7 |
+| Ruth 4:1–4:22 | Song of Solomon 5:1–8:14               | Isaiah 54:1–17; 62:1–5; Jeremiah 31:31–34 | Revelation 19:1–21; 21:1–22:5 |
 
 #### Session 3: The Offspring
 
-| Week 9 | Week 10 | Week 11 | Week 12                                                                      |
+| Week 9 | Week 10 | Week 11           | Week 12                                                                      |
 | :------------------------------------------- | :--------------------- | :---------------- | :--------------------------------------------------------------------------- |
 | 1 Samuel 1:1–2:11 | Psalm 139:1–24 | Isaiah 63:1–64:12 | Luke 1:1–80                                                                  |
-| 1 Samuel 2:12–3:21 | Psalm 113:1–9; 131:1–3 | Jeremiah 3:1–35 | Luke 2:1–52                                                                  |
-| 1 Chronicles 22:2–19; 28:1–21 | Proverbs 3:1–26 | Ezekiel 18:1–32 | John 5:1–47; 9:1–41                                                          |
-| Job 1:1–2:13 | Proverbs 4:1–27 | Hosea 11:1–12:1 | Luke 15:11–32; Hebrews 12:1–17                                               |
-| Exodus 4:18–31; 18:1–27; Deuteronomy 11:1–32 | Proverbs 23:12–24:2 | Malachi 1:1–2:16 | 2 Corinthians 1:3–11; Ephesians 6:1–4; Colossians 3:20–21; 2 Timothy 3:10–16 |
+| 1 Samuel 2:12–3:21 | Psalm 113:1–9; 131:1–3 | Jeremiah 3:1–25   | Luke 2:1–52                                                                  |
+| 1 Chronicles 22:2–19; 28:1–21 | Proverbs 3:1–26 | Ezekiel 18:1–32   | John 5:1–47; 9:1–41                                                          |
+| Job 1:1–2:13 | Proverbs 4:1–27 | Hosea 11:1–12:1   | Luke 15:11–32; Hebrews 12:1–17                                               |
+| Exodus 4:18–31; 18:1–27; Deuteronomy 11:1–32 | Proverbs 23:12–24:2 | Malachi 1:1–2:16  | 2 Corinthians 1:3–11; Ephesians 6:1–4; Colossians 3:20–21; 2 Timothy 3:10–16 |
 
 #### Session 4: The Bond
 
@@ -182,13 +182,13 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 
 #### Session 6: The Work
 
-| Week 21 | Week 22 | Week 23 | Week 24 |
+| Week 21 | Week 22 | Week 23 | Week 24                                                                    |
 | :--- | :--- | :--- | :--- |
-| Nehemiah 1:1–11; 2:1–20 | Psalm 90:1–17; 104:1–35 | Isaiah 1:1–31; 6:1–13 | Matthew 11:25–12:14; 20:1–16 |
-| Nehemiah 3:1–32; 4:1–23 | Psalm 107:1–43; 111:1–10; 112:1–10 | Isaiah 58:1–14; 59:1–21; 61:1–11; 65:17–25 | Luke 5:1–11, 27–32; 16:1–13 |
+| Nehemiah 1:1–11; 2:1–20 | Psalm 90:1–17; 104:1–35 | Isaiah 1:1–31; 6:1–13 | Matthew 11:25–12:14; 20:1–16                                               |
+| Nehemiah 3:1–32; 4:1–23 | Psalm 107:1–43; 111:1–10; 112:1–10 | Isaiah 58:1–14; 59:1–21; 61:1–11; 65:17–25 | Luke 5:1–11, 27–32; 16:1–13                                                |
 | Nehemiah 5:1–19; 6:1–7:4 | Proverbs 6:1–19; 24:23–34 | Amos 5:1–27; Micah 2:1–13; 6:1–16 | Ephesians 6:5–11; 2 Thessalonians 3:6–15; 1 Timothy 6:1–2; 1 Peter 2:18–25 |
-| Ezra 3:1–13; 4:1–24 | Ecclesiastes 1:1–18; 2:1–26 | Habakkuk 2:1–20; 3:1–19 | Ephesians 2:1–10; 1 Thessalonians 2:1–12; James 2:14–26 |
-| Ezra 5:1–17; 6:1–22; Genesis 47:13–31 | Ecclesiastes 3:1–4:6; 12:1–14 | Haggai 1:1–2:19; Zechariah 7:1–14 | Hebrews 3:7–4:14; Revelation 17:1–24; 21:1–22:5 |
+| Ezra 3:1–13; 4:1–24 | Ecclesiastes 1:1–18; 2:1–26 | Habakkuk 2:1–20; 3:1–19 | Ephesians 2:1–10; 1 Thessalonians 2:1–12; James 2:14–26                    |
+| Ezra 5:1–17; 6:1–22; Genesis 47:13–31 | Ecclesiastes 3:1–4:6; 12:1–14 | Haggai 1:1–2:19; Zechariah 7:1–14 | Hebrews 3:7–4:14; Revelation 17:1–18:24; 21:1–22:5                         |
 
 #### Session 7: The Church
 
