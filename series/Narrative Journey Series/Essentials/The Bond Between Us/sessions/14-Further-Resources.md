@@ -132,13 +132,13 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 
 #### Session 1: The Household
 
-| Week 1 | Week 2 | Week 3 | Week 4 |
-| :--- | :--- | :--- | :--- |
-| Genesis 15:1–21 | Genesis 2:4–25 | Psalm 105:1–45 | Matthew 7:15–20; Luke 11:14–32; 19:1–10 |
-| Genesis 16:1–16 | Joshua 24:1–33 | Psalm 112:1–10; 115:1–18 | Acts 6:8–7:60 |
-| Genesis 17:1–27 | Deuteronomy 6:1–25 | Psalm 127:1–5; 128:1–6 | Romans 16:1–27 |
-| Genesis 18:1–33 | Psalm 78:1–72 | Amos 3:1–15 | Ephesians 3:15–23; Colossians 3:18–4:1 |
-| Genesis 19:1–38 | Psalm 102:1–28 | Zechariah 12:1–13:1; 14:16–19 | 1 Timothy 5:1–16; Titus 1:10–16; 2:1–15 |
+| Week 1          | Week 2             | Week 3                        | Week 4                                  |
+| :-------------- | :----------------- | :---------------------------- | :-------------------------------------- |
+| Genesis 15:1–21 | Genesis 2:4–25     | Psalm 105:1–45                | Matthew 7:15–20; Luke 11:14–32; 19:1–10 |
+| Genesis 16:1–16 | Joshua 24:1–33     | Psalm 112:1–10; 115:1–18      | Acts 6:8–7:60                           |
+| Genesis 17:1–27 | Deuteronomy 6:1–25 | Psalm 127:1–5; 128:1–6        | Romans 16:1–27                          |
+| Genesis 18:1–33 | Psalm 78:1–72      | Amos 3:1–15                   | Ephesians 5:22–6:4; Colossians 3:18–4:1 |
+| Genesis 19:1–38 | Psalm 102:1–28     | Zechariah 12:1–13:1; 14:16–19 | 1 Timothy 5:1–16; Titus 1:10–16; 2:1–15 |
 
 #### Session 2: The Union
 
@@ -152,13 +152,13 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 
 #### Session 3: The Offspring
 
-| Week 9 | Week 10 | Week 11 | Week 12 |
-| :--- | :--- | :--- | :--- |
-| 1 Samuel 1:1–2:11 | Psalm 139:1–24 | Isaiah 63:1–64:12 | Luke 1:1–80 |
-| 1 Samuel 2:12–3:21 | Psalm 113:1–9; 131:1–3 | Jeremiah 3:1–35 | Luke 2:1–52 |
-| 1 Chronicles 22:2–19; 28:1–21 | Proverbs 3:1–26 | Ezekiel 18:1–32 | John 5:1–47; 9:1–41 |
-| Job 1:1–2:13 | Proverbs 4:1–27 | Hosea 11:1–12:1 | Luke 15:11–32; Hebrews 12:1–17 |
-| Exodus 4:18–31; 18:1–27; Deuteronomy 11:1–32 | Proverbs 23:12–24:2 | Malachi 1:1–2:16 | 2 Corinthians 1:3–11; Ephesians 6:1–4; Colossians 5:20–21; 2 Timothy 3:10–16 |
+| Week 9 | Week 10 | Week 11 | Week 12                                                                      |
+| :------------------------------------------- | :--------------------- | :---------------- | :--------------------------------------------------------------------------- |
+| 1 Samuel 1:1–2:11 | Psalm 139:1–24 | Isaiah 63:1–64:12 | Luke 1:1–80                                                                  |
+| 1 Samuel 2:12–3:21 | Psalm 113:1–9; 131:1–3 | Jeremiah 3:1–35 | Luke 2:1–52                                                                  |
+| 1 Chronicles 22:2–19; 28:1–21 | Proverbs 3:1–26 | Ezekiel 18:1–32 | John 5:1–47; 9:1–41                                                          |
+| Job 1:1–2:13 | Proverbs 4:1–27 | Hosea 11:1–12:1 | Luke 15:11–32; Hebrews 12:1–17                                               |
+| Exodus 4:18–31; 18:1–27; Deuteronomy 11:1–32 | Proverbs 23:12–24:2 | Malachi 1:1–2:16 | 2 Corinthians 1:3–11; Ephesians 6:1–4; Colossians 3:20–21; 2 Timothy 3:10–16 |
 
 #### Session 4: The Bond
 
