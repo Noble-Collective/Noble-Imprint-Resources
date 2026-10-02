@@ -212,13 +212,13 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 
 #### Session 9: The Commons
 
-| Week 33 | Week 34 | Week 35 | Week 36 |
-| :--- | :--- | :--- | :--- |
-| Acts 4:32–6:7 | Psalm 41:1–13; 72:1–20; 112:1–10 | Isaiah 9:8–10:4; 58:1–14; 59:1–13 | Matthew 6:1–4, 16–34; Luke 12:16–34 |
-| Exodus 22:16–23:9; Leviticus 25:1–55 | Proverbs 10:1–16; 18:22–19:22 | Jeremiah 5:1–31 | Matthew 19:16–30; Mark 10:17–31; Luke 18:18–30 |
-| Deuteronomy 10:12–22; 15:22–29; 15:1–23 | Proverbs 22:1–16; 22:22–23:11 | Jeremiah 7:1–29 | Matthew 24:36–25:46; Luke 19:11–27 |
-| Deuteronomy 18:1–8; 24:5–25:4; 26:1–19 | Proverbs 27:23–28:27; 29:1–27 | Ezekiel 22:1–31 | 1 Corinthians 16:1–24; 1 Timothy 6:2–10, 17–19; James 4:13–5:6 |
-| 1 Chronicles 29:1–22; Ezra 1:1–11 | Ecclesiastes 5:8–6:12 | Amos 1:1–2:16; 8:1–14; Malachi 3:6–15 | Revelation 18:1–24 |
+| Week 33                                | Week 34                          | Week 35                               | Week 36                                                        |
+| :------------------------------------- | :------------------------------- | :------------------------------------ | :------------------------------------------------------------- |
+| Acts 4:32–6:7                          | Psalm 41:1–13; 72:1–20; 112:1–10 | Isaiah 9:8–10:4; 58:1–14; 59:1–13     | Matthew 6:1–4, 16–34; Luke 12:16–34                            |
+| Exodus 22:16–23:9; Leviticus 25:1–55   | Proverbs 10:1–16; 18:22–19:22    | Jeremiah 5:1–31                       | Matthew 19:16–30; Mark 10:17–31; Luke 18:18–30                 |
+| Deuteronomy 10:12–22; 15:1–23          | Proverbs 22:1–16; 22:22–23:11    | Jeremiah 7:1–29                       | Matthew 24:36–25:46; Luke 19:11–27                             |
+| Deuteronomy 18:1–8; 24:5–25:4; 26:1–19 | Proverbs 27:23–28:27; 29:1–27    | Ezekiel 22:1–31                       | 1 Corinthians 16:1–24; 1 Timothy 6:2–10, 17–19; James 4:13–5:6 |
+| 1 Chronicles 29:1–22; Ezra 1:1–11      | Ecclesiastes 5:8–6:12            | Amos 1:1–2:16; 8:1–14; Malachi 3:6–15 | Revelation 18:1–24                                             |
 
 #### Session 10: The Network
 
