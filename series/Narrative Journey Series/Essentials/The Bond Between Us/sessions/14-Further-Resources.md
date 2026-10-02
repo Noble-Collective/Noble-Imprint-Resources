@@ -168,7 +168,7 @@ Disciplined Scripture reading is a formative habit that assists disciples and ch
 | 1 Samuel 19:1–24 | Proverbs 1:1–19 | Job 19:1–29 | Luke 11:5–13; John 1:35–42; 15:12–17 |
 | 1 Samuel 20:1–42 | Proverbs 3:27–35 | Job 32:1–22; 42:7–9 | Acts 20:1–38                         |
 | Genesis 4:1–26; 25:19–34 | Proverbs 25:28–26:28 | Jeremiah 8:18–9:9 | Acts 21:1–26                         |
-| Genesis 37:1–36 | Proverbs 27:1–22; Ecclesiastes 4:7–16 | Micah 7:1–20 | Philippians 4:2–9; 3 John 1–15       |
+| Genesis 37:1–36 | Proverbs 27:1–22; Ecclesiastes 4:7–16 | Micah 7:1–20 | Philippians 4:2–9; 3 John 1–14       |
 
 #### Session 5: The Public
 
