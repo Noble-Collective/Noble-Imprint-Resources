@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul. Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us.1 Peter 2:11–12
+Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul. Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us. 1 Peter 2:11–12
 
 > To do good to others in necessity keeps up the credit of religion. Works of mercy adorn the gospel, as the fruit adorns the tree. When "one light so shines that others see our good works," it glorifies God, crowns religion, and silences the lips of gainsayers. Basil says nothing rendered the true religion more famous in the primitive times, and made more proselytes to it, than the bounty and charity of Christians.
 

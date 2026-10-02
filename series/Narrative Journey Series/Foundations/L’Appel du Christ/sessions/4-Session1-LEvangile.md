@@ -238,7 +238,7 @@ Appliquer le texte : Utilisez les questions de réflexion pour examiner votre vi
 
 Christ, ayant été offert une seule fois pour porter les péchés de plusieurs, apparaîtra une seconde fois, non pour s'occuper du péché, mais pour sauver ceux qui l'attendent avec impatience.
 
-Hébreux9:28
+Hébreux 9:28
 
  Je crois et je confesse que la condamnation de Christ est mon absolution [pardon], que sa crucifixion est ma délivrance, que sa descente aux enfers est mon ascension au ciel, que sa mort est ma vie, que son sang est ma purification et mon lavage, par qui seul je suis lavé, purifié et lavé de tous mes péchés, le sang de Jésus-Christ... purifié et rendu pur pour toujours... Jésus-Christ, par le sacrifice de son corps, qu'il a offert sur l'arbre de la croix, a défiguré et détruit le péché, la mort et le diable, avec tout son royaume, et a pleinement accompli l'œuvre de notre salut.
 

@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Though I am free of obligation to anyone, I make myself a slave to everyone, to win as many as possible. To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), to win those under the law. To those without the law I became like one without the law (though I am not outside the law of God but am under the law of Christ), to win those without the law. To the weak I became weak, to win the weak. I have become all things to all people so that by all possible means I might save some. I do all this for the sake of the gospel, so that I may share in its blessings.1 Corinthians 9:19–23
+Though I am free of obligation to anyone, I make myself a slave to everyone, to win as many as possible. To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), to win those under the law. To those without the law I became like one without the law (though I am not outside the law of God but am under the law of Christ), to win those without the law. To the weak I became weak, to win the weak. I have become all things to all people so that by all possible means I might save some. I do all this for the sake of the gospel, so that I may share in its blessings. 1 Corinthians 9:19–23
 
 > In the sphere of religion, as in other spheres, the things about which are agreed are apt to be the things that are least worth holding; the really important things are the things about which men will fight.
 
