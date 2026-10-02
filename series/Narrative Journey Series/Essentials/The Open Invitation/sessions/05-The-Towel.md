@@ -175,7 +175,7 @@ In contrast to Judas' betrayal and Peter's denial is Jesus' faithfulness to fulf
 
 ##### A New Commandment: Embodying the Essence of Kingdom Ethic
 
-###### Biblical Narrative (John 13:31–38)
+###### Biblical Narrative (John 13:31–35)
 
 After Judas left the meal, Jesus taught the remaining disciples another lesson on the nature of discipleship and kingdom living. Jesus told his disciples that the Son of Man (Jesus) was glorified, and his glory brought glory to his Father in such a way that caused the Father to glorify the Son of Man (13:31–33). This statement predicted Jesus' death and resurrection: the ultimate act of service. Jesus showed that kingdom service would bring glory to God. He then explained that he would be with his disciples only "a little while longer" (13:33). Although the disciples would seek Jesus after his departure, they could not go where he was going (13:33). Jesus' life and sacrifice would certainly serve as an model and example for service, but his once-for-all act of dying on the cross was a redemptive act that the disciples could not replicate.
 
