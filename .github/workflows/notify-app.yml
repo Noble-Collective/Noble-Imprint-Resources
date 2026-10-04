@@ -17,6 +17,9 @@ on:
     branches: [main]
     paths:
       - 'series/**'
+      # Bibles ship as per-Bible-book packs since live content sync P4
+      # (BSB footnote/verse syncs reach phones like book edits).
+      - 'bibles/**'
       # The hidden Test Book (Playwright commits to it constantly) never
       # reaches the app. Negation must come last.
       - '!series/**/Test Book/**'
