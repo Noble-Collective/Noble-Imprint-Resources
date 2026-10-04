@@ -2,7 +2,7 @@
 
 ## Why Paid Staff Alone Cannot Scale the Church
 
-Dr. Tim Keller wrote an article called “Leadership and Church Size Dynamics”, which is very helpful in understanding how Western churches of various sizes grow, and many insights are spot on. When Dr. Keller talks about how smaller churches grow, some interesting points about vocational pastors and their capacity emerge:
+Dr. Tim Keller wrote an article called “Leadership and Church Size Dynamics”, which is very helpful in understanding how Western churches of various sizes grow. His many insights are spot on. When Dr. Keller talks about how smaller churches grow, some interesting points about vocational pastors and their capacity emerge:
 
 - A full-time minister cannot personally shepherd more than a few hundred people, depending on the context and amount of help he has.
 
