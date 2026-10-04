@@ -1,0 +1,37 @@
+name: Publish App Content
+
+# Live content sync: every content push to main publishes a new app Content
+# Release (Noble-Imprint-App .github/workflows/publish-content.yml), the way
+# notify-website.yml refreshes the website. The app workflow builds the LATEST
+# main, gates it with the content tests, and no-ops when nothing the app shows
+# changed. Bursts collapse there (one run going + one queued).
+# Plan: Noble-Imprint-App plans/2026-10-03-live-content-sync.md §3.
+#
+# Branch-filtered on purpose: the app workflow pushes content-<N> TAGS to this
+# repo, and tag pushes must not trigger anything here.
+
+on:
+  # Manual run = re-check the hook (the app no-ops when nothing changed).
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'series/**'
+      # The hidden Test Book (Playwright commits to it constantly) never
+      # reaches the app. Negation must come last.
+      - '!series/**/Test Book/**'
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch the app's content publish
+        env:
+          # Classic PAT with repo scope (also used for the audiobook dispatch).
+          GH_TOKEN: ${{ secrets.AUDIOBOOK_DISPATCH_TOKEN }}
+        run: |
+          gh workflow run publish-content.yml \
+            --repo Noble-Collective/Noble-Imprint-App \
+            --ref develop \
+            -f reason="resources push ${GITHUB_SHA::7}"
+          echo "Dispatched publish-content (app builds the latest main; identical output = no-op)."
