@@ -6,7 +6,7 @@ The expectation for where we find pastors to labor in the work of ministry commo
 
 The further we dig under the surface, however, the more shortcomings we uncover with this institution-centric strategy for filling local churches with the leaders she needs:
 
-**The need for leaders in the global church is greater than the number of Bible college and seminary graduates pursuing pastoral roles.**
+**The need for leaders in the global church is greater than the number of Bible college and seminary graduates pursuing these pastoral roles.**
 
 The church is a family of families. One dad in a family does not raise a few hundred children on his own. We need a multitude of leaders over God’s flock—both the kind that can stabilize a local congregation and the kind who can press the gospel forward to unreached areas and peoples. Bible colleges and seminaries are typically not cheap, and they are also not available or accessible throughout all parts of the world. If these types of institutions are our only source for pastoral leadership, the global church will be severely limited by the overall small number of graduates pursuing pastoral work.
 
