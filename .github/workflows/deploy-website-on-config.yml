@@ -8,13 +8,15 @@ name: Refresh Website Cache on Config Change
 # that commit auto-deploys a fresh image — so every instance serves the new config.
 #
 # Text-only edits (session .md) don't need this — notify-website.yml's runtime cache
-# refresh handles those. This fires ONLY on meta.json changes (infrequent).
+# refresh handles those. This fires ONLY on meta.json and search-terms.json changes (infrequent).
 
 on:
   push:
     branches: [main]
     paths:
       - '**/meta.json'
+      # Library search terms are baked into the same snapshot.
+      - 'search-terms.json'
 
 jobs:
   trigger-cache-refresh:

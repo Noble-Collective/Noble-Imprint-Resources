@@ -1,0 +1,476 @@
+{
+  "_about": "Vendored from Collective-Shared packages/userdata/test/library-search.cases.json (SDK 0.7.0, cd812f5): the normalize cases and the inline validate cases. check-search-terms.mjs copies validateTerms and must pass them. The draft-fixture case is replaced by a run on this repo (no errors). Re-vendor when the SDK spec changes.",
+  "normalize": [
+    [
+      "L’Appel du Christ",
+      "lappel du christ"
+    ],
+    [
+      "Lord's Prayer",
+      "lords prayer"
+    ],
+    [
+      "Catéchisme",
+      "catechisme"
+    ],
+    [
+      "Français",
+      "francais"
+    ],
+    [
+      "  Ten   Commandments!! ",
+      "ten commandments"
+    ],
+    [
+      "Hear, My Son",
+      "hear my son"
+    ],
+    [
+      "Proverbs 1–9",
+      "proverbs 1 9"
+    ],
+    [
+      "C. S. Lewis",
+      "c s lewis"
+    ],
+    [
+      "`back`tick",
+      "backtick"
+    ],
+    [
+      "Saint-Esprit",
+      "saint esprit"
+    ],
+    [
+      "Ésaïe",
+      "esaie"
+    ],
+    [
+      "KJV",
+      "kjv"
+    ],
+    [
+      "!!!",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "bi-vocational",
+      "bi vocational"
+    ]
+  ],
+  "validate": [
+    {
+      "name": "a key with no folder",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/Y": {
+            "title": "Y",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": []
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "missing-folder",
+          "key": "series/Y"
+        }
+      ]
+    },
+    {
+      "name": "id differs from meta.json",
+      "folders": [
+        {
+          "path": "series/X",
+          "id": "x-book",
+          "title": "X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [],
+            "id": "x"
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "id-mismatch",
+          "key": "series/X"
+        }
+      ]
+    },
+    {
+      "name": "the same term twice in a node",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [
+              "dup",
+              "Dup "
+            ]
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "duplicate",
+          "key": "series/X",
+          "term": "dup"
+        }
+      ]
+    },
+    {
+      "name": "a primary also listed in terms",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [
+              "a1"
+            ]
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "duplicate",
+          "key": "series/X",
+          "term": "a1"
+        }
+      ]
+    },
+    {
+      "name": "a term repeated from an ancestor",
+      "folders": [
+        {
+          "path": "series/X"
+        },
+        {
+          "path": "series/X/B",
+          "id": "b"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [
+              "shared"
+            ]
+          },
+          "series/X/B": {
+            "title": "B",
+            "id": "b",
+            "primary": [
+              "d1",
+              "e1",
+              "f1"
+            ],
+            "terms": [
+              "Shared"
+            ]
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "warning",
+          "code": "repeats-ancestor",
+          "key": "series/X/B",
+          "term": "shared"
+        }
+      ]
+    },
+    {
+      "name": "a node title that differs from meta.json",
+      "folders": [
+        {
+          "path": "series/X",
+          "title": "The X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": []
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "warning",
+          "code": "title-mismatch",
+          "key": "series/X"
+        }
+      ]
+    },
+    {
+      "name": "fewer than 3 primary terms",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1"
+            ],
+            "terms": []
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "warning",
+          "code": "primary-count",
+          "key": "series/X"
+        }
+      ]
+    },
+    {
+      "name": "a book folder (one with an id) with no node",
+      "folders": [
+        {
+          "path": "series/X"
+        },
+        {
+          "path": "series/X/B",
+          "id": "b"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": []
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "warning",
+          "code": "no-terms",
+          "key": "series/X/B"
+        }
+      ]
+    },
+    {
+      "name": "bad shape: terms not a list",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": "oops"
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "bad-shape",
+          "key": "series/X"
+        }
+      ]
+    },
+    {
+      "name": "bad shape: an unknown field",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [],
+            "keywords": []
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "bad-shape",
+          "key": "series/X"
+        }
+      ]
+    },
+    {
+      "name": "bad shape: a term with no letters or digits",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [
+              "—"
+            ]
+          }
+        }
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "bad-shape",
+          "key": "series/X",
+          "term": "—"
+        }
+      ]
+    },
+    {
+      "name": "bad shape: wrong version",
+      "folders": [],
+      "terms": {
+        "version": 2,
+        "nodes": {}
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "bad-shape",
+          "key": ""
+        }
+      ]
+    },
+    {
+      "name": "bad shape: no nodes",
+      "folders": [],
+      "terms": {
+        "version": 1
+      },
+      "problems": [
+        {
+          "level": "error",
+          "code": "bad-shape",
+          "key": ""
+        }
+      ]
+    },
+    {
+      "name": "underscore keys are comments",
+      "folders": [
+        {
+          "path": "series/X"
+        }
+      ],
+      "terms": {
+        "_about": "x",
+        "version": 1,
+        "nodes": {
+          "series/X": {
+            "title": "X",
+            "primary": [
+              "a1",
+              "b1",
+              "c1"
+            ],
+            "terms": [],
+            "_note": "y"
+          }
+        }
+      },
+      "problems": []
+    }
+  ]
+}

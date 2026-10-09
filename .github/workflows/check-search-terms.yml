@@ -1,0 +1,36 @@
+name: Check Search Terms
+
+# Guards search-terms.json (the Library search terms the app and the resources website read).
+# Fails on errors: bad shape, a key with no folder, an id that isn't the folder's meta.json id,
+# the same term twice in a node. Warnings (e.g. "lord's prayer" beside "lords prayer") are
+# annotated and pass. Runs on meta.json changes too, since a renamed/moved folder or a changed
+# id can break a key. Plan: Collective-Shared plans/2026-10-09-library-search-terms.md (P2).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'search-terms.json'
+      - '**/meta.json'
+      - '.github/scripts/check-search-terms*'
+      - '.github/workflows/check-search-terms.yml'
+  pull_request:
+    paths:
+      - 'search-terms.json'
+      - '**/meta.json'
+      - '.github/scripts/check-search-terms*'
+      - '.github/workflows/check-search-terms.yml'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Guard tests (vendored SDK spec)
+        run: node --test .github/scripts/check-search-terms.test.mjs
+      - name: Check search-terms.json
+        run: node .github/scripts/check-search-terms.mjs
