@@ -13,7 +13,7 @@
 ### Key Elements
 
 - **Key Passage**: Acts 2:1–36
-- **Scripture MemoryEDIT**: For I delivered to you as of first importance  I also received: that Christ died for our sins in  with the Scriptures, that he was buried, that he was raised on the third day in accordance with the tt. **1 Corinthians 15:3–4**
+- **Scripture Memory**: For I delivered to you as of first importance  I also received: that Christ died for our sins in  with the Scriptures, that he was buried, that he was raised on the third day in accordance with the tt. **1 Corinthians 15:3–4**
 - **Catechism Question**: Q: What does Jesus call us to believe? A: The Gospel 22of Jesus Christ.
 
 ## Introduction
