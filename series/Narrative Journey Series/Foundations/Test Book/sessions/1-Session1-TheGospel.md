@@ -2,7 +2,7 @@
 
 ## Session 
 
-### Confessional Statement
+### ConfessionalX Statement
 
 >Disciples of Christ:
 >**earnestly receive God's salvation by repenting from sin and pledging their faith in Christ,**
