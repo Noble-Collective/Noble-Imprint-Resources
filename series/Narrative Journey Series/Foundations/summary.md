@@ -1,0 +1,1 @@
+The *Narrative Journey* begins with orienting new believers to the basic elements of the Christian faith. This multi-session study through Acts 2 explores key aspects to being a follower of Jesus as it prepares disciples to join the Christian community through baptism.

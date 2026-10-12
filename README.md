@@ -23,6 +23,22 @@ series/
 
 Each level has a `meta.json` that controls ordering, display metadata, and feature flags. Books are identified by having a `sessions/` directory.
 
+## Summaries (`summary.md`)
+
+A series, a sub-series (collection) or a book can have a short "About" text: a `summary.md` file beside its `meta.json`.
+
+```
+series/<Series>/summary.md                       the series' summary
+series/<Series>/<Sub-Series>/summary.md          the collection's summary
+series/<Series>/[<Sub-Series>/]<Book>/summary.md the book's summary
+```
+
+- **Plain Markdown, no front matter.** Paragraphs, `_italic_`, `**bold**`; scripture references are fine (they link like in a session). No headings, images, custom tags or `@include`s.
+- **About 80–200 words.** It's read on a phone page, under the cover and title — title and subtitle come from `meta.json`, so don't repeat them.
+- A book's summary may open with a one-line italic lead (e.g. its line from the series list), then the body.
+- **File present = summary shown; absent = nothing changes.** Once the app supports it (in progress, 2026-10), anything with a summary gets a small navy "i" on its cover and the reader's ⋮ menu gets "About this book". Until then the file is ignored by the app and the website.
+- Adapt the wording from the book's own text (preface, introduction, executive summary) — don't invent claims.
+
 ## Content Update Flow
 
 1. Push changes to this repo

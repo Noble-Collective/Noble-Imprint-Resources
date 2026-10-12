@@ -1,0 +1,1 @@
+The second set of books in the *Narrative Journey* series establishes believers and churches in the essentials of the Christian faith. Exploring carefully selected biblical narratives (arranged under the topics of Christian belief, living, habits, community, devotion, and witness), the community of faith grows deep roots in core Christian teaching.
