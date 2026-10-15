@@ -22,6 +22,7 @@
         "model_id": "eleven_v4",
         "spell_numbers": true,
         "clean_terminal_punctuation": true,
+        "chapter_end_pause": true,
         "voice_settings": {
           "stability": 0.50,
           "similarity_boost": 0.5
