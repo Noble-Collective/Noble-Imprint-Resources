@@ -1,8 +1,7 @@
 name: Publish App Content
 
 # Live content sync: every content push to main publishes a new app Content
-# Release (Noble-Imprint-App .github/workflows/publish-content.yml), the way
-# notify-website.yml refreshes the website. The app workflow builds the LATEST
+# Release (Noble-Imprint-App .github/workflows/publish-content.yml). The app workflow builds the LATEST
 # main, gates it with the content tests, and no-ops when nothing the app shows
 # changed. Bursts collapse there (one run going + one queued).
 # Plan: Noble-Imprint-App plans/2026-10-03-live-content-sync.md §3.
