@@ -51,10 +51,10 @@ Look at the infographic below. Use the questions to think about how to minister 
 </ApplicationDirections>
 
 <ApplicationQuestions>
-<Question id={id}-Q1>1. Building Faith: How can this passage encourage disciples of Jesus Christ?</Question>
-<Question id={id}-Q2>2. Edifying the Church: How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
-<Question id={id}-Q3>3. Serving Others: How will you minister this text to other believers?</Question>
-<Question id={id}-Q4>4. Reflecting on Ministry: What was the experience like when you used this passage to minister to other disciples?</Question>
+<Question id={id}-Q1>1. <Accent>Building Faith:</Accent> How can this passage encourage disciples of Jesus Christ?</Question>
+<Question id={id}-Q2>2. <Accent>Edifying the Church:</Accent> How does this biblical passage help us build up the church and encourage other believers in the faith?</Question>
+<Question id={id}-Q3>3. <Accent>Serving Others:</Accent> How will you minister this text to other believers?</Question>
+<Question id={id}-Q4>4. <Accent>Reflecting on Ministry:</Accent> What was the experience like when you used this passage to minister to other disciples?</Question>
 </ApplicationQuestions>
 
 <StrategyDirections>
@@ -62,10 +62,10 @@ Reflect on the infographic below. Consider how you can use this passage to witne
 </StrategyDirections>
 
 <StrategyQuestions>
-<Question id={id}-Q1>1. Sharing the Gospel: How can you use this passage to tell others about Jesus?</Question>
-<Question id={id}-Q2>2. Serving the Mission: How does this biblical passage inform your participation in God’s work in the world?</Question>
-<Question id={id}-Q3>3. Reaching Out: How will you use this text to reach out to unbelievers?</Question>
-<Question id={id}-Q4>4. Reflecting on Mission: What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
+<Question id={id}-Q1>1. <Accent>Sharing the Gospel:</Accent> How can you use this passage to tell others about Jesus?</Question>
+<Question id={id}-Q2>2. <Accent>Serving the Mission:</Accent> How does this biblical passage inform your participation in God’s work in the world?</Question>
+<Question id={id}-Q3>3. <Accent>Reaching Out:</Accent> How will you use this text to reach out to unbelievers?</Question>
+<Question id={id}-Q4>4. <Accent>Reflecting on Mission:</Accent> What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
 </StrategyQuestions>
 
 <NarrativeStructureInfographic>
