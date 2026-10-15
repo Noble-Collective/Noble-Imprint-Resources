@@ -17,6 +17,17 @@
       "style": 0.0,
       "speed": 0.90
     },
+    "profiles": {
+      "v4": {
+        "model_id": "eleven_v4",
+        "spell_numbers": true,
+        "clean_terminal_punctuation": true,
+        "voice_settings": {
+          "stability": 0.50,
+          "similarity_boost": 0.5
+        }
+      }
+    },
     "books": {
       "GEN": { "enabled": true },
       "EXO": { "enabled": true },
@@ -57,7 +68,7 @@
       "HAG": { "enabled": true },
       "ZEC": { "enabled": true },
       "MAL": { "enabled": true },
-      "MAT": { "enabled": true },
+      "MAT": { "enabled": true, "profile": "v4" },
       "MRK": { "enabled": true },
       "LUK": { "enabled": true },
       "JHN": { "enabled": true },
