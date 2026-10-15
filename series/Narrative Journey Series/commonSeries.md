@@ -62,7 +62,7 @@ Reflect on the infographic below. Consider how you can use this passage to witne
 </StrategyDirections>
 
 <StrategyQuestions>
-<Question id={id}-Q1>1. How can you use this passage as a way to share the gospel of Jesus with others?</Question>
+<Question id={id}-Q1>1.	**Sharing the Gospel:** How can you use this passage to tell others about Jesus?</Question>
 <Question id={id}-Q2>2. How does this biblical passage inform your participation in God's mission?</Question>
 <Question id={id}-Q3>3. How will you use this text to reach out to unbelievers?</Question>
 <Question id={id}-Q4>4. What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
