@@ -32,8 +32,8 @@ jobs:
     steps:
       - name: Dispatch the app's content publish
         env:
-          # Classic PAT with repo scope (also used for the audiobook dispatch).
-          GH_TOKEN: ${{ secrets.AUDIOBOOK_DISPATCH_TOKEN }}
+          # Fine-grained PAT: Actions read/write on Noble-Imprint-App only.
+          GH_TOKEN: ${{ secrets.APP_DISPATCH_TOKEN }}
         run: |
           gh workflow run publish-content.yml \
             --repo Noble-Collective/Noble-Imprint-App \
