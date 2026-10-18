@@ -90,17 +90,17 @@ Biblical stories **change us** and help us **live faithfully** in the world. Bel
 <Item icon="eye" label="Participating in the Plot">Narratives invite readers to **involve themselves** in the story. Seeing ourselves as characters in the Bible’s unfolding plot, we are drawn into the storyline, contemplating how we would (and should) respond in similar circumstances.</Item>
 <Item icon="fish" label="Looking for Gospel Themes">Narratives explore the human condition and awaken longings for salvation. Biblical narratives confront the **human predicament** of sin and recount God’s work of redeeming his fallen world.</Item>
 <Item icon="church" label="Shaping Our Narrative Identity">Narratives mold **identity** and **vocation**. Because human life is lived like an unfolding story, biblical narratives are a script for faithful performance, summoning believers to embody the ancient text in their contemporary lives.</Item>
-<Item icon="crown" label="Longing for the Future World">Narratives feed the **inconsolable longing** for all things to be restored. We should read the Bible with hope, considering how our current exilic life will translatetransfigure—into a life of future glory.</Item>
+<Item icon="crown" label="Longing for the Future World">Narratives feed the **inconsolable longing** for all things to be restored. We should read the Bible with hope, considering how our current exilic life will translate—transfigure—into a life of future glory.</Item>
 </Infographic>
 </NarrativeTheologyInfographic>
 
 <SpiritualPracticesInfographic>
 <Infographic title="Spiritual Practices" type="menu">
-God's **inspired word** forms us into **Christlike character**. Below are a set of **spiritual habits** for the Christian life.
+God's **inspired word** forms us into **Christlike character**. Below is a set of **spiritual habits** for the Christian life.
 
 <Item icon="book-open" label="Reading">**Communing with God** by reflective Bible reading and Scripture-based prayer.</Item>
 <Item icon="bread-slice" label="Fasting">Training personal appetites by **temporarily abstaining** from food (or other life comforts).</Item>
-<Item icon="hands-praying" label="Prayer">Asking for **God’s help** in our day through confession, petition, thanksgiving, and intercession</Item>
+<Item icon="hands-praying" label="Prayer">Asking for **God’s help** in our day through confession, petition, thanksgiving, and intercession.</Item>
 <Item icon="brain" label="Memorization">Renewing our minds and internalizing truth by **hiding God’s word** in our hearts.</Item>
 <Item icon="people-group" label="Community">Seeking **accountability** and **wisdom** through conversation with other trusted believers.</Item>
 <Item icon="eye" label="Examination">Prayerfully **evaluating our lives** by reflection, gratitude, repentance, and hope.</Item>
@@ -137,7 +137,7 @@ The truth of **God's word** is for the **whole world**. Below are **outreach ide
 <Item icon="utensils" label="Meal Ministry">Discuss this story around a meal, talking about what the story teaches about the **Christian faith**.</Item>
 <Item icon="list-check" label="Community Event">Utilize this story as you host or join a community event, talking with neighbors to learn about their **values and worldview**.</Item>
 <Item icon="heart" label="Good Works">Discern how this story calls you to good works, **enacting the truths** of the text by godly living and service.</Item>
-<Item icon="ellipsis" label="Other Ministry">Use this story in some other outreach, seeking to **share the gospel** with unbelievers in word and deed.</Item>
+<Item icon="ellipsis" label="Other Outreach">Use this story in some other outreach, seeking to **share the gospel** with unbelievers in word and deed.</Item>
 </Infographic>
 </MissionPracticesInfographic>
 
