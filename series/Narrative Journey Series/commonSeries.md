@@ -96,7 +96,7 @@ Biblical stories **change us** and help us **live faithfully** in the world. Bel
 
 <SpiritualPracticesInfographic>
 <Infographic title="Spiritual Practices" type="menu">
-_God's **inspired word** forms us into **Christlike character**. Below are a set of **spiritual habits** for the Christian life._
+God's **inspired word** forms us into **Christlike character**. Below are a set of **spiritual habits** for the Christian life.
 
 <Item icon="book-open" label="Reading">**Communing with God** by reflective Bible reading and Scripture-based prayer.</Item>
 <Item icon="bread-slice" label="Fasting">Training personal appetites by **temporarily abstaining** from food (or other life comforts).</Item>
@@ -115,15 +115,15 @@ _God's **inspired word** forms us into **Christlike character**. Below are a set
 
 <MinistryPracticesInfographic>
 <Infographic title="Ministry Practices" type="menu">
-_We **know best** what we are able to **tell others**. Below are **common settings** to minister this text to **other believers**._
+We **know best** what we are able to **tell others**. Below are **common settings** to minister this text to **other believers**.
 
-<Item icon="people-roof" label="Family Discipleship">Retell this story to a member of your **family**, talking about how it encourages us in the life of faith.</Item>
-<Item icon="user-group" label="Mentoring Partnerships">Study this story with your **mentor** or **mentee**, exploring what it teaches about following Christ.</Item>
-<Item icon="house" label="House Gathering">Review this story with your **house gathering**, discussing how it guides us to spiritual maturity.</Item>
-<Item icon="church" label="Community Assembly">Implement this story in your **assembly**, edifying the community through sermon, teaching, drama, song, testimony, or liturgy.</Item>
-<Item icon="diagram-project" label="Church Network">Use this story in your **church network**, employing it to strengthen leaders and mature churches.</Item>
-<Item icon="globe" label="Global Partner">Utilize this text to pray for a **global partner**, interceding for the brothers and sisters in that part of the world.</Item>
-<Item icon="ellipsis" label="Other Ministry">Use this story in **another ministry**, seeking to serve other believers through the teaching of this biblical text.</Item>
+<Item icon="people-roof" label="Family Discipleship">Retell this story to a member of your family, talking about how it encourages us in the **life of faith**.</Item>
+<Item icon="user-group" label="Mentoring Partnerships">Study this story with your mentor or mentee, exploring what it teaches about **following Christ**.</Item>
+<Item icon="house" label="House Gathering">Review this story with your house gathering, discussing how it guides us to **spiritual maturity**.</Item>
+<Item icon="church" label="Community Assembly">Implement this story in your assembly, **edifying the community** through sermon, teaching, drama, song, testimony, or liturgy.</Item>
+<Item icon="diagram-project" label="Church Network">Use this story in your church network, employing it to **strengthen leaders** and **mature churches**.</Item>
+<Item icon="globe" label="Global Partner">Utilize this text to pray for a global partner, interceding for the **brothers and sisters** in that part of the world.</Item>
+<Item icon="ellipsis" label="Other Ministry">Use this story in another ministry, seeking to **serve other believers** through the teaching of this biblical text.</Item>
 </Infographic>
 </MinistryPracticesInfographic>
 
