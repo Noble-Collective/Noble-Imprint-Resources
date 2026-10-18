@@ -103,13 +103,13 @@ _God's **inspired word** forms us into **Christlike character**. Below are a set
 <Item icon="hands-praying" label="Prayer">Asking for **God’s help** in our day through confession, petition, thanksgiving, and intercession</Item>
 <Item icon="brain" label="Memorization">Renewing our minds and internalizing truth by **hiding God’s word** in our hearts.</Item>
 <Item icon="people-group" label="Community">Seeking **accountability** and **wisdom** through conversation with other trusted believers.</Item>
-<Item icon="eye" label="Examination">Prayerfully evaluating our lives by reflection, gratitude, repentance, and hope.</Item>
+<Item icon="eye" label="Examination">Prayerfully **evaluating our lives** by reflection, gratitude, repentance, and hope.</Item>
 <Item icon="hand-holding-heart" label="Service">Showing care for others by meeting **practical needs** and performing **acts of mercy**.</Item>
-<Item icon="music" label="Worship">Praising God's great worth by exalting him in **song**, **drama**, or **confession**.</Item>
-<Item icon="feather" label="Journaling">Chronicling our faith journey by writing down a record of **God's dealings with us**.</Item>
-<Item icon="hand-holding" label="Simplicity">Detaching ourselves from possessions through **generosity**, **stewardship**, and **sacrifice**.</Item>
-<Item icon="droplet" label="Lament">Expressing our **suffering** by submitting our **pain** to God's healing hand.</Item>
-<Item icon="volume-xmark" label="Silence">Turning our ears to God's voice by temporarily refraining from **speech** and **noise**.</Item>
+<Item icon="music" label="Worship">Praising **God’s great worth** by exalting him in song or creedal confession.</Item>
+<Item icon="feather" label="Journaling">Chronicling our faith journey by writing down a record of **God’s dealings** with us.</Item>
+<Item icon="hand-holding" label="Simplicity">**Detaching ourselves** from possessions through generosity, stewardship, and sacrifice.</Item>
+<Item icon="droplet" label="Lament">Expressing our **suffering** by submitting our pain to God’s healing hand.</Item>
+<Item icon="volume-xmark" label="Silence">Turning our ears to **God’s voice** by temporarily refraining from speech and noise.</Item>
 </Infographic>
 </SpiritualPracticesInfographic>
 
