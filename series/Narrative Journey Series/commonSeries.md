@@ -75,9 +75,9 @@ Stories are **clues to life**; life itself is lived as an **unfolding story**. B
 <Item label="Introduction">The narrative provides an **opening** that establishes the setting, background, or context.</Item>
 <Item label="Conflict">There emerges a **problem**—a difficulty, struggle, tension, or misfortune that begs to be resolved.</Item>
 <Item label="Development">As the story continues, the **plot thickens**, characters interact, events unfold, and conflict builds.</Item>
-<Item label="Climax">The problem reaches its height, but the resolution is not fully clear.</Item>
-<Item label="Falling">Eventually, hope emerges as the conflict resolves, tensions calm, and problems disentangle.</Item>
-<Item label="Resolution">At the end of the narrative, a new reality is formed.</Item>
+<Item label="Climax">The problem **reaches its height**, but the resolution is not fully clear.</Item>
+<Item label="Falling">Eventually, **hope emerges** as the conflict resolves, tensions calm, and problems disentangle.</Item>
+<Item label="Resolution">At the end of the narrative, a **new reality** is formed.</Item>
 </Infographic>
 </NarrativeStructureInfographic>
 
@@ -85,8 +85,8 @@ Stories are **clues to life**; life itself is lived as an **unfolding story**. B
 <Infographic title="Narrative Theology" type="menu">
 Biblical stories **change us** and help us **live faithfully** in the world. Below details the **transformative impact** of stories read with **eyes of faith**.
 
-<Item icon="triquetra" label="Inhabiting the World of the Text">Narratives establish a **literary world** that shapes a reader's understanding of the surrounding world. The **setting** of a good story is **hospitable**, inviting readers to inhabit its narrative world. In the Bible, the individual stories collectively tell a larger grand story—a **metanarrative**—about God's saving work in his world. Taken as a whole, the sacred and inspired text of Scripture offers the **true way to see** the world and the **right way to live** in it.</Item>
-<Item icon="shoe-prints" label="Seeing Ourselves through Characters">Narratives present **characters** as paradigms—types, examples, cautions, and epitomes. Readers naturally identify with these figures, **comparing and contrasting** themselves with them. A good story provides explicit and implicit evaluations of its characters. **Good characters** elicit emulation. **Bad characters** serve as warnings. **Mixed characters** invite self-reflection and stir empathy.</Item>
+<Item icon="triquetra" label="Inhabiting the World of the Text">Narratives establish a **literary world** that shapes our worldview. The Bible’s numerous stories recount one grand story of God’s saving work—offering the true way to see the world and the right way to live in it.</Item>
+<Item icon="shoe-prints" label="Seeing Ourselves in Characters">Narratives present **characters** as paradigms for life. In a good story, readers relate to the charactersgood, bad, or mixed—inviting them to emulation, warning, empathy, and self-reflection.</Item>
 <Item icon="eye" label="Participating in the Plot">Narratives arrest **attention**, engage **imagination**, stir **wonder**, and invite **involvement**. Engaged readers participate in a story's plot, swept up by the narrative action—encounters, developments, events, and dialogue. When we view ourselves as characters in the **unfolding plot**, we are drawn into the storyline, contemplating how we would (and should) respond in similar circumstances.</Item>
 <Item icon="fish" label="Looking for Gospel Themes">Narratives explore the human condition and awaken longings for salvation. Good stories are **dramatic**, guiding readers on a journey of rescue, restoration, reconciliation, and remedy. They reveal **redemptive themes** that echo God's saving work in Christ. Biblical narratives confront the **human predicament of sin** and recount God's (theodramatic) work of **redeeming his fallen world**.</Item>
 <Item icon="church" label="Shaping Our Narrative Identity">Narratives mold **identity** and **vocation**. Both individuals and communities are shaped by the stories they embrace. Shared narratives foster **self-understanding** and **solidarity**. Because human life is lived like an unfolding story, biblical narratives teach believers how to fully realize their noble identity in Christ as God's faithful witnesses in the world. Inspired Scripture is a divinely revealed script calling the church to **faithful performance**—embodying the ancient text in our contemporary lives.</Item>
