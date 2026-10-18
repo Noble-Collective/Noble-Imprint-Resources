@@ -72,9 +72,9 @@ Reflect on the infographic below. Consider how you can use this passage to witne
 <Infographic title="Narrative Structure" type="sequence">
 Stories are **clues to life**; life itself is lived as an **unfolding story**. Below are the **typical features** in every good story.
 
-<Item label="Introduction">The narrative provides an opening that establishes the setting, background, or context.</Item>
-<Item label="Conflict">There emerges a problem, difficulty, struggle, tension, or misfortune that begs to be resolved.</Item>
-<Item label="Development">As the story continues, the plot thickens, characters interact, events unfold, and conflict builds.</Item>
+<Item label="Introduction">The narrative provides an **opening** that establishes the setting, background, or context.</Item>
+<Item label="Conflict">There emerges a **problem**—a difficulty, struggle, tension, or misfortune that begs to be resolved.</Item>
+<Item label="Development">As the story continues, the **plot thickens**, characters interact, events unfold, and conflict builds.</Item>
 <Item label="Climax">The problem reaches its height, but the resolution is not fully clear.</Item>
 <Item label="Falling">Eventually, hope emerges as the conflict resolves, tensions calm, and problems disentangle.</Item>
 <Item label="Resolution">At the end of the narrative, a new reality is formed.</Item>
