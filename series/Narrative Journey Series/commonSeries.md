@@ -129,15 +129,15 @@ We **know best** what we are able to **tell others**. Below are **common setting
 
 <MissionPracticesInfographic>
 <Infographic title="Mission Practices" type="menu">
-_The truth of **God's word** is for the **whole world**. Below are **outreach ideas** to minister this text to **unbelievers**._
+The truth of **God's word** is for the **whole world**. Below are **outreach ideas** to minister this text to **unbelievers**.
 
-<Item icon="microphone" label="Evangelistic Storytelling">Retell this story to an unbeliever, **sharing the narrative** itself and its insight into the good news about Christ.</Item>
-<Item icon="comments" label="Personal Conversations">Infuse this story in your **personal conversations**, being attentive for its themes as you talk with others.</Item>
-<Item icon="person-walking" label="Prayer Walking">Use this story to guide your **prayer walk**, seeking God's transforming power to open hearts and open doors.</Item>
-<Item icon="utensils" label="Meal Ministry">Discuss this story around a **meal**, talking about what the story teaches about the Christian faith.</Item>
-<Item icon="list-check" label="Community Survey">Utilize this story to develop a **community survey**, talking with neighbors to learn about their values and worldview.</Item>
-<Item icon="heart" label="Good Works">Discern how this story calls you to **good works**, enacting the truths of the text by godly living and service.</Item>
-<Item icon="ellipsis" label="Other Ministry">Use this story in **some other outreach**, seeking to share the gospel with unbelievers in word and/or deed.</Item>
+<Item icon="microphone" label="Evangelistic Storytelling">Retell this story to an unbeliever, sharing the narrative itself and its insight into the **good news** about Christ.</Item>
+<Item icon="comments" label="Personal Conversations">Infuse this story in your personal conversations, **being attentive** for its themes as you talk with others.</Item>
+<Item icon="person-walking" label="Prayer Walking">Use this story to guide your prayer walk, seeking God's transforming power to **open hearts** and **open doors**.</Item>
+<Item icon="utensils" label="Meal Ministry">Discuss this story around a meal, talking about what the story teaches about the **Christian faith**.</Item>
+<Item icon="list-check" label="Community Event">Utilize this story as you host or join a community event, talking with neighbors to learn about their **values and worldview**.</Item>
+<Item icon="heart" label="Good Works">Discern how this story calls you to good works, **enacting the truths** of the text by godly living and service.</Item>
+<Item icon="ellipsis" label="Other Ministry">Use this story in some other outreach, seeking to **share the gospel** with unbelievers in word and deed.</Item>
 </Infographic>
 </MissionPracticesInfographic>
 
