@@ -58,7 +58,7 @@ Look at the infographic below. Use the questions to think about how to minister 
 </ApplicationQuestions>
 
 <StrategyDirections>
-Reflect on the infographic below. Consider how you can use this passage to witness to the surrounding world. Use the suggested ideas to prime your imagination. Then, put together a plan to share this passage with unbelievers, Afterward, reflect on this mission experience.
+Reflect on the infographic below. Consider how you can use this passage to witness to the surrounding world.
 </StrategyDirections>
 
 <StrategyQuestions>
