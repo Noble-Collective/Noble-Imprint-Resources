@@ -79,6 +79,7 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 #### Passage Introduction
 
+Job 1:1–2:13
 ##### Key Idea
 
 God is calling us to a life of faith in a broken and sinful world.
