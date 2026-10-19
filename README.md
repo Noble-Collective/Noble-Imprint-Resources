@@ -71,10 +71,12 @@ To enable audiobook generation for a book, add an `audiobook` key to the book's 
 | `language` | Top-level book language code, `en` (default) or `fr`. Selects the locale used by the language-normalization layer (below). Set `fr` for French books. |
 | `voice_id` | ElevenLabs voice to use for generation |
 | `model_id` | ElevenLabs TTS model |
-| `language_normalization` | Per-book switch, default `false`. When `true`, scripture references and numeric ranges are spoken naturally per `language` (e.g. "Proverbs 1-9" → "Proverbs, chapters 1 through 9"); when `false` they are spoken literally. **Toggling this changes the spoken text, so the affected sessions regenerate on the next push.** Roll it out one book at a time. |
+| `language_normalization` | Per-book switch, default `false`. When `true`, scripture references and numeric ranges are spoken naturally per `language` (e.g. "Proverbs 1-9" → "Proverbs, chapters 1 through 9"); when `false` they are spoken literally. **Toggling this changes the spoken text, so the affected sessions regenerate on the book's next generation run.** Roll it out one book at a time. |
 | `sessions` | List of session filenames to generate audio for (omit front matter, etc.) |
 
-When pushed, the `notify-audiobook.yml` workflow triggers audiobook generation in the [audiobooks repo](https://github.com/Noble-Collective/Noble-Imprint-Audiobooks). Generated audio and timestamp files are stored in the GCS bucket `noble-imprint-audiobooks`, where the website reads them for playback.
+Pushing does **not** generate audio: automatic generation has been off since 2026-07-27 (`notify-audiobook.yml` is manual-only). Generation is started by hand in the [audiobooks repo](https://github.com/Noble-Collective/Noble-Imprint-Audiobooks) (Actions → Generate Audiobook). Generated audio and timestamp files are stored in the GCS bucket `noble-imprint-audiobooks`, where the website, Coram Deo and the app read them for playback.
+
+**The Bible** is configured separately, in `bibles/bsb/meta.json` → `audiobook` (one block for all 66 books, plus a `books` map of which are enabled). Since 2026-10-16 it uses **Eleven v4** with `spell_numbers`, `clean_terminal_punctuation` and `chapter_end_pause` on. Series books stay on `eleven_multilingual_v2`. Every field and the runbook: the audiobooks repo's `docs/BIBLE-AUDIOBOOKS.md`. Changing that block's model, voice or settings means a paid re-render of every book it applies to.
 
 ## Related Repos
 
