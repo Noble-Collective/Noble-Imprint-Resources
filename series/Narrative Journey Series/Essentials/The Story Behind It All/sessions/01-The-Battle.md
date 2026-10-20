@@ -249,16 +249,11 @@ Expressing our suffering by submitting our pain to God's healing hand.
 
 ##### Address to God
 Consider how the Bible speaks about God. Reflect on truths about God that are meaningful to you. Call out to God. Turn to God, addressing him for who he is and what he has done.
-
-
 ##### Complaint About Difficulty
-Describe your hardship to the Lord. Be specific in describing what is going on around you and inside of you that you find painful. 
-
-What is your difficulty? What is your hard situation, and what pain, emotions, tensions, and thoughts are you battling with at the present time? _
-
+Consider your grief, loss, pain, or difficulty. Express your hardship to the Lord, giving name to your emotions. Be specific in describing what is going on around you and inside of you that you find painful. 
 ##### Expression of Trust
-
-How is God trustworthy? How has God demonstrated his faithfulness to you in the past? _Express your trust in the Lord. Describe how he is for you._
+Declare your trust in the Lord. Express your trust in the Lord. Describe how he is for you._
+How is God trustworthy? How has God demonstrated his faithfulness to you in the past? 
 
 ##### Petition for Help
 
