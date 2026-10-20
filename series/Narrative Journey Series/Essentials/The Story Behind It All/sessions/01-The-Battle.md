@@ -242,8 +242,7 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 ### Spiritual Practice
 
 <!-- NOTE: Personal Lament is session-specific (confirmed) — authored inline per session. The generic "Spiritual Practices" infographic (omitted for now) will become a common series-level block when infographics are added. -->
-Below is a scripted spiritual exercise. Use the following guide to help you internalize God's truth. Consider trying other spiritual disciplines to help you commune with the Lord and 
-Use this commentary to help you understand the meaning of the text. Refer to the infographic on the next page to think through how narratives work.
+Below is a scripted spiritual exercise. Use the following guide to help you internalize God's truth. Consider trying other spiritual disciplines explained on the next page.
 #### Personal Lament
 
 Expressing our suffering by submitting our pain to God's healing hand.
