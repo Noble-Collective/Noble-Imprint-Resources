@@ -246,7 +246,6 @@ Below is a scripted spiritual exercise. Use the following guide to help you inte
 #### Practice Guide
 ##### Personal Lament
 Expressing our suffering by submitting our pain to God's healing hand.
-
 ##### Address to God
 Consider how the Bible speaks about God. Reflect on truths about God that are meaningful to you. Call out to God. Turn to God, addressing him for who he is and what he has done.
 ##### Complaint About Difficulty
