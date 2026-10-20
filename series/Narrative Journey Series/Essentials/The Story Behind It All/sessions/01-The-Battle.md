@@ -247,9 +247,9 @@ Below is a scripted spiritual exercise. Use the following guide to help you inte
 ##### Personal Lament
 Expressing our suffering by submitting our pain to God's healing hand.
 ##### Address to God
-Consider how the Bible speaks about God. Reflect on truths about God that are meaningful to you. Call out to God. Turn to God, addressing him for who he is and what he has done.
+Consider truths the Bible speaks about God, naming what you love about God. Call out to the Lord, addressing him for who he is and what he has done.
 ##### Complaint About Difficulty
-Consider your grief, loss, pain, or difficulty. Express your hardship to the Lord, giving name to your emotions. Be specific in describing what is going on around you and inside of you that you find painful. 
+Consider your grief, loss, pain, or difficulty. Express your hardship to the Lord, giving name to your emotions. Be specific in describing your distress.
 ##### Expression of Trust
 Declare your faith and trust in God. Announce how God is trustworthy and faithful. Recount his past faithfulness to you and the saints of old. Give voice to the perfect character and wonderful deeds of the Lord. 
 ##### Petition for Help
