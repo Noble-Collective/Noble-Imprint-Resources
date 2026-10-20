@@ -248,13 +248,13 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 Expressing our suffering by submitting our pain to God's healing hand.
 
 ##### Address to God
-Consider how the Bible speaks about God. Call out to God. Address him for who he is and what he has done.
+Consider how the Bible speaks about God. Reflect on truths about God that are meaningful to you. Call out to God. Turn to God, addressing him for who he is and what he has done.
 
-Who is God truly? What characteristics about God are meaningful to you at the present moment? Turn to God. 
 
 ##### Complaint About Difficulty
+Describe your hardship to the Lord. Be specific in describing what is going on around you and inside of you that you find painful. 
 
-What is your difficulty? What is your hard situation, and what pain, emotions, tensions, and thoughts are you battling with at the present time? _Describe your hardship to the Lord. Be specific in describing what is going on around you and in you that you find painful._
+What is your difficulty? What is your hard situation, and what pain, emotions, tensions, and thoughts are you battling with at the present time? _
 
 ##### Expression of Trust
 
