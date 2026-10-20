@@ -79,14 +79,14 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 #### Passage Introduction
 
-Job 1:1–2:13
+
 ##### Key Idea
 
 God is calling us to a life of faith in a broken and sinful world.
 
 ##### Passage Overview
 
-All of us have experienced loss in life. Job's life, suffering, and sustained faith provide a model for all of us who battle with pain and suffering. Part of grief and healing involves learning to vocalize our pain. One way that Christians have sought to do this is through a spiritual practice called lament. A lament seeks to express the struggles, sorrows, and suffering of our lives in a way that aids the grieving process and acknowledges trust in God. A typical lament has at least these four components: a cry to God, an expression of loss, a request for help, and a desire to trust. Job's lament not only aided him in expressing his heartfelt loss but also served as a means to strengthen his faith in God. Ironically, it is often through the dark caverns of loss that we come to meet God in a new and redemptive light, learning who he really is.
+In **Job 1:1–2:13**, we learn that All of us have experienced loss in life. Job's life, suffering, and sustained faith provide a model for all of us who battle with pain and suffering. Part of grief and healing involves learning to vocalize our pain. One way that Christians have sought to do this is through a spiritual practice called lament. A lament seeks to express the struggles, sorrows, and suffering of our lives in a way that aids the grieving process and acknowledges trust in God. A typical lament has at least these four components: a cry to God, an expression of loss, a request for help, and a desire to trust. Job's lament not only aided him in expressing his heartfelt loss but also served as a means to strengthen his faith in God. Ironically, it is often through the dark caverns of loss that we come to meet God in a new and redemptive light, learning who he really is.
 
 ##### Passage Outline
 
