@@ -253,13 +253,10 @@ Consider how the Bible speaks about God. Reflect on truths about God that are me
 Consider your grief, loss, pain, or difficulty. Express your hardship to the Lord, giving name to your emotions. Be specific in describing what is going on around you and inside of you that you find painful. 
 ##### Expression of Trust
 Declare your faith and trust in God. Announce how God is trustworthy and faithful. Recount his past faithfulness to you and the saints of old. Give voice to the perfect character and wonderful deeds of the Lord. 
-
 ##### Petition for Help
-
-What do you want God to do for you? What do you need God to do for you? How are you helpless, and how is God perfectly able to work in your situation? _Reflect on how you hope God works in your situation to bring about a change. Ask God to transform your difficult situation in a way that would bring him glory and maximize your joy in him._
-
+Reflect on the change you want God to bring in your life. Ask him to make your desires align with his will. Express your hope in the Lord, asking God to transform your difficult situation in a way that would bring him glory and maximize your joy in him.
 ##### Praise to God
-
+Consider what God has done for others that is praiseworthy. Reflect on ways God has worked in your own life. along with ways in which God has worked in your own life
 What is amazing about God? How is he worthy of our praise? _Praise God with specific testimony of how he is so great and how he works so mightily. Consider what God has done for others that is praiseworthy, along with ways in which God has worked in your own life._
 
 <!-- @include: SpiritualPracticesInfographic active="Lament" -->
