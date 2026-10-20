@@ -248,8 +248,9 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 Expressing our suffering by submitting our pain to God's healing hand.
 
 ##### Address to God
+Consider how the Bible speaks about God. Call out to God. Address him for who he is and what he has done.
 
-Who is God truly? What characteristics about God are meaningful to you at the present moment? Turn to God. Consider how the Bible speaks about God. Call out to God. Address him for who he is and what he has done.
+Who is God truly? What characteristics about God are meaningful to you at the present moment? Turn to God. 
 
 ##### Complaint About Difficulty
 
