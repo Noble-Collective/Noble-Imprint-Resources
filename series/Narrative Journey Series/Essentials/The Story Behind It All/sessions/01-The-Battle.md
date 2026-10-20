@@ -253,7 +253,7 @@ Consider your grief, loss, pain, or difficulty. Express your hardship to the Lor
 ##### Expression of Trust
 Declare your faith and trust in God. Announce how God is trustworthy and faithful. Recount his past faithfulness to you and the saints of old. Give voice to the perfect character and wonderful deeds of the Lord. 
 ##### Petition for Help
-Reflect on change you want God to bring in your life. Ask him to align your desires with his will. Express your hope in the Lord, asking him to transform your difficult situation in a way that brings him glory and maximizes your joy in him.
+Reflect on change you want God to bring in your life. Ask him to align your desires with his will. Express your hope in the Lord, asking him to transform your difficult situation to bring him glory and maximize your joy in him.
 ##### Praise to God
 Consider what God has done for others that is praiseworthy. Reflect on ways God has worked in your own life. Worship God, bearing testimony to how he is so great and how he has worked so mightily in your life and in the world.
 
