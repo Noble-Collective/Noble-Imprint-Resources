@@ -256,8 +256,7 @@ Declare your faith and trust in God. Announce how God is trustworthy and faithfu
 ##### Petition for Help
 Reflect on the change you want God to bring in your life. Ask him to make your desires align with his will. Express your hope in the Lord, asking God to transform your difficult situation in a way that would bring him glory and maximize your joy in him.
 ##### Praise to God
-Consider what God has done for others that is praiseworthy. Reflect on ways God has worked in your own life. along with ways in which God has worked in your own life
-What is amazing about God? How is he worthy of our praise? _Praise God with specific testimony of how he is so great and how he works so mightily. Consider what God has done for others that is praiseworthy, along with ways in which God has worked in your own life._
+Consider what God has done for others that is praiseworthy. Reflect on ways God has worked in your own life. Worship God, bearing testimony to how he is so great and how he has worked so mightily in your life and in the world.
 
 <!-- @include: SpiritualPracticesInfographic active="Lament" -->
 
