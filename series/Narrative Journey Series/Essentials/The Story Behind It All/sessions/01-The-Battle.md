@@ -252,8 +252,7 @@ Consider how the Bible speaks about God. Reflect on truths about God that are me
 ##### Complaint About Difficulty
 Consider your grief, loss, pain, or difficulty. Express your hardship to the Lord, giving name to your emotions. Be specific in describing what is going on around you and inside of you that you find painful. 
 ##### Expression of Trust
-Declare your trust in the Lord. Express your trust in the Lord. Describe how he is for you._
-How is God trustworthy? How has God demonstrated his faithfulness to you in the past? 
+Declare your faith and trust in God. Announce how God is trustworthy and faithful. Recount his past faithfulness to you and the saints of old. Give voice to the perfect character and wonderful deeds of the Lord. 
 
 ##### Petition for Help
 
