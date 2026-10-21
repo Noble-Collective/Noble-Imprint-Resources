@@ -39,7 +39,7 @@ Summarize the biblical story. As a community, discuss the following questions. B
 </DiscussionDirections>
 
 <BiblicalCommentaryDirections>
-Use this commentary to help you understand the meaning of the text. Refer to the following infographic to understand how narratives work.
+Use this commentary to help you discern the meaning of the text. Refer to the following infographic to understand how narratives work.
 </BiblicalCommentaryDirections>
 
 <ReflectionDirections>
