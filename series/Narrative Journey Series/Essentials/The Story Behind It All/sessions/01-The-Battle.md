@@ -31,11 +31,11 @@ Each person's life story begins in the middle of a cosmic narrative that has bee
 To understand the foundations of the Christian faith, we must understand that God is aware of and engaged in the struggles of our lives. The true God is a God who will use and repurpose our struggles to draw us to himself. As we understand the nature of genuine faith, we learn that God can transform our hardships into a life of blessing and eternal well-being far beyond anything we could have dreamed. To journey with Job, a man familiar with struggle, we also learn important fundamentals of the Christian life and faith. In many ways, Job's life is a mirror of our own. Through his personal saga, Job not only shows us glimpses of the good life, a painful battle with the enemy, and a tiresome struggle with hardship, but he also exemplifies what it looks like to devote ourselves to God in the midst of personal hardship. Unexpectedly, we see that God himself is worthy of our deepest trust and fullest loyalty. To be sure, if Job is drawn to faith in God in light of _his_ circumstances, this same God is surely worthy of our consideration, no matter _our_ circumstances. So, as we prayerfully listen to the story of Job's life, let us heed the example of his faith.
 
 ## Biblical Interpretation: Hearing the Word
-Study the Text: The Bible is God’s inspired word to his people. Christian disciples mature in the faith when they are grounded in God’s word. In this movement, you will study the basic details of the biblical text.
+
 <!-- @include: StudyTheText -->
 
 ### Observation Questions
-Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation
+
 <!-- @include: ObservationDirections -->
 
 <Question id=TheStorySes1-Hearing-Q1>1. <Accent>Read Job 1:1–5:</Accent> What kind of man was Job? How is he described in this passage? (Focus on Job 1:1–5.)</Question>
@@ -45,7 +45,6 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 <Question id=TheStorySes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering? (Focus on Job 2:11–13.)</Question>
 
 ### Storycraft
-Retell the story in your own words, recounting the overall flow of the narrative. Use the infographic on the next page to understand how a story works.
 
 <!-- @include: StorycraftDirections -->
 
@@ -60,7 +59,7 @@ Retell the story in your own words, recounting the overall flow of the narrative
 <!-- @include: NarrativeStructureInfographic -->
 
 ## Theological Dialogue: Discussing the Plot
-Explore the Text: God’s word is his trustworthy and sufficient revelation to his people. We grow as Christ’s disciples by rooting our lives in God’s unchanging truth. In this movement, you will explore vital teachings of this biblical passage.
+
 <!-- @include: ExploreTheText -->
 
 ### Discussion Questions

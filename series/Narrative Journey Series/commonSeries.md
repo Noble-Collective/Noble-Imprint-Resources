@@ -1,5 +1,5 @@
 <StudyTheText>
-**Study the Text:** _The Bible is God's inspired word to his people. Christian disciples mature in the faith when they are grounded in God's word. In this movement, you will study the basic details of the biblical text._
+**Study the Text:** The Bible is God’s inspired word to his people. Christian disciples mature in the faith when they are grounded in God’s word. In this movement, you will study the basic details of the biblical text.
 </StudyTheText>
 
 <ExploreTheText>
@@ -23,7 +23,7 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 </ObservationDirections>
 
 <StorycraftDirections>
-Retell the story in your own words, recounting the overall flow of the narrative, the main segments of the story, and the major developments that take place.
+Retell the story in your own words, recounting the overall flow of the narrative. Use the infographic on the next page to understand how a story works.
 </StorycraftDirections>
 
 <NarrativeElementsQuestion>
