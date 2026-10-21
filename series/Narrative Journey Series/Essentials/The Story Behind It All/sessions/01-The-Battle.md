@@ -236,7 +236,6 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 <Question id=TheStorySes1-EnteringStory-Q5>5. <Accent>Life of Faith:</Accent> How is God calling you to live a life of faith?</Question>
 
 ### Spiritual Practice
-Below is a scripted spiritual exercise. Use the following guide to help you internalize God’s truth. Consider trying another practice on the infographic.
 
 <!-- @include: SpiritualPracticeDirections -->
 #### Practice Guide
