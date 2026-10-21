@@ -45,6 +45,7 @@ To understand the foundations of the Christian faith, we must understand that Go
 <Question id=TheStorySes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering? (Focus on Job 2:11–13.)</Question>
 
 ### Storycraft
+Retell the story in your own words, recounting the overall flow of the narrative. Use the infographic on the next page to understnd how a story works.
 
 <!-- @include: StorycraftDirections -->
 
