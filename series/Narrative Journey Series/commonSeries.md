@@ -3,7 +3,7 @@
 </StudyTheText>
 
 <ExploreTheText>
-**Explore the Text:** _God's word is his trustworthy and sufficient revelation to his people. We grow as Christ's disciples by rooting our lives in God's unchanging truth. In this movement, you will explore vital teachings of this biblical passage._
+**Explore the Text:** God’s word is his trustworthy and sufficient revelation to his people. We grow as Christ’s disciples by rooting our lives in God’s unchanging truth. In this movement, you will explore vital teachings of this biblical passage.
 </ExploreTheText>
 
 <ApplyTheText>

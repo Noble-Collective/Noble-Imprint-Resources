@@ -63,7 +63,7 @@ To understand the foundations of the Christian faith, we must understand that Go
 <!-- @include: ExploreTheText -->
 
 ### Discussion Questions
-Summarize the biblical story. As a community, discuss the following questions. Be attentive to the truths taught in this text. Use the commentary on the next pages to uncover core principles this passage teaches about the Christian faith.
+
 <!-- @include: DiscussionDirections -->
 
 <Question id=TheStorySes1-TheoDialogue-Q1>1. <Accent>Blessed Life:</Accent> What makes life good? How does Job exemplify a meaningful life?</Question>
