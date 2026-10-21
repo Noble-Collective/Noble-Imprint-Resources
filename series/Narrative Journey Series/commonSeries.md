@@ -23,7 +23,7 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 </ObservationDirections>
 
 <StorycraftDirections>
-Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to understand the basic shape of stories.
+Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to grasp the basic shape of stories.
 </StorycraftDirections>
 
 <NarrativeElementsQuestion>
@@ -47,7 +47,7 @@ Encourage one person to share a testimony about how this story has impacted them
 </ReflectionDirections>
 
 <SpiritualPracticeDirections>
-Use the following guide to help you internalize God's truth. Refer to the following infographic to explore core spiritual disciplines.
+Use the scripted guide to help you internalize God's truth. Refer to the following infographic to explore core spiritual disciplines.
 </SpiritualPracticeDirections>
 
 <ApplicationDirections>
