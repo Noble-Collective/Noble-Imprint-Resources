@@ -260,11 +260,11 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 <!-- @include: SpiritualPracticesInfographic active="Lament" -->
 
 ## Ministry Practice: Rehearsing the Script
-Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith.
+Minister the Text: God’s word is living and active. Through God’s word, the Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith.
 <!-- @include: MinisterTheText -->
 
 ### Application Questions
-
+Look at the infographic on the next page. Use the questions to think about how to minister this text to other believers.
 <!-- @include: ApplicationDirections -->
 
 <!-- @include: ApplicationQuestions id="TheStorySes1-RehearseScript" -->
@@ -272,11 +272,11 @@ Christian community is edified. In this movement, you will utilize the biblical 
 <!-- @include: MinistryPracticesInfographic -->
 
 ## Missional Outreach: Publicizing the Truth
-
+Witness the Text: The Bible is a message of God’s gracious salvation to the world. In word and deed, God’s people proclaim the good news of the gospel. In this movement, you will use this biblical passage to reach out to unbelievers.
 <!-- @include: WitnessTheText -->
 
 ### Strategy Questions
-
+Reflect on the infographic on the following page. Consider how you can use this passage to witness to the surrounding world.
 <!-- @include: StrategyDirections -->
 
 <!-- @include: StrategyQuestions id="TheStorySes1-PublicizeTruth" -->
