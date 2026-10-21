@@ -23,7 +23,7 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 </ObservationDirections>
 
 <StorycraftDirections>
-Retell the story in your own words, recounting the overall flow of the narrative. Use the infographic on the next page to understand how a story works.
+Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to understand how a story works.
 </StorycraftDirections>
 
 <NarrativeElementsQuestion>
@@ -39,7 +39,9 @@ Summarize the biblical story. As a community, discuss the following questions. B
 </DiscussionDirections>
 
 <BiblicalCommentaryDirections>
-Use this commentary to help you understand the meaning of the text. Refer to the infographic on the next page to think through how narratives work.
+ Refer to the infographic on the next page to think through how narratives work.
+Retell the story in your own words, recounting the overall flow of the narrative.
+Refer to the following infographic to understand how a story works.
 </BiblicalCommentaryDirections>
 
 <ReflectionDirections>
