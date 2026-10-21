@@ -259,7 +259,7 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 <!-- @include: MinisterTheText -->
 
 ### Application Questions
-Look at the infographic on the next page. Use the questions to think about how to minister this text to other believers.
+
 <!-- @include: ApplicationDirections -->
 
 <!-- @include: ApplicationQuestions id="TheStorySes1-RehearseScript" -->
@@ -271,7 +271,7 @@ Look at the infographic on the next page. Use the questions to think about how t
 <!-- @include: WitnessTheText -->
 
 ### Strategy Questions
-Reflect on the infographic on the following page. Consider how you can use this passage to witness to the surrounding world.
+
 <!-- @include: StrategyDirections -->
 
 <!-- @include: StrategyQuestions id="TheStorySes1-PublicizeTruth" -->

@@ -46,8 +46,12 @@ Use this commentary to help you understand the meaning of the text. Refer to the
 Encourage one person to share a testimony about how this story has impacted them so far. Use the reflection questions to examine your life in light of this biblical passage.
 </ReflectionDirections>
 
+<SpiritualPracticeDirections>
+Below is a scripted spiritual exercise. Use the following guide to help you internalize God's truth. Consider trying another practice on the infographic.
+</SpiritualPracticeDirections>
+
 <ApplicationDirections>
-Look at the infographic below. Use the questions to think about how to minister this text to other believers.
+Look at the infographic on the following page. Use the questions to think about how to minister this text to other believers.
 </ApplicationDirections>
 
 <ApplicationQuestions>
@@ -58,7 +62,7 @@ Look at the infographic below. Use the questions to think about how to minister 
 </ApplicationQuestions>
 
 <StrategyDirections>
-Reflect on the infographic below. Consider how you can use this passage to witness to the surrounding world.
+Reflect on the infographic on the following page. Consider how you can use this passage to witness to the surrounding world.
 </StrategyDirections>
 
 <StrategyQuestions>
