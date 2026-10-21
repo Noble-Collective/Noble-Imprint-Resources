@@ -51,8 +51,7 @@ Use the following guide to help you internalize God's truth. Refer to the follow
 </SpiritualPracticeDirections>
 
 <ApplicationDirections>
-Look at the infographic on the following page. Use the questions to think about how to minister this text to other believers.
-Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to understand the basic shape of stories.
+Use the questions to think about how to minister this text to other believers. Refer to the following infographic for ministry ideas.
 </ApplicationDirections>
 
 <ApplicationQuestions>
@@ -63,7 +62,7 @@ Retell the story in your own words, recounting the overall flow of the narrative
 </ApplicationQuestions>
 
 <StrategyDirections>
-Reflect on the infographic on the following page. Consider how you can use this passage to witness to the surrounding world.
+Consider how you can use this passage to witness to the surrounding world. Refer to the following infographic for mission and outreach ideas.
 </StrategyDirections>
 
 <StrategyQuestions>
