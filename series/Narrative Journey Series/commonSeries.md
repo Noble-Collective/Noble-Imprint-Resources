@@ -23,7 +23,7 @@ Read (or listen to) the whole passage of Scripture. Discuss the questions below 
 </ObservationDirections>
 
 <StorycraftDirections>
-Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to understand how a story works.
+Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to understand the basic shape of stories.
 </StorycraftDirections>
 
 <NarrativeElementsQuestion>
@@ -39,9 +39,7 @@ Summarize the biblical story. As a community, discuss the following questions. B
 </DiscussionDirections>
 
 <BiblicalCommentaryDirections>
- Refer to the infographic on the next page to think through how narratives work.
-Retell the story in your own words, recounting the overall flow of the narrative.
-Refer to the following infographic to understand how a story works.
+Use this commentary to help you understand the meaning of the text. Refer to the following infographic to understand how narratives work.
 </BiblicalCommentaryDirections>
 
 <ReflectionDirections>
@@ -49,11 +47,12 @@ Encourage one person to share a testimony about how this story has impacted them
 </ReflectionDirections>
 
 <SpiritualPracticeDirections>
-Below is a scripted spiritual exercise. Use the following guide to help you internalize God's truth. Consider trying another practice on the infographic.
+Use the following guide to help you internalize God's truth. Refer to the following infographic to explore core spiritual disciplines.
 </SpiritualPracticeDirections>
 
 <ApplicationDirections>
 Look at the infographic on the following page. Use the questions to think about how to minister this text to other believers.
+Retell the story in your own words, recounting the overall flow of the narrative. Refer to the following infographic to understand the basic shape of stories.
 </ApplicationDirections>
 
 <ApplicationQuestions>
