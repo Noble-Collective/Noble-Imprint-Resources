@@ -222,11 +222,11 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 | **Genuine Faith** | God calls us to a life of faith and devotion. Genuine devotion to God is characterized by accurate belief in the truth (1:21), godly character and conduct (1:1, 5, 8, 22; 2:3, 9–10), wholehearted trust in God's goodness (1:5, 11, 22; 2:5, 10), undivided commitment to the Lord (1:1, 5, 8–9, 11; 2:3), and humble worship of God (1:5, 20–21). Although we honestly express our grief, suffering, and loss (1:20–21; 2:8, 12–13), believers put our complete hope in God as our ultimate good, regardless of our surrounding circumstances. |
 
 ## Personal Reflection: Entering the Story
-Apply the Text: The word of God is binding and authoritative, the only reliable guide for faith and godliness. True disciples submit themselves to God’s word. In this movement, you will apply God’s word to your lives.
+
 <!-- @include: ApplyTheText -->
 
 ### Reflection Questions
-Encourage one person to share a testimony about how this story has impacted them so far. Use the reflection questions to examine your life in light of this biblical passage.
+
 <!-- @include: ReflectionDirections -->
 
 <Question id=TheStorySes1-EnteringStory-Q1>1. <Accent>Personal Loss:</Accent> What loss or grief have you experienced in life?</Question>
@@ -238,7 +238,6 @@ Encourage one person to share a testimony about how this story has impacted them
 ### Spiritual Practice
 Below is a scripted spiritual exercise. Use the following guide to help you internalize God’s truth. Consider trying another practice on the infographic.
 <!-- NOTE: Personal Lament is session-specific (confirmed) — authored inline per session. The generic "Spiritual Practices" infographic (omitted for now) will become a common series-level block when infographics are added. -->
-Below is a scripted spiritual exercise. Use the following guide to help you internalize God's truth. Consider trying another practice on the infographic.
 #### Practice Guide
 ##### Personal Lament
 Expressing our suffering by submitting our pain to God's healing hand.
@@ -256,7 +255,7 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 <!-- @include: SpiritualPracticesInfographic active="Lament" -->
 
 ## Ministry Practice: Rehearsing the Script
-Minister the Text: God’s word is living and active. Through God’s word, the Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith.
+
 <!-- @include: MinisterTheText -->
 
 ### Application Questions
@@ -268,7 +267,7 @@ Look at the infographic on the next page. Use the questions to think about how t
 <!-- @include: MinistryPracticesInfographic -->
 
 ## Missional Outreach: Publicizing the Truth
-Witness the Text: The Bible is a message of God’s gracious salvation to the world. In word and deed, God’s people proclaim the good news of the gospel. In this movement, you will use this biblical passage to reach out to unbelievers.
+
 <!-- @include: WitnessTheText -->
 
 ### Strategy Questions

@@ -7,15 +7,15 @@
 </ExploreTheText>
 
 <ApplyTheText>
-**Apply the Text:** _The word of God is binding and authoritative, the only reliable guide for faith and godliness. True disciples submit themselves to God's word. In this movement, you will apply God's word to your lives._
+**Apply the Text:** The word of God is binding and authoritative, the only reliable guide for faith and godliness. True disciples submit themselves to God’s word. In this movement, you will apply God’s word to your lives.
 </ApplyTheText>
 
 <MinisterTheText>
-**Minister the Text:** _God's word is living and active. Through God's word, the Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith._
+**Minister the Text:** God’s word is living and active. Through God’s word, the Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith.
 </MinisterTheText>
 
 <WitnessTheText>
-**Witness the Text:** _The Bible is a message of God's gracious salvation to the world. In word and deed, God's people proclaim the good news of the gospel. In this movement, you will use this biblical passage to reach out to unbelievers._
+**Witness the Text:** The Bible is a message of God’s gracious salvation to the world. In word and deed, God’s people proclaim the good news of the gospel. In this movement, you will use this biblical passage to reach out to unbelievers.
 </WitnessTheText>
 
 <ObservationDirections>
