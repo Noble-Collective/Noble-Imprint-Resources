@@ -72,17 +72,14 @@ To understand the foundations of the Christian faith, we must understand that Go
 <Question id=TheStorySes1-TheoDialogue-Q4>4. <Accent>Faith:</Accent> What does it look like to trust God? How is Job an example of a man of genuine faith?</Question>
 
 ### Biblical Commentary
-Use this commentary to help you understand the meaning of the text. Refer to the infographic on the next page to think through how narratives work.
+
 <!-- @include: BiblicalCommentaryDirections -->
 
 <!-- @include: NarrativeTheologyInfographic -->
 
 #### Passage Introduction
 
-##### Key Idea
-
-God is calling us to a life of faith in a broken and sinful world.
-
+**Key Idea:** God is calling us to a life of faith in a broken and sinful world.
 ##### Passage Overview
 
 <Accent>Job 1:1–2:13.</Accent> In this biblical narrative, we learn that God is calling us to trust him in the midst of a fallen and painful cosmos. The difficult realities of living in a depraved world are felt by everyone and everything. To various extents, all people have experienced loss, endured hardship, and faced tribulation. In Job 1:1–2:13, Job's life, suffering, and sustained faith provide a model for all of us. We are all engaged in life that can feel like a grueling battle—a daring venture for the good life, conflict against the harrowing forces of evil, internal torrents of pain and suffering, and a summons to trust a good and sovereign God whose victory over all his enemies is certain. A kind of "everyman," the person of Job offers us a real, historical person with whom we can relate. A paradigm of faith, Job summons us to a bold and wholehearted faith in God—an otherworldly orientation that enables us to endure unimaginable difficulty in this broken world.
