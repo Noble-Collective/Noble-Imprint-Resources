@@ -31,11 +31,11 @@ Each person's life story begins in the middle of a cosmic narrative that has bee
 To understand the foundations of the Christian faith, we must understand that God is aware of and engaged in the struggles of our lives. The true God is a God who will use and repurpose our struggles to draw us to himself. As we understand the nature of genuine faith, we learn that God can transform our hardships into a life of blessing and eternal well-being far beyond anything we could have dreamed. To journey with Job, a man familiar with struggle, we also learn important fundamentals of the Christian life and faith. In many ways, Job's life is a mirror of our own. Through his personal saga, Job not only shows us glimpses of the good life, a painful battle with the enemy, and a tiresome struggle with hardship, but he also exemplifies what it looks like to devote ourselves to God in the midst of personal hardship. Unexpectedly, we see that God himself is worthy of our deepest trust and fullest loyalty. To be sure, if Job is drawn to faith in God in light of _his_ circumstances, this same God is surely worthy of our consideration, no matter _our_ circumstances. So, as we prayerfully listen to the story of Job's life, let us heed the example of his faith.
 
 ## Biblical Interpretation: Hearing the Word
-
+Study the Text: The Bible is God’s inspired word to his people. Christian disciples mature in the faith when they are grounded in God’s word. In this movement, you will study the basic details of the biblical text.
 <!-- @include: StudyTheText -->
 
 ### Observation Questions
-
+Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation
 <!-- @include: ObservationDirections -->
 
 <Question id=TheStorySes1-Hearing-Q1>1. <Accent>Read Job 1:1–5:</Accent> What kind of man was Job? How is he described in this passage? (Focus on Job 1:1–5.)</Question>
@@ -45,7 +45,7 @@ To understand the foundations of the Christian faith, we must understand that Go
 <Question id=TheStorySes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering? (Focus on Job 2:11–13.)</Question>
 
 ### Storycraft
-Retell the story in your own words, recounting the overall flow of the narrative. Use the infographic on the next page to understnd how a story works.
+Retell the story in your own words, recounting the overall flow of the narrative. Use the infographic on the next page to understand how a story works.
 
 <!-- @include: StorycraftDirections -->
 
@@ -60,11 +60,11 @@ Retell the story in your own words, recounting the overall flow of the narrative
 <!-- @include: NarrativeStructureInfographic -->
 
 ## Theological Dialogue: Discussing the Plot
-
+Explore the Text: God’s word is his trustworthy and sufficient revelation to his people. We grow as Christ’s disciples by rooting our lives in God’s unchanging truth. In this movement, you will explore vital teachings of this biblical passage.
 <!-- @include: ExploreTheText -->
 
 ### Discussion Questions
-
+Summarize the biblical story. As a community, discuss the following questions. Be attentive to the truths taught in this text. Use the commentary on the next pages to uncover core principles this passage teaches about the Christian faith.
 <!-- @include: DiscussionDirections -->
 
 <Question id=TheStorySes1-TheoDialogue-Q1>1. <Accent>Blessed Life:</Accent> What makes life good? How does Job exemplify a meaningful life?</Question>
@@ -73,13 +73,12 @@ Retell the story in your own words, recounting the overall flow of the narrative
 <Question id=TheStorySes1-TheoDialogue-Q4>4. <Accent>Faith:</Accent> What does it look like to trust God? How is Job an example of a man of genuine faith?</Question>
 
 ### Biblical Commentary
-
+Use this commentary to help you understand the meaning of the text. Refer to the infographic on the next page to think through how narratives work.
 <!-- @include: BiblicalCommentaryDirections -->
 
 <!-- @include: NarrativeTheologyInfographic -->
 
 #### Passage Introduction
-
 
 ##### Key Idea
 
@@ -227,11 +226,11 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 | **Genuine Faith** | God calls us to a life of faith and devotion. Genuine devotion to God is characterized by accurate belief in the truth (1:21), godly character and conduct (1:1, 5, 8, 22; 2:3, 9–10), wholehearted trust in God's goodness (1:5, 11, 22; 2:5, 10), undivided commitment to the Lord (1:1, 5, 8–9, 11; 2:3), and humble worship of God (1:5, 20–21). Although we honestly express our grief, suffering, and loss (1:20–21; 2:8, 12–13), believers put our complete hope in God as our ultimate good, regardless of our surrounding circumstances. |
 
 ## Personal Reflection: Entering the Story
-
+Apply the Text: The word of God is binding and authoritative, the only reliable guide for faith and godliness. True disciples submit themselves to God’s word. In this movement, you will apply God’s word to your lives.
 <!-- @include: ApplyTheText -->
 
 ### Reflection Questions
-
+Encourage one person to share a testimony about how this story has impacted them so far. Use the reflection questions to examine your life in light of this biblical passage.
 <!-- @include: ReflectionDirections -->
 
 <Question id=TheStorySes1-EnteringStory-Q1>1. <Accent>Personal Loss:</Accent> What loss or grief have you experienced in life?</Question>
@@ -241,7 +240,7 @@ Many blessings exist in life. Money, possessions, relationships, family, reputat
 <Question id=TheStorySes1-EnteringStory-Q5>5. <Accent>Life of Faith:</Accent> How is God calling you to live a life of faith?</Question>
 
 ### Spiritual Practice
-
+Below is a scripted spiritual exercise. Use the following guide to help you internalize God’s truth. Consider trying another practice on the infographic.
 <!-- NOTE: Personal Lament is session-specific (confirmed) — authored inline per session. The generic "Spiritual Practices" infographic (omitted for now) will become a common series-level block when infographics are added. -->
 Below is a scripted spiritual exercise. Use the following guide to help you internalize God's truth. Consider trying another practice on the infographic.
 #### Practice Guide
@@ -261,7 +260,7 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 <!-- @include: SpiritualPracticesInfographic active="Lament" -->
 
 ## Ministry Practice: Rehearsing the Script
-
+Christian community is edified. In this movement, you will utilize the biblical passage to minister to other believers and build them up in their faith.
 <!-- @include: MinisterTheText -->
 
 ### Application Questions
