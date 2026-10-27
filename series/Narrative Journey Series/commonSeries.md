@@ -321,7 +321,7 @@ It is important to keep track of insights and lessons God has taught us as we tr
 </Recall_FaithFoundation_SignificantInsights>
 
 <Recall_LearningPlan_Directions>
-**Envision the Future:** The life of discipleship is a journey of lifelong learning. Use the list of selected passages and recommended reading as a starting place for ongoing development in this key area of the Christian faith._
+**Envision the Future:** The life of discipleship is a journey of lifelong learning. Use the list of selected passages and recommended reading as a starting place for ongoing development in this key area of the Christian faith.
 </Recall_LearningPlan_Directions>
 
 <Recall_LearningPlan_SelectedPassages>
@@ -333,7 +333,7 @@ God wants you to continue growing in this area of your Christian life. Survey th
 </Recall_LearningPlan_RecommendedReading>
 
 <Recall_CoreProject_Directions>
-_A mature faith integrates God's truth into the reality of life. Use this section to synthesize your learning over the course of the past weeks by producing a confessional summary statement and writing a journal reflection._
+**Articulate the Truth:** A mature faith integrates God's truth into the reality of life. Use this section to synthesize your learning over the course of the past weeks by producing a confessional summary statement and writing a journal reflection.
 </Recall_CoreProject_Directions>
 
 <Recall_CoreProject_JournalReflection>
@@ -341,7 +341,7 @@ It is important to periodically reflect on how God is growing us in godliness. W
 </Recall_CoreProject_JournalReflection>
 
 <Recall_FaithPractice_Directions>
-_Following Jesus is a lifelong venture of continuous progress. In this final section, evaluate your growth in the outlined objectives, identify practical next steps, and commit fellow community members to God in a time of focused prayer._
+**Assess the Progress:** Following Jesus is a lifelong venture of continuous progress. In this final section, evaluate your growth, identify practical next steps, and commit fellow community members to God in a time of focused prayer.
 </Recall_FaithPractice_Directions>
 
 <Recall_FaithPractice_GrowthEvaluation>
