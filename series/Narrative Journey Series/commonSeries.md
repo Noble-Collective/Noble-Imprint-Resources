@@ -393,7 +393,7 @@ Christians learn from believers who live in different generations and cultures. 
 </Opening_SignificantQuote_Directions>
 
 <Opening_LearningPlan_Directions>
-**Organize the Community:** Formative Bible study takes takes place in Christian relationship. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey.
+**Organize the Community:** Formative Bible study takes place in Christian relationship. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey.
 </Opening_LearningPlan_Directions>
 
 <Opening_SessionFramework_Intro>
