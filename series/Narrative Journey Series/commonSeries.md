@@ -283,7 +283,7 @@ Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), a
 <!-- ───────────────── The Recall — shared framework blocks ───────────────── -->
 
 <Recall_BookOverview_Directions>
-_Disciples mature as they get grounded in the essentials of the faith. In this section, summarize the main idea of this study, retell one of the biblical narratives from your Storycraft, and review the core biblical passages explored in this study._
+**Review the Study:** Disciples mature as they get grounded faith essentials. To  this section, summarize the main idea of this study, retell one of the biblical narratives from your Storycraft, and review the core biblical passages explored in this study.
 </Recall_BookOverview_Directions>
 
 <Recall_BookOverview_KeyIdea>
