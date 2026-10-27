@@ -5,7 +5,7 @@
 ### Key Elements
 - **Key Passage** - Review
 - **Scripture Memory** - Beloved, although I made every effort to write to you about the salvation we share, I felt it necessary to write and urge you to contend earnestly for the faith entrusted once for all to the saints. Jude 3
-- **Catechism** - Q: What is the foundation of the Christian life? A: Faith.
+- **Key Idea** - The disciple's life is built on the foundation of faith.
 
 ## Conclusion
 
