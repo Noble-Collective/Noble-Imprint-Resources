@@ -283,7 +283,7 @@ Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), a
 <!-- ───────────────── The Recall — shared framework blocks ───────────────── -->
 
 <Recall_BookOverview_Directions>
-**Review the Study:** Disciples mature as they get grounded in faith essentials. Summarize the study's main idea, retell one of of your Storycraft, and review the core biblical passages explored in this study.
+**Review the Study:** Disciples mature as they get grounded in faith essentials. Summarize the study's main idea, retell one biblical narrative, and review the core passages explored in this study.
 </Recall_BookOverview_Directions>
 
 <Recall_BookOverview_KeyIdea>
@@ -299,7 +299,7 @@ God wants us to become fluent in speaking his word to others. Summarize the twel
 </Recall_BookOverview_NarrativeReview>
 
 <Recall_FaithFoundation_Directions>
-_God gifts us with Christian community as a critical environment for ongoing faith formation. In this section, interact with the discussion questions and record significant insights you have gleaned over the course of this study._
+**Recount the Teaching:** God gifts us with Christian community as a critical space for ongoing faith formation. In this section, interact with the discussion questions and record significant insights you have gleaned over the course of this study.
 </Recall_FaithFoundation_Directions>
 
 <Recall_FaithFoundation_DiscussionDirections>
@@ -321,7 +321,7 @@ It is important to keep track of insights and lessons God has taught us as we tr
 </Recall_FaithFoundation_SignificantInsights>
 
 <Recall_LearningPlan_Directions>
-_The life of discipleship is a journey of lifelong learning. Use the list of selected passages and recommended reading as a starting place for ongoing development in this key area of the Christian faith._
+**Envision the Future:** The life of discipleship is a journey of lifelong learning. Use the list of selected passages and recommended reading as a starting place for ongoing development in this key area of the Christian faith._
 </Recall_LearningPlan_Directions>
 
 <Recall_LearningPlan_SelectedPassages>
