@@ -299,7 +299,7 @@ God wants us to become fluent in speaking his word to others. Summarize the twel
 </Recall_BookOverview_NarrativeReview>
 
 <Recall_FaithFoundation_Directions>
-**Recount the Teaching:** God gifts us with Christian community as a critical space for ongoing faith formation. In this section, interact with the discussion questions and record significant insights you have gleaned over the course of this study.
+**Recount the Teaching:** God gifts us with Christian community as a vital space for ongoing faith formation. In this section, interact with the discussion questions and record insights you have gleaned over the course of this study.
 </Recall_FaithFoundation_Directions>
 
 <Recall_FaithFoundation_DiscussionDirections>
@@ -333,7 +333,7 @@ God wants you to continue growing in this area of your Christian life. Survey th
 </Recall_LearningPlan_RecommendedReading>
 
 <Recall_CoreProject_Directions>
-**Articulate the Truth:** A mature faith integrates God's truth into the reality of life. Use this section to synthesize your learning over the course of the past weeks by producing a confessional summary statement and writing a journal reflection.
+**Articulate the Truth:** A mature faith integrates God's truth into the reality of life. Use this section to synthesize your learning by producing a confessional summary statement and writing a journal reflection.
 </Recall_CoreProject_Directions>
 
 <Recall_CoreProject_JournalReflection>
@@ -341,7 +341,7 @@ It is important to periodically reflect on how God is growing us in godliness. W
 </Recall_CoreProject_JournalReflection>
 
 <Recall_FaithPractice_Directions>
-**Assess the Progress:** Following Jesus is a lifelong venture of continuous progress. In this final section, evaluate your growth, identify practical next steps, and commit fellow community members to God in a time of focused prayer.
+**Assess the Progress:** Following Jesus is a lifelong venture of continuous progress. In this final section, evaluate your growth, identify practical next steps, and commit fellow community members to God in focused prayer.
 </Recall_FaithPractice_Directions>
 
 <Recall_FaithPractice_GrowthEvaluation>
