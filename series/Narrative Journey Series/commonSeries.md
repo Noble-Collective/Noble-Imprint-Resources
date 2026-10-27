@@ -365,7 +365,7 @@ We can only hope to grow in our faith by God's divine help. In the context of yo
 <!-- ───────────────── The Opening — shared framework blocks ───────────────── -->
 
 <Opening_BookOverview_Directions>
-_Discipleship is a process of establishing believers in the essentials of the Christian faith. In this section, explore the core content, consider the key idea, and articulate particular areas of interest in this study._
+**See the Plan:** Discipleship is a process of establishing believers in the essentials of the Christian faith. In this section, explore the core content, consider the key idea, and articulate particular areas of interest in this study.
 </Opening_BookOverview_Directions>
 
 <Opening_CoreContent_Directions>
@@ -381,7 +381,7 @@ The essentials of the Christian faith are extremely relevant to our lives. Pick 
 </Opening_PersonalInterest_Directions>
 
 <Opening_FaithFoundation_Directions>
-_God calls his people to move beyond a superficial understanding of Christian essentials. Use the discussion questions and key quote to ponder with others how the subject area of study is of great importance in the Christian faith._
+**Consider the Theme:** God calls his people to move beyond a superficial understanding of Christian essentials. Use the discussion questions and key quote to ponder how this study’s topic is of great importance in the Christian faith.
 </Opening_FaithFoundation_Directions>
 
 <Opening_Discussion_Directions>
@@ -393,7 +393,7 @@ Christians learn from believers who live in different generations and cultures. 
 </Opening_SignificantQuote_Directions>
 
 <Opening_LearningPlan_Directions>
-_Formative biblical interpretation fosters Christian growth as the faith community purposefully engages the scriptural text. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey._
+**Organize the Community:** Formative Bible study takes takes place in Christian relationship. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey.
 </Opening_LearningPlan_Directions>
 
 <Opening_SessionFramework_Intro>
@@ -407,7 +407,7 @@ Wisdom calls believers and the community to approach an ordered process of faith
 </Opening_PlanningCalendar_Directions>
 
 <Opening_CoreProject_Directions>
-_Genuine disciples integrate the truth of God's word into their personal and community life. In this section, you will preview the capstone project, view an example confessional statement, and imagine how God might want to change your life through this study._
+**Preview the Work:** Genuine disciples integrate the truth of God’s word into their lives. In this section, you will preview a capstone project, view an example confessional statement, and imagine how God might want to change your life.
 </Opening_CoreProject_Directions>
 
 <Opening_ImaginativeStorytelling_Directions>
@@ -415,7 +415,7 @@ Believers in Jesus look forward to the future with hope and anticipation. As you
 </Opening_ImaginativeStorytelling_Directions>
 
 <Opening_FaithPractice_Directions>
-_Discipleship involves a lifetime of following Jesus in a context of Christian community. Familiarize yourself with the growth outcomes of this study, identify an area of focus, and pray for God's transformative work in the course of the upcoming weeks._
+**Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Familiarize yourself with the growth outcomes of this study, identify an area of focus, and pray for God’s transformative work.
 </Opening_FaithPractice_Directions>
 
 <Opening_GrowthOutcomes_Directions>
