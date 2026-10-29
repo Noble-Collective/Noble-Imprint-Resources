@@ -82,15 +82,21 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 > Christianity satisfies suddenly and perfectly man’s ancestral instinct for being the right way up; satisfies it supremely in this; that by its creed joy becomes something gigantic and sadness something special and small. The vault above us is not deaf because the universe is an idiot; the silence is not the heartless silence of an endless and aimless world. Rather the silence around us is a small and pitiful stillness like the prompt stillness in a sick-room. We are perhaps permitted tragedy as a sort of merciful comedy: because the frantic energy of divine things would knock us down like a drunken farce. We can take our own tears more lightly than we could take the tremendous levities of the angels. So we sit perhaps in a starry chamber of silence, while the laughter of the heavens is too loud for us to hear. Joy, which was the small publicity of the pagan, is the gigantic secret of the Christian.
 
-<< Gilbert K. Chesterton, *Orthodoxy*. (New York: John Lane Company, 1909), 297–98.
-
-<< [Author], _[Book Title]_
+<< Gilbert K. Chesterton, *Orthodoxy*
 
 ### Discussion Questions
 
 <!-- @include: OpeningRecall_DiscussionQuestions_Directions -->
 
 <!-- @include: Recall_FaithFoundation_DiscussionQuestions id="TheStoryRecall-Discussion" -->
+
+1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful?
+
+2. Pursuing Truth: How does the  Christianity ?
+
+3. The Power of Beliefs: Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?
+
+4. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
 
 ## Learning Plan: Charting the Course
 
