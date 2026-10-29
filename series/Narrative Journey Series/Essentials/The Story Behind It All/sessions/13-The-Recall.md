@@ -158,9 +158,9 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_HistoricPrayer_Directions -->
 
-> [Historic prayer]
+> Give me a sound Knowledge of Your beloved Son Jesus Christ, and teach me to apprehend him as the Eternal, Almighty God, of the same Divine Substance, and coessential with You; that he is in his assumed Humanity the _second_ Person in the holy Trinity; my Lord and my God, the _Brightness_ of Your Glory, and the express Image of Your Person, Light of Light, true God of a true God: by whom You have _created_ all things, and who is the Life and the Light of Men: Teach me that _Him_ You have entirely given unto us both as he is God and Man, with all his eternal Goods and Benefits: Who, by his Incarnation, is become my Brother; by his Gospel, my Prophet and Teacher; by his marvellous Works, my Physician; by his Passion and Death, my Redeemer; by his Resurrection, my Victory and Righteousness; by his Ascension, my Hope; by his Glory, my Honour and Exaltation; by his holy Ghost, my Unction; and by his last Return, my eternal Salvation. O blessed Jesus, _You are the Way, and the Truth, and the Life:_ Be You unto me the Way I am to walk in; be You unto me the Truth I am to believe; be You unto me that Life which may eternally save and preserve me.
 
-<< [Author], _[Book Title]_
+<< Johann Arndt, _The Garden of Paradise_
 
 ### Community Prayer
 
