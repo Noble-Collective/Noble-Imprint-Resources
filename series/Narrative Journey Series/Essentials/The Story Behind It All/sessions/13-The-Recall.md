@@ -25,112 +25,149 @@ In Acts 1:1–2:47, we read about Jesus' heavenly ascension and the coming of th
 
 As divine revelation to humanity, the biblical story is a faithful narrative of God's dealings with his creation. In essence, the Bible tells us _the story behind it all_. It teaches us about the beginnings of the world, the tragic ruin of original creation, and God's plan to rescue his people from eternal condemnation. It accurately records the past, powerfully speaks to the present, and precisely predicts the future. In many ways, the Bible is a book about the one and only true God—God the Father, God the Son, and God the Holy Spirit. But, because the Bible is a book about the true God, it is also a book about everything else that is true, meaningful, and important in life. Inasmuch as the biblical story records God's thoughts to mankind—truth about the past, present, and future—the biblical story teaches _fundamental doctrines that shape life_. Only when we understand the true story behind it all can we embrace the substance of life as God intended it to be.
 
-## Book Overview: Surveying the Landscape
+## Scripture Meditation: Surveying the Landscape
 
-<!-- @include: Recall_BookOverview_Directions -->
+<!-- @include: OpeningRecall_ScriptureMeditation_Directions -->
 
-### Key Idea
+### Key Passage
 
-<!-- @include: Recall_BookOverview_KeyIdea -->
+<!-- @include: OpeningRecall_KeyPassage_Directions -->
 
-### Story Retell
+> 1 Come, let us sing for joy to the LORD;  
+> let us shout to the Rock of our salvation!  
+> 2 Let us enter His presence with thanksgiving;  
+> let us make a joyful noise to Him in song.
+>
+> 3 For the LORD is a great God,  
+> a great King above all gods.  
+> 4 In His hand are the depths of the earth,  
+> and the mountain peaks belong to Him.  
+> 5 The sea is His, for He made it,  
+> and His hands formed the dry land.
+>
+> 6 O come, let us worship and bow down;  
+> let us kneel before the LORD our Maker.  
+> 7 For He is our God,  
+> and we are the people of His pasture,  
+> the sheep under His care.
+>
+> Today, if you hear His voice,  
+> 8 do not harden your hearts  
+> as you did at Meribah,  
+> in the day at Massah in the wilderness,  
+> 9 where your fathers tested and tried Me,  
+> though they had seen My work.  
+> 10 For forty years I was angry with that generation,  
+> and I said, “They are a people whose hearts go astray,  
+> and they have not known My ways.”  
+> 11 So I swore on oath in My anger,  
+> “They shall never enter My rest.”
 
-<!-- @include: Recall_BookOverview_StoryRetell -->
+<< Psalm 95:1–11
 
-### Narrative Review
+### Observation Questions
 
-<!-- @include: Recall_BookOverview_NarrativeReview -->
+<!-- @include: OpeningRecall_ObservationQuestions_Directions -->
+
+<Question id=TheStoryRecall-KeyPassage-Q1>1. <Accent>[Topic]:</Accent> [Question text]</Question>
+
+<Question id=TheStoryRecall-KeyPassage-Q2>2. <Accent>[Topic]:</Accent> [Question text]</Question>
+
+<Question id=TheStoryRecall-KeyPassage-Q3>3. <Accent>[Topic]:</Accent> [Question text]</Question>
 
 ## Faith Foundation: Exploring the Terrain
 
-<!-- @include: Recall_FaithFoundation_Directions -->
+<!-- @include: OpeningRecall_FaithFoundation_Directions -->
+
+### Historic Quote
+
+<!-- @include: OpeningRecall_HistoricQuote_Directions -->
+
+> [Historic quote]
+
+<< [Author], _[Book Title]_
 
 ### Discussion Questions
 
-<!-- @include: Recall_FaithFoundation_DiscussionDirections -->
+<!-- @include: OpeningRecall_DiscussionQuestions_Directions -->
 
 <!-- @include: Recall_FaithFoundation_DiscussionQuestions id="TheStoryRecall-Discussion" -->
 
-### Significant Insights
-
-<!-- @include: Recall_FaithFoundation_SignificantInsights -->
-
 ## Learning Plan: Charting the Course
 
-<!-- @include: Recall_LearningPlan_Directions -->
+<!-- @include: OpeningRecall_LearningPlan_Directions -->
 
-### Selected Passages
+### Book Overview
 
-<!-- @include: Recall_LearningPlan_SelectedPassages -->
+<!-- @include: OpeningRecall_BookOverview_Directions -->
 
-| Session | Topic | Passages |
-| :--- | :--- | :--- |
-| Session 1 | Faith | Deuteronomy 6:1–25; Job 42:1–17; Psalm 42:1–11; Isaiah 26:1–21; John 16:16–33; Romans 5:1–11; Hebrews 12:1–17; James 5:7–20 |
-| Session 2 | Creation | Psalm 19:1–14; 104:1–25; 147:1–20; Isaiah 41:1–29; 42:1–17; 43:1–28; 44:1–28; John 1:1–18; Colossians 1:15–23; Hebrews 1:1–14 |
-| Session 3 | Humanity | Psalm 8:1–9; 139:1–24; Ecclesiastes 1:1–18; Jeremiah 1:1–19; Matthew 12:1–14; James 2:1–13; 1 John 2:28–3:24 |
-| Session 4 | Sin | Genesis 11:1–9; Psalm 32:1–11; 51:1–19; Jeremiah 17:1–13; Romans 1:18–32; 2:1–29; 3:1–31; 5:12–21; Ephesians 2:1–10; James 1:1–27 |
-| Session 5 | Promise | Jeremiah 31:31–40; Psalm 78:1–72; Romans 4:13–25; 2 Corinthians 3:1–18; Hebrews 6:13–20; 2 Peter 3:1–13 |
-| Session 6 | Jesus' Birth | Genesis 18:1–21; 32:22–32; Joshua 5:1–15; Daniel 3:1–30; Isaiah 7:10–25; 9:1–7; Matthew 1:1–25; John 1:19–34; Philippians 2:1–30 |
-| Session 7 | Jesus' Death and Resurrection | Genesis 22:1–24; Isaiah 52:13–53:12; Matthew 26:1–75; John 10:1–21; Titus 3:1–15; Hebrews 9:1–28; 10:1–18; 1 Peter 2:18–25; 1 John 1:1–2:6 |
-| Session 8 | Holy Spirit | Isaiah 61:1–11; Ezekiel 36:22–38; 37:1–14; Joel 2:1–32; John 14:15–31; 15:26–16:15; Romans 8:1–17; Galatians 5:16–26 |
-| Session 9 | Conversion | John 3:1–21; Acts 9:1–31; Romans 10:1–21; Ephesians 1:1–23; Philippians 3:1–4:1; Colossians 3:1–17 |
-| Session 10 | Church | Exodus 19:1–25; 1 Corinthians 12:12–31; 1 Corinthians 14:26–40; Ephesians 2:11–22; Hebrews 10:19–39; 1 Peter 2:1–12 |
-| Session 11 | Kingdom | Psalm 2:1–12; Daniel 2:1–49; Matthew 13:24–58; 25:1–30; 2 Timothy 4:1–22; Hebrews 12:18–29; Revelation 4:1–5:14 |
-| Session 12 | Future Hope | Isaiah 65:1–25; 66:1–24; Zechariah 14:1–21; Daniel 7:1–28; 1 Corinthians 15:1–58; 2 Corinthians 5:1–21; 1 Thessalonians 4:13–5:11 |
+| Session | Recommended Reading |
+| :--- | :--- |
+| **Session 1: The Battle**<br>(Faith) | Paul David Tripp, _Suffering: Gospel Hope When Life Doesn't Make Sense_; Christopher J. H. Wright, _The God I Don't Understand_ |
+| **Session 2: The Beginning**<br>(Creation) | Andrew Peterson, _The God of the Garden_; Jonathan R. Wilson, _God's Good World_ |
+| **Session 3: The Image**<br>(Humanity) | Anthony A. Hoekema, _Created in God's Image_; Owen Strachan, _Reenchanting Humanity_ |
+| **Session 4: The Fall**<br>(Sin) | G. K. Beale, _We Become What We Worship_; Cornelius Plantinga, _Not the Way It's Supposed to Be_ |
+| **Session 5: The Promise**<br>(Promise) | Walter C. Kaiser, Jr., _The Promise-Plan of God_; Paul R. Williamson, _Sealed with an Oath_ |
+| **Session 6: The Coming**<br>(Jesus' Birth) | Michael Reeves, _Rejoicing in Christ_; Benjamin B. Warfield, _The Lord of Glory_ |
+| **Session 7: The Cross**<br>(Jesus' Death and Resurrection) | John Stott, _The Cross of Christ_; D. Martyn Lloyd-Jones, _The Cross: God's Way of Salvation_ |
+| **Session 8: The Spirit**<br>(Holy Spirit) | Sinclair B. Ferguson, _The Holy Spirit_; R. C. Sproul, _The Mystery of the Holy Spirit_ |
+| **Session 9: The Change**<br>(Conversion) | Augustine, _The Confessions_; Charles H. Spurgeon, _All of Grace_ |
+| **Session 10: The Church**<br>(Church) | Robert J. Banks, _Paul's Idea of Community_; Francis A. Schaeffer, _The Church before the Watching World_ |
+| **Session 11: The Kingdom**<br>(Kingdom) | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants: A Concise Biblical Theology_; Scot McKnight, _Kingdom Conspiracy: Returning to the Radical Mission of the Local Church_ |
+| **Session 12: The Finale**<br>(Future Hope) | John Piper, _Come, Lord Jesus_; N. T. Wright, _Surprised by Hope_ |
 
-### Recommended Reading
+### Reflection Questions
 
-<!-- @include: Recall_LearningPlan_RecommendedReading -->
+<!-- @include: OpeningRecall_ReflectionQuestions_Directions -->
 
-| Session | Topic | Recommended Reading |
-| :--- | :--- | :--- |
-| Session 1 | Faith | Paul David Tripp, _Suffering: Gospel Hope When Life Doesn't Make Sense_<br>Christopher J. H. Wright, _The God I Don't Understand_ |
-| Session 2 | Creation | Andrew Peterson, _The God of the Garden_<br>Jonathan R. Wilson, _God's Good World_ |
-| Session 3 | Humanity | Anthony A. Hoekema, _Created in God's Image_<br>Owen Strachan, _Reenchanting Humanity_ |
-| Session 4 | Sin | G. K. Beale, _We Become What We Worship_<br>Cornelius Plantinga, _Not the Way It's Supposed to Be_ |
-| Session 5 | Promise | Walter C. Kaiser, Jr., _The Promise-Plan of God_<br>Paul R. Williamson, _Sealed with an Oath_ |
-| Session 6 | Jesus' Birth | Michael Reeves, _Rejoicing in Christ_<br>Benjamin B. Warfield, _The Lord of Glory_ |
-| Session 7 | Jesus' Death and Resurrection | John Stott, _The Cross of Christ_<br>D. Martyn Lloyd-Jones, _The Cross: God's Way of Salvation_ |
-| Session 8 | Holy Spirit | Sinclair B. Ferguson, _The Holy Spirit_<br>R. C. Sproul, _The Mystery of the Holy Spirit_ |
-| Session 9 | Conversion | Augustine, _The Confessions_<br>Charles H. Spurgeon, _All of Grace_ |
-| Session 10 | Church | Robert J. Banks, _Paul's Idea of Community_<br>Francis A. Schaeffer, _The Church before the Watching World_ |
-| Session 11 | Kingdom | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants: A Concise Biblical Theology_<br>Scot McKnight, _Kingdom Conspiracy: Returning to the Radical Mission of the Local Church_ |
-| Session 12 | Future Hope | John Piper, _Come, Lord Jesus_<br>N. T. Wright, _Surprised by Hope_ |
+<Question id=TheStoryRecall-Interest-Q1>1. <Accent>[Topic]:</Accent> [Question text]</Question>
 
-## Core Project: Synthesizing the Faith
+<Question id=TheStoryRecall-Interest-Q2>2. <Accent>[Topic]:</Accent> [Question text]</Question>
 
-<!-- @include: Recall_CoreProject_Directions -->
+## Doctrinal Summary: Synthesizing the Faith
 
-### Creedal Confession
+<!-- @include: OpeningRecall_DoctrinalSummary_Directions -->
+
+### Historic Confession
+
+<!-- @include: OpeningRecall_HistoricConfession_Directions -->
+
+> [Creed line]  
+> [Creed line]
+>
+> [Creed line]  
+> [Creed line]
+
+<< [Creed name]
+
+### Contemporary Summary
+
+<!-- @include: OpeningRecall_ContemporarySummary_Directions -->
+
+> [Contemporary summary paragraph]
+
+<< [Source]
+
+### Core Project
+
+<!-- @include: OpeningRecall_CoreProject_Directions -->
 
 God calls us to believe the truth revealed in his word. As a community or as an individual, write a **creedal confession** that serves as a condensed, memorable summary of the core biblical teachings on Christian belief (consider a line, phrase, or short sentence for each topic/session in this study).
 
 The **creedal confession** should be **short** (summarizes the key biblical teachings in a condensed and accessible format), **memorable** (articulates biblical principles in a way that is easily memorizable), **usable** (expresses the summary statement that can be affirmed and confessed together as a church community), **accurate** (makes correct, biblical affirmations), and **comprehensive** (addresses all major domains of this area of Christian teaching).
 
-### Journal Reflection
-
-<!-- @include: Recall_CoreProject_JournalReflection -->
-
 ## Faith Practice: Following the Way
 
-<!-- @include: Recall_FaithPractice_Directions -->
+<!-- @include: OpeningRecall_FaithPractice_Directions -->
 
-### Growth Evaluation
+### Historic Prayer
 
-<!-- @include: Recall_FaithPractice_GrowthEvaluation -->
+<!-- @include: OpeningRecall_HistoricPrayer_Directions -->
 
-| Objective | Exemplary | Mature | Developing | Emerging | Unsound |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Conviction:** establish a mature Christian understanding of core Christian belief | deep understanding of ____ | accurate understanding of Christian essentials, grounded in core biblical teaching as a countercultural worldview | growing but partial familiarity with Christian teaching, learning biblical foundations and perceiving cultural errors | general awareness of Christian basics across various domains, willing to engage Bible as source of truth and realizing faults in wider culture | deficient views of Christian belief, hesitant to trust biblical teaching and broad conformity to cultural norms |
-| **Commitment:** cultivate a deepening commitment to the core essentials of the faith | exemplary devotion to ____ | clear and compelling commitment to Christian essentials, embracing the truth revealed in God's inspired word | eager pursuit of mature Christian belief, upholding the central importance of essential biblical teaching | initial interest and attraction to Christian belief, open to being trained and instructed in biblical teaching | open resistance and opposition to God's revealed word, being reluctant and averse to accept the Bible's teaching |
-| **Conduct:** demonstrate skill in articulating the fundamentals of Christian doctrine | sound and rich command of ____ | convincing maturity in doctrinal understanding, demonstrating biblical orientation and faith foundations in core beliefs | noticeable progress in a maturing faith, making effort to more clearly understand basic Christian teaching | early movement to establish belief in sound doctrine, exerting effort and energy to renew thinking after biblical basics | disordered and dysfunctional thinking in many areas, being ignorant of and inattentive to truth |
-| **Community:** undertake teaching the Christian basics to others in family, church, and society | lasting contribution in ____ | active engagement in all areas of doctrine, making personal investment to grow in the truth | expanding participation in promoting the Christian faith, developing a sense of responsibility for the truth | beginning involvement to speak about the truth, seeking opportunities to discuss the Christian faith with others | misplaced focus on one's role as an advocate of truth, displaying a lack of interest or involvement to discuss the faith with others |
-| **Character:** embody godly living that comes from right belief in the truth | obvious appropriation of ____ | clear demonstration of core virtues that come from belief in the truth, showing the fruit of Christian character | promising signs of being reformed in sound doctrine, practicing repentance of falsehood and adherence to the truth | first indications that one is reorienting life after biblical teaching, possessing a desire to pursue a godly life rooted in scriptural truth | obvious lack of Christian character, life gripped by destructive practices and false ways of thinking |
+> [Historic prayer]
 
-### Next Steps
-
-<!-- @include: Recall_FaithPractice_NextSteps id="TheStoryRecall-NextSteps" -->
+<< [Author], _[Book Title]_
 
 ### Community Prayer
 
-<!-- @include: Recall_FaithPractice_CommunityPrayer -->
+<!-- @include: OpeningRecall_CommunityPrayer_Directions -->
