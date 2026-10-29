@@ -494,3 +494,31 @@ Look over the sessions in this book. Identify passages and topics of interest.
 <OpeningRecall_ReflectionQuestions_Directions>
 Discuss the following questions, preparing your mind and heart for this study.
 </OpeningRecall_ReflectionQuestions_Directions>
+
+<OpeningRecall_DoctrinalSummary_Directions>
+**Summarize the Faith:** Mature disciples embrace the whole teaching of God’s word. In this section, you will explore example confessional statements and envision your own.
+</OpeningRecall_DoctrinalSummary_Directions>
+
+<OpeningRecall_HistoricConfession_Directions>
+Read the following declaration. Observe its summary of Christian life and faith.
+</OpeningRecall_HistoricConfession_Directions>
+
+<OpeningRecall_ContemporarySummary_Directions>
+Read the following example which synthesizes core Christian teaching.
+</OpeningRecall_ContemporarySummary_Directions>
+
+<OpeningRecall_CoreProject_Directions>
+Read the following instructions. These explain a final project for this study.
+</OpeningRecall_CoreProject_Directions>
+
+<OpeningRecall_FaithPractice_Directions>
+**Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Commit yourself and your community to the Lord with a time of focused prayer.
+</OpeningRecall_FaithPractice_Directions>
+
+<OpeningRecall_HistoricPrayer_Directions>
+Pray this prayer. Read it reflectively together as a community.
+</OpeningRecall_HistoricPrayer_Directions>
+
+<OpeningRecall_CommunityPrayer_Directions>
+Identify prayer requests for you and your community. Commit these to the Lord.
+</OpeningRecall_CommunityPrayer_Directions>

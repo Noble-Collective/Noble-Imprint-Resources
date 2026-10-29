@@ -145,22 +145,40 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 <Question id=TheStoryOpening-Interest-Q2>2. <Accent>Personal Interest:</Accent> Which biblical narrative or study topic seems most interesting or relevant to you? Why?</Question>
 
-## Core Project: Synthesizing the Faith
+## Doctrinal Summary: Synthesizing the Faith
 
-<!-- @include: Opening_CoreProject_Directions -->
+<!-- @include: OpeningRecall_DoctrinalSummary_Directions -->
 
-### Project Preview
+### Historic Confession
 
-A firm conviction of Christian truth is foundational to a mature faith. Therefore, at the end of this book, you will be asked to write a **creedal statement**. This creed is a condensed and memorable summary of the core biblical teachings on Christian belief. It is also a capstone project for this study. You can write this individually or as a community. The aim of this project is to help you synthesize all that you will learn over the course of this study as it relates to _the essential teachings of the Christian faith_. As we trek through the next twelve sessions, it will be important to keep this project in your mind.
+<!-- @include: OpeningRecall_HistoricConfession_Directions -->
 
-The following criteria will help guide your thinking about how you (and your church community) might draft such a statement. The creedal statement should be
-- **short**: summarizes the key biblical teachings in a condensed and accessible format
-- **memorable**: articulates biblical principles in a way that is easily memorizable
-- **usable**: expresses the creed as a statement that can be affirmed and confessed together as a church community
-- **accurate**: makes correct, biblical affirmations of Christian belief
-- **comprehensive**: addresses all major areas of Christian teaching
+> I believe in God, the Father almighty,  
+> creator of heaven and earth.
+>
+> I believe in Jesus Christ, his only Son, our Lord.  
+> He was conceived by the power of the Holy Spirit  
+> and born of the virgin Mary.  
+> He suffered under Pontius Pilate,  
+> was crucified, died, and was buried.  
+> He descended to the dead.  
+> On the third day he rose again.  
+> He ascended into heaven,  
+> and is seated at the right hand of the Father.  
+> He will come again to judge the living and the dead.
+>
+> I believe in the Holy Spirit,  
+> the holy catholic Church,  
+> the communion of the saints,  
+> the forgiveness of sins,  
+> the resurrection of the body,  
+> and the life everlasting. Amen.
 
-### Example Creed
+<< The Apostles’ Creed
+
+### Contemporary Summary
+
+<!-- @include: OpeningRecall_ContemporarySummary_Directions -->
 
 > We believe in God Almighty, the sovereign Creator of all things. He is the one and only true God—Father, Son, and Holy Spirit. He made humans, male and female, in his image. The crown of his creation, the first humans ruined God's perfect world in their prideful rebellion. God gave his word to destroy the wicked and save believers.
 >
@@ -168,50 +186,24 @@ The following criteria will help guide your thinking about how you (and your chu
 
 << A Christian Creed
 
-### Imaginative Storytelling
+### Core Project
 
-<!-- @include: Opening_ImaginativeStorytelling_Directions -->
+<!-- @include: OpeningRecall_CoreProject_Directions -->
 
-If I could know the truth about life, these are some things I would want to understand…
-
-If I could grow in my understanding of the truth, this is how my life would look…
+A firm conviction of Christian truth is foundational to a mature faith. Therefore, at the end of this book, you will be asked to write a **creedal statement**. This creed is a condensed and memorable summary of the core biblical teachings on Christian belief. It is also a capstone project for this study. You can write this individually or as a community. The aim of this project is to help you synthesize all that you will learn over the course of this study as it relates to _the essential teachings of the Christian faith_. As we trek through the next twelve sessions, it will be important to keep this project in your mind.
 
 ## Faith Practice: Following the Way
 
-<!-- @include: Opening_FaithPractice_Directions -->
+<!-- @include: OpeningRecall_FaithPractice_Directions -->
 
-### Growth Outcomes
+### Historic Prayer
 
-<!-- @include: Opening_GrowthOutcomes_Directions -->
+<!-- @include: OpeningRecall_HistoricPrayer_Directions -->
 
-As a result of this study, disciples, families, and churches will …
-- **establish** a mature Christian understanding of the essentials of the Christian faith
-- **cultivate** a deepening commitment to biblical truth
-- **demonstrate** clarity and capability in articulating Christian truth
-- **participate** in teaching basic Christian truths to others
+> O Lord our God, we pray that we may not be of those who think they see and are blinded by the light. Help us all to fix our faith and our hope on that Son of God, and to be His in very deed and truth, not only in word but in our inmost lives, in the depths of our hearts, in the foundations of our thinking, and in all the energies of our activity. We come to You with humble thanksgiving that You do permit us thus to gather ourselves together, and together to receive from You, as we trust, some impulses that may help us on our journey. You know each of us here before You, and all our present want; and we pray that every one of us may wish for, and may get from God, the things that we most require. You have often seen our foolish desires; some of them You have granted, and some of them You have withheld. We thank You that there are desires which are sure to be granted, and we pray that we may increasingly long for the things which You do long to give, and confine our seeking to those gifts which we shall be sure to find. We thank You that there is one region in which You can do exceeding abundantly above all we can ask or think, and will do it. O Lord, help us to wish most for what is best, and to influence desire and hope, as well as faith and trust, and submission, and obedience, that You have Yourself manifested and brought to us in Jesus Christ our Lord.
 
-### Focused Area
-
-<!-- @include: Opening_FocusedArea_Directions -->
+<< Alexander Maclaren, _Pulpit Prayers_
 
 ### Community Prayer
 
-<!-- @include: Opening_CommunityPrayer_Directions -->
-
-
-
-| Biblical Passage | Teacher | Date |
-| :--- | :--- | :--- |
-| **Session 1: The Battle**<br>(Job 1:1–2:13) |  |  |
-| **Session 2: The Beginning**<br>(Genesis 1:1–2:3) |  |  |
-| **Session 3: The Image**<br>(Genesis 2:4–25) |  |  |
-| **Session 4: The Fall**<br>(Genesis 3:1–24) |  |  |
-| **Session 5: The Promise**<br>(Genesis 5:28–9:17) |  |  |
-| **Session 6: The Coming**<br>(Luke 1:1–2:21) |  |  |
-| **Session 7: The Cross**<br>(Mark 15:1–16:8) |  |  |
-| **Session 8: The Spirit**<br>(Acts 1:1–2:47) |  |  |
-| **Session 9: The Change**<br>(Acts 10:1–11:18) |  |  |
-| **Session 10: The Church**<br>(Revelation 1:9–3:22) |  |  |
-| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) |  |  |
-| **Session 12: The Finale**<br>(Revelation 19:11–22:21) |  |  |
-
+<!-- @include: OpeningRecall_CommunityPrayer_Directions -->
