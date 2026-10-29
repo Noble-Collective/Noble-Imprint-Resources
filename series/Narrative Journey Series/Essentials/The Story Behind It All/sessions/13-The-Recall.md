@@ -92,9 +92,9 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful?
 
-2. Pursuing Truth: How does the  Christianity ?
+2. The True Story of the World: How does the truth of Christianity answer some of life's biggest questions? How is the biblical story the true story of the world?
 
-3. The Power of Beliefs: Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?
+3. The Power of Beliefs: What other compoeting
 
 4. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
 
