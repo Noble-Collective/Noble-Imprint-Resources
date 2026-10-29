@@ -108,8 +108,6 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_BookOverview_Directions -->
 
-| Session | Doctrine |
-| :--- | :--- |
 | **Session 1: The Battle**<br>(Job 1:1–2:13) | God is calling us to a life of faith in a broken world. |
 | **Session 2: The Beginning**<br>(Genesis 1:1–2:3) | There is only one living and true God, the maker of all things visible and invisible. |
 | **Session 3: The Image**<br>(Genesis 2:4–25) | Of all that God has made, humans are the crown of God’s creation, his very noble image. |
