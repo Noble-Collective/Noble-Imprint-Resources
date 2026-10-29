@@ -3,7 +3,7 @@
 ## Overview
 
 ### Key Elements
-- **Key Passage** - Review
+- **Key Passage** - Psalm 98:1–9
 - **Scripture Memory** - Beloved, although I made every effort to write to you about the salvation we share, I felt it necessary to write and urge you to contend earnestly for the faith entrusted once for all to the saints. Jude 3
 - **Key Idea** - The disciple's life is built on the foundation of faith.
 
@@ -150,6 +150,7 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_ContemporarySummary_Directions -->
 
+Fill in contemporary creed here.
 ## Faith Practice: Following the Way
 
 <!-- @include: OpeningRecall_FaithPractice_Directions -->
