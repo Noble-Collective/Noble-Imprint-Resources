@@ -108,12 +108,12 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_BookOverview_Directions -->
 
-| Session                                                | Teaching                                                                                                    |
-| :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| **Session 1: The Battle**<br>(Job 1:1–2:13)            | God is calling us to a life of faith in a broken and sinful world.                                                 |
-| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | God is the Creator o the source of all  point of ultimate reality, the fountain of all that is good, the measure of all true beauty, the mastermind of freedom, the architect of order and justice, and the source of human dignity                              |
-| **Session 3: The Image**<br>(Genesis 2:4–25)           | God made the first humans and placed them in his garden paradise.                                        |
-| **Session 4: The Fall**<br>(Genesis 3:1–24)            | The first humans rebelled against God, disobeying his word and bringing God's good world to ruin.        |
+| Session                                                | Teaching                                                                                                 |
+|:------------------------------------------------------ |:-------------------------------------------------------------------------------------------------------- |
+| **Session 1: The Battle**<br>(Job 1:1–2:13)            | God is calling us to a life of faith in a broken and sinful world.                                       |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | God is the Creator and Maker of all things.                                                              | 
+| **Session 3: The Image**<br>(Genesis 2:4–25)           | Humans were created as the image of God, the crown of God's creation.                                    |
+| **Session 4: The Fall**<br>(Genesis 3:1–24)            | Human sin is a first humans rebelled against God, disobeying his word and bringing God's good world to ruin.        |
 | **Session 5: The Promise**<br>(Genesis 5:28–9:17)      | God announced his intent to destroy sinful humanity and to save his faithful followers.                  |
 | **Session 6: The Coming**<br>(Luke 1:1–2:21)           | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy.          |
 | **Session 7: The Cross**<br>(Mark 15:1–16:8)           | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
