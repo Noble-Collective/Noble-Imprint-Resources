@@ -108,7 +108,7 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_BookOverview_Directions -->
 
-| Session                                                | Focus                                                                                                    |
+| Session                                                | Teaching                                                                                                    |
 | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
 | **Session 1: The Battle**<br>(Job 1:1–2:13)            | Job demonstrated genuine faith as he suffered painfully.                                                 |
 | **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | The eternal and sovereign God created the whole world by his powerful word.                              |
