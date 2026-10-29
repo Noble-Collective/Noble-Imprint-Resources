@@ -47,30 +47,22 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 ### Key Passage
 
-111:1 Hallelujah!
-I will give thanks to the LORD with all my heart
-in the council of the upright and in the assembly.⁠
-2 Great are the works of the LORD;
-they are pondered by all who delight in them.⁠
-3 Splendid and majestic is His work;
-His righteousness endures forever.⁠
-4 He has caused His wonders to be remembered;
-the LORD is gracious and compassionate.⁠
-5 He provides food for those who fear Him;
-He remembers His covenant forever.⁠
-6 He has shown His people the power of His works
-by giving them the inheritance of the nations.⁠
-7 The works of His hands are truth and justice;
-all His precepts are trustworthy.⁠
-8 They are upheld forever and ever,
-enacted in truth and uprightness.⁠
-9 He has sent redemption to His people;
-He has ordained His covenant forever;
-holy and awesome is His name.⁠
-10 The fear of the LORD is the beginning of wisdom;
-all who follow His precepts gain rich understanding.
-His praise endures forever!⁠
-Psalm 111:1-10
+> 1 Hallelujah!
+>
+> I will give thanks to the LORD with all my heart
+> in the council of the upright and in the assembly.
+>
+> 2 Great are the works of the LORD;
+> they are pondered by all who delight in them.
+> 3 Splendid and majestic is His work;
+> His righteousness endures forever.
+> …
+> 10 The fear of the LORD is the beginning of wisdom;
+> all who follow His precepts gain rich under
+>
+> His praise endures forever!
+
+<< Psalm 111:1–10
 
 ### Observation Questions
 
@@ -146,7 +138,10 @@ Psalm 111:1-10
 | **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom.                                    |
 | **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world.                                                  |
 
+### Reflection Questions
 
+1. Current Culture: Which biblical narrative or study topic do you think is most relevant to your current cultural context?
+2. Personal Interest: Which biblical narrative or study topic seems most interesting or relevant to you? Why?
 
 
 
