@@ -66,11 +66,11 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_ObservationQuestions_Directions -->
 
-<Question id=TheStoryRecall-KeyPassage-Q1>1. <Accent>Reason to Sing:</Accent> What reasons does this psalm give to joyfully sing praise to God?</Question>
+<Question id=TheStoryRecall-KeyPassage-Q1>1. <Accent>Giving God Glory:</Accent> How does this psalm instruct us to honor God?</Question>
 
-<Question id=TheStoryRecall-KeyPassage-Q2>2. <Accent>Character and Works of God:</Accent> What does this psalm teach us about the character and works of God?</Question>
+<Question id=TheStoryRecall-KeyPassage-Q2>2. <Accent>Reasons to Sing:</Accent> What reasons does this psalm give to joyfully sing praise to God? What does this psalm teach us about the character and works of God?</Question>
 
-<Question id=TheStoryRecall-KeyPassage-Q3>3. <Accent>[Personal Praise]:</Accent> What reasons do you have to give praise to God? How have you experienced God's </Question>
+<Question id=TheStoryRecall-KeyPassage-Q3>3. <Accent>[Personal Praise]:</Accent> What reasons do you have to give praise to God? How have you experienced God's joy-filled salvation? </Question>
 
 ## Faith Foundation: Exploring the Terrain
 
