@@ -11,7 +11,7 @@
 << A Christian Creed
 
 ### Key Elements
-- **Key Passage** - Preview
+- **Key Passage** - Psalm 111:1–10
 - **Scripture Memory** - And without faith it is impossible to please God, because anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him. Hebrews 11:6
 - **Key Idea** - The disciple's life is built on the foundation of faith.
 
