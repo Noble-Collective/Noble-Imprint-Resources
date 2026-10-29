@@ -126,25 +126,9 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_ReflectionQuestions_Directions -->
 
-<Question id=TheStoryRecall-Interest-Q1>1. <Accent>Christian Belief:</Accent> Which sessions, topics, and Bible passages were most impactful during the course of this study? What made them so impactful?</Question>
+<Question id=TheStoryRecall-Interest-Q1>1. <Accent>Christian Beliefs:</Accent> Which sessions, topics, and Bible passages were most impactful during the course of this study? What made them so impactful?</Question>
 
-<Question id=TheStoryRecall-Interest-Q2>2. <Accent>Key Idea:</Accent> What is the main idea of this whole study? How would you summarize </Question>
-
-KEy IDEA
-
-After such an intensive study, it is important to sum up our learning. Think through the broad theme(s) of this study. Summarize the main idea in your own words in a way that broadly addresses all the main teachings.
-
-STORy RETEll
-
-We deepen our knowledge of those things that we can articulate in our own words (and it’s even better if we can recite from memory). Pick one of the biblical narratives from this study. Review and update your Storycraft and prepare to share your revised version with your faith community. Consider sharing it from memory.
-
-400
-
-|
-
-T HE B OND B ETWEEN U S NARRATIVE REVIEW
-
-God wants us to become fluent in speaking his word to others. Summarize the twelve biblical narratives that were studied over the past weeks. Identify the basic narrative content and overarching theme that each passage addressed. Use the space below to record your overview (i.e., chart, diagram, drawing, storyboard).
+<Question id=TheStoryRecall-Interest-Q2>2. <Accent>Key Idea:</Accent> What is the main idea of this whole study? How would you summarize the overarching idea in your own words?</Question>
 
 ## Doctrinal Summary: Synthesizing the Faith
 
@@ -173,10 +157,6 @@ God wants us to become fluent in speaking his word to others. Summarize the twel
 ### Core Project
 
 <!-- @include: OpeningRecall_CoreProject_Directions -->
-
-God calls us to believe the truth revealed in his word. As a community or as an individual, write a **creedal confession** that serves as a condensed, memorable summary of the core biblical teachings on Christian belief (consider a line, phrase, or short sentence for each topic/session in this study).
-
-The **creedal confession** should be **short** (summarizes the key biblical teachings in a condensed and accessible format), **memorable** (articulates biblical principles in a way that is easily memorizable), **usable** (expresses the summary statement that can be affirmed and confessed together as a church community), **accurate** (makes correct, biblical affirmations), and **comprehensive** (addresses all major domains of this area of Christian teaching).
 
 ## Faith Practice: Following the Way
 
