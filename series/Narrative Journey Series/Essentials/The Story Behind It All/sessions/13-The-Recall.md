@@ -110,8 +110,8 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 | Session                                                | Teaching                                                                                                    |
 | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| **Session 1: The Battle**<br>(Job 1:1–2:13)            | Job demonstrated genuine faith as he suffered painfully.                                                 |
-| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | The eternal and sovereign God created the whole world by his powerful word.                              |
+| **Session 1: The Battle**<br>(Job 1:1–2:13)            | God is calling us to a life of faith in a broken and sinful world.                                                 |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | God is the Creator o the source of all  point of ultimate reality, the fountain of all that is good, the measure of all true beauty, the mastermind of freedom, the architect of order and justice, and the source of human dignity                              |
 | **Session 3: The Image**<br>(Genesis 2:4–25)           | God made the first humans and placed them in his garden paradise.                                        |
 | **Session 4: The Fall**<br>(Genesis 3:1–24)            | The first humans rebelled against God, disobeying his word and bringing God's good world to ruin.        |
 | **Session 5: The Promise**<br>(Genesis 5:28–9:17)      | God announced his intent to destroy sinful humanity and to save his faithful followers.                  |
