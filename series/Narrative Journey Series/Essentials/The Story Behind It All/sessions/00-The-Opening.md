@@ -72,26 +72,15 @@ all who follow His precepts gain rich understanding.
 His praise endures forever!⁠
 Psalm 111:1-10
 
-### Observation Que
+### Observation Questions
 
-### Core Content
+1. God at Work: In this psalm, what are some truths we should believe about God and his work in the world? What are God's works and why are they so great? 
+2. Responding to God: How does this psalm teach us to respond to God? How do these responses help us understand what it means to trust in God? 
+3. Evaluating Your Faith: How strong is your faith in God? In what ways can you grow in faith and trust in the Lord?
+
+### xxxxxxx
 
 <!-- @include: Opening_CoreContent_Directions -->
-
-| Session                                                | Focus                                                                                                    |
-| :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| **Session 1: The Battle**<br>(Job 1:1–2:13)            | Job demonstrated genuine faith as he suffered painfully.                                                 |
-| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | The eternal and sovereign God created the whole world by his powerful word.                              |
-| **Session 3: The Image**<br>(Genesis 2:4–25)           | God made the first humans and placed them in his garden paradise.                                        |
-| **Session 4: The Fall**<br>(Genesis 3:1–24)            | The first humans rebelled against God, disobeying his word and bringing God's good world to ruin.        |
-| **Session 5: The Promise**<br>(Genesis 5:28–9:17)      | God announced his intent to destroy sinful humanity and to save his faithful followers.                  |
-| **Session 6: The Coming**<br>(Luke 1:1–2:21)           | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy.          |
-| **Session 7: The Cross**<br>(Mark 15:1–16:8)           | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
-| **Session 8: The Spirit**<br>(Acts 1:1–2:47)           | After Jesus' ascension, the Holy Spirit came upon the first Christians, empowering them for witness.     |
-| **Session 9: The Change**<br>(Acts 10:1–11:18)         | Cornelius and his household heard the gospel preached by Peter and responded to it in faith.             |
-| **Session 10: The Church**<br>(Revelation 1:9–3:22)    | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion.                |
-| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom.                                    |
-| **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world.                                                  |
 
 ### Key Idea
 
@@ -121,7 +110,7 @@ Psalm 111:1-10
 
 <Question id=TheStoryOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
 
-### Significant Quote
+### Historic Quote
 
 <!-- @include: Opening_SignificantQuote_Directions -->
 
@@ -129,21 +118,39 @@ Psalm 111:1-10
 
 << J. C. Ryle, _Principles for Churchmen_
 
-Record any initial observations or community insights below.
+### Discussion Questions
+
+1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful? 
+2. Pursuing Truth: How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?
+3. The Power of Beliefs: Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?
+4. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
 
 ## Learning Plan: Charting the Course
 
 <!-- @include: Opening_LearningPlan_Directions -->
 
-### Session Framework
+### Book Overview
 
-<!-- @include: Opening_SessionFramework_Intro -->
+| Session                                                | Focus                                                                                                    |
+| :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Session 1: The Battle**<br>(Job 1:1–2:13)            | Job demonstrated genuine faith as he suffered painfully.                                                 |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | The eternal and sovereign God created the whole world by his powerful word.                              |
+| **Session 3: The Image**<br>(Genesis 2:4–25)           | God made the first humans and placed them in his garden paradise.                                        |
+| **Session 4: The Fall**<br>(Genesis 3:1–24)            | The first humans rebelled against God, disobeying his word and bringing God's good world to ruin.        |
+| **Session 5: The Promise**<br>(Genesis 5:28–9:17)      | God announced his intent to destroy sinful humanity and to save his faithful followers.                  |
+| **Session 6: The Coming**<br>(Luke 1:1–2:21)           | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy.          |
+| **Session 7: The Cross**<br>(Mark 15:1–16:8)           | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
+| **Session 8: The Spirit**<br>(Acts 1:1–2:47)           | After Jesus' ascension, the Holy Spirit came upon the first Christians, empowering them for witness.     |
+| **Session 9: The Change**<br>(Acts 10:1–11:18)         | Cornelius and his household heard the gospel preached by Peter and responded to it in faith.             |
+| **Session 10: The Church**<br>(Revelation 1:9–3:22)    | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion.                |
+| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom.                                    |
+| **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world.                                                  |
 
-<!-- @include: Opening_SessionFrameworkInfographic -->
 
-### Planning Calendar
 
-<!-- @include: Opening_PlanningCalendar_Directions -->
+
+
+
 
 | Biblical Passage | Teacher | Date |
 | :--- | :--- | :--- |
