@@ -92,9 +92,9 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful?
 
-2. The True Story of the World: How does the truth of Christianity answer some of life's biggest questions? How is the biblical story the true story of the world?
+2. The True Story of the World: How is the biblical story the true story of the world? What other competing stories exist that try to explain things in the world?
 
-3. The Power of Beliefs: What other compoeting
+3. Life's Biggest Questions: How do the truths of Christianity answer some of life's biggest questions? During this study, which truths most impacted you?
 
 4. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
 
@@ -106,20 +106,21 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_BookOverview_Directions -->
 
-| Session | Recommended Reading |
-| :--- | :--- |
-| **Session 1: The Battle**<br>(Faith) | Paul David Tripp, _Suffering: Gospel Hope When Life Doesn't Make Sense_; Christopher J. H. Wright, _The God I Don't Understand_ |
-| **Session 2: The Beginning**<br>(Creation) | Andrew Peterson, _The God of the Garden_; Jonathan R. Wilson, _God's Good World_ |
-| **Session 3: The Image**<br>(Humanity) | Anthony A. Hoekema, _Created in God's Image_; Owen Strachan, _Reenchanting Humanity_ |
-| **Session 4: The Fall**<br>(Sin) | G. K. Beale, _We Become What We Worship_; Cornelius Plantinga, _Not the Way It's Supposed to Be_ |
-| **Session 5: The Promise**<br>(Promise) | Walter C. Kaiser, Jr., _The Promise-Plan of God_; Paul R. Williamson, _Sealed with an Oath_ |
-| **Session 6: The Coming**<br>(Jesus' Birth) | Michael Reeves, _Rejoicing in Christ_; Benjamin B. Warfield, _The Lord of Glory_ |
-| **Session 7: The Cross**<br>(Jesus' Death and Resurrection) | John Stott, _The Cross of Christ_; D. Martyn Lloyd-Jones, _The Cross: God's Way of Salvation_ |
-| **Session 8: The Spirit**<br>(Holy Spirit) | Sinclair B. Ferguson, _The Holy Spirit_; R. C. Sproul, _The Mystery of the Holy Spirit_ |
-| **Session 9: The Change**<br>(Conversion) | Augustine, _The Confessions_; Charles H. Spurgeon, _All of Grace_ |
-| **Session 10: The Church**<br>(Church) | Robert J. Banks, _Paul's Idea of Community_; Francis A. Schaeffer, _The Church before the Watching World_ |
-| **Session 11: The Kingdom**<br>(Kingdom) | Peter J. Gentry and Stephen J. Wellum, _God's Kingdom through God's Covenants: A Concise Biblical Theology_; Scot McKnight, _Kingdom Conspiracy: Returning to the Radical Mission of the Local Church_ |
-| **Session 12: The Finale**<br>(Future Hope) | John Piper, _Come, Lord Jesus_; N. T. Wright, _Surprised by Hope_ |
+| Session                                                | Focus                                                                                                    |
+| :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Session 1: The Battle**<br>(Job 1:1–2:13)            | Job demonstrated genuine faith as he suffered painfully.                                                 |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | The eternal and sovereign God created the whole world by his powerful word.                              |
+| **Session 3: The Image**<br>(Genesis 2:4–25)           | God made the first humans and placed them in his garden paradise.                                        |
+| **Session 4: The Fall**<br>(Genesis 3:1–24)            | The first humans rebelled against God, disobeying his word and bringing God's good world to ruin.        |
+| **Session 5: The Promise**<br>(Genesis 5:28–9:17)      | God announced his intent to destroy sinful humanity and to save his faithful followers.                  |
+| **Session 6: The Coming**<br>(Luke 1:1–2:21)           | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy.          |
+| **Session 7: The Cross**<br>(Mark 15:1–16:8)           | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
+| **Session 8: The Spirit**<br>(Acts 1:1–2:47)           | After Jesus' ascension, the Holy Spirit came upon the first Christians, empowering them for witness.     |
+| **Session 9: The Change**<br>(Acts 10:1–11:18)         | Cornelius and his household heard the gospel preached by Peter and responded to it in faith.             |
+| **Session 10: The Church**<br>(Revelation 1:9–3:22)    | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion.                |
+| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom.                                    |
+| **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world.                                                  |
+|                                                        |                                                                                                          |
 
 ### Reflection Questions
 
