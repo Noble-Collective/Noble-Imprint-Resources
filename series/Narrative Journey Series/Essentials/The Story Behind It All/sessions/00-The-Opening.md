@@ -86,18 +86,10 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 <!-- @include: Opening_Discussion_Directions -->
 
-<Question id=TheStoryOpening-Discussion-Q1>1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful? 
-<Question id=TheStoryOpening-Discussion-Q1>1. Pursuing Truth: How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?
-<Question id=TheStoryOpening-Discussion-Q1>1. The Power of Beliefs: Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?
-<Question id=TheStoryOpening-Discussion-Q1>1. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
-
-<Question id=TheStoryOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
-
-<Question id=TheStoryOpening-Discussion-Q2>2. Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
-
-<Question id=TheStoryOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
-
-
+<Question id=TheStoryOpening-Discussion-Q1>1. <Accent>Quote Reflection:</Accent>  What is this quote saying? What parts of this quote do you find most interesting and helpful? </Question>
+<Question id=TheStoryOpening-Discussion-Q2>2. <Accent>Pursuing Truth:</Accent>  How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?</Question>
+<Question id=TheStoryOpening-Discussion-Q3>3. <Accent>The Power of Beliefs:</Accent>  Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
+<Question id=TheStoryOpening-Discussion-Q4>4. <Accent>Personal Faith Maturity:</Accent>  How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
 ### Discussion Questions
 
 ## Learning Plan: Charting the Course
