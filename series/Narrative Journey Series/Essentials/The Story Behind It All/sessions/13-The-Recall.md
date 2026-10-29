@@ -33,43 +33,40 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_KeyPassage_Directions -->
 
-> 1 Come, let us sing for joy to the LORD;  
-> let us shout to the Rock of our salvation!  
-> 2 Let us enter His presence with thanksgiving;  
-> let us make a joyful noise to Him in song.
+> 1 Sing to the LORD a new song,
+> for He has done wonders;
+> His right hand and holy arm
+> have gained Him the victory.
+> 2 The LORD has proclaimed His salvation
+> and revealed His righteousness to the nations.
+> 3 He has remembered His love and faithfulness
+> to the house of Israel;
+> all the ends of the earth
+> have seen the salvation of our God.
 >
-> 3 For the LORD is a great God,  
-> a great King above all gods.  
-> 4 In His hand are the depths of the earth,  
-> and the mountain peaks belong to Him.  
-> 5 The sea is His, for He made it,  
-> and His hands formed the dry land.
+> 4 Make a joyful noise to the LORD, all the earth;
+> break forth—let your cry ring out, and sing praises!
+> 5 Sing praises to the LORD with the lyre,
+> in melodious song with the harp.
+> 6 With trumpets and the blast of the ram’s horn
+> shout for joy before the LORD, the King.
 >
-> 6 O come, let us worship and bow down;  
-> let us kneel before the LORD our Maker.  
-> 7 For He is our God,  
-> and we are the people of His pasture,  
-> the sheep under His care.
->
-> Today, if you hear His voice,  
-> 8 do not harden your hearts  
-> as you did at Meribah,  
-> in the day at Massah in the wilderness,  
-> 9 where your fathers tested and tried Me,  
-> though they had seen My work.  
-> 10 For forty years I was angry with that generation,  
-> and I said, “They are a people whose hearts go astray,  
-> and they have not known My ways.”  
-> 11 So I swore on oath in My anger,  
-> “They shall never enter My rest.”
+> 7 Let the sea resound, and all that fills it,
+> the world, and all who dwell in it.
+> 8 Let the rivers clap their hands,
+> let the mountains sing together for joy
+> 9 before the LORD,
+> for He comes to judge the earth.
+> He will judge the world with righteousness
+> and the peoples with equity.
 
-<< Psalm 95:1–11
+<< Psalm 98:1–9
 
 ### Observation Questions
 
 <!-- @include: OpeningRecall_ObservationQuestions_Directions -->
 
-<Question id=TheStoryRecall-KeyPassage-Q1>1. <Accent>[Topic]:</Accent> [Question text]</Question>
+<Question id=TheStoryRecall-KeyPassage-Q1>1. <Accent>Reason to Sing:</Accent> What reasons does this psalm give to joyfully sing praise to God?</Question>
 
 <Question id=TheStoryRecall-KeyPassage-Q2>2. <Accent>[Topic]:</Accent> [Question text]</Question>
 
