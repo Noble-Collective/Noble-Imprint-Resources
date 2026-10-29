@@ -43,11 +43,11 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 ## Scripture Meditation: Surveying the Landscape
 
-<!-- @include: Opening_BookOverview_Directions -->
+<!-- @include: OpeningRecall_ScriptureMeditation_Directions -->
 
 ### Key Passage
 
-## Key Passage
+<!-- @include: OpeningRecall_KeyPassage_Directions -->
 
 > 1 Hallelujah!
 >
@@ -82,17 +82,21 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 ### Observation Questions
 
-1. God at Work: In this psalm, what are some truths we should believe about God and his work in the world? What are God's works and why are they so great? 
-2. Responding to God: How does this psalm teach us to respond to God? How do these responses help us understand what it means to trust in God? 
-3. Evaluating Your Faith: How strong is your faith in God? In what ways can you grow in faith and trust in the Lord?
+<!-- @include: OpeningRecall_ObservationQuestions_Directions -->
+
+<Question id=TheStoryOpening-KeyPassage-Q1>1. <Accent>God at Work:</Accent> In this psalm, what are some truths we should believe about God and his work in the world? What are God's works and why are they so great?</Question>
+
+<Question id=TheStoryOpening-KeyPassage-Q2>2. <Accent>Responding to God:</Accent> How does this psalm teach us to respond to God? How do these responses help us understand what it means to trust in God?</Question>
+
+<Question id=TheStoryOpening-KeyPassage-Q3>3. <Accent>Evaluating Your Faith:</Accent> How strong is your faith in God? In what ways can you grow in faith and trust in the Lord?</Question>
 
 ## Faith Foundation: Exploring the Terrain
 
-<!-- @include: Opening_FaithFoundation_Directions -->
+<!-- @include: OpeningRecall_FaithFoundation_Directions -->
 
 ### Historic Quote
 
-<!-- @include: Opening_SignificantQuote_Directions -->
+<!-- @include: OpeningRecall_HistoricQuote_Directions -->
 
 > A Church which is a mere boneless body, like a jelly-fish, a colourless, bloodless, creedless Pantheon, in which every one is right and nobody is wrong who is in earnest, and in which it does not matter a jot what is preached and taught, so long as the preachers are sincere, — such a Church is an unpractical absurdity, and the baseless fabric of a dream. The Church which abandons all limits, and will not proclaim to mankind what it believes, or would have its members believe, may do very well for Cloudland or Utopia ; but it will never do for a world where there are tears and crosses, troubles and sorrows, sickness and death.
 
@@ -100,19 +104,23 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 ### Discussion Questions
 
-<!-- @include: Opening_Discussion_Directions -->
+<!-- @include: OpeningRecall_DiscussionQuestions_Directions -->
 
-<Question id=TheStoryOpening-Discussion-Q1>1. <Accent>Quote Reflection:</Accent>  What is this quote saying? What parts of this quote do you find most interesting and helpful? </Question>
-<Question id=TheStoryOpening-Discussion-Q2>2. <Accent>Pursuing Truth:</Accent>  How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?</Question>
-<Question id=TheStoryOpening-Discussion-Q3>3. <Accent>The Power of Beliefs:</Accent>  Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
-<Question id=TheStoryOpening-Discussion-Q4>4. <Accent>Personal Faith Maturity:</Accent>  How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
-### Discussion Questions
+<Question id=TheStoryOpening-Quote-Q1>1. <Accent>Quote Reflection:</Accent> What is this quote saying? What parts of this quote do you find most interesting and helpful?</Question>
+
+<Question id=TheStoryOpening-Discussion-Q1>2. <Accent>Pursuing Truth:</Accent> How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?</Question>
+
+<Question id=TheStoryOpening-Discussion-Q2>3. <Accent>The Power of Beliefs:</Accent> Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
+
+<Question id=TheStoryOpening-Discussion-Q3>4. <Accent>Personal Faith Maturity:</Accent> How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
 
 ## Learning Plan: Charting the Course
 
-<!-- @include: Opening_LearningPlan_Directions -->
+<!-- @include: OpeningRecall_LearningPlan_Directions -->
 
 ### Book Overview
+
+<!-- @include: OpeningRecall_BookOverview_Directions -->
 
 | Session                                                | Focus                                                                                                    |
 | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
@@ -131,9 +139,11 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 ### Reflection Questions
 
-1. Current Culture: Which biblical narrative or study topic do you think is most relevant to your current cultural context?
-2. Personal Interest: Which biblical narrative or study topic seems most interesting or relevant to you? Why?
+<!-- @include: OpeningRecall_ReflectionQuestions_Directions -->
 
+<Question id=TheStoryOpening-Interest-Q1>1. <Accent>Current Culture:</Accent> Which biblical narrative or study topic do you think is most relevant to your current cultural context?</Question>
+
+<Question id=TheStoryOpening-Interest-Q2>2. <Accent>Personal Interest:</Accent> Which biblical narrative or study topic seems most interesting or relevant to you? Why?</Question>
 
 ## Core Project: Synthesizing the Faith
 

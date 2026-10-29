@@ -458,3 +458,39 @@ We depend upon God's power to grow each step in our Christian journeys. Pray tha
 </svg>
 </figure>
 </Opening_SessionFrameworkInfographic>
+
+<OpeningRecall_ScriptureMeditation_Directions>
+**Study the Text:** Discipleship is founded upon the truth of God’s word. Read the biblical psalm and discuss the study questions to grasp the overarching theme of this book.
+</OpeningRecall_ScriptureMeditation_Directions>
+
+<OpeningRecall_KeyPassage_Directions>
+Read the following psalm. Observe what is written. Try to discern its meaning.
+</OpeningRecall_KeyPassage_Directions>
+
+<OpeningRecall_ObservationQuestions_Directions>
+Discuss the following questions. Base your responses on the psalm.
+</OpeningRecall_ObservationQuestions_Directions>
+
+<OpeningRecall_FaithFoundation_Directions>
+**Consider the Theme:** God calls his people to move beyond a superficial understanding of Christian essentials. Read the key quote and discuss the following questions, pondering the great importance of this study’s topic.
+</OpeningRecall_FaithFoundation_Directions>
+
+<OpeningRecall_HistoricQuote_Directions>
+Read the following excerpt. Reflect on what it says about the Christian faith.
+</OpeningRecall_HistoricQuote_Directions>
+
+<OpeningRecall_DiscussionQuestions_Directions>
+Discuss the following questions. Use the quote to help guide the conversation.
+</OpeningRecall_DiscussionQuestions_Directions>
+
+<OpeningRecall_LearningPlan_Directions>
+**View the Design:** Spiritual growth calls for the internalization of the truth in an ordered process of learning. Review the session overview and consider the reflection questions to prepare for your upcoming study journey.
+</OpeningRecall_LearningPlan_Directions>
+
+<OpeningRecall_BookOverview_Directions>
+Look over the sessions in this book. Identify passages and topics of interest.
+</OpeningRecall_BookOverview_Directions>
+
+<OpeningRecall_ReflectionQuestions_Directions>
+Discuss the following questions, preparing your mind and heart for this study.
+</OpeningRecall_ReflectionQuestions_Directions>
