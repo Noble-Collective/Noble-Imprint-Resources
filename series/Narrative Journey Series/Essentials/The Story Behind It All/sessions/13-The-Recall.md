@@ -120,7 +120,6 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 | **Session 10: The Church**<br>(Revelation 1:9–3:22)    | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion.                |
 | **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom.                                    |
 | **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world.                                                  |
-|                                                        |                                                                                                          |
 
 ### Reflection Questions
 
@@ -150,7 +149,7 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_ContemporarySummary_Directions -->
 
-Fill in contemporary creed here.
+==Fill in contemporary creed here.==
 ## Faith Practice: Following the Way
 
 <!-- @include: OpeningRecall_FaithPractice_Directions -->
