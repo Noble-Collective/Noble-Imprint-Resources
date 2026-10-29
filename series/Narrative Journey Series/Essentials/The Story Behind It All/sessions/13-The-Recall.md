@@ -108,20 +108,21 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_BookOverview_Directions -->
 
-| Session                                                | Teaching                                                                                                 |
-|:------------------------------------------------------ |:-------------------------------------------------------------------------------------------------------- |
-| **Session 1: The Battle**<br>(Job 1:1–2:13)            | God is calling us to a life of faith in a broken and sinful world.                                       |
-| **Session 2: The Beginning**<br>(Genesis 1:1–2:3)      | God is the Creator and Maker of all things.                                                              | 
-| **Session 3: The Image**<br>(Genesis 2:4–25)           | Humans were created as the image of God, the crown of God's creation.                                    |
-| **Session 4: The Fall**<br>(Genesis 3:1–24)            | Human sin defies God, exalts self, and ruins God's good creation.        |
-| **Session 5: The Promise**<br>(Genesis 5:28–9:17)      | .                  |
-| **Session 6: The Coming**<br>(Luke 1:1–2:21)           | God fulfilled his promise of salvation by sending his eternal Son into the world as a baby boy.          |
-| **Session 7: The Cross**<br>(Mark 15:1–16:8)           | Jesus endured great suffering, died on the cross, and resurrected from the dead to save sinful humanity. |
-| **Session 8: The Spirit**<br>(Acts 1:1–2:47)           | After Jesus' ascension, the Holy Spirit came upon the first Christians, empowering them for witness.     |
-| **Session 9: The Change**<br>(Acts 10:1–11:18)         | Cornelius and his household heard the gospel preached by Peter and responded to it in faith.             |
-| **Session 10: The Church**<br>(Revelation 1:9–3:22)    | Jesus wrote seven letters to early Christian churches, calling them to faithful devotion.                |
-| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | John recorded a vision of God's kingdom overpowering Satan's kingdom.                                    |
-| **Session 12: The Finale**<br>(Revelation 19:11–22:21) | John wrote his vision of the new creation of the world.                                                  |
+| Session | Doctrine |
+| :--- | :--- |
+| **Session 1: The Battle**<br>(Job 1:1–2:13) | God is calling us to a life of faith in a broken world. |
+| **Session 2: The Beginning**<br>(Genesis 1:1–2:3) | There is only one living and true God, the maker of all things visible and invisible. |
+| **Session 3: The Image**<br>(Genesis 2:4–25) | Of all that God has made, humans are the crown of God’s creation, his very noble image. |
+| **Session 4: The Fall**<br>(Genesis 3:1–24) | Sin is any lack of conformity to God’s character, will, or word. |
+| **Session 5: The Promise**<br>(Genesis 5:28–9:17) | God has enacted a promised plan to save his people from curse and sin. |
+| **Session 6: The Coming**<br>(Luke 1:1–2:21) | God sent his eternal and one and only Son, who was born of a virgin. |
+| **Session 7: The Cross**<br>(Mark 15:1–16:8) | Jesus died on the cross as a sufficient sacrifice to pay for sin. |
+| **Session 8: The Spirit**<br>(Acts 1:1–2:47) | The Holy Spirit indwells those who place their faith in Christ. |
+| **Session 9: The Change**<br>(Acts 10:1–11:18) | New life is promised to those who repent of their sins and place their faith in Christ. |
+| **Session 10: The Church**<br>(Revelation 1:9–3:22) | The church is the family of Christ-followers, the new covenant community of the Spirit. |
+| **Session 11: The Kingdom**<br>(Revelation 12:1–14:20) | God’s rule is in heaven and on earth, both now and yet to come. |
+| **Session 12: The Finale**<br>(Revelation 19:11–22:21) | We hope for Jesus' return, Satan's demise, the resurrection, and the new creation. |
+
 
 ### Reflection Questions
 
