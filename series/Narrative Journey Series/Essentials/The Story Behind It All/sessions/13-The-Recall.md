@@ -92,8 +92,6 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_DiscussionQuestions_Directions -->
 
-<!-- @include: Recall_FaithFoundation_DiscussionQuestions id="TheStoryRecall-Discussion" -->
-
 1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful?
 
 2. The True Story of the World: How is the biblical story the true story of the world? What other competing stories exist that try to explain things in the world?
