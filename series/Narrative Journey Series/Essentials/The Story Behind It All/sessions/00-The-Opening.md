@@ -70,37 +70,9 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 2. Responding to God: How does this psalm teach us to respond to God? How do these responses help us understand what it means to trust in God? 
 3. Evaluating Your Faith: How strong is your faith in God? In what ways can you grow in faith and trust in the Lord?
 
-### xxxxxxx
-
-<!-- @include: Opening_CoreContent_Directions -->
-
-### Key Idea
-
-<!-- @include: Opening_KeyIdea_Directions -->
-
-<Accent>Key Idea:</Accent> _Disciples of Christ are as strong in faith as they are established in the essentials of Christian belief._
-
-### Personal Interest
-
-<!-- @include: Opening_PersonalInterest_Directions -->
-
-<Question id=TheStoryOpening-Interest-Q1>1. Which biblical narrative or study topic is most relevant to your cultural context?</Question>
-
-<Question id=TheStoryOpening-Interest-Q2>2. Which biblical narrative or study topic seems most interesting or relevant to you? Why?</Question>
-
 ## Faith Foundation: Exploring the Terrain
 
 <!-- @include: Opening_FaithFoundation_Directions -->
-
-### Discussion Questions
-
-<!-- @include: Opening_Discussion_Directions -->
-
-<Question id=TheStoryOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
-
-<Question id=TheStoryOpening-Discussion-Q2>2. Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
-
-<Question id=TheStoryOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
 
 ### Historic Quote
 
@@ -112,10 +84,21 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 ### Discussion Questions
 
-1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful? 
-2. Pursuing Truth: How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?
-3. The Power of Beliefs: Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?
-4. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
+<!-- @include: Opening_Discussion_Directions -->
+
+<Question id=TheStoryOpening-Discussion-Q1>1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful? 
+<Question id=TheStoryOpening-Discussion-Q1>1. Pursuing Truth: How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth? What role should God's word have in forming our faith?
+<Question id=TheStoryOpening-Discussion-Q1>1. The Power of Beliefs: Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?
+<Question id=TheStoryOpening-Discussion-Q1>1. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
+
+<Question id=TheStoryOpening-Discussion-Q1>1. How do people pursue the truth? What different methods and sources do people use to come to an understanding of the truth?</Question>
+
+<Question id=TheStoryOpening-Discussion-Q2>2. Why is it important to have accurate beliefs? How do your beliefs affect other areas of your life (i.e., emotions, behaviors, relationships, etc.)?</Question>
+
+<Question id=TheStoryOpening-Discussion-Q3>3. How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
+
+
+### Discussion Questions
 
 ## Learning Plan: Charting the Course
 
