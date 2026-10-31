@@ -1,0 +1,31 @@
+name: Check book ids
+
+# Every public book's meta.json needs a permanent "id" (lowercase-hyphen, unique). The app's content release stops
+# without one, for everyone; this check names the book and the fix at the commit instead (Steve 2026-10-31).
+# Check only: it changes nothing and blocks nothing.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'series/**/meta.json'
+      - '.github/scripts/check-book-ids*'
+      - '.github/workflows/check-book-ids.yml'
+  pull_request:
+    paths:
+      - 'series/**/meta.json'
+      - '.github/scripts/check-book-ids*'
+      - '.github/workflows/check-book-ids.yml'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Guard tests
+        run: node --test .github/scripts/check-book-ids.test.mjs
+      - name: Every public book has a good, unique "id"
+        run: node .github/scripts/check-book-ids.mjs
