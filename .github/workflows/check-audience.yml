@@ -1,0 +1,30 @@
+name: Check audience (who can see a book)
+
+# Collective membership (M4a): every meta.json "audience" / "audienceDisplay" must be a value the website and the
+# app understand (.github/scripts/check-audience.mjs). Tooling only — never changes content.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/meta.json'
+      - '.github/scripts/check-audience*'
+      - '.github/workflows/check-audience.yml'
+  pull_request:
+    paths:
+      - '**/meta.json'
+      - '.github/scripts/check-audience*'
+      - '.github/workflows/check-audience.yml'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Guard tests
+        run: node --test .github/scripts/check-audience.test.mjs
+      - name: Every audience is a known value
+        run: node .github/scripts/check-audience.mjs
