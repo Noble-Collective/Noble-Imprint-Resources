@@ -91,8 +91,8 @@ The biblical narrative of Noah demonstrates the character of God and the reliabi
 ##### Passage Outline
 
 1. Noah's Family Lineage (Genesis 5:28–32)
-2. (Genesis 6:1–12)
-3. (Genesis 6:13–7:24)
+2. Humanity's Corruption and Noah's Righteousness (Genesis 6:1–11)
+3. Noah's Righteousness (Genesis 6:13–7:24)
 4. (Genesis 8:1–19)
 5. (Genesis 8:20–9:17)
 
