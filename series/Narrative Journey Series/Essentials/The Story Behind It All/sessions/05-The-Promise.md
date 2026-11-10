@@ -90,6 +90,12 @@ The biblical narrative of Noah demonstrates the character of God and the reliabi
 
 ##### Passage Outline
 
+1. Noah's Family Lineage (Genesis 5:28–32)
+2. (Genesis 6:1–12)
+3. (Genesis 6:13–7:24)
+4. (Genesis 8:1–19)
+5. (Genesis 8:20–9:17)
+
 #### God's Word of Salvation and Judgment
 
 > By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith.
