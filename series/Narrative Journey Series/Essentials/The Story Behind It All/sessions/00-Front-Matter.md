@@ -50,16 +50,16 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 - The Opening
 - **Session 1: The Battle** - Journeying with Job toward the Good Life
 - **Session 2: The Beginning** - Bearing Witness to God and His Creative Work
-- **Session 3: The Image** - Beholding God's Handiwork in Humanity
-- **Session 4: The Fall** - Grieving Sin's Invasion into God's Good World
+- **Session 3: The Image** - Beholding God’s Handiwork in Humanity
+- **Session 4: The Fall** - Grieving Sin’s Invasion into God’s Good World
 - **Session 5: The Promise** - Learning with Noah about Salvation and Judgment
-- **Session 6: The Coming** - Seeing God's Promises Fulfilled in Jesus
-- **Session 7: The Cross** - Celebrating Jesus' Work of Redemption
+- **Session 6: The Coming** - Seeing God’s Promises Fulfilled in Jesus
+- **Session 7: The Cross** - Celebrating Jesus’ Work of Redemption
 - **Session 8: The Spirit** - Remembering the Coming of the Holy Spirit
 - **Session 9: The Change** - Grasping Conversion with Peter and Cornelius
-- **Session 10: The Church** - Receiving Jesus' Letters to the Seven Churches
-- **Session 11: The Kingdom** - Discerning the Nature of God's Kingdom
-- **Session 12: The Finale** - Catching a Vision for God's Future World
+- **Session 10: The Church** - Receiving Jesus’ Letters to the Seven Churches
+- **Session 11: The Kingdom** - Discerning the Nature of God’s Kingdom
+- **Session 12: The Finale** - Catching a Vision for God’s Future World
 - The Recall
 - Further Resources
 
