@@ -91,10 +91,10 @@ At the apex of creation, God made human beings. Created as the image of God, fas
 ##### Passage Outline
 
 1. Humans Created as God's Image (Genesis 1:26–31)
-2. First Heavenly GGod athering (Job 1:6–12)
-3. Job's First Testing (Job 1:13–19)
-4. Second Heavenly Gathering (Job 2:1–6)
-5. Job's Second Testing (Job 2:7–10)
+2. God Fashioned Man (Genesis 2:4–7)
+3. Setting the First Human in a Garden Paradise (Genesis 2:8–14)
+4. God Gives Man Good Work (Genesis 2:15–17)
+5. Man Is Given a Helper (Job 2:7–10)
 6. Job's Friends Visit (Job 2:11–13)
 
 #### God's Image Formed and Fashioned
