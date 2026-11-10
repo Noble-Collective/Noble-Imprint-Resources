@@ -24,6 +24,10 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 <!-- @include: PublishingLicensing -->
 
+## Dedication
+
+<!-- @include: Dedication -->
+
 ## Series Introduction
 
 <!-- @include: SeriesIntroduction -->
