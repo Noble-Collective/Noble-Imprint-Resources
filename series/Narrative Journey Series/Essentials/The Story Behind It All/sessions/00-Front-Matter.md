@@ -10,13 +10,13 @@ The Story Behind It All
 
 ## Full Title Page
 
-The Story Behind It All
+The Story Behind It All  
 A Narrative Journey of Christian Belief
 
 Matthew R. Lynskey
 
-<!-- @include: NobleImprintLogoNoWords -->
-Noble Imprint
+<!-- Noble Imprint mark: artwork in the kit -->
+Noble Imprint  
 York, Pennsylvania
 
 ## Publishing and Licensing
