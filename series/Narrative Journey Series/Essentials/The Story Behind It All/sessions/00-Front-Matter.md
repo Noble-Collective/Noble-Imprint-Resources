@@ -1,5 +1,9 @@
 # Front Matter
 
+## Short Title
+
+The Story Behind It All
+
 ## Introductory Quotes
 
 > I had always felt life first as a story: and if there is a story there is a story-teller.
