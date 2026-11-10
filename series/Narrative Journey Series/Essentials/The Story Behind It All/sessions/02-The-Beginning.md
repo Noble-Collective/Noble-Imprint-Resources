@@ -90,6 +90,13 @@ In the creation account, we learn that God created all things. His work of creat
 
 ##### Passage Outline
 
+1. In the Beginning (Genesis 1:1–2)
+2. First Heavenly Gathering (Job 1:6–12)
+3. Job's First Testing (Job 1:13–19)
+4. Second Heavenly Gathering (Job 2:1–6)
+5. Job's Second Testing (Job 2:7–10)
+6. Job's Friends Visit (Job 2:11–13)
+
 #### The Creation of the World/As All Things Should Be
 
 > And God saw everything that He had made, and behold, it was very good.
