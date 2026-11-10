@@ -35,11 +35,11 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 << G. K. Chesterton, _Orthodoxy_
 
-> The Birth of Christ is the eucatastrophe of Man's history. The Resurrection is the eucatastrophe of the story of the Incarnation. This story begins and ends in joy... There is no tale ever told that men would rather find was true, and none which so many sceptical men have accepted as true on its own merits.
+> The Birth of Christ is the eucatastrophe of Man's history. The Resurrection is the eucatastrophe of the story of the Incarnation. This story begins and ends in joy ... There is no tale ever told that men would rather find was true, and none which so many sceptical men have accepted as true on its own merits.
 
 << J. R. R. Tolkien, "On Fairy Stories"
 
-> The art of Story as I see it is a very difficult one...To be stories at all they must be series of events: but it must be understood that this series—the plot, as we call it—is only really a net whereby to catch something else.
+> The art of Story as I see it is a very difficult one ... To be stories at all they must be series of events: but it must be understood that this series—the plot, as we call it—is only really a net whereby to catch something else.
 
 << C. S. Lewis, _On Stories: And Other Essays on Literature_
 
@@ -62,9 +62,6 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 - **Session 12: The Finale** - Catching a Vision for God‚Äôs Future World
 - The Recall
 - Further Resources
-
-
-
 
 ## Series Preface
 
