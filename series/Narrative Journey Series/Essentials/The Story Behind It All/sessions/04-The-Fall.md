@@ -92,8 +92,9 @@ The story of creation's fall exposes the nature of sin and its effects in the wo
 
 ##### Passage Outline
 
-1. Job's Life and Prosperity (Genesis 3:1)
-2. 
+1. Satan Tempts the First Humans (Genesis 3:1–6)
+2. The First Humans Disobey God (Genesis 3:7–19)
+3. Creation Is Cursed Because of Humanity's Sin (Genesis 3:20–24)
 
 #### Sin Entering the World
 
