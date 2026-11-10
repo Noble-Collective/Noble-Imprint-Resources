@@ -91,10 +91,11 @@ The biblical narrative of Noah demonstrates the character of God and the reliabi
 ##### Passage Outline
 
 1. Noah's Family Lineage (Genesis 5:28–32)
-2. Humanity's Corruption and Noah's Righteousness (Genesis 6:1–11)
-3. Noah's Righteousness (Genesis 6:13–7:24)
-4. (Genesis 8:1–19)
-5. (Genesis 8:20–9:17)
+2. Humanity's Corruption and Noah's Righteousness (Genesis 6:1–10)
+3. God's Intent to Judge and Save (Genesis 6:13–22)
+4. Noah Builds the Ark and God Floods the World (Genesis 7:1–24)
+5. The Flood Waters Subside (Genesis 8:1–19)
+6. God Establishes a Covenant with Noah (Genesis 8:20–9:17)
 
 #### God's Word of Salvation and Judgment
 
