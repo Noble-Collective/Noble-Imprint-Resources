@@ -1,8 +1,23 @@
 # Front Matter
 
-## Short Title
+## Short Title Page
 
 The Story Behind It All
+
+## The Narrative Journey Series
+
+<!-- @include: NarrativeJourneySeriesList -->
+
+## Full Title Page
+
+The Story Behind It All
+A Narrative Journey of Christian Belief
+
+Matthew R. Lynskey
+
+<!-- @include: NobleImprintLogoNoWords -->
+Noble Imprint
+York, Pennsylvania
 
 ## Introductory Quotes
 
@@ -18,9 +33,6 @@ The Story Behind It All
 
 << C. S. Lewis, _On Stories: And Other Essays on Literature_
 
-## The Narrative Journey Series
-
-<!-- @include: NarrativeJourneySeriesList -->
 
 ## Publishing and Licensing
 
