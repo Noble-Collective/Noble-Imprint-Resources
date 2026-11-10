@@ -206,11 +206,11 @@ In sum, the common framework overlaid in each session attempts to outline a _for
   each book's 00-Front-Matter.md @includes them under book-specific headings.
 -->
 <NarrativeJourneySeriesList>
-_Foundations_
+_Foundations: Faith Fundamentals for New Believers_
 
 - The Call of Christ: A Narrative Journey of Christian Faith
 
-_Essentials_
+_Essentials: Core Discipleship for Local Churches_
 
 - The Story Behind It All: A Narrative Journey of Christian Belief
 - The Best Possible Life: A Narrative Journey of Christian Living
@@ -219,14 +219,14 @@ _Essentials_
 - The Glory Due His Name: A Narrative Journey of Christian Devotion
 - The Kingdom Come: A Narrative Journey of Christian Witness
 
-_Pathways_
+_Pathways: Basic Training for Emerging Leaders_
 
 - The Ends of the Earth: A Narrative Journey of Christian Mission
 - The Sacred Script: A Narrative Journey of Christian Worldview
 - The Making of a Shepherd: A Narrative Journey of Christian Leadership
 - The Aim of Our Charge: A Narrative Journey of Christian Instruction
 
-_Explorations: _
+_Explorations: Further Study for Ongoing Maturity_
 </NarrativeJourneySeriesList>
 
 <PublishingLicensing>
