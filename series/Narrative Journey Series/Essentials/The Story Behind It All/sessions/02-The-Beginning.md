@@ -91,11 +91,14 @@ In the creation account, we learn that God created all things. His work of creat
 ##### Passage Outline
 
 1. In the Beginning (Genesis 1:1–2)
-2. First Heavenly Gathering (Job 1:6–12)
-3. Job's First Testing (Job 1:13–19)
-4. Second Heavenly Gathering (Job 2:1–6)
-5. Job's Second Testing (Job 2:7–10)
-6. Job's Friends Visit (Job 2:11–13)
+2. The First Day of Creation (Genesis 1:3–4)
+3. The First Day of Creation ()
+4. The Second Day of Creation ()
+5. The Third Day of Creation ()
+6. The Fourth Day of Creation ()
+7. The Fifth Day of Creation ()
+8. The Sixth Day of Creation ()
+9. The Seventh Day of Creation (Genesis 2:1–3)
 
 #### The Creation of the World/As All Things Should Be
 
