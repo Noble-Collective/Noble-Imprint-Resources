@@ -92,12 +92,8 @@ The story of creation's fall exposes the nature of sin and its effects in the wo
 
 ##### Passage Outline
 
-1. Job's Life and Prosperity (Job 1:1–5)
-2. First Heavenly Gathering (Job 1:6–12)
-3. Job's First Testing (Job 1:13–19)
-4. Second Heavenly Gathering (Job 2:1–6)
-5. Job's Second Testing (Job 2:7–10)
-6. Job's Friends Visit (Job 2:11–13)
+1. Job's Life and Prosperity (Genesis 3:1)
+2. 
 
 #### Sin Entering the World
 
