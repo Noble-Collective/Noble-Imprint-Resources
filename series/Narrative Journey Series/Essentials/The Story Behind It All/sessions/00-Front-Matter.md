@@ -14,13 +14,13 @@
 
 << C. S. Lewis, _On Stories: And Other Essays on Literature_
 
-## A Narrative Journey Series
+## The Narrative Journey Series
 
 <!-- @include: NarrativeJourneySeriesList -->
 
 ## Publishing and Licensing
 
-_The Story Behind It All: A Narrative Journey of Christian Belief_, Pre-Release Edition
+_The Story Behind It All: A Narrative Journey of Christian Belief_
 
 <!-- @include: PublishingLicensing -->
 
