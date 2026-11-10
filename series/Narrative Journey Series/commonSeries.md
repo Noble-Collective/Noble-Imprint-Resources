@@ -225,10 +225,12 @@ _Pathways_
 - The Sacred Script: A Narrative Journey of Christian Worldview
 - The Making of a Shepherd: A Narrative Journey of Christian Leadership
 - The Aim of Our Charge: A Narrative Journey of Christian Instruction
+
+_Explorations: _
 </NarrativeJourneySeriesList>
 
 <PublishingLicensing>
-Series: A Narrative Journey
+Series: The Narrative Journey
 
 © 2026 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
 
