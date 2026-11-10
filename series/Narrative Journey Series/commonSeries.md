@@ -242,6 +242,12 @@ Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), a
 </PublishingLicensing>
 
 
+
+<Dedication>
+For Noble City Church—my family of fellow sojourners and exiles
+</Dedication>
+
+
 <!-- ───────────────── The Recall — shared framework blocks ───────────────── -->
 
 <Recall_BookOverview_Directions>
