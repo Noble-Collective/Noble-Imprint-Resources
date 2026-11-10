@@ -1,3 +1,138 @@
+<!-- ───────────────── Front matter — in book order ───────────────── -->
+
+<!--
+  Front matter, in the order of the printed pages. Each book's 00-Front-Matter.md @includes these:
+  NarrativeJourneySeriesList (the series list page), PublishingLicensing (copyright and licensing),
+  Dedication (the same in every book of the series), SeriesPreface (the Series Preface spread).
+-->
+<NarrativeJourneySeriesList>
+_Foundations: Faith Fundamentals for New Believers_
+
+- The Call of Christ: A Narrative Journey of Christian Faith
+
+_Essentials: Core Discipleship for Local Churches_
+
+- The Story Behind It All: A Narrative Journey of Christian Belief
+- The Best Possible Life: A Narrative Journey of Christian Living
+- The Open Invitation: A Narrative Journey of Christian Formation
+- The Bond Between Us: A Narrative Journey of Christian Community
+- The Glory Due His Name: A Narrative Journey of Christian Devotion
+- The Kingdom Come: A Narrative Journey of Christian Witness
+
+_Pathways: Basic Training for Emerging Leaders_
+
+- The Ends of the Earth: A Narrative Journey of Christian Mission
+- The Sacred Script: A Narrative Journey of Christian Worldview
+- The Making of a Shepherd: A Narrative Journey of Christian Leadership
+- The Aim of Our Charge: A Narrative Journey of Christian Instruction
+
+_Explorations: Further Study for Ongoing Maturity_
+</NarrativeJourneySeriesList>
+
+<PublishingLicensing>
+Series: The Narrative Journey
+
+© 2026 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
+
+Published by Noble Imprint (www.nobleimprint.com), a church-based publishing collaborative and ministry of Noble Collective (www.noblecollective.org).
+
+This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+
+Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
+</PublishingLicensing>
+
+<Dedication>
+For Noble City Church—my family of fellow sojourners and exiles
+</Dedication>
+
+<SeriesPreface>
+Welcome to the _Narrative Journey_! This series is a labor of love offered to the glory of God, for the sake of Christ, and in humble dependence upon the Holy Spirit. At its core, the _Narrative Journey_ is a tool to establish disciples and church communities in the essentials of the Christian faith. The writing, design, and curricular shape of the series took place in the context of a local church community over the course of more than a decade. It has been tested by actual leaders, used by real disciples, and studied by Christian communities, both in homes and in larger church assemblies. 
+
+Although a small team of committed ministry leaders spent countless hours on this project, it really is a product of the wider church—contemporary and historic. The passage selection and pedagogical contour of these studies were minted as God's people shared life together, ventured in mission together, and bore leadership burdens together. The core content and formative orientation of this series was rooted and refined by a rich ongoing dialogue around the Scripture and with the saints of old. In essence, the _Narrative Journey_ is a modern-day catechism for the church on mission.
+
+Fashioned after the ministry of Christ, rooted in the historic practice of catechism, tailored for the establishment and expansion of the church, and re-envisioned for a postmodern society, the _Narrative Journey_ facilitates a churchwide dialogue around key biblical narratives, illuminating core elements to the Christian life. As a whole, the _Narrative Journey_ is divided into four subseries—_Foundations_, _Essentials_, _Pathways_, and *Explorations*—which generally correspond to the growth process of a maturing Christian. _Foundations_ orients new believers to basics of the Christian faith, preparing them for baptism and the first steps of discipleship. _Essentials_ establishes Christ followers and churches in core biblical teaching, covering the topics of Christian belief, living, formation, community, devotion, and witness. _Pathways_ equips emerging leaders in fundamentals of Christian mission, worldview, leadership, and ministry. *Explorations* surveys important topics germane to Christian faith and practice, and studies how God's inspired word speaks to these pressing concerns. Like fountainheads from which living waters flow, each of these subseries—and their related topical domains—serve as headsprings that irrigate Christians and churches in their journey of discipleship.
+
+In general, these topics build from (and expand upon) a long tradition of catechism in the history of the church, which taught the essentials of the faith through key summaries: the Apostles' Creed, the Ten Commandments, the Lord's Prayer, the sacraments (baptism and Communion), and the biblical metanarrative. Throughout the history of the church, each of these summative statements or faiths summaries focused on a vital domain—a core content area—of the Christian life. The Apostles' Creed sums up the essence of Christian belief. The Ten Commandments offer a summary of godly living. The Lord's Prayer guides believers into the habits and rhythms of relating to God. The sacraments of baptism and communion instruct the church in Christian worship and devotion. And the biblical metanarrative offers an overarching framework to understand God's work in his world. 
+
+In the _Narrative Journey_, we have built our catechetical process on the shoulders of the saints who have gone before us. While we do not strictly follow the exact format of the ancient creeds and catechism, the framework and content of this series generally and genially aligns with these historic statements of Christian faith and life. Key biblical pericopes have been selected and studied so as to illuminate the fundamentals of the historic, orthodox Christian faith. We hope that readers will find this series to be quite unoriginal, in the sense that it is structured around these same core teachings that Christians have always treasured.
+
+By equipping disciples—old and young, men and women, rich and poor, oral and literate—with a means to accurately retain and skillfully communicate the essentials of the faith, this study curates an experience of discovery whereby biblical truths are sowed deeply into hearts, encouraging believers to make immediate implementation of core principles into their life. That being said, the _Narrative Journey_ is not just a study. It is a biblical, theological, experiential, and ministerial experience. As a curriculum that charts the course to faith maturity, this series serves as a humble roadmap to the Christian faith. It is an invitation to encounter God through his inspired Word, enjoy meaningful fellowship with other believers in community dialogue, embody the faith through spiritual disciplines, and embrace God's mission for his world.
+
+For disciples who are devoted to following Christ, leaders who are vested with the care of the flock, and churches that are seeking to represent Christ in their communities, we hope that this series will provide a simple yet open passage into the rich storehouse of God's redemptive work. If even a portion of this vision comes to reality, we pray it comes in the form of transformed lives, established churches, empowered leaders, and gospel progress. May the testimony of its fruit be "written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts" (2 Corinthians 3:3). To that end: "Let the favor of the Lord our God be upon us, and establish the work of our hands upon us; yes, establish the work of our hands" (Psalm 90:17).
+</SeriesPreface>
+
+<!-- ───────────────── The Opening and The Recall — shared directions ───────────────── -->
+
+<!--
+  OpeningRecall_ blocks: the reworked Opening and Recall (2026-10-29). Books move to these one by one;
+  until then the legacy Opening_ and Recall_ blocks further down stay.
+-->
+<OpeningRecall_ScriptureMeditation_Directions>
+**Study the Text:** Discipleship is founded upon the truth of God’s word. Read the biblical psalm and discuss the study questions to grasp the overarching theme of this book.
+</OpeningRecall_ScriptureMeditation_Directions>
+
+<OpeningRecall_KeyPassage_Directions>
+Read the following psalm. Observe what is written. Try to discern its meaning.
+</OpeningRecall_KeyPassage_Directions>
+
+<OpeningRecall_ObservationQuestions_Directions>
+Discuss the following questions. Base your responses on the psalm.
+</OpeningRecall_ObservationQuestions_Directions>
+
+<OpeningRecall_FaithFoundation_Directions>
+**Consider the Theme:** God calls his people to move beyond a superficial understanding of Christian essentials. Read the key quote and discuss the following questions, pondering the great importance of this study’s topic.
+</OpeningRecall_FaithFoundation_Directions>
+
+<OpeningRecall_HistoricQuote_Directions>
+Read the following excerpt. Reflect on what it says about the Christian faith.
+</OpeningRecall_HistoricQuote_Directions>
+
+<OpeningRecall_DiscussionQuestions_Directions>
+Discuss the following questions. Use the quote to help guide the conversation.
+</OpeningRecall_DiscussionQuestions_Directions>
+
+<OpeningRecall_LearningPlan_Directions>
+**View the Design:** Spiritual growth calls for the internalization of the truth in an ordered process of learning. Review the session overview and consider the reflection questions to prepare for your upcoming study journey.
+</OpeningRecall_LearningPlan_Directions>
+
+<OpeningRecall_BookOverview_Directions>
+Look over the sessions in this book. Identify passages and topics of interest.
+</OpeningRecall_BookOverview_Directions>
+
+<OpeningRecall_ReflectionQuestions_Directions>
+Discuss the following questions, preparing your mind and heart for this study.
+</OpeningRecall_ReflectionQuestions_Directions>
+
+<OpeningRecall_DoctrinalSummary_Directions>
+**Summarize the Faith:** Mature disciples embrace the whole teaching of God’s word. In this section, you will explore example confessional statements and envision your own.
+</OpeningRecall_DoctrinalSummary_Directions>
+
+<OpeningRecall_HistoricConfession_Directions>
+Read the following declaration. Observe its summary of Christian life and faith.
+</OpeningRecall_HistoricConfession_Directions>
+
+<OpeningRecall_ContemporarySummary_Directions>
+Read the following example which synthesizes core Christian teaching.
+</OpeningRecall_ContemporarySummary_Directions>
+
+<OpeningRecall_CoreProject_Directions>
+Read the following instructions. These explain a final project for this study.
+</OpeningRecall_CoreProject_Directions>
+
+<OpeningRecall_FaithPractice_Directions>
+**Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Commit yourself and your community to the Lord with a time of focused prayer.
+</OpeningRecall_FaithPractice_Directions>
+
+<OpeningRecall_HistoricPrayer_Directions>
+Pray this prayer. Read it reflectively together as a community.
+</OpeningRecall_HistoricPrayer_Directions>
+
+<OpeningRecall_CommunityPrayer_Directions>
+Identify prayer requests for you and your community. Commit these to the Lord.
+</OpeningRecall_CommunityPrayer_Directions>
+
+<!-- ───────────────── Sessions — the five movements ───────────────── -->
+
 <StudyTheText>
 **Study the Text:** The Bible is God’s inspired word to his people. Christian disciples mature in the faith when they are grounded in God’s word. In this movement, you will study the basic details of the biblical text.
 </StudyTheText>
@@ -72,6 +207,8 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <Question id={id}-Q4>4. <Accent>Reflecting on Mission:</Accent> What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
 </StrategyQuestions>
 
+<!-- ───────────────── Sessions — infographics ───────────────── -->
+
 <NarrativeStructureInfographic>
 <Infographic title="Narrative Structure" type="sequence">
 Stories are **clues to life**; life itself is lived as an **unfolding story**. Below are the **typical features** in every good story.
@@ -145,35 +282,12 @@ The truth of **God's word** is for the **whole world**. Below are **outreach ide
 </Infographic>
 </MissionPracticesInfographic>
 
-<!--
-  TestSharedSeriesNote — SERIES-LEVEL fixture for the shared-content editing feature.
-  Only the hidden Test Book includes it; safe/additive for live books.
--->
-<TestSharedSeriesNote>
-This is shared **series-level** content from `commonSeries.md`. Editing it changes every session in the series that includes it.
-</TestSharedSeriesNote>
+<!-- ───────────────── Back matter ───────────────── -->
 
 <!--
-  SeriesIntroduction / SessionOverview — authoritative, fully-generic front-matter
-  prose from The Bond Between Us PDF (the "Series Orientation"). Every Narrative Journey
-  book's 00-Front-Matter.md @includes these; only the title + copyright stay inline per book.
+  SessionOverview: the five movements explained. Moving from the front matter to Further Resources
+  (Seeing the Design); still @included by the front matter of the books not yet converted.
 -->
-<SeriesPreface>
-Welcome to the _Narrative Journey_! This series is a labor of love offered to the glory of God, for the sake of Christ, and in humble dependence upon the Holy Spirit. At its core, the _Narrative Journey_ is a tool to establish disciples and church communities in the essentials of the Christian faith. The writing, design, and curricular shape of the series took place in the context of a local church community over the course of more than a decade. It has been tested by actual leaders, used by real disciples, and studied by Christian communities, both in homes and in larger church assemblies. 
-
-Although a small team of committed ministry leaders spent countless hours on this project, it really is a product of the wider church—contemporary and historic. The passage selection and pedagogical contour of these studies were minted as God's people shared life together, ventured in mission together, and bore leadership burdens together. The core content and formative orientation of this series was rooted and refined by a rich ongoing dialogue around the Scripture and with the saints of old. In essence, the _Narrative Journey_ is a modern-day catechism for the church on mission.
-
-Fashioned after the ministry of Christ, rooted in the historic practice of catechism, tailored for the establishment and expansion of the church, and re-envisioned for a postmodern society, the _Narrative Journey_ facilitates a churchwide dialogue around key biblical narratives, illuminating core elements to the Christian life. As a whole, the _Narrative Journey_ is divided into four subseries—_Foundations_, _Essentials_, _Pathways_, and *Explorations*—which generally correspond to the growth process of a maturing Christian. _Foundations_ orients new believers to basics of the Christian faith, preparing them for baptism and the first steps of discipleship. _Essentials_ establishes Christ followers and churches in core biblical teaching, covering the topics of Christian belief, living, formation, community, devotion, and witness. _Pathways_ equips emerging leaders in fundamentals of Christian mission, worldview, leadership, and ministry. *Explorations* surveys important topics germane to Christian faith and practice, and studies how God's inspired word speaks to these pressing concerns. Like fountainheads from which living waters flow, each of these subseries—and their related topical domains—serve as headsprings that irrigate Christians and churches in their journey of discipleship.
-
-In general, these topics build from (and expand upon) a long tradition of catechism in the history of the church, which taught the essentials of the faith through key summaries: the Apostles' Creed, the Ten Commandments, the Lord's Prayer, the sacraments (baptism and Communion), and the biblical metanarrative. Throughout the history of the church, each of these summative statements or faiths summaries focused on a vital domain—a core content area—of the Christian life. The Apostles' Creed sums up the essence of Christian belief. The Ten Commandments offer a summary of godly living. The Lord's Prayer guides believers into the habits and rhythms of relating to God. The sacraments of baptism and communion instruct the church in Christian worship and devotion. And the biblical metanarrative offers an overarching framework to understand God's work in his world. 
-
-In the _Narrative Journey_, we have built our catechetical process on the shoulders of the saints who have gone before us. While we do not strictly follow the exact format of the ancient creeds and catechism, the framework and content of this series generally and genially aligns with these historic statements of Christian faith and life. Key biblical pericopes have been selected and studied so as to illuminate the fundamentals of the historic, orthodox Christian faith. We hope that readers will find this series to be quite unoriginal, in the sense that it is structured around these same core teachings that Christians have always treasured.
-
-By equipping disciples—old and young, men and women, rich and poor, oral and literate—with a means to accurately retain and skillfully communicate the essentials of the faith, this study curates an experience of discovery whereby biblical truths are sowed deeply into hearts, encouraging believers to make immediate implementation of core principles into their life. That being said, the _Narrative Journey_ is not just a study. It is a biblical, theological, experiential, and ministerial experience. As a curriculum that charts the course to faith maturity, this series serves as a humble roadmap to the Christian faith. It is an invitation to encounter God through his inspired Word, enjoy meaningful fellowship with other believers in community dialogue, embody the faith through spiritual disciplines, and embrace God's mission for his world.
-
-For disciples who are devoted to following Christ, leaders who are vested with the care of the flock, and churches that are seeking to represent Christ in their communities, we hope that this series will provide a simple yet open passage into the rich storehouse of God's redemptive work. If even a portion of this vision comes to reality, we pray it comes in the form of transformed lives, established churches, empowered leaders, and gospel progress. May the testimony of its fruit be "written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts" (2 Corinthians 3:3). To that end: "Let the favor of the Lord our God be upon us, and establish the work of our hands upon us; yes, establish the work of our hands" (Psalm 90:17).
-</SeriesPreface>
-
 <SessionOverview>
 The structure of each session has been designed with Christian formation in mind. The five movements in each session teach disciples to collectively engage the biblical text in a transformative way. With this formative design consistently applied to each session, such a hermeneutical (or interpretive) process serves to equip the church with the ability to grow as skillful readers of Scripture beyond the scope of this series. As each session unfolds, its purposeful design serves the maturity of the church through a process that is sound in its pedagogy, collaborative in its experience, and distinctively Christian in its character. Workable in either an oral or literate context (or some blend of the two), this process aims to situate transformative Bible reading in the context of the church. Toward this end, the session structure integrates scriptural exegesis (or study), theological discussion, personal application, ministry training, and missional engagement. It is ordered in a way that cultivates meaningful reflection on the Bible, God, self, church, and world. In what follows, we briefly survey this fivefold framework of formative Scripture reading.
 
@@ -200,55 +314,103 @@ As they accept God's invitation to global mission, Christians have been called t
 In sum, the common framework overlaid in each session attempts to outline a _formative hermeneutic_: a transformative way to engage God's word as a community of faith. Through this process, God's people gather around carefully selected biblical passages as a means to become established in the faith. In this community study process, disciples engage the text, discuss its truth, examine their lives, edify the faith community, and bear witness to the truth in their spheres of influence. Engaging the text in this way not only anchors the church in the truth of God's word, it also teaches disciples how to study any passage of Scripture in a well-rounded and formative manner. Moreover, by placing the Scriptures in the center of the church, the community of faith grows to maturity and becomes equipped as a witness to the surrounding world.
 </SessionOverview>
 
-<!--
-  NarrativeJourneySeriesList — the front-matter "A Narrative Journey Series" page (full series
-  list). PublishingLicensing — the shared copyright/licensing text. Both are SERIES-LEVEL;
-  each book's 00-Front-Matter.md @includes them under book-specific headings.
--->
-<NarrativeJourneySeriesList>
-_Foundations: Faith Fundamentals for New Believers_
+<!-- ───────────────── Legacy — The Opening (books not yet converted) ───────────────── -->
 
-- The Call of Christ: A Narrative Journey of Christian Faith
+<Opening_BookOverview_Directions>
+**See the Plan:** Discipleship is a process of establishing believers in the essentials of the Christian faith. In this section, explore the core content, consider the key idea, and articulate particular areas of interest in this study.
+</Opening_BookOverview_Directions>
 
-_Essentials: Core Discipleship for Local Churches_
+<Opening_CoreContent_Directions>
+An outline of Christian teaching is like a map for the journey of faith. Survey the twelve scriptural passages and associated themes that will set the itinerary for your upcoming study.
+</Opening_CoreContent_Directions>
 
-- The Story Behind It All: A Narrative Journey of Christian Belief
-- The Best Possible Life: A Narrative Journey of Christian Living
-- The Open Invitation: A Narrative Journey of Christian Formation
-- The Bond Between Us: A Narrative Journey of Christian Community
-- The Glory Due His Name: A Narrative Journey of Christian Devotion
-- The Kingdom Come: A Narrative Journey of Christian Witness
+<Opening_KeyIdea_Directions>
+Faithful disciples plant firm roots in the soil of biblical principles. Review the main idea of this study. Discuss how the individual narratives and corresponding themes relate to this overarching theme.
+</Opening_KeyIdea_Directions>
 
-_Pathways: Basic Training for Emerging Leaders_
+<Opening_PersonalInterest_Directions>
+The essentials of the Christian faith are extremely relevant to our lives. Pick one or two biblical passages or study themes that capture your attention. Briefly discuss with your community what most interests you about these narratives and topics.
+</Opening_PersonalInterest_Directions>
 
-- The Ends of the Earth: A Narrative Journey of Christian Mission
-- The Sacred Script: A Narrative Journey of Christian Worldview
-- The Making of a Shepherd: A Narrative Journey of Christian Leadership
-- The Aim of Our Charge: A Narrative Journey of Christian Instruction
+<Opening_FaithFoundation_Directions>
+**Consider the Theme:** God calls his people to move beyond a superficial understanding of Christian essentials. Use the discussion questions and key quote to ponder how this study’s topic is of great importance in the Christian faith.
+</Opening_FaithFoundation_Directions>
 
-_Explorations: Further Study for Ongoing Maturity_
-</NarrativeJourneySeriesList>
+<Opening_Discussion_Directions>
+Disciples progress in the faith in the context of committed Christian community. Discuss the following questions with other believers as a means to orient your community to the subject of this study.
+</Opening_Discussion_Directions>
 
-<PublishingLicensing>
-Series: The Narrative Journey
+<Opening_SignificantQuote_Directions>
+Christians learn from believers who live in different generations and cultures. Read the following quote and discuss with others what it suggests about the importance of Christian witness.
+</Opening_SignificantQuote_Directions>
 
-© 2026 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
+<Opening_LearningPlan_Directions>
+**Organize the Community:** Formative Bible study takes place in Christian relationship. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey.
+</Opening_LearningPlan_Directions>
 
-Published by Noble Imprint (www.nobleimprint.com), a church-based publishing collaborative and ministry of Noble Collective (www.noblecollective.org).
+<Opening_SessionFramework_Intro>
+The Scriptures bear authority over every area of our lives. To deeply understand any particular passage, disciples must engage the text at various levels. In the Narrative Journey series, a common study framework is applied to each core session. This common framework helps disciples engage each biblical passage in exegetical, theological, personal, ministry, and missional ways. This dynamic hermeneutical approach (a spiraling process through five movements that serves to deepen your understanding as you engage the text multiple times) helps believers and churches faithfully engage the Scriptures for life transformation.
 
-This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: https://creativecommons.org/licenses/by-sa/4.0/.
+Review the five movements of this interpretive framework and discuss how this hermeneutical approach helps individuals and communities engage the biblical text in a way that reforms our thinking and changes our lives.
+</Opening_SessionFramework_Intro>
 
-Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), and are dedicated to the public domain as of April 30, 2023.
-</PublishingLicensing>
+<Opening_PlanningCalendar_Directions>
+Wisdom calls believers and the community to approach an ordered process of faith development with diligence and preparation. Use the following calendar to plan out dates and teachers for the various sessions in this study.
+</Opening_PlanningCalendar_Directions>
 
+<Opening_CoreProject_Directions>
+**Preview the Work:** Genuine disciples integrate the truth of God’s word into their lives. In this section, you will preview a capstone project, view an example confessional statement, and imagine how God might want to change your life.
+</Opening_CoreProject_Directions>
 
+<Opening_ImaginativeStorytelling_Directions>
+Believers in Jesus look forward to the future with hope and anticipation. As you consider the overarching topic of this study, think about how God wants to mature you in the faith. Specifically, imagine how your life would be different as God grows you into a mature Christian.
+</Opening_ImaginativeStorytelling_Directions>
 
-<Dedication>
-For Noble City Church—my family of fellow sojourners and exiles
-</Dedication>
+<Opening_FaithPractice_Directions>
+**Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Familiarize yourself with the growth outcomes of this study, identify an area of focus, and pray for God’s transformative work.
+</Opening_FaithPractice_Directions>
 
+<Opening_GrowthOutcomes_Directions>
+Setting growth goals helps to refine our Christian walk. As you look ahead to the upcoming study, read through the following outcomes to clarify ways in which God would have you grow in your faith.
+</Opening_GrowthOutcomes_Directions>
 
-<!-- ───────────────── The Recall — shared framework blocks ───────────────── -->
+<Opening_FocusedArea_Directions>
+Growth in the Christian life often happens one step at a time. Identify one of the above outcomes in which you want to grow. Name this specific outcome to your community, asking them to support you in prayer.
+</Opening_FocusedArea_Directions>
+
+<Opening_CommunityPrayer_Directions>
+We depend upon God's power to grow each step in our Christian journeys. Pray that God would help each person in your community mature in the identified growth areas. Feel free to use the space below to write out a personal prayer or record requests from other members that you can keep in prayer throughout the course of this study.
+</Opening_CommunityPrayer_Directions>
+
+<Opening_SessionFrameworkInfographic>
+<figure class="five-movements">
+<svg viewBox="0 0 780 600" width="100%" role="img" aria-label="The five movements of each session" style="color: var(--accent, #8D4449); max-width:640px; display:block; margin:0.5rem auto; font-family: Georgia, 'Times New Roman', serif;">
+<circle cx="390" cy="290" r="150" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2 7" stroke-linecap="round" opacity="0.75"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(478.2,168.6) rotate(36.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(532.7,336.4) rotate(108.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(390.0,440.0) rotate(180.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(247.3,336.4) rotate(252.0)" fill="currentColor"/>
+<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(301.8,168.6) rotate(324.0)" fill="currentColor"/>
+<circle cx="390.0" cy="140.0" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(390.0,140.0)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-9 C-4,-12 -10,-12 -14,-10 L-14,8 C-10,6 -4,6 0,9 C4,6 10,6 14,8 L14,-10 C10,-12 4,-12 0,-9 Z"/><line x1="0" y1="-9" x2="0" y2="9"/></g>
+<text text-anchor="middle" y="46.0"><tspan x="390.0" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Biblical Interpretation</tspan><tspan x="390.0" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Hearing the Word</tspan><tspan x="390.0" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">exploring the textual</tspan><tspan x="390.0" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">details of the passage</tspan></text>
+<circle cx="532.7" cy="243.6" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(532.7,243.6)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="-7" cy="-5" r="5"/><circle cx="8" cy="-3" r="4"/><path d="M-15,10 C-15,1 1,1 1,10"/><path d="M3,9 C3,2 16,2 16,9"/></g>
+<text text-anchor="start" y="225.6"><tspan x="572.7" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Theological Dialogue</tspan><tspan x="572.7" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Discussing the Plot</tspan><tspan x="572.7" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">discerning timeless truths</tspan><tspan x="572.7" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">of the Christian faith</tspan></text>
+<circle cx="478.2" cy="411.4" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(478.2,411.4)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="13"/><path d="M6,-6 L-2,2 L-6,6 L2,-2 Z" fill="currentColor" stroke="none"/><circle cx="0" cy="0" r="1.6" fill="currentColor" stroke="none"/></g>
+<text text-anchor="start" y="393.4"><tspan x="518.2" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Personal Reflection</tspan><tspan x="518.2" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Entering the Story</tspan><tspan x="518.2" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">practicing God’s ways</tspan><tspan x="518.2" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">in our personal lives</tspan></text>
+<circle cx="301.8" cy="411.4" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(301.8,411.4)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11,-12 C-3,-11 -11,2 -11,12 C-1,12 12,4 12,-9 Z"/><line x1="-6" y1="12" x2="6" y2="0"/><line x1="-2" y1="4" x2="6" y2="4"/><line x1="-5" y1="8" x2="2" y2="8"/></g>
+<text text-anchor="end" y="393.4"><tspan x="261.8" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Ministry Practice</tspan><tspan x="261.8" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Rehearsing the Script</tspan><tspan x="261.8" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">edifying the church</tspan><tspan x="261.8" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">community with God’s word</tspan></text>
+<circle cx="247.3" cy="243.6" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
+<g transform="translate(247.3,243.6)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="13"/><ellipse cx="0" cy="0" rx="5.5" ry="13"/><line x1="-13" y1="0" x2="13" y2="0"/><line x1="-11" y1="-6" x2="11" y2="-6"/><line x1="-11" y1="6" x2="11" y2="6"/></g>
+<text text-anchor="end" y="225.6"><tspan x="207.3" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Missional Outreach</tspan><tspan x="207.3" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Publicizing the Truth</tspan><tspan x="207.3" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">engaging the unbelieving</tspan><tspan x="207.3" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">world with the gospel</tspan></text>
+</svg>
+</figure>
+</Opening_SessionFrameworkInfographic>
+
+<!-- ───────────────── Legacy — The Recall (books not yet converted) ───────────────── -->
 
 <Recall_BookOverview_Directions>
 **Review the Study:** Disciples mature as they get grounded in faith essentials. Summarize the study's main idea, retell one biblical narrative, and review the core passages explored in this study.
@@ -329,164 +491,12 @@ God calls us to follow him in all spheres of life: individual, family, church, a
 We can only hope to grow in our faith by God's divine help. In the context of your faith community, celebrate areas of growth and share upcoming goals. Then, spend time praying for each other as a community.
 </Recall_FaithPractice_CommunityPrayer>
 
+<!-- ───────────────── Test ───────────────── -->
 
-<!-- ───────────────── The Opening — shared framework blocks ───────────────── -->
-
-<Opening_BookOverview_Directions>
-**See the Plan:** Discipleship is a process of establishing believers in the essentials of the Christian faith. In this section, explore the core content, consider the key idea, and articulate particular areas of interest in this study.
-</Opening_BookOverview_Directions>
-
-<Opening_CoreContent_Directions>
-An outline of Christian teaching is like a map for the journey of faith. Survey the twelve scriptural passages and associated themes that will set the itinerary for your upcoming study.
-</Opening_CoreContent_Directions>
-
-<Opening_KeyIdea_Directions>
-Faithful disciples plant firm roots in the soil of biblical principles. Review the main idea of this study. Discuss how the individual narratives and corresponding themes relate to this overarching theme.
-</Opening_KeyIdea_Directions>
-
-<Opening_PersonalInterest_Directions>
-The essentials of the Christian faith are extremely relevant to our lives. Pick one or two biblical passages or study themes that capture your attention. Briefly discuss with your community what most interests you about these narratives and topics.
-</Opening_PersonalInterest_Directions>
-
-<Opening_FaithFoundation_Directions>
-**Consider the Theme:** God calls his people to move beyond a superficial understanding of Christian essentials. Use the discussion questions and key quote to ponder how this study’s topic is of great importance in the Christian faith.
-</Opening_FaithFoundation_Directions>
-
-<Opening_Discussion_Directions>
-Disciples progress in the faith in the context of committed Christian community. Discuss the following questions with other believers as a means to orient your community to the subject of this study.
-</Opening_Discussion_Directions>
-
-<Opening_SignificantQuote_Directions>
-Christians learn from believers who live in different generations and cultures. Read the following quote and discuss with others what it suggests about the importance of Christian witness.
-</Opening_SignificantQuote_Directions>
-
-<Opening_LearningPlan_Directions>
-**Organize the Community:** Formative Bible study takes place in Christian relationship. Review the session framework and use the planning calendar to coordinate your learning for this upcoming study journey.
-</Opening_LearningPlan_Directions>
-
-<Opening_SessionFramework_Intro>
-The Scriptures bear authority over every area of our lives. To deeply understand any particular passage, disciples must engage the text at various levels. In the Narrative Journey series, a common study framework is applied to each core session. This common framework helps disciples engage each biblical passage in exegetical, theological, personal, ministry, and missional ways. This dynamic hermeneutical approach (a spiraling process through five movements that serves to deepen your understanding as you engage the text multiple times) helps believers and churches faithfully engage the Scriptures for life transformation.
-
-Review the five movements of this interpretive framework and discuss how this hermeneutical approach helps individuals and communities engage the biblical text in a way that reforms our thinking and changes our lives.
-</Opening_SessionFramework_Intro>
-
-<Opening_PlanningCalendar_Directions>
-Wisdom calls believers and the community to approach an ordered process of faith development with diligence and preparation. Use the following calendar to plan out dates and teachers for the various sessions in this study.
-</Opening_PlanningCalendar_Directions>
-
-<Opening_CoreProject_Directions>
-**Preview the Work:** Genuine disciples integrate the truth of God’s word into their lives. In this section, you will preview a capstone project, view an example confessional statement, and imagine how God might want to change your life.
-</Opening_CoreProject_Directions>
-
-<Opening_ImaginativeStorytelling_Directions>
-Believers in Jesus look forward to the future with hope and anticipation. As you consider the overarching topic of this study, think about how God wants to mature you in the faith. Specifically, imagine how your life would be different as God grows you into a mature Christian.
-</Opening_ImaginativeStorytelling_Directions>
-
-<Opening_FaithPractice_Directions>
-**Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Familiarize yourself with the growth outcomes of this study, identify an area of focus, and pray for God’s transformative work.
-</Opening_FaithPractice_Directions>
-
-<Opening_GrowthOutcomes_Directions>
-Setting growth goals helps to refine our Christian walk. As you look ahead to the upcoming study, read through the following outcomes to clarify ways in which God would have you grow in your faith.
-</Opening_GrowthOutcomes_Directions>
-
-<Opening_FocusedArea_Directions>
-Growth in the Christian life often happens one step at a time. Identify one of the above outcomes in which you want to grow. Name this specific outcome to your community, asking them to support you in prayer.
-</Opening_FocusedArea_Directions>
-
-<Opening_CommunityPrayer_Directions>
-We depend upon God's power to grow each step in our Christian journeys. Pray that God would help each person in your community mature in the identified growth areas. Feel free to use the space below to write out a personal prayer or record requests from other members that you can keep in prayer throughout the course of this study.
-</Opening_CommunityPrayer_Directions>
-
-
-<Opening_SessionFrameworkInfographic>
-<figure class="five-movements">
-<svg viewBox="0 0 780 600" width="100%" role="img" aria-label="The five movements of each session" style="color: var(--accent, #8D4449); max-width:640px; display:block; margin:0.5rem auto; font-family: Georgia, 'Times New Roman', serif;">
-<circle cx="390" cy="290" r="150" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2 7" stroke-linecap="round" opacity="0.75"/>
-<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(478.2,168.6) rotate(36.0)" fill="currentColor"/>
-<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(532.7,336.4) rotate(108.0)" fill="currentColor"/>
-<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(390.0,440.0) rotate(180.0)" fill="currentColor"/>
-<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(247.3,336.4) rotate(252.0)" fill="currentColor"/>
-<path d="M-5,-4 L5,0 L-5,4 Z" transform="translate(301.8,168.6) rotate(324.0)" fill="currentColor"/>
-<circle cx="390.0" cy="140.0" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
-<g transform="translate(390.0,140.0)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M0,-9 C-4,-12 -10,-12 -14,-10 L-14,8 C-10,6 -4,6 0,9 C4,6 10,6 14,8 L14,-10 C10,-12 4,-12 0,-9 Z"/><line x1="0" y1="-9" x2="0" y2="9"/></g>
-<text text-anchor="middle" y="46.0"><tspan x="390.0" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Biblical Interpretation</tspan><tspan x="390.0" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Hearing the Word</tspan><tspan x="390.0" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">exploring the textual</tspan><tspan x="390.0" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">details of the passage</tspan></text>
-<circle cx="532.7" cy="243.6" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
-<g transform="translate(532.7,243.6)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="-7" cy="-5" r="5"/><circle cx="8" cy="-3" r="4"/><path d="M-15,10 C-15,1 1,1 1,10"/><path d="M3,9 C3,2 16,2 16,9"/></g>
-<text text-anchor="start" y="225.6"><tspan x="572.7" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Theological Dialogue</tspan><tspan x="572.7" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Discussing the Plot</tspan><tspan x="572.7" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">discerning timeless truths</tspan><tspan x="572.7" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">of the Christian faith</tspan></text>
-<circle cx="478.2" cy="411.4" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
-<g transform="translate(478.2,411.4)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="13"/><path d="M6,-6 L-2,2 L-6,6 L2,-2 Z" fill="currentColor" stroke="none"/><circle cx="0" cy="0" r="1.6" fill="currentColor" stroke="none"/></g>
-<text text-anchor="start" y="393.4"><tspan x="518.2" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Personal Reflection</tspan><tspan x="518.2" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Entering the Story</tspan><tspan x="518.2" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">practicing God’s ways</tspan><tspan x="518.2" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">in our personal lives</tspan></text>
-<circle cx="301.8" cy="411.4" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
-<g transform="translate(301.8,411.4)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11,-12 C-3,-11 -11,2 -11,12 C-1,12 12,4 12,-9 Z"/><line x1="-6" y1="12" x2="6" y2="0"/><line x1="-2" y1="4" x2="6" y2="4"/><line x1="-5" y1="8" x2="2" y2="8"/></g>
-<text text-anchor="end" y="393.4"><tspan x="261.8" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Ministry Practice</tspan><tspan x="261.8" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Rehearsing the Script</tspan><tspan x="261.8" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">edifying the church</tspan><tspan x="261.8" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">community with God’s word</tspan></text>
-<circle cx="247.3" cy="243.6" r="30" fill="#fffdf7" stroke="currentColor" stroke-width="2.5"/>
-<g transform="translate(247.3,243.6)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="13"/><ellipse cx="0" cy="0" rx="5.5" ry="13"/><line x1="-13" y1="0" x2="13" y2="0"/><line x1="-11" y1="-6" x2="11" y2="-6"/><line x1="-11" y1="6" x2="11" y2="6"/></g>
-<text text-anchor="end" y="225.6"><tspan x="207.3" dy="0" style="font-weight:700;font-size:16px;fill:#22252a;">Missional Outreach</tspan><tspan x="207.3" dy="18" style="font-weight:400;font-size:15px;fill:#22252a;">Publicizing the Truth</tspan><tspan x="207.3" dy="18" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">engaging the unbelieving</tspan><tspan x="207.3" dy="15" style="font-style:italic;font-size:12.5px;fill:#7a7a7a;">world with the gospel</tspan></text>
-</svg>
-</figure>
-</Opening_SessionFrameworkInfographic>
-
-<OpeningRecall_ScriptureMeditation_Directions>
-**Study the Text:** Discipleship is founded upon the truth of God’s word. Read the biblical psalm and discuss the study questions to grasp the overarching theme of this book.
-</OpeningRecall_ScriptureMeditation_Directions>
-
-<OpeningRecall_KeyPassage_Directions>
-Read the following psalm. Observe what is written. Try to discern its meaning.
-</OpeningRecall_KeyPassage_Directions>
-
-<OpeningRecall_ObservationQuestions_Directions>
-Discuss the following questions. Base your responses on the psalm.
-</OpeningRecall_ObservationQuestions_Directions>
-
-<OpeningRecall_FaithFoundation_Directions>
-**Consider the Theme:** God calls his people to move beyond a superficial understanding of Christian essentials. Read the key quote and discuss the following questions, pondering the great importance of this study’s topic.
-</OpeningRecall_FaithFoundation_Directions>
-
-<OpeningRecall_HistoricQuote_Directions>
-Read the following excerpt. Reflect on what it says about the Christian faith.
-</OpeningRecall_HistoricQuote_Directions>
-
-<OpeningRecall_DiscussionQuestions_Directions>
-Discuss the following questions. Use the quote to help guide the conversation.
-</OpeningRecall_DiscussionQuestions_Directions>
-
-<OpeningRecall_LearningPlan_Directions>
-**View the Design:** Spiritual growth calls for the internalization of the truth in an ordered process of learning. Review the session overview and consider the reflection questions to prepare for your upcoming study journey.
-</OpeningRecall_LearningPlan_Directions>
-
-<OpeningRecall_BookOverview_Directions>
-Look over the sessions in this book. Identify passages and topics of interest.
-</OpeningRecall_BookOverview_Directions>
-
-<OpeningRecall_ReflectionQuestions_Directions>
-Discuss the following questions, preparing your mind and heart for this study.
-</OpeningRecall_ReflectionQuestions_Directions>
-
-<OpeningRecall_DoctrinalSummary_Directions>
-**Summarize the Faith:** Mature disciples embrace the whole teaching of God’s word. In this section, you will explore example confessional statements and envision your own.
-</OpeningRecall_DoctrinalSummary_Directions>
-
-<OpeningRecall_HistoricConfession_Directions>
-Read the following declaration. Observe its summary of Christian life and faith.
-</OpeningRecall_HistoricConfession_Directions>
-
-<OpeningRecall_ContemporarySummary_Directions>
-Read the following example which synthesizes core Christian teaching.
-</OpeningRecall_ContemporarySummary_Directions>
-
-<OpeningRecall_CoreProject_Directions>
-Read the following instructions. These explain a final project for this study.
-</OpeningRecall_CoreProject_Directions>
-
-<OpeningRecall_FaithPractice_Directions>
-**Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Commit yourself and your community to the Lord with a time of focused prayer.
-</OpeningRecall_FaithPractice_Directions>
-
-<OpeningRecall_HistoricPrayer_Directions>
-Pray this prayer. Read it reflectively together as a community.
-</OpeningRecall_HistoricPrayer_Directions>
-
-<OpeningRecall_CommunityPrayer_Directions>
-Identify prayer requests for you and your community. Commit these to the Lord.
-</OpeningRecall_CommunityPrayer_Directions>
+<!--
+  TestSharedSeriesNote — SERIES-LEVEL fixture for the shared-content editing feature.
+  Only the hidden Test Book includes it; safe/additive for live books.
+-->
+<TestSharedSeriesNote>
+This is shared **series-level** content from `commonSeries.md`. Editing it changes every session in the series that includes it.
+</TestSharedSeriesNote>
