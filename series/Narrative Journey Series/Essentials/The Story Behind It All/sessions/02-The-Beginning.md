@@ -91,16 +91,15 @@ In the creation account, we learn that God created all things. His work of creat
 ##### Passage Outline
 
 1. In the Beginning (Genesis 1:1–2)
-2. The First Day of Creation (Genesis 1:3–4)
-3. The First Day of Creation ()
-4. The Second Day of Creation ()
-5. The Third Day of Creation ()
-6. The Fourth Day of Creation ()
-7. The Fifth Day of Creation ()
-8. The Sixth Day of Creation ()
-9. The Seventh Day of Creation (Genesis 2:1–3)
+2. The First Day of Creation (Genesis 1:3–5)
+3. The Second Day of Creation (Genesis 1:6–8)
+4. The Third Day of Creation (Genesis 1:9–13)
+5. The Fourth Day of Creation (Genesis 1:14–19)
+6. The Fifth Day of Creation (Genesis 1:20–23)
+7. The Sixth Day of Creation (Genesis 1:24–31)
+8. The Seventh Day of Creation (Genesis 2:1–3)
 
-#### The Creation of the World/As All Things Should Be
+#### When Things Were as They Should Be
 
 > And God saw everything that He had made, and behold, it was very good.
 
