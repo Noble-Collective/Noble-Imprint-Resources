@@ -14,9 +14,9 @@ _The Kingdom Come: A Narrative Journey of Christian Witness_, Pre-Release Editio
 
 <!-- @include: PublishingLicensing -->
 
-## Series Introduction
+## Series Preface
 
-<!-- @include: SeriesIntroduction -->
+<!-- @include: SeriesPreface -->
 
 ## Session Overview
 

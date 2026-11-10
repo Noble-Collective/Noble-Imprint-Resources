@@ -14,9 +14,9 @@ _The Glory Due His Name: A Narrative Journey of Christian Devotion_, Pre-Release
 
 <!-- @include: PublishingLicensing -->
 
-## Series Introduction
+## Series Preface
 
-<!-- @include: SeriesIntroduction -->
+<!-- @include: SeriesPreface -->
 
 ## Session Overview
 

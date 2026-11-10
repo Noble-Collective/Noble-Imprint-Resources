@@ -20,7 +20,7 @@ _The Open Invitation: A Narrative Journey of Christian Formation_, Pre-Release E
 
 <!-- @include: PublishingLicensing -->
 
-## Series Introduction
+## Series Preface
 
 <!-- @include: SeriesPreface -->
 

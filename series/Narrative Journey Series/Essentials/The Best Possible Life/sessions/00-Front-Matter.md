@@ -20,9 +20,9 @@ _The Best Possible Life: A Narrative Journey of Christian Living_, Pre-Release E
 
 <!-- @include: PublishingLicensing -->
 
-## Series Introduction
+## Series Preface
 
-<!-- @include: SeriesIntroduction -->
+<!-- @include: SeriesPreface -->
 
 ## Session Overview
 

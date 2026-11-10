@@ -28,9 +28,9 @@ _The Bond Between Us: A Narrative Journey of Christian Community_, Pre-Release E
 
 <!-- @include: PublishingLicensing -->
 
-## Series Introduction
+## Series Preface
 
-<!-- @include: SeriesIntroduction -->
+<!-- @include: SeriesPreface -->
 
 ## Session Overview
 
