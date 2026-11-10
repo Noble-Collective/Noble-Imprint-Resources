@@ -28,9 +28,9 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 <!-- @include: Dedication -->
 
-## Series Introduction
+## Series Preface
 
-<!-- @include: SeriesIntroduction -->
+<!-- @include: SeriesPreface -->
 
 ## Book Preface
 
