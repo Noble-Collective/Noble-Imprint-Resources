@@ -19,6 +19,16 @@ Matthew R. Lynskey
 Noble Imprint
 York, Pennsylvania
 
+## Publishing and Licensing
+
+_The Story Behind It All: A Narrative Journey of Christian Belief_
+
+<!-- @include: PublishingLicensing -->
+
+## Dedication
+
+<!-- @include: Dedication -->
+
 ## Introductory Quotes
 
 > I had always felt life first as a story: and if there is a story there is a story-teller.
@@ -33,16 +43,9 @@ York, Pennsylvania
 
 << C. S. Lewis, _On Stories: And Other Essays on Literature_
 
+## Table of Contents
 
-## Publishing and Licensing
 
-_The Story Behind It All: A Narrative Journey of Christian Belief_
-
-<!-- @include: PublishingLicensing -->
-
-## Dedication
-
-<!-- @include: Dedication -->
 
 ## Series Preface
 
