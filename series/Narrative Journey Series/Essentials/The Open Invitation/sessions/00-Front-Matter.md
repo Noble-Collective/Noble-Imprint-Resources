@@ -22,7 +22,7 @@ _The Open Invitation: A Narrative Journey of Christian Formation_, Pre-Release E
 
 ## Series Introduction
 
-<!-- @include: SeriesIntroduction -->
+<!-- @include: SeriesPreface -->
 
 ## Session Overview
 
