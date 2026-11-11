@@ -93,7 +93,7 @@ At the apex of creation, God made human beings. Created as the image of God, fas
 1. God Fashioned Man from the Ground (Genesis 2:4–7)
 2. God Made a Garden Paradise (Genesis 2:8–14)
 3. The First Man Appointed to Work the Garden (Genesis 2:15–17)
-4. Woman Is Given as Man's Helper (Genesis 2:18–23)
+4. Woman Given as Man's Helper (Genesis 2:18–23)
 5. God's Design for Marriage and Family (Genesis 2:24–25)
 
 #### God's Image Formed and Fashioned

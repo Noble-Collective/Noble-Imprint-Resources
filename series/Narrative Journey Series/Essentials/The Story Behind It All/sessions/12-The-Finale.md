@@ -91,7 +91,7 @@ God is a God of hope. Hope, however, is not a fleeting and fragile daydream that
 1. Rider on the White Horse and Great Battle (Revelation 19:11–21)
 2. Bottomless Pit and Thousand Year Reign (Revelation 20:1–10)
 3. Great White Throne Judgment (Revelation 20:11–15)
-4. New Heavens and New Earth (Revelation 21:1–22:5)
+4. New Creation of the Future World (Revelation 21:1–22:5)
 5. Scriptural Promise and the Return of Jesus (Revelation 22:6–21)
 
 #### Making All Things New

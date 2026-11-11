@@ -92,7 +92,7 @@ The central pillar of Christianity is the gospel. Said another way, Jesus' death
 3. Jesus Crucified on the Cross (Mark 15:21–32)
 4. Death of Jesus on the Cross (Mark 15:33–41)
 5. Burial of Jesus (Mark 15:42–47)
-6. Jesus Resurrects from the Dead (Mark 16:1–8)
+6. Jesus Rises from the Dead (Mark 16:1–8)
 
 #### The Work of Salvation on the Cross
 
