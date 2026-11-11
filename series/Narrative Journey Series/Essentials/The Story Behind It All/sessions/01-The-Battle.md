@@ -87,7 +87,7 @@ To understand the foundations of the Christian faith, we must understand that Go
 
 1. Job's Life and Prosperity (Job 1:1–5)
 2. First Heavenly Gathering (Job 1:6–12)
-3. Job's First Testing (Job 1:13–19)
+3. Job's First Testing and Response (Job 1:13–22)
 4. Second Heavenly Gathering (Job 2:1–6)
 5. Job's Second Testing (Job 2:7–10)
 6. Job's Friends Visit (Job 2:11–13)
