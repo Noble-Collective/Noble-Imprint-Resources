@@ -48,7 +48,7 @@ A core objective of this series is to make available to the global church a robu
 
 ### Conclusion
 
-All curricular designs are human inventions. They are not perfect. Only God's word is inspired and inerrant. But for all their flaws, consistent processes of study can be extremely useful in faith formation. Such processes are ways of having a teacher's assistance without a teacher's actual presence. Receive this study's design as a humble attempt to guide disciples and churches in sound biblical interpretation toward life formation and mission. Condense, adjust, adapt, or rearrange it as needed. But however you approach discipling believers, let your focus remain unflinchingly on God's word—"a lamp to my feet and a light to my path" (Psalm 119:105).
+All curricular designs are human inventions. They are not perfect. Only God's word is inspired and inerrant. But for all their flaws, consistent processes of study can be extremely useful in faith formation. Such processes are ways of having a teacher's assistance without a teacher's actual presence. Receive this study's design as a humble attempt to guide disciples and churches in sound biblical interpretation toward life formation and mission. Remember the main aim of this study is to help people engage God's word. Armed with a biblical text, good questions, and some faith practices, a lot of progress can be made in the life of a disciple or church. a biblical text, keeping the text central, Condense, adjust, adapt, or rearrange it as needed,  But however you approach discipling believers, let your focus remain unflinchingly on God's word—"a lamp to my feet and a light to my path" (Psalm 119:105).
 
 ## Seeing the Design
 
