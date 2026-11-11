@@ -58,6 +58,11 @@ Although it seeks to be contemporary in its design and shape, this resource is n
 
 In what follows, there is a list of resources that have been helpful in this study—resources that have offered specific details, general insights, and noteworthy observations on the passage or topic. This list also includes resources for further study. These resources include commentaries that address the particular biblical passage being studied along with other written works that address the specific topic of the session. Many are simply resources for continued reflection on these matters. This list is not exhaustive. While not every facet of each resource is recommended, in its own way, each resource contributes to the overall conversation of understanding the essentials of the Christian faith. In this way, the following resource summary represents a blend of aids used in the creation of this tool and a bank of resources for ongoing spiritual growth.
 
+### Commentaries and Reference Works
+
+### Theological and Topical Readings
+
+
 #### Session 1: The Battle
 
 Alden, Robert L. _Job_. Vol. 11. The New American Commentary. Nashville: Broadman & Holman Publishers, 1993.
