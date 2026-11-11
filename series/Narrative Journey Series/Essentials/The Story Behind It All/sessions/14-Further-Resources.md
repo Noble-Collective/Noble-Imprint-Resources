@@ -35,10 +35,9 @@ In sum, the common framework overlaid in each session attempts to outline a _for
 
 ### Opening and Recall Movements
 
-Each study has an introductory and concluding session. The introductory session ("The Opening") helps to orient disciples and churches to the study. The concluding session ("The Recall") encourages a celebratory review. In order to assist in the work of orientation and celebration, these sessions follow a unique fivefold movement. 
+Each study has an introductory and concluding session. The introductory session ("The Opening") helps to orient disciples and churches to the study. The concluding session ("The Recall") encourages a celebratory review. In order to assist in the work of orientation and celebration, these sessions follow a unique fivefold movement. The consistency of this process
 
-Scripture Meditation: Surveying the Landscape
-Faith Foundation: Exploring the Terrain
+These sessions begin with **Scripture Meditation: Surveying the Landscape**. In this opening movement, disciples reflect on a brief psalm to prime their minds and hearts to the subject of study. Second, Faith Foundation: Exploring the Terrain offers a contemplative 
 Learning Plan: Charting the Course
 Doctrinal Summary: Synthesizing the Faith
 Faith Practice: Following the Way
