@@ -92,9 +92,10 @@ The story of creation's fall exposes the nature of sin and its effects in the wo
 
 ##### Passage Outline
 
-1. Satan Tempts and the First Humans Disobey (Genesis 3:1–7)
-2. God Visits Humanity in the Garden (Genesis 3:8–13)
-3. Creation Is Cursed Because of Humanity's Sin (Genesis 3:20–24)
+1. Satan Tempts and the First Humans Disobey (Genesis 3:1–6)
+2. God Visits Fallen Humanity in the Garden (Genesis 3:7–13)
+3. Creation Is Cursed Because of Humanity's Sin (Genesis 3:14–19)
+4. First Humans Exiled from the Garden (Genesis 3:20–24)
 
 #### Sin Entering the World
 
