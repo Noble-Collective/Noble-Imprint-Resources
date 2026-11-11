@@ -88,6 +88,12 @@ God is a God of hope. Hope, however, is not a fleeting and fragile daydream that
 
 ##### Passage Outline
 
+1. The Rider on the White Ho(Revelation 19:11–21)
+2. (Revelation 20:1–10)
+3. (Revelation 20:11–15)
+4. (Revelation 21:1–22:5)
+5. (Revelation 22:6–21)
+
 #### Making All Things New
 
 > For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see? But if we hope for what we do not yet see, we wait for it patiently.

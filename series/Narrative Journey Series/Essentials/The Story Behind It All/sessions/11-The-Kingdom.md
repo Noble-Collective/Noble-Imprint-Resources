@@ -90,9 +90,11 @@ Our life finds its greatest meaning as we intentionally participate in God's kin
 
 1. The Woman and the Dragon (Revelation 12:1–6)
 2. Satan Cast Down and Defeated (Revelation 12:7–17)
-3. (Revelation 13:1–10)
-4. (Revelation 13:11–18)
-5. (Revelation 14:1–20)
+3. The First Beast (Revelation 13:1–10)
+4. The Second Beast (Revelation 13:11–18)
+5. The Lamb and the Great Multitude (Revelation 14:1–5)
+6. Three Angelic Messages (Revelation 14:6–13)
+7. The Great Harvest of Judgment (Revelation 14:14–20)
 
 #### The Kingdom of God in Triumph
 
