@@ -88,6 +88,12 @@ Our life finds its greatest meaning as we intentionally participate in God's kin
 
 ##### Passage Outline
 
+1. The Woman and the Dragon (Revelation 12:1–6)
+2. Satan Cast Down and Defeated (Revelation 12:7–17)
+3. (Revelation 13:1–10)
+4. (Revelation 13:11–18)
+5. (Revelation 14:1–20)
+
 #### The Kingdom of God in Triumph
 
 > But the one who perseveres to the end will be saved. And this gospel of the kingdom will be preached in all the world as a testimony to all nations, and then the end will come.

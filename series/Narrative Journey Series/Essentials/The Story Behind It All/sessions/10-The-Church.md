@@ -87,14 +87,14 @@ God's redemptive work in Christ is to save people and form them into a community
 
 ##### Passage Outline
 
-1. (Revelation 1:9–20)
-2. (Revelation 2:1–7)
-3. (Revelation 2:8–11)
-4. (Revelation 2:12–17)
-5. (Revelation 2:18–29)
-6. (Revelation 3:1–6)
-7. (Revelation 3:7–13)
-8. (Revelation 3:14–22)
+1. Heavenly Vision of Jesus Christ (Revelation 1:9–20)
+2. The Letter to the Church in Ephesus (Revelation 2:1–7)
+3. The Letter to the Church in Smyrna (Revelation 2:8–11)
+4. The Letter to the Church in Pergamum (Revelation 2:12–17)
+5. The Letter to the Church in Thyatira (Revelation 2:18–29)
+6. The Letter to the Church in Sardis (Revelation 3:1–6)
+7. The Letter to the Church in Philadelphia (Revelation 3:7–13)
+8. The Letter to the Church in Laodicea (Revelation 3:14–22)
 
 #### Letters to the Churches
 
