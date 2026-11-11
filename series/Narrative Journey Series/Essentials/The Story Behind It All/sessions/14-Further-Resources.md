@@ -1,5 +1,11 @@
 # Further Resources
 
+
+## Study Design
+
+### 
+
+
 ## Seeing the Design
 
 ### Bibliography and Resources for Further Study
