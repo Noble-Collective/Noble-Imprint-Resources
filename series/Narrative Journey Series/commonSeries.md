@@ -502,13 +502,13 @@ This is shared **series-level** content from `commonSeries.md`. Editing it chang
 </TestSharedSeriesNote>
 
 <SessionFrameworkInfographic>
-<Infographic title="[your title]" type="menu">
-[your intro sentence(s)]
+<Infographic title="Five Movements" type="menu">
+Reading the Bible formatively with the church and on mission.
 
-<Item icon="sec-hearing" label="Biblical Interpretation">[Hearing the Word — exploring the textual details of the passage]</Item>
-<Item icon="sec-discussing" label="Theological Dialogue">[Discussing the Plot — discerning timeless truths of the Christian faith]</Item>
-<Item icon="sec-entering" label="Personal Reflection">[Entering the Story — practicing God’s ways in our personal lives]</Item>
-<Item icon="sec-ministry" label="Ministry Practice">[Rehearsing the Script — edifying the church community with God’s word]</Item>
-<Item icon="sec-mission" label="Missional Outreach">[Publicizing the Truth — engaging the unbelieving world with the gospel]</Item>
+<Item icon="sec-hearing" label="Biblical Interpretation: Hearing the Word">exploring the textual details of the passage</Item>
+<Item icon="sec-discussing" label="Theological Dialogue: Discussing the Plot">discerning timeless truths of the Christian faith</Item>
+<Item icon="sec-entering" label="Personal Reflection: Entering the Story">practicing God’s ways in our personal lives</Item>
+<Item icon="sec-ministry" label="Ministry Practice: Rehearsing the Script">edifying the church community with God’s word</Item>
+<Item icon="sec-mission" label="Missional Outreach: Publicizing the Truth">engaging the unbelieving world with the gospel</Item>
 </Infographic>
 </SessionFrameworkInfographic>
