@@ -33,10 +33,6 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_KeyPassage_Directions -->
 
-### Key Passage
-
-<!-- @include: OpeningRecall_KeyPassage_Directions -->
-
 > 1 Sing to the LORD a new song,  
 > for He has done wonders;  
 > His right hand and holy arm  
