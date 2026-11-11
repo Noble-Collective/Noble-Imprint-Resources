@@ -91,9 +91,10 @@ God has taken the initiative to rescue sinful humanity. He sent his Son to leave
 
 1. The Prologue to Luke's Gospel (Luke 1:1–4)
 2. Birth of John the Baptist Foretold (Luke 1:5–25)
-3. Birth of Jesus Foretold (Luke 1:26–56)
-4. Birth of John the Baptist (Luke 1:57–80)
-5. Birth of Jesus Christ (Luke 2:1–21)
+3. Birth of Jesus Foretold (Luke 1:26–38)
+4. Mary Visits ElizaLuke 1:39–45
+5. Birth of John the Baptist (Luke 1:57–80)
+6. Birth of Jesus Christ (Luke 2:1–21)
 
 #### God's Son Coming into the World
 

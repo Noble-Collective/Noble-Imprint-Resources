@@ -92,8 +92,9 @@ What may seem to be a sad departure turns out to be a joyous occasion: the ascen
 2. Jesus' Ascension (Acts 1:6–11)
 3. The Disciples Choose Judas' Replacement (Acts 1:12–26)
 4. The Coming of the Holy Spirit at Pentecost (Acts 2:1–13)
-5. Peter's Gospel Sermon to the Crowd (Acts 2:14–21)
-6. The Life of the Early Christians (Acts 2:22–47)
+5. Peter's Gospel Sermon to the Crowd (Acts 2:14–36)
+6. Baptism of the First Christians (Acts 2:37–41)
+7. Community Life of the Early Christians (Acts 2:42–47)
 
 #### The Coming of the Holy Spirit
 
