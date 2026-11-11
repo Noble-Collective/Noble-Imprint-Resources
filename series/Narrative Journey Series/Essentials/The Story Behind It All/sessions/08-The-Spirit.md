@@ -88,6 +88,13 @@ What may seem to be a sad departure turns out to be a joyous occasion: the ascen
 
 ##### Passage Outline
 
+1. (Acts 1:1–5)
+2. (Acts 1:6–11)
+3. (Acts 1:12–26)
+4. (Acts 2:1–13)
+5. (Acts 2:14–21)
+6. (Acts 2:22–47)
+
 #### The Coming of the Holy Spirit
 
 > Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God? You are not your own.
