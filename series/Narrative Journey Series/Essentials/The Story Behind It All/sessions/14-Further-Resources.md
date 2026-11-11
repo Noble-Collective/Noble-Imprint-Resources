@@ -35,7 +35,7 @@ In sum, the common framework overlaid in each session attempts to outline a _for
 
 ### Opening and Recall Movements
 
-Each study has an introductory and concluding session. The introductory session ("The Opening") helps to orient disciples and churches to the study. The concluding session ("The Recall") encourages a celebratory review. In order to  
+Each study has an introductory and concluding session. The introductory session ("The Opening") helps to orient disciples and churches to the study. The concluding session ("The Recall") encourages a celebratory review. In order to assist in the work of orientation and celebration, these sessions follow a unique fivefold movement. 
 
 Scripture Meditation: Surveying the Landscape
 Faith Foundation: Exploring the Terrain
