@@ -39,7 +39,7 @@ Each study has an introductory and concluding session. The introductory session 
 
 These sessions begin with **Scripture Meditation: Surveying the Landscape**. In this opening movement, disciples reflect on a brief psalm to prime their minds and hearts to the subject of study. Second, **Faith Foundation: Exploring the Terrain** facilitates contemplative discussion around a historic quote and key ideas related to the study's main topic. The third movement, **Learning Plan: Charting the Course**, sketches the content of the book along with some personal reflection for the spiritual journey ahead. Fourth, the **Doctrinal Summary: Synthesizing the Faith** introduces key faith summaries and a personal project to be completed over the course of the study. Finally, Faith Practice: Following the Way commits the time of study to the Lord, seeking his unmerited grace and transformative power in our lives and communities. 
 
-Although these studies can be completed individually, there is great power in making this journey as a faith community. Although there is temptation to rush into the first main session of study, patiently setting the context of this study and 
+Although these studies can be completed individually, there is great power in making this journey as a faith community. Although there is temptation to rush into the first main session of study, patiently setting the context of this study and organizing a whole community in the same direction could actually bear greater fruit. From a heart of pastoral concern and with a display of shepherding wisdom, use the introductory and concluding session to not just get everyone in your community "on the same page," but moving "in the same direction"—on the 
 
 
 
