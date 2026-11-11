@@ -45,8 +45,6 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 ## Table of Contents
 
-- Series Preface
-- Book Preface
 - The Opening
 - **Session 1: The Battle** - Journeying with Job toward the Good Life
 - **Session 2: The Beginning** - Bearing Witness to God and His Creative Work
