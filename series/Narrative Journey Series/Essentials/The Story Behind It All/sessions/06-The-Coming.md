@@ -89,6 +89,11 @@ God has taken the initiative to rescue sinful humanity. He sent his Son to leave
 
 ##### Passage Outline
 
+1. The Prologue to Luke's Gospel (Luke 1:1–25)
+2. (Luke 1:26–56)
+3. (Luke 1:57–80)
+4. (Luke 2:1–21)
+
 #### God's Son Coming into the World
 
 > Let this mind be in you which was also in Christ Jesus: Who, existing in the form of God, did not consider equality with God something to be grasped, but emptied Himself, taking the form of a servant, being made in human likeness.
