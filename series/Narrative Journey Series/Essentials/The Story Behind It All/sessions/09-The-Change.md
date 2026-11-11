@@ -89,6 +89,12 @@ The saving work of Christ can bring about a change in the lives of the lowliest 
 
 ##### Passage Outline
 
+1. Cornelius' Vision (Acts 10:1–8)
+2. Peter's Vision and (Acts 10:9–33)
+3. (Acts 10:34–43)
+4. (Acts 10:44–48)
+5. (Acts 11:1–18)
+
 #### Coming to Faith in Christ
 
 > This is a trustworthy saying, worthy of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst.

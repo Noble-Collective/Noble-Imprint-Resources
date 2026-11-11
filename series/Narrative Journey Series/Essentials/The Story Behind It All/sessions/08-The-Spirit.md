@@ -88,12 +88,12 @@ What may seem to be a sad departure turns out to be a joyous occasion: the ascen
 
 ##### Passage Outline
 
-1. (Acts 1:1–5)
-2. (Acts 1:6–11)
-3. (Acts 1:12–26)
-4. (Acts 2:1–13)
-5. (Acts 2:14–21)
-6. (Acts 2:22–47)
+1. Jesus' Post-Resurrection Appearances (Acts 1:1–5)
+2. Jesus' Ascension (Acts 1:6–11)
+3. The Disciples Choose Judas' Replacement (Acts 1:12–26)
+4. The Coming of the Holy Spirit at Pentecost (Acts 2:1–13)
+5. Peter's Gospel Sermon to the Crowd (Acts 2:14–21)
+6. The Life of the Early Christians (Acts 2:22–47)
 
 #### The Coming of the Holy Spirit
 
