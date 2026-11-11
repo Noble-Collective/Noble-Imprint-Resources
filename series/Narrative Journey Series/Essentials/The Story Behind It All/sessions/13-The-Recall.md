@@ -88,13 +88,13 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_DiscussionQuestions_Directions -->
 
-<Question id=TheStoryRecall-DiscussionQuesetion-Q1>1. <Accent>Quote Reflection:</Accent> What is this quote saying? What parts of this quote do you find most interesting and helpful?</Question>
+<Question id=TheStoryRecall-DiscussionQuestion-Q1>1. <Accent>Quote Reflection:</Accent> What is this quote saying? What parts of this quote do you find most interesting and helpful?</Question>
 
-<Question id=TheStoryRecall-DiscussionQuesetion-Q2>2. <Accent>The True Story of the World:</Accent> How is the biblical story the true story of the world? What other competing stories exist that try to explain things in the world?</Question>
+<Question id=TheStoryRecall-DiscussionQuestion-Q2>2. <Accent>The True Story of the World:</Accent> How is the biblical story the true story of the world? What other competing stories exist that try to explain things in the world?</Question>
 
-<Question id=TheStoryRecall-DiscussionQuesetion-Q3>3. <Accent>Life's Biggest Questions:</Accent> How do the truths of Christianity answer some of life's biggest questions? During this study, which truths most impacted you?</Question>
+<Question id=TheStoryRecall-DiscussionQuestion-Q3>3. <Accent>Life's Biggest Questions:</Accent> How do the truths of Christianity answer some of life's biggest questions? During this study, which truths most impacted you?</Question>
 
-<Question id=TheStoryRecall-DiscussionQuesetion-Q4>4. <Accent>Personal Faith Maturity:</Accent> How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
+<Question id=TheStoryRecall-DiscussionQuestion-Q4>4. <Accent>Personal Faith Maturity:</Accent> How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?</Question>
 
 ## Learning Plan: Charting the Course
 
