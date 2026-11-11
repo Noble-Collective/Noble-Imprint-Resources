@@ -72,6 +72,141 @@ Brooks, James A. _Mark_. Vol. 23. The New American Commentary. Nashville: Broadm
 
 Fernando, Ajith. _Acts_. The NIV Application Commentary. Grand Rapids: Zondervan, 1998.
 
+Garland, David E. _Mark_. The NIV Application Commentary. Grand Rapids: Zondervan, 1996.
+
+Green, Joel B. _The Gospel of Luke_. The New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1997.
+
+Hartley, John E. _The Book of Job_. The New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1988.
+
+Hughes, R. Kent. _Mark: Jesus, Servant and Savior_. Preaching the Word. Westchester: Crossway, 1989.
+
+Keener, Craig S. _Revelation_. The NIV Application Commentary. Grand Rapids: Zondervan, 1999.
+
+Longman, Tremper, III. _Genesis_. The Story of God Bible Commentary, edited by Tremper Longman III and Scot McKnight. Grand Rapids: Zondervan, 2016.
+
+Marshall, I. Howard. _Acts: An Introduction and Commentary_. Vol. 5. Tyndale New Testament Commentaries. Downers Grove: InterVarsity, 1980.
+
+Mathews, K. A. _Genesis 1–11:26_. Vol. 1A. The New American Commentary. Nashville: Broadman & Holman Publishers, 1996.
+
+Morris, Leon. _Revelation: An Introduction and Commentary_. Vol. 20. Tyndale New Testament Commentaries. Downers Grove: InterVarsity, 1987.
+
+Osborne, Grant R. _Revelation_. Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2002.
+
+Peterson, David G. _The Acts of the Apostles_. The Pillar New Testament Commentary. Grand Rapids: Eerdmans, 2009.
+
+Stein, Robert H. _Luke_. Vol. 24. The New American Commentary. Nashville: Broadman & Holman Publishers, 1992.
+
+Thurston, Bonnie Bowman. _Preaching Mark_. Minneapolis: Fortress Press, 2002.
+
+Walton, John H. _Genesis_. The NIV Application Commentary. Grand Rapids: Zondervan, 2001.
+
+Wenham, Gordon J. _Genesis 1–15_. Vol. 1. Word Biblical Commentary. Dallas: Word, 1987.
+
+Witherington, Ben, III. _The Acts of the Apostles: A Socio-Rhetorical Commentary_. Grand Rapids: Eerdmans, 1998.
+
+### Theological and Topical Readings
+
+Augustine. _The Confessions of St. Augustine_. Oxford: John Henry Parker, 1853.
+
+Banks, Robert J. _Paul’s Idea of Community: The Early House Churches in Their Cultural Setting_. Grand Rapids: Baker, 1994.
+
+Beale, G. K. _The Temple and the Church’s Mission: A Biblical Theology of the Dwelling Place of God_. New Studies in Biblical Theology 17. Downers Grove: InterVarsity, 2014.
+
+Beale, G. K. _We Become What We Worship: A Biblical Theology of Idolatry_. Downers Grove: InterVarsity, 2008.
+
+Bolt, Peter G. _The Cross from a Distance: Atonement in Mark’s Gospel_. New Studies in Biblical Theology 18. Downers Grove: InterVarsity, 2016.
+
+Bonhoeffer, Dietrich. _Life Together: The Classic Exploration of Christian Community_. Translated by John W. Doberstein. New York: Harper Collins, 1978.
+
+Carson, D. A. _How Long, O Lord? Reflections on Suffering and Evil_. 2nd ed. Grand Rapids: Baker Academic, 2006.
+
+Cole, Graham A. _God the Peacemaker: How Atonement Brings Shalom_. New Studies in Biblical Theology 25. Downers Grove: InterVarsity, 2009.
+
+Cole, Graham A. _He Who Gives Life: The Doctrine of the Holy Spirit_. Foundations of Evangelical Theology. Wheaton: Crossway, 2007.
+
+Edwards, Jonathan. “Dissertation on the End for Which God Created the World.” In _The Works of President Edwards_, 3:1–89. New York: S. Converse, 1829.
+
+Ferguson, Sinclair B. _The Holy Spirit_. Contours of Christian Theology. Downers Grove: InterVarsity, 2020.
+
+Gentry, Peter J., and Stephen J. Wellum. _God’s Kingdom through God’s Covenants: A Concise Biblical Theology_. Wheaton: Crossway, 2015.
+
+Goldsworthy, Graeme. _The Goldsworthy Trilogy_. Eugene: Wipf and Stock Publishers, 2014.
+
+Hamilton, James M., Jr. _God’s Glory in Salvation through Judgment: A Biblical Theology_. Wheaton: Crossway, 2010.
+
+Hoekema, Anthony A. _Created in God’s Image_. Grand Rapids: Eerdmans, 1994.
+
+Hoekema, Anthony A. _Saved by Grace_. Grand Rapids: Eerdmans, 1994.
+
+Kaiser, Walter C., Jr. _The Promise-Plan of God: A Biblical Theology of the Old and New Testaments_. Grand Rapids: Zondervan Academic, 2009.
+
+Lloyd-Jones, D. Martyn. _The Cross: God’s Way of Salvation_. Wheaton: Crossway, 1986.
+
+Macleod, Donald. _The Person of Christ_. Contours of Christian Theology. Downers Grove: InterVarsity, 1998.
+
+McConville, J. Gordon. _Being Human in God’s World: An Old Testament Theology of Humanity_. Grand Rapids: Baker Books, 2016.
+
+McKnight, Scot. _Kingdom Conspiracy: Returning to the Radical Mission of the Local Church_. Grand Rapids: Brazos Press, 2014.
+
+Morgan, Christopher W., and Robert A. Peterson, eds. _Fallen: A Theology of Sin_. Theology in Community. Wheaton: Crossway, 2013.
+
+Oden, Thomas C. _The Living God_. Vol. 1. Systematic Theology. San Francisco: HarperCollins, 1987.
+
+Peterson, Andrew. _The God of the Garden: Thoughts on Creation, Culture, and the Kingdom_. Nashville: B & H Publishing, 2021.
+
+Pink, Arthur W. _Regeneration, or the New Birth_. Bellingham: Logos Bible Software, 2005.
+
+Piper, John. _Come, Lord Jesus: Meditations on the Second Coming of Christ_. Wheaton: Crossway, 2023.
+
+Plantinga, Cornelius. _Not the Way It’s Supposed to Be: A Breviary of Sin_. Grand Rapids: Eerdmans, 1996.
+
+Poythress, Vern S. _Christian Interpretations of Genesis 1_. Christian Answers to Hard Questions. Philadelphia: Westminster Seminary Press, 2013.
+
+Reeves, Michael. _Rejoicing in Christ_. Downers Grove: InterVarsity, 2015.
+
+Schaeffer, Francis A. _The Church before the Watching World: A Practical Ecclesiology_. Downers Grove: InterVarsity, 1971.
+
+Sproul, R. C. _The Mystery of the Holy Spirit: Discovering the Work of the Living Spirit of the Living God_. Wheaton: Tyndale, 1994.
+
+Spurgeon, Charles H. _All of Grace: An Earnest Word with Those Who Are Seeking Salvation by the Lord Jesus Christ_. Bellingham: Logos Bible Software, 2009.
+
+Stott, John. _The Cross of Christ_. Downers Grove: InterVarsity, 2012.
+
+Strachan, Owen. _Reenchanting Humanity: A Theology of Mankind_. Fearn: Christian Focus Publications, 2019.
+
+Strachan, Owen, and Gavin Peacock. _The Grand Design: Male and Female He Made Them_. Fearn: Christian Focus Publications, 2016.
+
+Tripp, Paul David. _Suffering: Gospel Hope When Life Doesn’t Make Sense_. Wheaton: Crossway, 2018.
+
+Warfield, Benjamin B. _The Lord of Glory: A Study of the Designations of Our Lord in the New Testament with Especial Reference to His Deity_. New York: American Tract Society, 1907.
+
+Wellum, Stephen J. _God the Son Incarnate: The Doctrine of Christ_. Foundations of Evangelical Theology. Wheaton: Crossway, 2016.
+
+Williamson, Paul R. _Sealed with an Oath: Covenant in God’s Unfolding Purpose_. New Studies in Biblical Theology 23. Downers Grove: InterVarsity, 2007.
+
+Wilson, Jonathan R. _God’s Good World: Reclaiming the Doctrine of Creation_. Grand Rapids: Baker Academic, 2013.
+
+Wright, Christopher J. H. _The God I Don’t Understand: Reflections on Tough Questions of Faith_. Grand Rapids: Zondervan, 2008.
+
+Wright, N. T. _Evil and the Justice of God_. London: SPCK, 2006.
+
+Wright, N. T. _Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church_. Grand Rapids: Zondervan, 2008.
+
+
+### Commentaries and Reference Works
+
+Alden, Robert L. _Job_. Vol. 11. The New American Commentary. Nashville: Broadman & Holman Publishers, 1993.
+
+Andersen, Francis I. _Job: An Introduction and Commentary_. Vol. 14. Tyndale Old Testament Commentaries. Downers Grove: InterVarsity, 1976.
+
+Beale, G. K. _The Book of Revelation: A Commentary on the Greek Text_. New International Greek Testament Commentary. Grand Rapids: Eerdmans, 1999.
+
+Bock, Darrell L. _Luke: 1:1–9:50_. Vol. 1. Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 1994.
+
+Brooks, James A. _Mark_. Vol. 23. The New American Commentary. Nashville: Broadman & Holman Publishers, 1991.
+
+Fernando, Ajith. _Acts_. The NIV Application Commentary. Grand Rapids: Zondervan, 1998.
+
 Garland, David E. _Mark_. The NIV Application Commentary. Grand Rapids, MI: Zondervan Publishing House, 1996.
 
 Green, Joel B. _The Gospel of Luke_. The New International Commentary on the New Testament. Grand Rapids, MI: Wm. B. Eerdmans Publishing Co., 1997.
