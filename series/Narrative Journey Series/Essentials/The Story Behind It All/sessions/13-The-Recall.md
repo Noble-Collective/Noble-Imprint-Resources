@@ -88,13 +88,14 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_DiscussionQuestions_Directions -->
 
-1. Quote Reflection: What is this quote saying? What parts of this quote do you find most interesting and helpful?
+<Question id=TheStoryRecall-KeyPassage-Q3>3. <Accent>Personal Praise:</Accent> What reasons do you have to give praise to God? How have you experienced God's joy-filled salvation? </Question>
+<Question id=TheStoryRecall-DiscussionQuesetion-Q1>1. <Accent>Quote Reflection:</Accent> What is this quote saying? What parts of this quote do you find most interesting and helpful?
 
-2. The True Story of the World: How is the biblical story the true story of the world? What other competing stories exist that try to explain things in the world?
+<Question id=TheStoryRecall-DiscussionQuesetion-Q2>2. <Accent>The True Story of the World:</Accent> How is the biblical story the true story of the world? What other competing stories exist that try to explain things in the world?
 
-3. Life's Biggest Questions: How do the truths of Christianity answer some of life's biggest questions? During this study, which truths most impacted you?
+<Question id=TheStoryRecall-DiscussionQuesetion-Q3>3. <Accent>Life's Biggest Questions:</Accent> How do the truths of Christianity answer some of life's biggest questions? During this study, which truths most impacted you?
 
-4. Personal Faith Maturity: How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
+<Question id=TheStoryRecall-DiscussionQuesetion-Q4>4. <Accent>Personal Faith Maturity:</Accent> How would you evaluate your current understanding of basic Christian teaching? What beliefs do you understand clearly? What topics do you need to study more?
 
 ## Learning Plan: Charting the Course
 
