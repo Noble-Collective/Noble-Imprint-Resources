@@ -88,11 +88,11 @@ God is a God of hope. Hope, however, is not a fleeting and fragile daydream that
 
 ##### Passage Outline
 
-1. The Rider on the White Ho(Revelation 19:11–21)
-2. (Revelation 20:1–10)
-3. (Revelation 20:11–15)
-4. (Revelation 21:1–22:5)
-5. (Revelation 22:6–21)
+1. Rider on the White Horse and  (Revelation 19:11–21)
+2. Bottomless Pit and Thousand Year Reign (Revelation 20:1–10)
+3. Great White Throne Judgement (Revelation 20:11–15)
+4. New Heavens and New Earth (Revelation 21:1–22:5)
+5. Scriptural Promise and the Return of Jesus (Revelation 22:6–21)
 
 #### Making All Things New
 
