@@ -3,7 +3,7 @@
 
 ## Study Design
 
-### 
+### Main Session Movements
 
 
 ## Seeing the Design
