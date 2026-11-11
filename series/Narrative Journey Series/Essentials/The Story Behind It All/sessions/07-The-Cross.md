@@ -87,6 +87,17 @@ The central pillar of Christianity is the gospel. Said another way, Jesus' death
 
 ##### Passage Outline
 
+1. (Mark 15:1–15)
+2. (Mark 15:16–20)
+
+3. (Mark 15:21–32)
+
+4. (Mark 15:33–41)
+
+5. (Mark 15:42–47)
+
+6. (Mark 16:1–8)
+
 #### The Work of Salvation on the Cross
 
 > For Christ also suffered for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit.
