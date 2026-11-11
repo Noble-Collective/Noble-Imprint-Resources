@@ -87,6 +87,15 @@ God's redemptive work in Christ is to save people and form them into a community
 
 ##### Passage Outline
 
+1. (Revelation 1:9–20)
+2. (Revelation 2:1–7)
+3. (Revelation 2:8–11)
+4. (Revelation 2:12–17)
+5. (Revelation 2:18–29)
+6. (Revelation 3:1–6)
+7. (Revelation 3:7–13)
+8. (Revelation 3:14–22)
+
 #### Letters to the Churches
 
 > His purpose was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms, according to the eternal purpose that He accomplished in Christ Jesus our Lord.
