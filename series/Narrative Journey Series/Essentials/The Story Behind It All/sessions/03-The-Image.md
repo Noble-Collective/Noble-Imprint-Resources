@@ -80,9 +80,7 @@ The story about human origins is foundational to establishing mature Christian b
 
 #### Passage Introduction
 
-##### Key Idea
-
-Of all that God has made, humans are the crown of God's creation—his very noble image—created to represent his rule, reveal his character, enjoy his presence, and spread his glory.
+Key Idea: Humans are the crown of God's creation—his very noble image—created to represent his rule, reveal his character, enjoy his presence, and spread his glory.
 
 ##### Passage Overview
 
