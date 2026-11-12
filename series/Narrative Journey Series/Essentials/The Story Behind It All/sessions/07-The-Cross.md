@@ -77,13 +77,11 @@ At the center of the Christian faith is Jesus' sacrifice on the cross and his su
 
 #### Passage Introduction
 
-##### Key Idea
-
-Jesus rescues human sinners through his sacrificial death and victorious resurrection.
+**Key Idea:** Jesus rescues human sinners through his sacrificial death on the cross and and his victorious resurrection from the dead.
 
 ##### Passage Overview
 
-The central pillar of Christianity is the gospel. Said another way, Jesus' death and resurrection is the crux of the faith. The word "gospel" means "good news." To enjoy the promise of Christianity, we need to understand the essence of this gospel message. The good news of Jesus is that he has accomplished salvation for sinful humans and offers this salvation freely to all who place their faith in him. Jesus suffered false accusations so that we could be free from guilt. Jesus endured humiliation so that we can be unshackled from shame. Jesus was crucified on the cross as a sufficient sacrifice for sin, appeasing God's righteous wrath. In this act, Satan was defeated, the curse was undone, and sin was overcome. The burial of Jesus and his subsequent resurrection procure victory and triumph for all who believe in Jesus. No other means of genuine salvation exist than in Jesus' work on the cross. His death was not an accident of human history. Instead, it was a fulfillment of God's plan to secure eternal redemption for the lost and ultimate restoration for the fallen creation. Study the commentary below to illuminate the biblical text and learn about the world-altering and life-transforming message of salvation on the cross.
+Mark 15:1–16:8. The central pillar of Christianity is the gospel. Jesus' death and resurrection is the crux of the faith. The word gospel means good news. To enjoy the promise of Christianity, we need to understand the essence of this gospel message. The good news of Jesus is that he has accomplished salvation for sinful humans and offers this salvation freely to all who place their faith in him. Jesus suffered false accusations so that we could be free from guilt. Jesus endured humiliation so that we can be unshackled from shame. Jesus was crucified on the cross as a sufficient sacrifice for sin, appeasing God's righteous wrath. In this act, Satan was defeated, the curse was undone, and sin was overcome. The burial of Jesus and his subsequent resurrection procure victory and triumph for all who believe in Jesus. No other means of genuine salvation exist than in Jesus' work on the cross. His death was not an accident of human history. Instead, it was a fulfillment of God's plan to secure eternal redemption for the lost and ultimate restoration for the fallen creation. Study the commentary below to illuminate the biblical text and learn about the world-altering and life-transforming message of salvation on the cross.
 
 ##### Passage Outline
 
