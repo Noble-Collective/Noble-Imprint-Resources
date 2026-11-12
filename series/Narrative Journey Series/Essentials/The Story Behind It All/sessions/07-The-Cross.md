@@ -37,7 +37,7 @@ At the center of the Christian faith is Jesus' sacrifice on the cross and his su
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStorySes7-Hearing-Q1>1. <Accent>Read Mark 15:1–20:</Accent> How was Jesus treated prior to his crucifixion? How was Jesus treated before Pilate, the crowd, and the soldiers? Why did they reject Christ?</Question>
+<Question id=TheStorySes7-Hearing-Q1>1. <Accent>Read Mark 15:1–20:</Accent> How was Jesus treated prior to his crucifixion? How was Jesus treated before Pilate, the crowd, and the soldiers? Why did people reject Jesus Christ?</Question>
 <Question id=TheStorySes7-Hearing-Q2>2. <Accent>Read Mark 15:21–41:</Accent> How did Jesus' crucifixion take place? How was Jesus killed on a cross, and what happened at the time of his death?</Question>
 <Question id=TheStorySes7-Hearing-Q3>3. <Accent>Read Mark 15:42–47:</Accent> Who took Jesus' body after he died, and what was done with it?</Question>
 <Question id=TheStorySes7-Hearing-Q4>4. <Accent>Read Mark 16:1–8:</Accent> What were the events that happened the morning of Jesus' resurrection?</Question>

@@ -37,7 +37,7 @@ The opening chapters of Acts detail an important historical event in the life of
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStorySes8-Hearing-Q1>1. <Accent>Read Acts 1:1–11:</Accent> As Jesus commissioned his disciples, what role would the Holy Spirit have in the Christian community?</Question>
+<Question id=TheStorySes8-Hearing-Q1>1. <Accent>Read Acts 1:1–11:</Accent> When Jesus commissioned his disciples, what role did he say the the Holy Spirit would have in the Christian community?</Question>
 <Question id=TheStorySes8-Hearing-Q2>2. <Accent>Read Acts 1:12–26:</Accent> As the disciples were waiting in Jerusalem, how did the Spirit guide them?</Question>
 <Question id=TheStorySes8-Hearing-Q3>3. <Accent>Read Acts 2:1–13:</Accent> On the day of Pentecost, how did the Spirit move in and through the disciples?</Question>
 <Question id=TheStorySes8-Hearing-Q4>4. <Accent>Read Acts 2:14–36:</Accent> In Peter's gospel sermon, what importance does Peter say the Spirit has?</Question>
