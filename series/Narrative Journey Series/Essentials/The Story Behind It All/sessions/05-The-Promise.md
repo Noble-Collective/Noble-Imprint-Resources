@@ -37,12 +37,12 @@ The life of discipleship is based upon God's word. God's word of promise demonst
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStorySes5-Hearing-Q1>1. <Accent>Read Genesis 5:28–32:</Accent> How does this text describe Noah and his hopeful role for humanity?</Question>
-<Question id=TheStorySes5-Hearing-Q2>2. <Accent>Read Genesis 6:1–13:</Accent> At the time of Noah, what were things like on earth? What was God's evaluation of the human condition?</Question>
-<Question id=TheStorySes5-Hearing-Q3>3. <Accent>Read Genesis 6:13–7:5:</Accent> What instructions did God give to Noah? What did these instructions reveal about God's judgment and salvation?</Question>
+<Question id=TheStorySes5-Hearing-Q1>1. <Accent>Read Genesis 5:28–32:</Accent> How does this text describe Noah and his hopeful role for humanity? (Focus on Genesis 5:28–)</Question>
+<Question id=TheStorySes5-Hearing-Q2>2. <Accent>Read Genesis 6:1–13:</Accent> At the time of Noah, what were things like on earth? What was God's evaluation of the human condition? (Focus on Genesis 6:5–11.)</Question>
+<Question id=TheStorySes5-Hearing-Q3>3. <Accent>Read Genesis 6:13–7:5:</Accent> What instructions did God give to Noah? What did these instructions reveal about God's judgment and salvation? (Focus on )</Question>
 <Question id=TheStorySes5-Hearing-Q4>4. <Accent>Read Genesis 7:6–24:</Accent> How did God judge the earth? What happened when the floodwaters covered the earth? (Focus on Genesis 7:6–16.)</Question>
 <Question id=TheStorySes5-Hearing-Q5>5. <Accent>Read Genesis 8:1–19:</Accent> How did God bring relief from the floodwaters? What events took place to bring about the end of the flood? (Focus on Genesis 8:1–12, 13–19.)</Question>
-<Question id=TheStorySes5-Hearing-Q6>6. <Accent>Read Genesis 8:20–9:17:</Accent> What did Noah do after he exited the ark? What words did God speak to establish his relationship with creation? (Focus on Genesis 8:20–9:7; 9:)</Question>
+<Question id=TheStorySes5-Hearing-Q6>6. <Accent>Read Genesis 8:20–9:17:</Accent> What did Noah do after he exited the ark? What words did God speak to establish his relationship with creation? (Focus on Genesis 8:20–9:16)</Question>
 
 ### Storycraft
 
