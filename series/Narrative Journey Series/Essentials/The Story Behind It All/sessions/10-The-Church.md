@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Revelation 1:9–3:22
 - **Scripture Memory** - And God put everything under His feet and made Him head over everything for the church, which is His body, the fullness of Him who fills all in all. Ephesians 1:22–23
-- **Catechism** - The church is the community of Christ-followers whose faith in Jesus unites them into a shared life with one another.
+- **Key Idea** - The church is the community of Christ-followers whose faith in Jesus unites them into a shared life with one another.
 
 ## Introduction
 

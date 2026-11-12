@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Revelation 19:11–22:21
 - **Scripture Memory** - Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead. 1 Peter 1:3
-- **Catechism** - At the end of time, Jesus will return, Satan will be defeated, the dead will rise, evil will be judged, and God will remake the world.
+- **Key Idea** - At the end of time, Jesus will return, Satan will be defeated, the dead will rise, evil will be judged, and God will remake the world.
 
 ## Introduction
 
