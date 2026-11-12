@@ -42,7 +42,7 @@ The life of discipleship is based upon God's word. God's word of promise demonst
 <Question id=TheStorySes5-Hearing-Q3>3. <Accent>Read Genesis 6:13–7:5:</Accent> What instructions did God give to Noah? What did these instructions reveal about God's judgment and salvation?</Question>
 <Question id=TheStorySes5-Hearing-Q4>4. <Accent>Read Genesis 7:6–24:</Accent> How did God judge the earth? What happened when the floodwaters covered the earth? (Focus on Genesis 7:6–16.)</Question>
 <Question id=TheStorySes5-Hearing-Q5>5. <Accent>Read Genesis 8:1–19:</Accent> How did God bring relief from the floodwaters? What events took place to bring about the end of the flood? (Focus on Genesis 8:1–12, 13–19.)</Question>
-<Question id=TheStorySes5-Hearing-Q6>6. <Accent>Read Genesis 8:20–9:17:</Accent> What did Noah do after he exited the ark? What words did God speak to establish his relationship with creation? (Focus on Genesis 8:)</Question>
+<Question id=TheStorySes5-Hearing-Q6>6. <Accent>Read Genesis 8:20–9:17:</Accent> What did Noah do after he exited the ark? What words did God speak to establish his relationship with creation? (Focus on Genesis 8:20–9:7; 9:)</Question>
 
 ### Storycraft
 
