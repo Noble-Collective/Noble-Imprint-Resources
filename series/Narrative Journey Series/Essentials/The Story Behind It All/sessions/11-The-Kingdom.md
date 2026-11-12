@@ -78,9 +78,7 @@ Throughout the biblical narrative—the true story behind it all—we have seen 
 
 #### Passage Introduction
 
-##### Key Idea
-
-God's kingdom will fully and finally prevail; we are to live lives of genuine faith, faithful endurance, wise discernment, and urgent repentance.
+**Key Idea:** God's kingdom will fully and finally prevail, summoning us to lives of genuine faith, faithful endurance, wise discernment, and urgent repentance.
 
 ##### Passage Overview
 
