@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Acts 1:1–2:47
 - **Scripture Memory** - I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh. And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances. Ezekiel 36:26–27
-- **Catechism** - God gave the Holy Spirit to all who believe in Jesus, bringing new life, empowering witness, illuminating truth, and uniting believers as a church.
+- **Key Idea** - God gave the Holy Spirit to all who believe in Jesus, bringing new life, empowering witness, illuminating truth, and uniting believers as a church.
 
 ## Introduction
 
