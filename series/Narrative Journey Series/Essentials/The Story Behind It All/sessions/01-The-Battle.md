@@ -9,7 +9,7 @@
 ### Key Elements
 
 - **Key Passage** - Job 1:1–2:13
-- **Scripture Memory** - As the deer pants for streams of water, so my soul longs after You, O God. My soul thirsts for God, the living God. When shall I come and appear in God's presence? Psalm 42:1–2
+- **Scripture Memory** - I have told you these things so that in Me you may have peace. In the world you will have tribulation. But take courage; I have overcome the world. John 16:33
 - **Key Idea** - God is calling us to a life of faith in a broken and sinful world.
 
 ## Introduction
