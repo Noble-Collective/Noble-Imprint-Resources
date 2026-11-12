@@ -82,13 +82,11 @@ The narrative of creation's fall from perfection is foundational to the life of 
 
 #### Passage Introduction
 
-##### Key Idea
-
-The unbelief of God's word, the lust of evil desires, and the boastful pride of human ego resulted in God's world being placed under a curse of fear, shame, blame, pain, and death.
+**Key Idea:** The first humans rebelled against God and ruined God's perfect world, The unbelief of God's word, the lust of evil desires, and the boastful pride of human ego resulted in God's world being placed under a curse of fear, shame, blame, pain, and death.
 
 ##### Passage Overview
 
-The story of creation's fall exposes the nature of sin and its effects in the world. It cautions us against Satan's schemes and warns us of the deadly consequences of disobedience. The biblical narrative explains how the world is suffering under divine judgment. But the same narrative also summons us to look toward God's hopeful redemption. We know that there is not only something severely wrong with the world but also something painfully broken within us. In guilt, we hide from things we have done, thoughts we have contemplated, emotions we have harbored, or relationships we have ruined. In our most honest moments, we acknowledge that we do not measure up to God's standards. Like the first humans, we cannot engineer our own remedy. Our methods cannot fix our brokenness. God alone can drive out our fears, cover our shame, remove our guilt, heal our pain, remove the curse, and undo death. Only when we humbly come before God in faith and confession can we experience God's gracious and restoring hand. Study the biblical text and the following commentary to help you understand the nature of sin and how the first sin infected God's good creation.
+Genesis 3:1–24. The story of creation's fall exposes the nature of sin and its effects in the world. It cautions us against Satan's schemes and warns us of the deadly consequences of disobedience. The biblical narrative explains how the world is suffering under divine judgment. But the same narrative also summons us to look toward God's hopeful redemption. We know that there is not only something severely wrong with the world but also something painfully broken within us. In guilt, we hide from things we have done, thoughts we have contemplated, emotions we have harbored, or relationships we have ruined. In our most honest moments, we acknowledge that we do not measure up to God's standards. Like the first humans, we cannot engineer our own remedy. Our methods cannot fix our brokenness. God alone can drive out our fears, cover our shame, remove our guilt, heal our pain, remove the curse, and undo death. Only when we humbly come before God in faith and confession can we experience God's gracious and restoring hand. Study the biblical text and the following commentary to help you understand the nature of sin and how the first sin infected God's good creation.
 
 ##### Passage Outline
 
