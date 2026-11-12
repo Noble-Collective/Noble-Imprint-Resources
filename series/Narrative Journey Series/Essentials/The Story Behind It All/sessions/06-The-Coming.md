@@ -79,11 +79,11 @@ Devotion to Christ is central to the life of faith. Christ's coming to earth emb
 
 #### Passage Introduction
 
-**Key Idea:** God sent his one and only Son, Jesus, as the ultimate fulfillment of God's promised plan to rescue his people from the ruin of sin and the curse of the fall, true disciples respond to him in faith, submission, blessing, witness, and worship.
+**Key Idea:** God sent his one and only Son, Jesus, as the ultimate fulfillment of God's promised plan to rescue his people from the ruin of sin and the curse of the fall.
 
 ##### Passage Overview
 
-God has taken the initiative to rescue sinful humanity. He sent his Son to leave heaven and come to the earth to pay for our salvation. The Christian life is not a matter of working our way back to God, earning his favor with our deeds, or outdoing our bad deeds with good ones. Christianity is based upon a gift: God giving his Son for human salvation. One does not experience the blessing of a gift until it is received. Receiving Jesus as Lord, Savior, and King of your life is the only way to know all of God's blessings. The miraculous births of John and Jesus show God's faithfulness to fulfill his promises. The faith-filled responses of Elizabeth, Zechariah (eventually), Mary, Joseph, and the shepherds serve as exemplars to the life of faith and discipleship. As you investigate the true and historical narrative of Jesus' birth, use the following commentary to help you understand the teachings of this passage.
+Luke 1:1–2:21. God has taken the initiative to rescue sinful humanity. He sent his only Son to leave heaven and come to the earth to make sufficient payment for humanity's sinful rebellion and purchase eternal salvation for all who believe in Jesus. The Christian life is not a matter of working our way back to God, earning his favor with our deeds, or outdoing our bad deeds with good ones. Christianity is based upon a gift: God giving his Son for human salvation. One does not experience the blessing of a gift until it is received. Receiving Jesus as Lord, Savior, and King of your life is the only way to know all of God's blessings. The miraculous births of John and Jesus show God's faithfulness to fulfill his promises. The faith-filled responses of Elizabeth, Zechariah (eventually), Mary, Joseph, and the shepherds serve as exemplars to the life of faith and discipleship. As you investigate the true and historical narrative of Jesus' birth, use the following commentary to help you understand the teachings of this passage.
 
 ##### Passage Outline
 
