@@ -11,7 +11,7 @@
 ### Key Elements
 - **Key Passage** - Genesis 3:1–24
 - **Scripture Memory** - For all have sinned and fall short of the glory of God. Romans 3:23
-- **Catechism** - Q: What ruined God's good creation? A: Sin.
+- **Key Idea** - The first humans rebelled against God and ruined God's perfect world, infecting creation with sin and placing it under a curse.
 
 ## Introduction
 

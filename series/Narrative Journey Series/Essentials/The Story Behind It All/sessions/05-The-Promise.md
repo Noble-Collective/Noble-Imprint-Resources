@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Genesis 5:28–9:17
 - **Scripture Memory** - Through these He has given us His precious and magnificent promises, so that through them you may become partakers of the divine nature, now that you have escaped the corruption in the world caused by evil desires. 2 Peter 1:4
-- **Catechism** - Q: How does God plan to restore his world? A: Promise.
+- **Key Idea** - God is rebuilding the ruins of creation through his promised plan: relieving the curse, judging evil, saving his covenant people, and remaking the world.
 
 ## Introduction
 

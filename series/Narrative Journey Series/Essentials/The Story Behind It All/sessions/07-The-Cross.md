@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Mark 15:1–16:8
 - **Scripture Memory** - Christ redeemed us from the curse of the law by becoming a curse for us. For it is written: "Cursed is everyone who is hung on a tree." Galatians 3:13
-- **Catechism** - Q: How does Jesus rescue our life? A: Gospel.
+- **Key Idea** - Jesus rescues human sinners through his sacrificial death on the cross and his victorious resurrection from the dead.
 
 ## Introduction
 

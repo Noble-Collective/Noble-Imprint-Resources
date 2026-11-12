@@ -11,7 +11,7 @@
 ### Key Elements
 - **Key Passage** - Genesis 2:4–25
 - **Scripture Memory** - For You formed my inmost being; You knit me together in my mother's womb. I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well. Psalm 139:13–14
-- **Catechism** - Q: Who is the crown of God's creation? A: Humanity.
+- **Key Idea** - Humans are the crown of God's creation—his very noble image—created to represent his rule, reveal his character, enjoy his presence, and spread his glory.
 
 ## Introduction
 

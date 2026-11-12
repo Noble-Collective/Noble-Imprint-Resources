@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Luke 1:1–2:21
 - **Scripture Memory** - But when the time had fully come, God sent His Son, born of a woman, born under the law, to redeem those under the law, that we might receive our adoption as sons. Galatians 4:4–5
-- **Catechism** - Q: Who came to fulfill God's promises? A: Jesus.
+- **Key Idea** - God sent his one and only Son, Jesus, as the ultimate fulfillment of God's promised plan to rescue his people from the ruin of sin and the curse of the fall.
 
 ## Introduction
 

@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Acts 10:1–11:18
 - **Scripture Memory** - For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. Ephesians 2:8–9
-- **Catechism** - Q: What do humans need most of all? A: Salvation.
+- **Catechism** - When people express genuine faith in the gospel, they are converted to new life in Jesus and receive the gift of the Holy Spirit.
 
 ## Introduction
 

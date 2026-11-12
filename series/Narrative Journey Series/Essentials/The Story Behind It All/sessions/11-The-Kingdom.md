@@ -9,7 +9,7 @@
 ### Key Elements
 - **Key Passage** - Revelation 12:1–14:20
 - **Scripture Memory** - But seek first the kingdom of God and His righteousness, and all these things will be added unto you. Matthew 6:33
-- **Catechism** - Q: What does the church live and die for? A: Kingdom.
+- **Catechism** - God's kingdom will fully and finally prevail, summoning us to lives of genuine faith, faithful endurance, wise discernment, and urgent repentance.
 
 ## Introduction
 

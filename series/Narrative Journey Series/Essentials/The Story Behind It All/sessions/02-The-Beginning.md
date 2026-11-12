@@ -11,7 +11,7 @@
 ### Key Elements
 - **Key Passage** - Genesis 1:1–2:3
 - **Scripture Memory** - By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible. Hebrews 11:3
-- **Catechism** - Q: Who must answer to God? A: Creation.
+- **Key Idea** - There is only one living and true God, Creator of all things, who made his good world as a perfect reflection of his character.
 
 ## Introduction
 
