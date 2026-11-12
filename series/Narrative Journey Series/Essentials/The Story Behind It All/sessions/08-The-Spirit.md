@@ -78,7 +78,7 @@ The opening chapters of Acts detail an important historical event in the life of
 
 #### Passage Introduction
 
-**Key Idea:** God gave the Holy Spirit to all who believe in Jesus, bringing new life, empowering witness, illuminating truth, and uniting believers together as a church.
+**Key Idea:** God gave the Holy Spirit to all who believe in Jesus, bringing new life, empowering witness, illuminating truth, and uniting believers as a church.
 
 ##### Passage Overview
 
