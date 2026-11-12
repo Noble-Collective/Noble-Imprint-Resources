@@ -79,9 +79,7 @@ Like Cornelius, we each have our own unique story of salvation. Although God sav
 
 #### Passage Introduction
 
-##### Key Idea
-
-God prepares and calls his people to himself; upon repentance and faith in the gospel, believers are transformed by the power of the Holy Spirit to a new life in Christ.
+**Key Idea:** God prepares and calls his people to himself; upon repentance and faith in the gospel, believers are transformed by the power of the Holy Spirit to a new life in Christ.
 
 ##### Passage Overview
 
