@@ -39,7 +39,7 @@ The story of creation is foundational to all that it means to be human and what 
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStorySes2-Hearing-Q1>1. <Accent>Read Genesis 1:1–2:</Accent> What were things initially like when God began to create the world?</Question>
+<Question id=TheStorySes2-Hearing-Q1>1. <Accent>Read Genesis 1:1–2:</Accent> What were things initially like when God began to create the world? (Focus on Genesis 1:1–2.)</Question>
 <Question id=TheStorySes2-Hearing-Q2>2. <Accent>Read Genesis 1:3–31:</Accent> What did God create on each of the six days of creation?</Question>
 <Question id=TheStorySes2-Hearing-Q3>3. <Accent>Read Genesis 1:3–31:</Accent> What rhythms and patterns do you see in how God created the world?</Question>
 <Question id=TheStorySes2-Hearing-Q4>4. <Accent>Read Genesis 1:26–31:</Accent> What was unique about how and why God created humans?</Question>
