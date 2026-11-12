@@ -41,7 +41,7 @@ The narrative of creation's fall from perfection is foundational to the life of 
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStorySes4-Hearing-Q1>1. <Accent>Read Genesis 3:1–6:</Accent> What led the first humans to disobey God? (Focus on 3:1–6; cf. 2:15–17)</Question>
+<Question id=TheStorySes4-Hearing-Q1>1. <Accent>Read Genesis 3:1–6:</Accent> What led the first humans to disobey God?</Question>
 <Question id=TheStorySes4-Hearing-Q2>2. <Accent>Read Genesis 3:7–13:</Accent> What resulted after the first humans disobeyed God's word?</Question>
 <Question id=TheStorySes4-Hearing-Q3>3. <Accent>Read Genesis 3:14–19:</Accent> What specific judgments did God announce in bringing a curse on his creation?</Question>
 <Question id=TheStorySes4-Hearing-Q4>4. <Accent>Read Genesis 3:20–24:</Accent> How did God act in hopeful and promising ways, even in judgment and sin?</Question>

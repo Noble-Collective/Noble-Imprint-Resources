@@ -41,8 +41,8 @@ To understand the foundations of the Christian faith, we must understand that Go
 <Question id=TheStorySes1-Hearing-Q1>1. <Accent>Read Job 1:1–5:</Accent> What kind of man was Job? How is he described in this passage?</Question>
 <Question id=TheStorySes1-Hearing-Q2>2. <Accent>Read Job 1:6–12; 2:1–6:</Accent> What did God and Satan talk about during the two meetings recorded in this story? (Focus on Job 1:6–12.)</Question>
 <Question id=TheStorySes1-Hearing-Q3>3. <Accent>Read Job 1:13–19; 2:7–9:</Accent> What kind of suffering did Job experience?</Question>
-<Question id=TheStorySes1-Hearing-Q4>4. <Accent>Read Job 1:20–22; 2:9–10:</Accent> How did Job respond to his suffering? How is his response different than the response of his wife? (Focus on Job 1:20–22.)</Question>
-<Question id=TheStorySes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering? (Focus on Job 2:11–13.)</Question>
+<Question id=TheStorySes1-Hearing-Q4>4. <Accent>Read Job 1:20–22; 2:9–10:</Accent> How did Job respond to his suffering? How is his response different than the response of his wife?</Question>
+<Question id=TheStorySes1-Hearing-Q5>5. <Accent>Read Job 2:11–13:</Accent> How did Job's three friends respond to Job's suffering?</Question>
 
 ### Storycraft
 
