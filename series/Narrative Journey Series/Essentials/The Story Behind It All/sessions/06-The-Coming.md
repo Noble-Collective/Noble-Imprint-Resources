@@ -37,7 +37,7 @@ Devotion to Christ is central to the life of faith. Christ's coming to earth emb
 
 <!-- @include: ObservationDirections -->
 
-<Question id=TheStorySes6-Hearing-Q1>1. <Accent>Read Luke 1:1–25, 57–80:</Accent> How did the birth of John the Baptist come about? How did his birth prepare the world for the coming of Christ? (Focus on Luke 1:)</Question>
+<Question id=TheStorySes6-Hearing-Q1>1. <Accent>Read Luke 1:1–25, 57–80:</Accent> How did the birth of John the Baptist come about? How did his birth prepare the world for the coming of Christ?</Question>
 <Question id=TheStorySes6-Hearing-Q2>2. <Accent>Read Luke 1:26–38:</Accent> How did Mary come to be pregnant with Jesus? What was special about Mary and her child?</Question>
 <Question id=TheStorySes6-Hearing-Q3>3. <Accent>Read Luke 1:26–56:</Accent> What are the various responses to Mary's miraculous conception?</Question>
 <Question id=TheStorySes6-Hearing-Q4>4. <Accent>Read Luke 2:1–7:</Accent> How did Jesus' birth occur?</Question>
