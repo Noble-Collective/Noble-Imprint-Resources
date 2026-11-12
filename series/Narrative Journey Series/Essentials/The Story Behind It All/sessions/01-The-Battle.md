@@ -10,7 +10,7 @@
 
 - **Key Passage** - Job 1:1–2:13
 - **Scripture Memory** - As the deer pants for streams of water, so my soul longs after You, O God. My soul thirsts for God, the living God. When shall I come and appear in God's presence? Psalm 42:1–2
-- **Catechism** - Q: When we pray who do we talk to? A: God. <!-- INFERRED / ADDED: taken from the v07 print PDF; this session had no catechism in the Google Doc manuscript. -->
+- **Key Idea** - God is calling us to a life of faith in a broken and sinful world.
 
 ## Introduction
 
