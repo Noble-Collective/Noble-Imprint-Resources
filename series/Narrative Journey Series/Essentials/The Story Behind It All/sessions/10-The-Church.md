@@ -77,13 +77,11 @@ While each letter provides a unique perspective of one church, the whole set of 
 
 #### Passage Introduction
 
-##### Key Idea
-
-The church is the community of Christ-followers, called to endure the onslaught of persecution as it pursues God's mission in the world and grows in maturity, keeping God's priorities a focus of its community life.
+**Key Idea:** The church is the community of Christ-followers whose faith in Jesus unites them into one fellowship called to endure persecution as it pursues God's mission in the world and grows in maturity, keeping God's priorities a focus of its community life.
 
 ##### Passage Overview
 
-God's redemptive work in Christ is to save people and form them into a community—God's family—called the church. The church is a covenant community that pledges itself to Christ, and in so doing, pledges itself to a life together with other believers. John's vision reveals this about the church: It is a community of Christ followers who possess faith in Christ, display the character of Christ, and fulfill the purposes of Christ in the world. This vision commends to us God's will for his church and warns us against potential dangers that threaten the community of faith. A set of heavenly epistles to early Christian leaders, these letters offer an inspired message to all believers about the nature, character, and purpose of the church. Every disciple needs to become an active participant in the church community. Each believer has a vital contribution to make to God's people and their mission in the world. This contribution requires commitment from all believers, united in a covenant relationship with Christ and one another. Explore the biblical text alongside the commentary below to reinforce your understanding of and commitment to the church.
+Revelation 1:9–3:22. God's redemptive work in Christ is to save people and form them into a community—God's family—called the church. The church is a covenant community that pledges itself to Christ, and in so doing, pledges itself to a life together with other believers. John's vision reveals this about the church: It is a community of Christ followers who possess faith in Christ, display the character of Christ, and fulfill the purposes of Christ in the world. This vision commends to us God's will for his church and warns us against potential dangers that threaten the community of faith. A set of heavenly epistles to early Christian leaders, these letters offer an inspired message to all believers about the nature, character, and purpose of the church. Every disciple needs to become an active participant in the church community. Each believer has a vital contribution to make to God's people and their mission in the world. This contribution requires commitment from all believers, united in a covenant relationship with Christ and one another. Explore the biblical text alongside the commentary below to reinforce your understanding of and commitment to the church.
 
 ##### Passage Outline
 
