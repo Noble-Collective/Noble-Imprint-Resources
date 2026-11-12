@@ -80,13 +80,11 @@ The story of creation is foundational to all that it means to be human and what 
 
 #### Passage Introduction
 
-##### Key Idea
-
-As Creator of all things, God is the reference point of ultimate reality, the fountain of all that is good, the measure of all true beauty, the mastermind of freedom, the architect of order and justice, and the source of human dignity.
+**Key Idea:** There is only one living and true God, Creator of all things 
 
 ##### Passage Overview
 
-In the creation account, we learn that God created all things. His work of creation involved bringing order out of chaos. In this great act of goodness and grace, God made the world to reflect his character. He created it to exhibit key attributes of himself: truth, goodness, beauty, freedom, justice, and nobility. These qualities were not only epitomized in God's world but were also meant to characterize human beings. Unfortunately, the reality of God's perfect world has been ruined by human sin. God created an ordered world out of chaos, but human sin has enslaved the world to chaos and disarray. In this broken world, our lives often resemble the pre-creation chaos more than the post-creation order. We feel the weight of living in a world that we know is broken. Still, we all have moments in life when we taste bits and pieces of the world as it should be. Since we are created beings, our lives are accountable to God. Never are our lives most ordered or pleasurable as when they are aligned and submitted to our Creator. Read the passage along with the following commentary to help you learn about the character of God as Creator and how he powerfully brought all things into existence.
+Genesis 1:1–2:3. In the creation account, we learn that God created all things. His work of creation involved bringing order out of chaos. In this great act of goodness and grace, God made the world to reflect his character. He created it to exhibit key attributes of himself: truth, goodness, beauty, freedom, justice, and nobility. These qualities were not only epitomized in God's world but were also meant to characterize human beings. Unfortunately, the reality of God's perfect world has been ruined by human sin. God created an ordered world out of chaos, but human sin has enslaved the world to chaos and disarray. In this broken world, our lives often resemble the pre-creation chaos more than the post-creation order. We feel the weight of living in a world that we know is broken. Still, we all have moments in life when we taste bits and pieces of the world as it should be. Since we are created beings, our lives are accountable to God. Never are our lives most ordered or pleasurable as when they are aligned and submitted to our Creator. Read the passage along with the following commentary to help you learn about the character of God as Creator and how he powerfully brought all things into existence.
 
 ##### Passage Outline
 
