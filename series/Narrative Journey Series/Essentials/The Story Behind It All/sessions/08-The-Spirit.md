@@ -78,13 +78,11 @@ The opening chapters of Acts detail an important historical event in the life of
 
 #### Passage Introduction
 
-##### Key Idea
-
-The person of the Holy Spirit is God's promise for those who place their faith in Christ, inviting us to join his mission, empowering us to faithful witness, guiding us in the truth, filling us for service, previewing the kingdom of God, and bringing about the work of conversion.
+**Key Idea:** God gave the Holy Spirit to all who believe in Jesus God's promise for those who place their faith in Christ, inviting us to join his mission, empowering us to faithful witness, guiding us in the truth, filling us for service, previewing the kingdom of God, and bringing about the work of conversion.
 
 ##### Passage Overview
 
-What may seem to be a sad departure turns out to be a joyous occasion: the ascension of Jesus brings about the descent of the Holy Spirit. In this story, the coming of the Spirit is central, as his coming is vital for the life of every disciple. When the Spirit came, the disciples were empowered to be worldwide witnesses, the church was guided through God's inspired word, the early believers were enabled to speak diverse native languages, God's prophetic word was fulfilled, and a bewildered crowd was brought to faith, repentance, and baptism. In the sending of the Spirit, salvation is possible for the sinner, and life is attainable for the lost. So complete is God's salvation work that he gives his own presence to his people. To receive God's salvation, we must unreservedly surrender our lives to God. Full and complete dependence upon God is ever and only the means for life and salvation. Use the commentary in concert with the biblical text to consider the role of the Spirit in the Christian life, aiming to understand and experience his presence and power in your life.
+Acts 1:1–2:47. What may seem to be a sad departure turns out to be a joyous occasion: the ascension of Jesus brings about the descent of the Holy Spirit. In this story, the coming of the Spirit is central, as his coming is vital for the life of every disciple. When the Spirit came, the disciples were empowered to be worldwide witnesses, the church was guided through God's inspired word, the early believers were enabled to speak diverse native languages, God's prophetic word was fulfilled, and a bewildered crowd was brought to faith, repentance, and baptism. In the sending of the Spirit, salvation is possible for the sinner, and life is attainable for the lost. So complete is God's salvation work that he gives his own presence to his people. To receive God's salvation, we must unreservedly surrender our lives to God. Full and complete dependence upon God is ever and only the means for life and salvation. Use the commentary in concert with the biblical text to consider the role of the Spirit in the Christian life, aiming to understand and experience his presence and power in your life.
 
 ##### Passage Outline
 
