@@ -154,7 +154,7 @@ Identify prayer requests for you and your community. Commit these to the Lord.
 </WitnessTheText>
 
 <ObservationDirections>
-Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying. Use the focus verses to guide your conversation.
+Read (or listen to) the whole passage of Scripture. Discuss the questions below for each section of the story. Pay attention to the details of the text to recall what the passage is saying.
 </ObservationDirections>
 
 <StorycraftDirections>
