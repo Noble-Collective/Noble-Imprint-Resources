@@ -80,7 +80,7 @@ The life of discipleship is based upon God's word. God's word of promise demonst
 
 #### Passage Introduction
 
-**Key Idea:** God is rebuilding the ruins of creation through his promised plan: bringing rest to a cursed world, enacting judgment on evil, restoring fallen creation, and establishing a reconciled relationship with his people.
+**Key Idea:** God is rebuilding the ruins of creation through his promised plan: relieving the curse, judging evil, saving his people, bringing rest to a cursed world, enacting judgment on evil, restoring fallen creation, and establishing a reconciled relationship with his people.
 
 ##### Passage Overview
 
