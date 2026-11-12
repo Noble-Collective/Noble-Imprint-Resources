@@ -79,9 +79,7 @@ Devotion to Christ is central to the life of faith. Christ's coming to earth emb
 
 #### Passage Introduction
 
-##### Key Idea
-
-Because God sent Jesus—God's Son, the world's King, the expected Messiah, and our Savior—as the ultimate fulfillment of God's promised plan to rescue his people from the ruin of sin and the curse of the fall, true disciples respond to him in faith, submission, blessing, witness, and worship.
+**Key Idea:** God sent his one and only Son, Jesus, as the ultimate fulfillment of God's promised plan to rescue his people from the ruin of sin and the curse of the fall, true disciples respond to him in faith, submission, blessing, witness, and worship.
 
 ##### Passage Overview
 
