@@ -140,7 +140,7 @@ Having been hurled on the earth in defeat, the serpent did not refrain from his 
 
 <Accent>_The Life of Faith as a Wilderness Journey._</Accent> To live in God's kingdom is to embrace a pilgrim life of an exile in the present world. Although definitive victory has been achieved in Christ, God's people still endure Satan's attacks. Like the woman and like the "rest of her children" (12:17), we are targets of Satan's attacks and live in a wilderness (12:6, 14). The final results of the battle have already been secured: Christ has defeated the enemy. Moreover, each time believers testify to Christ (and even die doing so), they are asserting the already-achieved triumph in Christ (12:11, 17). The defeat of the enemy has only increased his rage and hostility (12:12, 17). Even though it may feel long and arduous, the time of our earthly exile is brief, as Satan has "only a short time" (12:12). As such, believers should expect persecution and hostile mistreatment. During life in this earthly wilderness, believers enjoy God's protection and provision (12:6, 14). God nourishes, safeguards, sustains, and preserves his people during life's spiritual conflict.
 
-##### Belonging to the Lamb Who Was Slain: Enduring Persecution and Hostility in Faithful Perseverance
+##### Belonging to the Lamb Who Was Slain: Enduring Hostility in Faithful Perseverance
 
 ###### Biblical Narrative (Revelation 13:1–10)
 
@@ -174,7 +174,7 @@ Required of "all people small and great, rich and poor, free and slave" (13:16),
 
 <Accent>_Wisdom._</Accent> In constant battle against such an evil and sinister foe, believers require discernment. Importantly, the vision of the second beast amounts to "a call for wisdom" and "insight" (13:18). Citizens of Christ's kingdom expose the enemy's deception, discern counterfeit miracles, confront false worship, and maintain exclusive devotion to Christ. In the face of death threats and societal rejection, Christians live as wise kingdom citizens. Certain of their eternal future, believers are not persuaded by contemporary fads, global fashions, or cultural fancies. Recognizing the underlying faith dynamics of the spiritual conflict, Christ's disciples are unmoved and unwavering in their commitment to Christ.
 
-##### Fear God and Give Him Glory: Responding to the Gospel Message in Urgent Repentance
+##### Fear God and Give Him Glory: Responding to the Gospel in Urgent Repentance
 
 ###### Biblical Narrative (Revelation 14:1–20)
 
@@ -193,6 +193,8 @@ In a final scene, "another angel came out of the temple" (14:15). This angel spo
 ###### Biblical Principles
 
 <Accent>_Jesus, the True King._</Accent> This vision depicts Jesus as the ultimate King. He stands on Mount Zion with those who have come to God in faithful devotion (14:1). A thunderous new song is sung by those who have been redeemed (14:2–3). The redeemed live a life of faith (14:12), purity (14:4–5), obedience (14:12), and perseverance (14:12). Devoted to Christ as citizens of God's kingdom, believers "follow the Lamb wherever He goes" (14:4). They have responded to the gospel message (14:6–7) in confession of Christ as King and Judge (14:14). They have marked themselves in the name of Christ and God (14:1). <Callout>Ultimately, God's kingdom will prevail.</Callout> No matter how fierce the enemy's attacks, how deceptive his ploys, how blasphemous his slander, how strong his temptations, or how corrupting his evil ways, the kingdom of the redeemed will prevail. Victory belongs to the kingdom of Christ, the Lamb who has brought salvation to sinful man.
+
+
 
 <Accent>_The Hope of the Eternal Gospel._</Accent> The hope of the gospel is the foundation of Christ's kingdom. Good news of God's salvation, "the eternal gospel" will be announced throughout the earth (14:6). Greater than the enemy's scheme to deceive the nations (13:3, 7–8, 12, 14, 16–17), the eternal gospel will be preached throughout the world. Those who believe the gospel and repent from their sin enter into the community of the redeemed. The gospel promises blessing in death, rest from the curse, and escape from God's judgment (14:13). This is the hope for all believers who are "in the Lord" (14:13). As an expression of faith, true believers fear, glorify, and worship God (14:7). Faith in Christ transforms guilty sinners into holy citizens of God's kingdom who have hope in this life and in the life to come.
 
