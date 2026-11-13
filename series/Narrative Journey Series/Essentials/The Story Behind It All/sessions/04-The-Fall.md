@@ -223,17 +223,11 @@ God created humans to enjoy his good world. Rather than caring for creation as s
 
 ### Spiritual Practice
 
-#### Coming Clean
+<!-- @include: SpiritualPracticeDirections -->
 
-_In the space below, use the following questions to guide you as you write a confession of your sin and brokenness to God._
+<!-- @include: PracticeGuide_Fasting -->
 
-<Accent>Admitting Sin:</Accent> What am I guilty of before God? (i.e., "God, I admit that I have…")
-
-<Accent>Facing Brokenness:</Accent> Where are the broken areas of my life? (i.e., "I am filled with fear of …") What fears or anxieties control my life? What shame or guilt darkens my joy? What blame or fault do I pass on to others? What pain or grief am I facing?
-
-<Accent>Pleading for Mercy:</Accent> Will I come to God for forgiveness? (i.e., "God, please show mercy upon me.")
-
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticesInfographic active="Fasting" -->
 
 ## Ministry Practice: Rehearsing the Script
 

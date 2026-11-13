@@ -258,7 +258,7 @@ Above all that God had made, <Callout>humanity stands in a unique place, embodyi
 
 <!-- @include: SpiritualPracticeDirections -->
 
-<!-- @include: PracticeGuide_Fasting -->
+
 
 <!-- @include: SpiritualPracticesInfographic active="Fasting" -->
 
