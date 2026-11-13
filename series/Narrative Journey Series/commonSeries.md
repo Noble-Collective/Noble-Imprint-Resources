@@ -214,11 +214,13 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 
 #### Practice Guide
 <PracticeSummary label="Reading" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
-##### [Step 2 heading]
-[Step 2: one or two sentences.]
-##### [Step 3 heading]
+##### Read the Text
+Briefly pray and ask God to guide you. Rere
+##### Contemplate the Word
+Take a moment to stop and be silent. Slowly meditate on the words you read. 
+##### Discuss the Truths
+[Step 3: one or two sentences.]
+##### Pray the Passage
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Reading>
