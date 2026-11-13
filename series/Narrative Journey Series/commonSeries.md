@@ -215,7 +215,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 #### Practice Guide
 <PracticeSummary label="Reading" />
 ##### Read the Text
-Briefly pray and ask God to guide you. Rere
+Briefly pray and ask God to guide you. Read the passage in this session. Pick a portion
 ##### Contemplate the Word
 Take a moment to stop and be silent. Slowly meditate on the words you read. 
 ##### Discuss the Truths
