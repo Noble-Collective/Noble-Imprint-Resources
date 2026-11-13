@@ -251,7 +251,7 @@ Make a note of what the passage teaches you about God—his character or his wor
 ##### Confessing Sin to God
 Consider sin this passage exposes in your life. Write down what is not right in your life. Get on your knees and confess these sins to God.
 ##### Bringing Requests to God
-Think about how this passage bears witness to God's power and goodness. Think about burdens you bear. With hands open before the Lord, ask God to come to your help. Pray specifically 
+Think how this passage bears witness to God's power and goodness. Name burdens you are bearing. With hands open before the Lord, ask God to come to your help. 
 
 
 
