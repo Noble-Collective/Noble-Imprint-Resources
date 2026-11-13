@@ -207,6 +207,11 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <Question id={id}-Q4>4. <Accent>Reflecting on Mission:</Accent> What was the experience like when you did your ministry with unbelievers from this biblical text?</Question>
 </StrategyQuestions>
 
+<!-- ───────────────── Sessions — spiritual practice guides ───────────────── -->
+
+(the 12 guide blocks go here)
+
+
 <!-- ───────────────── Sessions — infographics ───────────────── -->
 
 <NarrativeStructureInfographic>
