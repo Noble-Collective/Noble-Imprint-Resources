@@ -215,9 +215,9 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 #### Practice Guide
 <PracticeSummary label="Reading" />
 ##### Read the Text
-Pray and ask God to guide you. Slowly and reflectively read the passage in this session. Pick a portion
+Pray for God to guide you. Slowly and reflectively read the passage in this session. Pick a few portions to focus on. Read these passages several times.
 ##### Contemplate the Word
-Take a moment to stop and be silent. Slowly meditate on the words you read. 
+Take a moment to stop and be silent. Slowly meditate on the words you have read, focusing on the selected portions. Think about the 
 ##### Discuss the Truths
 [Step 3: one or two sentences.]
 ##### Pray the Passage
