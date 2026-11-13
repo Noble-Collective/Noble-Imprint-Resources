@@ -200,10 +200,14 @@ A large quantity of angels—"a great multitude of the heavenly host" (2:13)—a
 
 <Accent>Searching and Journey._</Accent> Although this narrative teaches us how to rightly respond to Jesus, it also depicts faith in Jesus as a journey and quest. The angelic revelation to the shepherds offered these lowly herdsmen a sign that the promised Savior had come into the world. The sign of this reality "a baby wrapped in swaddling cloths and lying in a manger" (2:12). Importantly, the angels told the shepherds that they would "find" (2:12; cf. 2:16) this sign. The information God had "made known" (2:15) to the shepherds was a revelation and an invitation. It was not enough for them to receive this divine message. The shepherds had to go see the infant Christ for themselves: "Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us" (2:15). Amazingly, the sign of the Savior was the Savior himself, in the flesh. Their receptivity to God's divine message resulted in a faithful response to encounter the incarnate Christ for themselves. Significantly, the shepherds later became witnesses of this Christ to others (2:) 
 
-God has visited his people in the person of his Son, Jesus Christ. After hundreds of years of predictions, prophecies, and oracles, God entered into the world himself. The Savior of the world had come. All the ancient signs, shadows, and signals that pointed forward, telling the world that a Savior would come, had been fulfilled in the coming of Christ. The message of salvation had materialized in the manger at Bethlehem. The promise of redemption had come in the person of Jesus Christ. The   the world (2:) God did not and he invites all to 
+God has visited his people in the person of his Son, Jesus Christ. After hundreds of years of predictions, prophecies, and oracles, God entered into the world himself. The Savior of the world had come. All the ancient signs, shadows, and signals that pointed forward, telling the world that a Savior would come, had been fulfilled in the coming of Christ. The message of salvation had materialized in the manger at Bethlehem. The promise of redemption had come in the person of Jesus Christ. The hope of the world was incarnate in the city of David. 
+
+To all who have heard the hopeful message—"in the city of David a Savior has been born to you" (2:16)—God invites to come and see Jesus for themselves. Read about him (2:) God did not and he invites all to 
 they  is what they 
 
-oday in the city of David a Savior has been born to you. He is Christ the Lord
+
+
+. He is Christ the Lord" (2:16)
 
 God gave the shepherds a guiding 
 
