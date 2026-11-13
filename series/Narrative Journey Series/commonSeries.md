@@ -230,9 +230,9 @@ Use the passage to pray. Identify some of the most meaningful portions of this p
 #### Practice Guide
 <PracticeSummary label="Fasting" />
 ##### Looking in the Mirror of the Text
-Reflect on the passage being studied. Think through how what it exposes in your life as not aligned with the Lord. Record   in your life God wants you to 
-##### [Step 2 heading]
-[Step 2: one or two sentences.]
+Reflect on the passage being studied. Think through what it exposes in your life that is not aligned with the Lord. Confess this to the Lord in prayer. 
+##### Envisioning a 
+Imagine how your life would be different if you had victory over this struggle. Write down  
 ##### [Step 3 heading]
 [Step 3: one or two sentences.]
 
