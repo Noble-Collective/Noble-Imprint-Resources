@@ -249,9 +249,9 @@ Identify how the studied passage helps you be grateful. Identify several ways Go
 ##### Giving Praise to God
 Make a note of what the passage teaches you about God—his character or his works. Lifting your arms, speak aloud prayers of praise to God.
 ##### Confessing Sin to God
-Consider sin this passage exposes in your life. Write down areas of your life that are not right before the Lord. Get on your knees and confess these sins to God.
+Consider sin this passage exposes in your life. Write down what is not right in your life. Get on your knees and confess these sins to God.
 ##### Bringing Requests to God
-[Step 3: one or two sentences.]
+Think about how this passage bears witness to God's power and goodness. Think about burdens you bear. With hands open before the Lord, ask God to come to your help. Pray specifically 
 
 
 
