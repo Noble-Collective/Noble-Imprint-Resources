@@ -248,7 +248,11 @@ Our understanding of the story behind all reality will grow as we start to recog
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Prayer -->
+
+<!-- @include: SpiritualPracticesInfographic active="Prayer" -->
 
 ## Ministry Practice: Rehearsing the Script
 

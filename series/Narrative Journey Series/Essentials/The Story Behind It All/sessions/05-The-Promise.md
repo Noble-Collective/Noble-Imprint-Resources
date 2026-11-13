@@ -252,7 +252,11 @@ Noah's story shows us that God is a promise-giving and promise-keeping God. The 
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Reading -->
+
+<!-- @include: SpiritualPracticesInfographic active="Reading" -->
 
 ## Ministry Practice: Rehearsing the Script
 
