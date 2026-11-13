@@ -99,9 +99,9 @@ The story of creation is foundational to all that it means to be human and what 
 
 #### When Things Were as They Should Be
 
-> And God saw everything that He had made, and behold, it was very good.
+> The heavens declare the glory of God; the skies proclaim the work of His hands. Day after day they pour forth speech; night after night they reveal knowledge. Without speech or language, without a sound to be heard, their voice has gone out into all the earth, their words to the ends of the world..
 
-<< Genesis 1:31
+<< Psalm 19:1–4
 
 > Sinful man … brought misery upon himself, and all the world … The creation was a well-tuned instrument, upon which man might make music to the praise and honour of God; but the strings of the harp are broken; and there is nothing but jarring instead of harmony.
 
