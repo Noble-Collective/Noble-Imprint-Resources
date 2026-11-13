@@ -142,7 +142,7 @@ All-wise and all-knowing, Jesus appeared to John with white hair and fiery eyes 
 
 Faithful to Christ—divine King, righteous Judge, powerful Warrior, and exalted Lord—Christians are a people of the resurrection. Knowing that Jesus is _eternal_ ("the First and the Last" [1:17]), _risen_ ("the Living One … alive forever and ever" [1:18]), and _triumphant_ ("hold the keys of Death and of Hades" [1:18]), Christians embrace their missional witness, endure unfriendly mistreatment, and persevere in godly living with boldness and confidence. To follow the risen Christ is to live in the sure and certain hope of one's own resurrection from the dead. Though exiles on the earth, the church lives as a people who hope for an eternal home in the life of the world to come.
 
-Followers of Christ are citizens of God's kingdom who live out their life and faith as exiles on earth. Life as a Christ following, kingdom citizen, and earthly exile is not easy. 
+<Accent>_Fearless Faith._</Accent> Followers of Christ are citizens of God's kingdom who live out their life and faith as exiles on earth. Life as a Christ-following kingdom citizen and earthly exile is not easy. It requires bold and devoted faith. It also calls for believers to band together and live out their exile as a community of pilgrims and sojourners. Jesus' command to 
 
 ##### The Church of Ephesus: Fanning the Flame of Our Love for Christ
 
