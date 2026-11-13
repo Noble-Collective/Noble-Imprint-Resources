@@ -245,11 +245,15 @@ After completing your fast, give thanks to God. Identify what went well, what yo
 #### Practice Guide
 <PracticeSummary label="Prayer" />
 ##### Offering Thanks to God
-[Step 1: one or two sentences.]
-##### 
+Identify how the studied passage helps you be grateful. Identify several things God has provided for you. Spend time just thanking God for his goodness in your life.
+##### Giving Praise to God
 [Step 2: one or two sentences.]
 ##### Confessing Sin to God
 [Step 3: one or two sentences.]
+##### Bringing Requests to God
+[Step 3: one or two sentences.]
+
+
 
 </PracticeGuide_Prayer>
 
