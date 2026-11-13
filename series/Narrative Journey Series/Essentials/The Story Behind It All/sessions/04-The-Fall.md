@@ -179,7 +179,9 @@ God did not want humanity to live forever in its sinful condition. God said, "ma
 
 ###### Biblical Principles
 
-<Accent>_Banishment and Exile._</Accent> The end of the garden paradise was the beginning of humanity's banishment and exile. Human disobedience against God's commands resulted in a forfeiture of God's good blessings. After God pronounced the curse on creation, the text explicitly states that God "banished" (3:23) and "drove out" (3:24) the first humans from Eden. This eviction from Eden was punishment for proud defiance against God and also the natural consequences of sin. The certainty and severity of this excommunication was put on visible display with "a stationed cherubim" and "a whirling sword of flame" (3:24). Human rejection of God meant being barred from paradise
+<Accent>_Banishment and Exile._</Accent> The end of the garden paradise was the beginning of humanity's banishment and exile. Human disobedience against God's commands resulted in a forfeiture of God's good blessings. After God pronounced the curse on creation, the text explicitly states that God "banished" (3:23) and "drove out" (3:24) the first humans from Eden. This eviction from Eden was punishment for proud defiance against God and also the natural consequences of sin. The certainty and severity of this excommunication was put on visible display with "a stationed cherubim" and "a whirling sword of flame" (3:24). Human rejection of God meant being barred from paradise and all the blessings it therein.
+
+Since the fall, humans have lived life in perpetual exile. From generation to generation, people have wandered the earth, living east of Eden. The
 
 to guard the way to the tree of life.visibly  of this  the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.
 
