@@ -247,9 +247,9 @@ After completing your fast, give thanks to God. Identify what went well, what yo
 ##### Offering Thanks to God
 Identify how the studied passage helps you be grateful. Identify several ways God has provided for you. Spend time thanking God for his goodness in your life.
 ##### Giving Praise to God
-Identify what the passage teaches you about God—. Make a note of what it teaches about God's character or works. Speak aloud prayers of praise to God.
+Make a note of what the passage teaches you about God—his character or his works. Lifting your arms, speak aloud prayers of praise to God.
 ##### Confessing Sin to God
-[Step 3: one or two sentences.]
+Consider sin this passage exposes in your life. Write down areas of your life that are not right before the Lord. Get on your knees and confess these sins to God.
 ##### Bringing Requests to God
 [Step 3: one or two sentences.]
 
