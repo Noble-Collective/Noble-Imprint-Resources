@@ -202,7 +202,7 @@ A large quantity of angels—"a great multitude of the heavenly host" (2:13)—a
 
 God has visited his people in the person of his Son, Jesus Christ. After hundreds of years of predictions, prophecies, and oracles, God entered into the world himself. The Savior of the world had come. All the ancient signs, shadows, and signals that pointed forward, telling the world that a Savior would come, had been fulfilled in the coming of Christ. The message of salvation had materialized in the manger at Bethlehem. The promise of redemption had come in the person of Jesus Christ. The hope of the world was incarnate in the city of David. 
 
-To all who have heard the hopeful message—"in the city of David a Savior has been born to you" (2:16)—God invites to come and see Jesus for themselves. Read about him (2:) God did not and he invites all to 
+To all who have heard the hopeful message—"in the city of David a Savior has been born to you" (2:16)—God invites to come and see Jesus for themselves. Read about him in the pages of inspired Scripture. Journey with him in his earthly ministry in ancient Israel. Travel with him to his saving work on the cross and the rolled stone of his resurrection. Meet him in Bethlehem, cling to him at Calvary, and rejoice in him at the empty tomb. Whatever you do, do not remain distant. Let the s(2:) God did not and he invites all to 
 they  is what they 
 
 
