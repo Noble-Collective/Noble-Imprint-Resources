@@ -144,7 +144,7 @@ Faithful to Christ—divine King, righteous Judge, powerful Warrior, and exalted
 
 <Accent>_Fearless Faith._</Accent> Followers of Christ are citizens of God's kingdom who live out their life and faith as exiles on earth. Life as a Christ-following kingdom citizen and earthly exile is not easy. It requires bold and devoted faith. It also calls for believers to band together and live out their exile as a community of pilgrims and sojourners. The comforting words to John to "not be afraid" (1:17) of the heavenly vision of Jesus, are also words that summon believers to live out our faith in fearless devotion. When we are on the side of Christ, we need not fear any foe or force of evil.
 
-The words of this revelation are given to those who have ears to hear "what the Spirit says to the churches" (2:7, 11, 17, 23, )overcome (2:7, 11, 17, 26; 3:5, 12, 21)
+The words of this revelation are given to those who have ears to hear "what the Spirit says to the churches" (2:7, 11, 17, 29; 3:6, 13, 22) and to those who "overcome" (2:7, 11, 17, 26; 3:5, 12, 21). These repeated refrains in the seven letters to seven ancient churches are injunctions to us today. Surely, we do not overcome in our own strength. We cannot simpl
 
 ##### The Church of Ephesus: Fanning the Flame of Our Love for Christ
 
