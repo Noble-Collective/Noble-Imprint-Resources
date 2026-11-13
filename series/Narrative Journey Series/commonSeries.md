@@ -208,11 +208,131 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 </StrategyQuestions>
 
 <!-- ───────────────── Sessions — spiritual practice guides ───────────────── -->
+<!-- ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ Sessions ‚Äî spiritual practice guides ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ -->
+
+<PracticeGuide_Reading>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Reading>
+
+<PracticeGuide_Fasting>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Fasting>
+
+<PracticeGuide_Prayer>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Prayer>
+
+<PracticeGuide_Memorization>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Memorization>
+
+<PracticeGuide_Community>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Community>
+
+<PracticeGuide_Examination>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Examination>
+
+<PracticeGuide_Service>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Service>
+
+<PracticeGuide_Worship>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Worship>
+
+<PracticeGuide_Journaling>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Journaling>
+
+<PracticeGuide_Simplicity>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Simplicity>
 
 <PracticeGuide_Lament>
+
 #### Practice Guide
-##### Personal Lament
-Expressing our suffering by submitting our pain to God's healing hand.
 ##### Address to God
 Consider truths the Bible speaks about God, naming what you love about God. Call out to the Lord, addressing him for who he is and what he has done.
 ##### Complaint About Difficulty
@@ -223,7 +343,21 @@ Declare your faith and trust in God. Announce how God is trustworthy and faithfu
 Reflect on change you want God to bring in your life. Ask him to align your desires to his will. Hope in God, asking him to transform your situation.
 ##### Praise to God
 Consider God's character and deeds. Worship God, bearing testimony to how he is so great and how he has worked so mightily in your life and in the world.
+
 </PracticeGuide_Lament>
+
+<PracticeGuide_Silence>
+
+#### Practice Guide
+##### [Step 1 heading]
+[Step 1: one or two sentences.]
+##### [Step 2 heading]
+[Step 2: one or two sentences.]
+##### [Step 3 heading]
+[Step 3: one or two sentences.]
+
+</PracticeGuide_Silence>
+
 
 
 <!-- ───────────────── Sessions — infographics ───────────────── -->
