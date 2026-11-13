@@ -232,11 +232,11 @@ Use the passage to pray. Identify some of the most meaningful portions of this p
 ##### Looking in the Mirror of the Text
 Reflect on the passage being studied. Think through wisdom that you need or sin that needs confessed. Bring these to the Lord in prayer, asking God to align your life to his will.
 ##### Envisioning Your Life Aligned to God's Will
-Imagine your life in the center of God's will. Talk to God and ask him to show you what his will. Ask him to make your next steps clear.
-##### Planning 
-Choose what you will fast from Share this plan with another believer.
+Imagine your life in the center of God's will. Talk to God and ask him to show you his will. Ask him to make your next steps clear, giving you a picture of a life fully submitted to him.
+##### Planning the Details of Your Fast
+Pray for wisdom on how to fast. Choose what you will fast from and how long you will fast from it. Share this plan with another believer.
 ##### Reflecting on the Wilderness Journey 
-[Step 3: one or two sentences.]
+After completing your fast, 
 
 </PracticeGuide_Fasting>
 
