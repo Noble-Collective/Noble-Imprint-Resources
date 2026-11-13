@@ -217,11 +217,11 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 ##### Read the Text
 Pray for God to guide you. Slowly and reflectively read the passage in this session. Pick a few portions to focus on. Read these passages several times.
 ##### Contemplate the Word
-Take a moment to stop and be silent. Slowly meditate on the words you have read, focusing on the selected portions. Think about the 
+Stop and be silent. Slowly meditate on the words you have read, focusing on the selected portions. Think about their meaning and importance for your life.
 ##### Discuss the Truths
-[Step 3: one or two sentences.]
+Talk about the truths of this passage. Discuss what is most meaningful and challenging. Share your thoughts about why God gave us this biblical passage.
 ##### Pray the Passage
-[Step 3: one or two sentences.]
+Use the passage to pray. Identify some of the most meaningful portions of this passage. Turn these words into prayers to God.
 
 </PracticeGuide_Reading>
 
