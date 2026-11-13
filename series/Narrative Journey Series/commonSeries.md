@@ -229,8 +229,8 @@ Use the passage to pray. Identify some of the most meaningful portions of this p
 
 #### Practice Guide
 <PracticeSummary label="Fasting" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
+##### Looking in the Mirror of the Text
+Reflect on the passage being studied. Think through how what it exposes in your life as not aligned with the Lord. Record   in your life God wants you to 
 ##### [Step 2 heading]
 [Step 2: one or two sentences.]
 ##### [Step 3 heading]
