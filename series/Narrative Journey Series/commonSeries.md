@@ -213,6 +213,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Reading>
 
 #### Practice Guide
+<PracticeSummary label="Reading" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -225,6 +226,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Fasting>
 
 #### Practice Guide
+<PracticeSummary label="Fasting" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -237,6 +239,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Prayer>
 
 #### Practice Guide
+<PracticeSummary label="Prayer" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -249,6 +252,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Memorization>
 
 #### Practice Guide
+<PracticeSummary label="Memorization" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -261,6 +265,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Community>
 
 #### Practice Guide
+<PracticeSummary label="Community" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -273,6 +278,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Examination>
 
 #### Practice Guide
+<PracticeSummary label="Examination" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -285,6 +291,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Service>
 
 #### Practice Guide
+<PracticeSummary label="Service" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -297,6 +304,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Worship>
 
 #### Practice Guide
+<PracticeSummary label="Worship" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -309,6 +317,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Journaling>
 
 #### Practice Guide
+<PracticeSummary label="Journaling" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -321,6 +330,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Simplicity>
 
 #### Practice Guide
+<PracticeSummary label="Simplicity" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
@@ -333,6 +343,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 <PracticeGuide_Lament>
 
 #### Practice Guide
+<PracticeSummary label="Lament" />
 ##### Address to God
 Consider truths the Bible speaks about God, naming what you love about God. Call out to the Lord, addressing him for who he is and what he has done.
 ##### Complaint About Difficulty
@@ -349,6 +360,7 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 <PracticeGuide_Silence>
 
 #### Practice Guide
+<PracticeSummary label="Silence" />
 ##### [Step 1 heading]
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
