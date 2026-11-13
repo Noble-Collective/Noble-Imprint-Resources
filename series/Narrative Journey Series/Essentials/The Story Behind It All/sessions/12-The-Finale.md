@@ -128,7 +128,7 @@ Upon seeing this brilliant depiction of the returning Jesus, an angel cried out 
 
 This passage also reveals Jesus' mighty acts as Warrior, King, and Judge. Riding a white horse (19:11) and followed by the armies of heaven (19:14), Jesus is a strong and mighty Warrior. Not needing weapons of human invention, Jesus fights with his authoritative word (19:15). He only needs to speak the word, and all happens as he commands (19:21). His power extends over all the nations (19:15), and he wages war with decisive victory (19:11, 17–21). Jesus is also the sovereign King. He has "many royal crowns on His head" (19:12), and he rules the nations with an "iron scepter" (19:15). Although there are many rulers on the earth (and in the spiritual realm), Jesus is King and Lord above all other authorities (19:16). Jesus is also revealed as Judge. His fiery eyes show that he is all-knowing (19:12). Jesus judges "with righteousness" (19:11), and he will deliver all evil enemies to "the fury of the wrath of God the Almighty" (19:15). Warrior, King, and Judge, Jesus is our returning Lord and Savior. <Callout>For all believers (and for groaning creation), Jesus is our promised hope.</Callout>
 
-##### Facing the Second Death: Waiting for the Defeat of Satan and the Resurrection of the Dead
+##### Facing the Second Death: LoSatan's Defeat and the Raising of the Dead
 
 ###### Biblical Narrative (Revelation 20:1–10)
 
