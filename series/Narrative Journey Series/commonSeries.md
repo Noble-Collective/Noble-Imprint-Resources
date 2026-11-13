@@ -230,10 +230,12 @@ Use the passage to pray. Identify some of the most meaningful portions of this p
 #### Practice Guide
 <PracticeSummary label="Fasting" />
 ##### Looking in the Mirror of the Text
-Reflect on the passage being studied. Think through wisdom that you need or sin that needs confessed. Bring these to the Lord in prayer.
-##### Envisioning My  Life
-Imagine how your life would be different if you had victory over this struggle. Share with someone your desire 
-##### [Step 3 heading]
+Reflect on the passage being studied. Think through wisdom that you need or sin that needs confessed. Bring these to the Lord in prayer, asking God to align your life to his will.
+##### Envisioning Your Life Aligned to God's Will
+Imagine your life in the center of God's will.  be different if you had victory over this struggle. Share with someone your desire 
+##### Planning 
+[Step 3: one or two sentences.]
+##### Reflecting on the Wilderness Journey 
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Fasting>
