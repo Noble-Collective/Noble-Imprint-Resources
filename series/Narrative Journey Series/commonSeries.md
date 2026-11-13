@@ -234,9 +234,9 @@ Reflect on the passage being studied. Think through wisdom that you need or sin 
 ##### Envisioning Your Life Aligned to God's Will
 Imagine your life in the center of God's will. Talk to God and ask him to show you his will. Ask him to make your next steps clear, giving you a picture of a life fully submitted to him.
 ##### Planning the Details of Your Fast
-Pray for wisdom on how to fast. Choose what you will fast from and how long you will fast from it. Share this plan with another believer.
+Pray for wisdom on how to fast. Choose what you will fast from and how long you will fast from it. Share this plan with another believer. Do what you planned.
 ##### Reflecting on the Wilderness Journey 
-After completing your fast, 
+After completing your fast, give thanks to God. Identify what went well, what you learned, and what was the biggest struggle. Commit your next steps to God.
 
 </PracticeGuide_Fasting>
 
@@ -244,11 +244,11 @@ After completing your fast,
 
 #### Practice Guide
 <PracticeSummary label="Prayer" />
-##### [Step 1 heading]
+##### Offering Thanks to God
 [Step 1: one or two sentences.]
-##### [Step 2 heading]
+##### 
 [Step 2: one or two sentences.]
-##### [Step 3 heading]
+##### Confessing Sin to God
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Prayer>
