@@ -227,7 +227,7 @@ The life of faith is a life of hope. While we enjoy blessings and benefits from 
 <Question id=TheStorySes12-EnteringStory-Q3>3. <Accent>Encouragement and Promise:</Accent> How are each of the promises of the life to come (i.e., return of Jesus, defeat of Satan, resurrection from the dead, judgment of evil, and recreation of the world) encouraging to you?</Question>
 <Question id=TheStorySes12-EnteringStory-Q4>4. <Accent>Vision of the Future:</Accent> How does this vision of the future world strengthen your faith in Christ?</Question>
 <Question id=TheStorySes12-EnteringStory-Q5>5. <Accent>Hope and Gospel Witness:</Accent> How might living a life of hope help you in your witness of Christ?</Question>
-<Question id=TheStorySes12-EnteringStory-Q6>6. <Accent>God's Word:</Accent> How has your view of God's word changed throughout this whole study_?_</Question>
+<Question id=TheStorySes12-EnteringStory-Q6>6. <Accent>God's Word:</Accent> How has your view of God's word changed throughout this whole study?</Question>
 
 ### Spiritual Practice
 
