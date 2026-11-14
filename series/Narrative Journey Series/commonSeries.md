@@ -208,7 +208,6 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 </StrategyQuestions>
 
 <!-- ───────────────── Sessions — spiritual practice guides ───────────────── -->
-<!-- ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ Sessions ‚Äî spiritual practice guides ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ‚îÄ -->
 
 <PracticeGuide_Reading>
 
