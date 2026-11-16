@@ -112,7 +112,7 @@ Read the following declaration. Observe its summary of Christian life and faith.
 </OpeningRecall_HistoricConfession_Directions>
 
 <OpeningRecall_ContemporarySummary_Directions>
-Read the following example which synthesizes core Christian teaching.
+Contemporary confessions strive to articulate Christian essentials.
 </OpeningRecall_ContemporarySummary_Directions>
 
 <OpeningRecall_CoreProject_Directions>
