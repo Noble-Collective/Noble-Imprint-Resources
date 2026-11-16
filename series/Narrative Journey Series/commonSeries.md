@@ -68,7 +68,7 @@ For disciples who are devoted to following Christ, leaders who are vested with t
   until then the legacy Opening_ and Recall_ blocks further down stay.
 -->
 <OpeningRecall_ScriptureMeditation_Directions>
-**Study the Text:** Discipleship is founded upon the truth of God’s word. Read the biblical psalm and discuss the study questions to grasp the overarching theme of this book.
+**Read the Scripture:** Discipleship is founded upon the truth of God’s word. Read the biblical psalm and discuss the study questions to grasp the overarching theme of this book.
 </OpeningRecall_ScriptureMeditation_Directions>
 
 <OpeningRecall_KeyPassage_Directions>
@@ -92,19 +92,19 @@ Discuss the following questions. Use the quote to help guide the conversation.
 </OpeningRecall_DiscussionQuestions_Directions>
 
 <OpeningRecall_LearningPlan_Directions>
-**View the Design:** Spiritual growth calls for the internalization of the truth in an ordered process of learning. Review the session overview and consider the reflection questions to prepare for your upcoming study journey.
+**View the Design:** Spiritual growth calls for the internalization of the truth in an ordered process of learning. Review the session overview and consider the reflection questions as you think about this study and its teaching.
 </OpeningRecall_LearningPlan_Directions>
 
 <OpeningRecall_BookOverview_Directions>
-Look over the sessions in this book. Identify passages and topics of interest.
+Survey the sessions in this book. Explore the passages and teachings.
 </OpeningRecall_BookOverview_Directions>
 
 <OpeningRecall_ReflectionQuestions_Directions>
-Discuss the following questions, preparing your mind and heart for this study.
+Discuss the following questions. Consider this study’s relevance.
 </OpeningRecall_ReflectionQuestions_Directions>
 
 <OpeningRecall_DoctrinalSummary_Directions>
-**Summarize the Faith:** Mature disciples embrace the whole teaching of God’s word. In this section, you will explore example confessional statements and envision your own.
+**Summarize the Faith:** Mature disciples embrace the whole teaching of God’s word. Historic and contemporary confessional statements help us articulate the faith.
 </OpeningRecall_DoctrinalSummary_Directions>
 
 <OpeningRecall_HistoricConfession_Directions>
@@ -112,7 +112,7 @@ Read the following declaration. Observe its summary of Christian life and faith.
 </OpeningRecall_HistoricConfession_Directions>
 
 <OpeningRecall_ContemporarySummary_Directions>
-Contemporary confessions faithfully articulate Christian essentials in modern language.
+Contemporary confessions strive to articulate Christian essentials.
 </OpeningRecall_ContemporarySummary_Directions>
 
 <OpeningRecall_CoreProject_Directions>
