@@ -239,7 +239,11 @@ We learn much about Jesus from a study of his birth. Jesus is God's eternal Son.
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Prayer -->
+
+<!-- @include: SpiritualPracticesInfographic active="Prayer" -->
 
 ## Ministry Practice: Rehearsing the Script
 

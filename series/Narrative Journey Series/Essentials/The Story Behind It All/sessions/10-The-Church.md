@@ -295,7 +295,11 @@ God has appointed his church as a Spirit-filled community of Jesus followers to 
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Community -->
+
+<!-- @include: SpiritualPracticesInfographic active="Community" -->
 
 ## Ministry Practice: Rehearsing the Script
 

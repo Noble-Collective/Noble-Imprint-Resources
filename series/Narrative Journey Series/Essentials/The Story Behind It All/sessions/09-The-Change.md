@@ -226,7 +226,11 @@ The historical reality of Jesus' saving work requires human reception for salvat
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Service -->
+
+<!-- @include: SpiritualPracticesInfographic active="Service" -->
 
 ## Ministry Practice: Rehearsing the Script
 

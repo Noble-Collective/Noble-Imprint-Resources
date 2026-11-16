@@ -225,9 +225,9 @@ God created humans to enjoy his good world. Rather than caring for creation as s
 
 <!-- @include: SpiritualPracticeDirections -->
 
-<!-- @include: PracticeGuide_Fasting -->
+<!-- @include: PracticeGuide_Examination -->
 
-<!-- @include: SpiritualPracticesInfographic active="Fasting" -->
+<!-- @include: SpiritualPracticesInfographic active="Examination" -->
 
 ## Ministry Practice: Rehearsing the Script
 

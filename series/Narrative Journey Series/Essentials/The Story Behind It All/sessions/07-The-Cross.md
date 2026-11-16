@@ -240,7 +240,11 @@ On the surface, many might see Jesus' crucifixion as a story of death and defeat
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Memorization -->
+
+<!-- @include: SpiritualPracticesInfographic active="Memorization" -->
 
 ## Ministry Practice: Rehearsing the Script
 

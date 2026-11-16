@@ -231,7 +231,11 @@ The life of faith is a life of hope. While we enjoy blessings and benefits from 
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Reading -->
+
+<!-- @include: SpiritualPracticesInfographic active="Reading" -->
 
 ## Ministry Practice: Rehearsing the Script
 
