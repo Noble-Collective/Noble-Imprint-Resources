@@ -318,10 +318,10 @@ After your time of service, give thanks to God for the opportunity to serve. Exp
 
 #### Practice Guide
 <PracticeSummary label="Worship" />
-##### [Step 1 heading]
-Read over the studied passage of the Bible. Reflect on what this passage teaches you about God's character and work. Write down several attrig
-##### [Step 2 heading]
-[Step 2: one or two sentences.]
+##### Recount Truth about God
+Read over the studied passage of the Bible. Reflect on what this passage teaches you about God's character and work. Write down these truths about God.
+##### Kneel before God
+Get on your knees (or get prostrate) before God. Let this posture put you in a spirit of humility and lowliness. E
 ##### [Step 3 heading]
 [Step 3: one or two sentences.]
 
