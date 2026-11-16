@@ -112,7 +112,7 @@ Read the following declaration. Observe its summary of Christian life and faith.
 </OpeningRecall_HistoricConfession_Directions>
 
 <OpeningRecall_ContemporarySummary_Directions>
-Contemporary confessions strive to articulate Christian essentials.
+Contemporary confessions faithfully articulate Christian essentials in modern language.
 </OpeningRecall_ContemporarySummary_Directions>
 
 <OpeningRecall_CoreProject_Directions>
