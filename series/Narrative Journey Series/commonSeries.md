@@ -228,13 +228,13 @@ Use the passage to pray. Identify some of the most meaningful portions of this p
 
 #### Practice Guide
 <PracticeSummary label="Fasting" />
-##### Looking in the Mirror of the Text
+##### Look in the Mirror of the Text
 Reflect on the passage being studied. Think through wisdom that you need or sin that needs confessed. Bring these to the Lord in prayer, asking God to align your life to his will.
-##### Envisioning Your Life Aligned to God's Will
+##### Envision Your Life Aligned to God's Will
 Imagine your life in the center of God's will. Talk to God and ask him to show you his will. Ask him to make your next steps clear, giving you a picture of a life fully submitted to him.
-##### Planning the Details of Your Fast
-Pray for wisdom on how to fast. Choose what you will fast from and how long you will fast from it. Share this plan with another believer. Do what you planned.
-##### Reflecting on the Wilderness Journey 
+##### Plan the Details of Your Fast
+Pray for wisdom on how to fast. Choose what you will fast from and how long you will fast from it. Share this plan with another believer. Complete the fast that you planned.
+##### Reflect on the Wilderness Journey 
 After completing your fast, give thanks to God. Identify what went well, what you learned, and what was the biggest struggle. Commit your next steps to God.
 
 </PracticeGuide_Fasting>
@@ -243,7 +243,7 @@ After completing your fast, give thanks to God. Identify what went well, what yo
 
 #### Practice Guide
 <PracticeSummary label="Prayer" />
-##### Offering Thanks to God
+##### Offer Thanks to God
 Identify how the studied passage helps you be grateful. Identify several ways God has provided for you. Spend time thanking God for his goodness in your life.
 ##### Giving Praise to God
 Make a note of what the passage teaches you about God—his character or his works. Lifting your arms, speak aloud prayers of praise to God.
