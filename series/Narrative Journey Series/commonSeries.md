@@ -259,10 +259,12 @@ Think how this passage bears witness to God's power and goodness. Name burdens y
 #### Practice Guide
 <PracticeSummary label="Memorization" />
 ##### Choose a Passage
-Pray for God to illuminate your understanding. Read or review the biblical passage being studied. 
+Pray for God to illuminate your understanding. Read or review the biblical passage being studied. As you consider the text, choose a verse or short passage to memorize.
 ##### [Step 2 heading]
-[Step 2: one or two sentences.]
+Rehearse this passage multiple times. 
 ##### [Step 3 heading]
+[Step 3: one or two sentences.]
+##### Recite the Text
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Memorization>
