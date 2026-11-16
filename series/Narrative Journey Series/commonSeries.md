@@ -304,11 +304,11 @@ Express to God your desire to be more faithful. Tell him how you cannot do this 
 #### Practice Guide
 <PracticeSummary label="Service" />
 ##### Pray for Clarity
-Review the biblical passage. Write down a few ways it calls you to help others. Ask God to show you a person or family in need. Pray for God to show you how he wants you to assistance this person.
-##### [Step 2 heading]
-[Step 2: one or two sentences.]
-##### [Step 3 heading]
-[Step 3: one or two sentences.]
+Review the biblical passage. Write down a few ways it calls you to help others. Ask God to show you a person, family, or group of people in need. Pray for God to show you how he wants you to help.
+##### Sketch a Plan
+Record a brief plan of how God wants you to serve. Share the plan with another trusted believer and ask for their prayer, wisdom, and advice.
+##### Fulfill the Ministry
+
 
 </PracticeGuide_Service>
 
