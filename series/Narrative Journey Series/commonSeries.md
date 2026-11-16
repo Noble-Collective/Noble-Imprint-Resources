@@ -273,10 +273,10 @@ Say the memorized text out loud to someone else. Have them check for accuracy. S
 
 #### Practice Guide
 <PracticeSummary label="Community" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
-##### [Step 2 heading]
-[Step 2: one or two sentences.]
+##### Identify the Need
+Review the lessons of the biblical text being studied. Ask God to reveal an area of your life that needs accountability, wisdom, or encouragement. Write this need in a short explanation. 
+##### Gather the Group
+Ask God to show you 
 ##### [Step 3 heading]
 [Step 3: one or two sentences.]
 
