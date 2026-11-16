@@ -182,7 +182,7 @@ Encourage one person to share a testimony about how this story has impacted them
 </ReflectionDirections>
 
 <SpiritualPracticeDirections>
-Use the scripted guide to help you internalize God's truth. Refer to the following infographic to explore core spiritual disciplines.
+Use the scripted guide to help you internalize God's truth. Refer to the following infographic to explore other core spiritual disciplines.
 </SpiritualPracticeDirections>
 
 <ApplicationDirections>
@@ -217,7 +217,7 @@ Consider how you can use this passage to witness to the surrounding world. Refer
 Pray for God to guide you. Slowly and reflectively read the passage in this session. Pick a few portions to focus on. Read these passages several times.
 ##### Contemplate the Word
 Stop and be silent. Slowly meditate on the words you have read, focusing on the selected portions. Think about their meaning and importance for your life.
-##### Discuss the Truths
+##### Discuss the Truth
 Talk about the truths of this passage. Discuss what is most meaningful and challenging. Share your thoughts about why God gave us this biblical passage.
 ##### Pray the Passage
 Use the passage to pray. Identify some of the most meaningful portions of this passage. Turn these words into prayers to God.
