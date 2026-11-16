@@ -347,9 +347,9 @@ After writing, offer yourself and your journaled thoughts to the Lord. Give your
 #### Practice Guide
 <PracticeSummary label="Simplicity" />
 ##### Take an Inventory
-Consider how the biblical passage calls you to a life of simplicity. Give thanks to God for all of his provisions in your life. 
-##### Evaluate
-[Step 2: one or two sentences.]
+Consider how the biblical passage calls you to a life of simplicity. Give thanks to God for all of his provisions in your life. Acknowledge that all that you own is a gift from God.
+##### Evaluate Your Heart
+Reflect on your heart toward your possessions. Assess what you feel about them and whether your heart toward them is in a godly place. Confess to God any misplaced love, greed, or
 ##### Release Your Gift
 [Step 3: one or two sentences.]
 
