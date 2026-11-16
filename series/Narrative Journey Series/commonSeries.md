@@ -334,10 +334,10 @@ Choose a song to sing to God. Feel free to play a recording or use an instrument
 #### Practice Guide
 <PracticeSummary label="Journaling" />
 ##### Let the Text Question You
-Pray for God to let the studied text examine you. Review it prayerfully. Consider what portions of the text challenge, encourage, or convict you. Write down a few questions that the text begs to be answered?
+Pray for God to let the studied text examine you. Review it prayerfully. Consider what portions of the text challenge, encourage, or convict you. Write down a few questions that the text begs to be answered.
 ##### Let Your Words Help You 
-[Step 2: one or two sentences.]
-##### [Step 3 heading]
+Record answers to these questions. Write your answers as a prayer to God, reflective response, introspective diary to yourself, or a letter to a trusted friend.
+##### express
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Journaling>
