@@ -246,13 +246,11 @@ After completing your fast, give thanks to God. Identify what went well, what yo
 ##### Offer Thanks to God
 Identify how the studied passage helps you be grateful. Identify several ways God has provided for you. Spend time thanking God for his goodness in your life.
 ##### Giving Praise to God
-Make a note of what the passage teaches you about God—his character or his works. Lifting your arms, speak aloud prayers of praise to God.
+Make a note of what the passage teaches you about God—his character and his works. Lifting your arms, speak aloud prayers of praise to God.
 ##### Confessing Sin to God
 Consider sin this passage exposes in your life. Write down what is not right in your life. Get on your knees and confess these sins to God.
 ##### Bringing Requests to God
 Think how this passage bears witness to God's power and goodness. Name burdens you are bearing. With hands open before the Lord, ask God to come to your help. 
-
-
 
 </PracticeGuide_Prayer>
 
@@ -260,8 +258,8 @@ Think how this passage bears witness to God's power and goodness. Name burdens y
 
 #### Practice Guide
 <PracticeSummary label="Memorization" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
+##### Choose a Passage
+Pray for God to illuminate your understanding. Read or review the biblical passage being studied. 
 ##### [Step 2 heading]
 [Step 2: one or two sentences.]
 ##### [Step 3 heading]
