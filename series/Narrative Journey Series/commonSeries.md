@@ -280,7 +280,7 @@ Ask God to show you a small group of trusted believers with whom you can share y
 ##### Gather the Council
 If possible, gather the group together for a time of discernment. Share the need. Ask for wisdom. Let the group ask you focused questions. Commit the time to the Lord in prayer.
 ##### Record the Conversation
-After the meeting, record what was discussed. Specifically, write down any key insights, noteworthy ideas, or important wisdom gained from the time together. Give thanks to God for the community  
+After the meeting, record what was discussed. Specifically, write down any key insights, noteworthy ideas, or important wisdom gained from the time together. Give thanks to God for the community of faith. 
 
 </PracticeGuide_Community>
 
@@ -288,11 +288,13 @@ After the meeting, record what was discussed. Specifically, write down any key i
 
 #### Practice Guide
 <PracticeSummary label="Examination" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
-##### [Step 2 heading]
+##### Acknowledge God's Presence
+Take a moment to pause, be silent, and acknowledge God's presence. As you rest before God, of
+##### Reflect in Gratitude
 [Step 2: one or two sentences.]
-##### [Step 3 heading]
+##### Remember with Honesty
+[Step 3: one or two sentences.]
+##### Make Future Commitments
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Examination>
