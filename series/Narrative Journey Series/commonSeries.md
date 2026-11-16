@@ -263,9 +263,9 @@ Pray for God to illuminate your understanding. Read or review the biblical passa
 ##### Internalize the Scripture
 Absorb the passage. Review it multiple times and in different ways. Listen to it on repeat. Copy it on paper. Read it aloud. Sing or chant it to a tune or melody. Pray the text back to God.
 ##### Memorize the Word
-Practice saying the passage from memory. Focus on smaller sections, and build up to more text. Say it in your mind. Speak it out loud. 
+Practice saying the passage from memory. Focus on smaller sections, and build up to more text. Say it in your mind. Speak it out loud. Go on a walk and review it over and over.
 ##### Recite the Text
-[Step 3: one or two sentences.]
+Say the memorized text out loud to someone else. Have them check for accuracy. Share with them why you chose this passage to memorize, along with what God is teaching you.
 
 </PracticeGuide_Memorization>
 
