@@ -318,14 +318,14 @@ After your time of service, give thanks to God for the opportunity to serve. Exp
 
 #### Practice Guide
 <PracticeSummary label="Worship" />
-##### Recount Truth about God
+##### Recount Truths of God
 Read over the studied passage of the Bible. Reflect on what this passage teaches you about God's character and work. Write down these truths about God.
 ##### Get Low before God
 Get on your knees (or get prostrate) before God. Let this posture put you in a spirit of humility and lowliness. Confess to God your unworthiness. Plead with God for his mercy. Thank God for his goodness to you.
-##### Lift Praise to God
+##### Give Honor to God
 Stand and raise your hands to the heavens. Speak your list of truths about God in statements of praise. Do not ask him for anything. Simply declare his excellence, perfection, and worth.
-##### Sing 
-Stand and
+##### Sing Praise About God
+Choose a song to sing to God. Feel free to play a recording or use an instrument. Lift up your heart, singing this song of praise to God.
 
 </PracticeGuide_Worship>
 
@@ -333,8 +333,8 @@ Stand and
 
 #### Practice Guide
 <PracticeSummary label="Journaling" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
+##### Let the Text Question You
+Pray for God to let the text e
 ##### [Step 2 heading]
 [Step 2: one or two sentences.]
 ##### [Step 3 heading]
