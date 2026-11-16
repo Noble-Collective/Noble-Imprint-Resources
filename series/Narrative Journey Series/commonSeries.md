@@ -349,9 +349,11 @@ After writing, offer yourself and your journaled thoughts to the Lord. Give your
 ##### Take an Inventory
 Consider how the biblical passage calls you to a life of simplicity. Give thanks to God for all of his provisions in your life. Acknowledge that all that you own is a gift from God.
 ##### Evaluate Your Heart
-Reflect on your heart toward your possessions. Assess what you feel about them and whether your heart toward them is in a godly place. Confess to God any misplaced love, greed, or
-##### Release Your Gift
+Reflect on your heart toward your possessions. Assess what you feel about them and whether your heart toward them is in a godly place. Confess to God any misplaced love, greed, or idolatry toward material possessions.
+##### Reviewing Your stewardship
 [Step 3: one or two sentences.]
+##### Release Your Grip
+Pray for God to show you how to use your material possessions to bless someone else. Practice simplicity by showing generosity. Come up with a plan 
 
 </PracticeGuide_Simplicity>
 
