@@ -308,7 +308,9 @@ Review the biblical passage. Write down a few ways it calls you to help others. 
 ##### Sketch a Plan
 Record a brief plan of how God wants you to serve. Share the plan with another trusted believer and ask for their prayer, wisdom, and advice.
 ##### Fulfill the Ministry
-Perform the act of service to those in need. Ask God to give you the right motivations and attitudes. 
+Perform the act of service to those in need. Ask God to give you the right motivations and attitudes. As you serve, tell the person or people to whom you are ministering that God loves them. Pray for them be
+##### Express Thanks to God
+After your time of service, give thanks to God for the opportunity to serve. Express thanks to God for God's care for you
 
 </PracticeGuide_Service>
 
