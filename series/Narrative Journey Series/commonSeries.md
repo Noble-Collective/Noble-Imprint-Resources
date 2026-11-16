@@ -321,9 +321,11 @@ After your time of service, give thanks to God for the opportunity to serve. Exp
 ##### Recount Truth about God
 Read over the studied passage of the Bible. Reflect on what this passage teaches you about God's character and work. Write down these truths about God.
 ##### Kneel before God
-Get on your knees (or get prostrate) before God. Let this posture put you in a spirit of humility and lowliness. E
-##### [Step 3 heading]
-[Step 3: one or two sentences.]
+Get on your knees (or get prostrate) before God. Let this posture put you in a spirit of humility and lowliness. Confess to God your unworthiness. Plead with God for his mercy. Thank God for his goodness to you.
+##### Lift Your Praise to God
+Stand and raise your hands to the heavens. Speak your list of truths about God in statements of praise. Do not ask him for anything. Simply declare his excellence, perfection, and worth.
+##### Lift Your Praise to God
+Stand and
 
 </PracticeGuide_Worship>
 
