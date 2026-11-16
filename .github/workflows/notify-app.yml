@@ -35,8 +35,17 @@ jobs:
           # Fine-grained PAT: Actions read/write on Noble-Imprint-App only.
           GH_TOKEN: ${{ secrets.APP_DISPATCH_TOKEN }}
         run: |
-          gh workflow run publish-content.yml \
-            --repo Noble-Collective/Noble-Imprint-App \
-            --ref develop \
-            -f reason="resources push ${GITHUB_SHA::7}"
-          echo "Dispatched publish-content (app builds the latest main; identical output = no-op)."
+          # Retry GitHub server blips (HTTP 502 on 2026-11-13 failed two runs). A duplicate dispatch is
+          # harmless: the app builds the latest main and no-ops on identical output.
+          for attempt in 1 2 3 4; do
+            if gh workflow run publish-content.yml \
+                 --repo Noble-Collective/Noble-Imprint-App \
+                 --ref develop \
+                 -f reason="resources push ${GITHUB_SHA::7}"; then
+              echo "Dispatched publish-content (app builds the latest main; identical output = no-op)."
+              exit 0
+            fi
+            [ "$attempt" -lt 4 ] && { echo "Dispatch failed (attempt $attempt) — retrying in $((attempt * 20))s"; sleep $((attempt * 20)); }
+          done
+          echo "::error::Could not dispatch the app's content publish after 4 attempts."
+          exit 1
