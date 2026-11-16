@@ -347,10 +347,10 @@ After writing, offer yourself and your journaled thoughts to the Lord. Give your
 #### Practice Guide
 <PracticeSummary label="Simplicity" />
 ##### Take an Inventory
-[Step 1: one or two sentences.]
-##### [Step 2 heading]
+Consider how the biblical passage calls you to a life of simplicity. Give thanks to God for all of his provisions in your life. 
+##### Evaluate
 [Step 2: one or two sentences.]
-##### [Step 3 heading]
+##### Release Your Gift
 [Step 3: one or two sentences.]
 
 </PracticeGuide_Simplicity>
