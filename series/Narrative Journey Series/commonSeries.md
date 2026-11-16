@@ -293,7 +293,7 @@ Come before the Lord in silence. Pause for several minutes. Acknowledge God's pr
 ##### Reflect in Gratitude
 Review the events of the day or week. Remember how God has been kind to you. Name moments that evidence God's mercy, provision, love, protection, and faithfulness toward you.
 ##### Remember with Honesty
-Consider your emotions, words, motivations, conduct, and interactions with others. Identify times you ignored God's presence, did not follow his will, or mistreated others. Confess these sins to the Lord.
+In light of the passage studied, consider your emotions, words, motivations, conduct, and interactions with others. Identify times you ignored God's presence, did not follow his will, or mistreated others. Confess these sins to the Lord.
 ##### Make Future Commitments
 Express to God your desire to be more faithful. Tell him how you cannot do this on your own. Plead with him for help and grace to grow and mature as a disciple.
 
