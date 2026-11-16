@@ -276,7 +276,7 @@ Say the memorized text out loud to someone else. Have them check for accuracy. S
 ##### Identify the Need
 Review the lessons of the biblical text being studied. Ask God to reveal an area of your life that needs accountability, wisdom, or encouragement. Write this need in a short explanation. 
 ##### Gather the Group
-Ask God to show you 
+Ask God to show you a small group of trusted believers with whom you can share your challenge. Reach out to them and share your area of need. If possible, gather the group together for a time of 
 ##### [Step 3 heading]
 [Step 3: one or two sentences.]
 
