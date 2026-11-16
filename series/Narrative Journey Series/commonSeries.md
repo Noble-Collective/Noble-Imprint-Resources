@@ -379,9 +379,9 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 #### Practice Guide
 <PracticeSummary label="Silence" />
 ##### Find a Quiet Place
-Locate a place where you can be alone. Give yourself at least an hour
-##### [Step 2 heading]
-[Step 2: one or two sentences.]
+Locate a place where you can be alone. Set aside an hour. Take a retreat to this place, bringing only your Bible and journal.
+##### Center Your Thoughts
+Briefly review the biblical passage being studied. Identify yourself in the story. Consider how you may have responded depending upon who you 
 ##### [Step 3 heading]
 [Step 3: one or two sentences.]
 
