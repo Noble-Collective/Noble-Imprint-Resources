@@ -229,7 +229,7 @@ Use the passage to pray. Identify some of the most meaningful portions of this p
 #### Practice Guide
 <PracticeSummary label="Fasting" />
 ##### Look in the Mirror of the Text
-Reflect on the passage being studied. Think through wisdom that you need or sin that needs confessed. Bring these to the Lord in prayer, asking God to align your life to his will.
+Reflect on the passage being studied. Think through wisdom that you need or sin that needs to be confessed. Bring these to the Lord in prayer, asking God to align your life to his will.
 ##### Envision Your Life Aligned to God's Will
 Imagine your life in the center of God's will. Talk to God and ask him to show you his will. Ask him to make your next steps clear, giving you a picture of a life fully submitted to him.
 ##### Plan the Details of Your Fast
@@ -244,12 +244,12 @@ After completing your fast, give thanks to God. Identify what went well, what yo
 #### Practice Guide
 <PracticeSummary label="Prayer" />
 ##### Offer Thanks to God
-Identify how the studied passage helps you be grateful. Identify several ways God has provided for you. Spend time thanking God for his goodness in your life.
-##### Giving Praise to God
+Identify how the studied passage helps you be grateful. Name several ways God has provided for you. Spend time thanking God for his goodness in your life.
+##### Give Praise to God
 Make a note of what the passage teaches you about God—his character and his works. Lifting your arms, speak aloud prayers of praise to God.
-##### Confessing Sin to God
+##### Confess Sin to God
 Consider sin this passage exposes in your life. Write down what is not right in your life. Get on your knees and confess these sins to God.
-##### Bringing Requests to God
+##### Bring Requests to God
 Think how this passage bears witness to God's power and goodness. Name burdens you are bearing. With hands open before the Lord, ask God to come to your help. 
 
 </PracticeGuide_Prayer>
@@ -276,7 +276,7 @@ Say the memorized text out loud to someone else. Have them check for accuracy. S
 ##### Identify the Need
 Review the lessons of the biblical text being studied. Ask God to reveal an area of your life that needs accountability, wisdom, or encouragement. Write this need in a short explanation. 
 ##### Select the Group
-Ask God to show you a small group of trusted believers with whom you can share your challenge. Reach out to them and share your area of need. As them to pray for your wisdom, accountability, or encouragement.
+Ask God to show you a small group of trusted believers with whom you can share your challenge. Reach out to them and share your area of need. Ask them to pray for your wisdom, accountability, or encouragement.
 ##### Gather the Council
 If possible, gather the group together for a time of discernment. Review the biblical passage. Share the need. Ask for wisdom. Let the group ask you focused questions. Commit the time to the Lord in prayer.
 ##### Record the Conversation
@@ -289,7 +289,7 @@ After the meeting, record what was discussed. Specifically, write down any key i
 #### Practice Guide
 <PracticeSummary label="Examination" />
 ##### Acknowledge God's Presence
-Come before the Lord in silence. Pause for several minutes. Acknowledge God's presence. As you rest before God, offer a simple pray that pleads for God's mercy on you.
+Come before the Lord in silence. Pause for several minutes. Acknowledge God's presence. As you rest before God, offer a simple prayer that pleads for God's mercy on you.
 ##### Reflect in Gratitude
 Review the events of the day or week. Remember how God has been kind to you. Name moments that evidence God's mercy, provision, love, protection, and faithfulness toward you.
 ##### Remember with Honesty
@@ -350,10 +350,10 @@ After writing, offer yourself and your journaled thoughts to the Lord. Give your
 Consider how the biblical passage calls you to a life of simplicity. Give thanks to God for all of his provisions in your life. Acknowledge that all that you own is a gift from God. Remember how God has provided for you.
 ##### Evaluate Your Heart
 Reflect on your heart toward your possessions. Assess what you feel about them and whether your heart toward them is in a godly place. Confess to God any misplaced love, greed, or idolatry toward material possessions.
-##### Review Your stewardship
-Assess your lifestyle. Consider whether you are living in simplicity or indulgence. Take an inventory of your life. Evaluate if your are stewarding your resources for God's glory.
+##### Review Your Stewardship
+Assess your lifestyle. Consider whether you are living in simplicity or indulgence. Take an inventory of your life. Evaluate if you are stewarding your resources for God's glory.
 ##### Release Your Grip
-Pray for God to show you how to use your material possessions to bless someone else. Practice simplicity by showing generosity. Come up with a plan to give away something your own to help a person in need. 
+Pray for God to show you how to use your material possessions to bless someone else. Practice simplicity by showing generosity. Come up with a plan to give away something you own to help a person in need. 
 
 </PracticeGuide_Simplicity>
 
