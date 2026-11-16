@@ -303,8 +303,8 @@ Express to God your desire to be more faithful. Tell him how you cannot do this 
 
 #### Practice Guide
 <PracticeSummary label="Service" />
-##### [Step 1 heading]
-[Step 1: one or two sentences.]
+##### Pray for Clarity
+Review the biblical passage. Write down a few ways it calls you to help others. Ask God to show you a person or family in need. Pray for God to show you how he wants you to assistance this person.
 ##### [Step 2 heading]
 [Step 2: one or two sentences.]
 ##### [Step 3 heading]
