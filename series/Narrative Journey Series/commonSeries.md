@@ -260,10 +260,10 @@ Think how this passage bears witness to God's power and goodness. Name burdens y
 <PracticeSummary label="Memorization" />
 ##### Choose a Passage
 Pray for God to illuminate your understanding. Read or review the biblical passage being studied. As you consider the text, choose a verse or short passage to memorize.
-##### Internalize the Word
+##### Internalize the Scripture
 Absorb the passage. Review it multiple times and in different ways. Listen to it on repeat. Copy it on paper. Read it aloud. Sing or chant it to a tune or melody. Pray the text back to God.
-##### Memorize
-[Step 3: one or two sentences.]
+##### Memorize the Word
+Practice saying the passage from memory. Focus on smaller sections, and build up to more text. Say it in your mind. Speak it out loud. 
 ##### Recite the Text
 [Step 3: one or two sentences.]
 
