@@ -146,7 +146,6 @@ As divine revelation to humanity, the biblical story is a faithful narrative of 
 
 <!-- @include: OpeningRecall_ContemporarySummary_Directions -->
 
-==Fill in contemporary creed here.==
 ## Faith Practice: Following the Way
 
 <!-- @include: OpeningRecall_FaithPractice_Directions -->

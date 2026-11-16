@@ -168,11 +168,11 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 << The Apostles’ Creed
 
-### Moder Summary
+### Contemporary Summary
 
 <!-- @include: OpeningRecall_ContemporarySummary_Directions -->
 
-#### Contemporary Creed
+#### Creedal Statement
 
 > We believe in God Almighty, the sovereign Creator of all things. He is the one and only true God—Father, Son, and Holy Spirit. He made humans, male and female, in his image. The crown of his creation, the first humans ruined God's perfect world in their prideful rebellion. God gave his word to destroy the wicked and save believers.
 >
@@ -180,9 +180,7 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 << A Christian Creed
 
-### Core Project
-
-<!-- @include: OpeningRecall_CoreProject_Directions -->
+#### Core Project
 
 A firm conviction of Christian truth is foundational to a mature faith. Therefore, at the end of this book, you will be asked to write a **creedal statement**. This creed is a condensed and memorable summary of the core biblical teachings on Christian belief. It is also a capstone project for this study. You can write this individually or as a community. The aim of this project is to help you synthesize all that you will learn over the course of this study as it relates to **the essential teachings of the Christian faith**. As we trek through the next twelve sessions, it will be important to keep this project in your mind.
 
