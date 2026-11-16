@@ -291,9 +291,9 @@ After the meeting, record what was discussed. Specifically, write down any key i
 ##### Acknowledge God's Presence
 Come before the Lord in silence. Pause for several minutes. Acknowledge God's presence in your midst. As you rest before God, offer a simple pray that pleads for God's mercy on you.
 ##### Reflect in Gratitude
-Review the events of the day or week. Consider your interactions with people, and the emotions during those times. In gratitude, note the times you have seen God’s presence or hand at work. Where did God show up in your life today?
+
 ##### Remember with Honesty
-[Step 3: one or two sentences.]
+Review the events of the day or week. Consider your emotions, words, motivations, conduct, and interactions with others. Identify times you ignored God's presence, did not follow his will, or mistreated others. Confess these to the Lord.
 ##### Make Future Commitments
 [Step 3: one or two sentences.]
 
