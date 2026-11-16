@@ -246,9 +246,9 @@ This powerful narrative instructs our faith and life today. It calls us to place
 
 <!-- @include: SpiritualPracticeDirections -->
 
-<!-- @include: PracticeGuide_Silence -->
+<!-- @include: PracticeGuide_Service -->
 
-<!-- @include: SpiritualPracticesInfographic active="Silence" -->
+<!-- @include: SpiritualPracticesInfographic active="Service" -->
 
 ## Ministry Practice: Rehearsing the Script
 

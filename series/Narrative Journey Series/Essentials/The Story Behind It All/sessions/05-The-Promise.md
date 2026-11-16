@@ -250,13 +250,14 @@ Noah's story shows us that God is a promise-giving and promise-keeping God. The 
 <Question id=TheStorySes5-EnteringStory-Q4>4. <Accent>Covenant Relationship:</Accent> What does it mean to live in a covenant relationship with God? How does Noah's narrative guide you to embrace your relationship with God with seriousness and devotion?</Question>
 <Question id=TheStorySes5-EnteringStory-Q5>5. <Accent>God's Promises:</Accent> Why might we have a hard time believing God's promises? What does it look like to live a life that trusts in God's word?</Question>
 
+
 ### Spiritual Practice
 
 <!-- @include: SpiritualPracticeDirections -->
 
-<!-- @include: PracticeGuide_Fasting -->
+<!-- @include: PracticeGuide_Silence -->
 
-<!-- @include: SpiritualPracticesInfographic active="Fasting" -->
+<!-- @include: SpiritualPracticesInfographic active="Silence" -->
 
 ## Ministry Practice: Rehearsing the Script
 
