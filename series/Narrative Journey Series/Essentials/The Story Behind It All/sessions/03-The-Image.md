@@ -258,9 +258,9 @@ Above all that God had made, <Callout>humanity stands in a unique place, embodyi
 
 <!-- @include: SpiritualPracticeDirections -->
 
+<!-- @include: PracticeGuide_Journaling -->
 
-
-<!-- @include: SpiritualPracticesInfographic active="Fasting" -->
+<!-- @include: SpiritualPracticesInfographic active="Journaling" -->
 
 ## Ministry Practice: Rehearsing the Script
 

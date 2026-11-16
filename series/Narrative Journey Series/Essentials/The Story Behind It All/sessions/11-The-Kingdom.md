@@ -241,7 +241,11 @@ The thrust of this heavenly vision is an appeal to kingdom living. By faith in C
 
 ### Spiritual Practice
 
-<!-- @include: SpiritualPracticesInfographic -->
+<!-- @include: SpiritualPracticeDirections -->
+
+<!-- @include: PracticeGuide_Simplicity -->
+
+<!-- @include: SpiritualPracticesInfographic active="Simplicity" -->
 
 ## Ministry Practice: Rehearsing the Script
 
