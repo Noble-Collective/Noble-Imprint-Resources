@@ -168,9 +168,11 @@ What we believe matters. In fact, our convictions about what is true are of utmo
 
 << The Apostles’ Creed
 
-### Contemporary Summary
+### Moder Summary
 
 <!-- @include: OpeningRecall_ContemporarySummary_Directions -->
+
+#### Contemporary Creed
 
 > We believe in God Almighty, the sovereign Creator of all things. He is the one and only true God—Father, Son, and Holy Spirit. He made humans, male and female, in his image. The crown of his creation, the first humans ruined God's perfect world in their prideful rebellion. God gave his word to destroy the wicked and save believers.
 >
