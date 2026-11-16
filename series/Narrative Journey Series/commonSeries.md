@@ -381,9 +381,12 @@ Consider God's character and deeds. Worship God, bearing testimony to how he is 
 ##### Find a Quiet Place
 Locate a place where you can be alone. Set aside an hour. Take a retreat to this place, bringing only your Bible and journal. Leave anything that would cause a distraction.
 ##### Center Your Thoughts
-Briefly review the biblical passage being studied. Imagine yourself in the story. Consider how you may have responded. Write down s
+Briefly review the biblical passage being studied. Imagine yourself in the story. Consider how you may have responded. Write down some brief thoughts on the passage or questions that arise in your heart.
 ##### Remain Silent before the Lord
-After reviewing the passage, sit in silence before God. Ask him to show you anything he wants you to know. Sit and listen.
+After reviewing the passage, sit in silence before God. Ask him to show you anything he wants you to know. Ask God to speak to you. Sit in silence. Listen.
+##### Record Reflections or Insights
+Conclude your time of silence by giving thanks to God for his word and his presence. Record any insights or observations from your time in the Lord's presence.
+
 
 </PracticeGuide_Silence>
 
