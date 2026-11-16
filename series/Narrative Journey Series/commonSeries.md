@@ -289,11 +289,12 @@ After the meeting, record what was discussed. Specifically, write down any key i
 #### Practice Guide
 <PracticeSummary label="Examination" />
 ##### Acknowledge God's Presence
-Come before the Lord in silence. Pause for several minutes. Acknowledge God's presence in your midst. As you rest before God, offer a simple pray that pleads for God's mercy on you.
+Come before the Lord in silence. Pause for several minutes. Acknowledge God's presence. As you rest before God, offer a simple pray that pleads for God's mercy on you.
 ##### Reflect in Gratitude
+Review the events of the day or week. Remember how God has been kind to you. mercy, provision, protection, 
 
 ##### Remember with Honesty
-Review the events of the day or week. Consider your emotions, words, motivations, conduct, and interactions with others. Identify times you ignored God's presence, did not follow his will, or mistreated others. Confess these to the Lord.
+Consider your emotions, words, motivations, conduct, and interactions with others. Identify times you ignored God's presence, did not follow his will, or mistreated others. Confess these to the Lord.
 ##### Make Future Commitments
 [Step 3: one or two sentences.]
 
