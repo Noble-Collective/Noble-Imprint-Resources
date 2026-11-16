@@ -108,16 +108,12 @@ Discuss the following questions. Consider this study’s relevance.
 </OpeningRecall_DoctrinalSummary_Directions>
 
 <OpeningRecall_HistoricConfession_Directions>
-Read the following declaration. Observe its summary of Christian life and faith.
+Read the following declaration. Observe its summary of Christian teaching.
 </OpeningRecall_HistoricConfession_Directions>
 
 <OpeningRecall_ContemporarySummary_Directions>
 Contemporary confessions strive to articulate Christian essentials.
 </OpeningRecall_ContemporarySummary_Directions>
-
-<OpeningRecall_CoreProject_Directions>
-Read the following instructions. These explain a final project for this study.
-</OpeningRecall_CoreProject_Directions>
 
 <OpeningRecall_FaithPractice_Directions>
 **Embrace the Journey:** Discipleship involves a lifetime of following Jesus with other believers. Commit yourself and your community to the Lord with a time of focused prayer.
