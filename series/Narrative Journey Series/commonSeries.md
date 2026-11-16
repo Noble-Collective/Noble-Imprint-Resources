@@ -338,7 +338,7 @@ Pray for God to let the studied text examine you. Review it prayerfully. Conside
 ##### Give Voice to Your Heart
 Record answers to these questions. Write your answers as a prayer to God, a reflective response, an introspective diary to yourself, or a letter to a trusted friend.
 ##### Commit All Things to God
-[Step 3: one or two sentences.]
+After writing, offer yourself and your journaled thoughts to the Lord. Give yourself to his wisdom, grace, and love. Ask God to comfort you in your pain, provide for you in your need, guide you in your difficulty, and forgive you of your sin.
 
 </PracticeGuide_Journaling>
 
@@ -346,7 +346,7 @@ Record answers to these questions. Write your answers as a prayer to God, a refl
 
 #### Practice Guide
 <PracticeSummary label="Simplicity" />
-##### [Step 1 heading]
+##### Take an Inventory
 [Step 1: one or two sentences.]
 ##### [Step 2 heading]
 [Step 2: one or two sentences.]
