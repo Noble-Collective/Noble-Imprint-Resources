@@ -278,7 +278,7 @@ Review the lessons of the biblical text being studied. Ask God to reveal an area
 ##### Select the Group
 Ask God to show you a small group of trusted believers with whom you can share your challenge. Reach out to them and share your area of need. As them to pray for your wisdom, accountability, or encouragement.
 ##### Gather the Council
-If possible, gather the group together for a time of discernment. Share the need. Ask for wisdom. Let the group ask you focused questions. Commit the time to the Lord in prayer.
+If possible, gather the group together for a time of discernment. Review the biblical passage. Share the need. Ask for wisdom. Let the group ask you focused questions. Commit the time to the Lord in prayer.
 ##### Record the Conversation
 After the meeting, record what was discussed. Specifically, write down any key insights, noteworthy ideas, or important wisdom gained from the time together. Give thanks to God for the community of faith. 
 
@@ -361,15 +361,15 @@ Pray for God to show you how to use your material possessions to bless someone e
 
 #### Practice Guide
 <PracticeSummary label="Lament" />
-##### Address to God
-Consider truths the Bible speaks about God, naming what you love about God. Call out to the Lord, addressing him for who he is and what he has done.
-##### Complaint About Difficulty
+##### Address God
+Consider truths this passage speaks about God, naming what you love about God. Call out to the Lord, addressing him for who he is and what he has done.
+##### Name Your Difficulty
 Consider your grief, loss, pain, or difficulty. Express your hardship to the Lord, giving name to your emotions. Be specific in describing your distress.
-##### Expression of Trust
+##### Express Trust
 Declare your faith and trust in God. Announce how God is trustworthy and faithful. Recount his past faithfulness to you and the saints of old.
-##### Petition for Help
+##### Cry Out for Help
 Reflect on change you want God to bring in your life. Ask him to align your desires to his will. Hope in God, asking him to transform your situation.
-##### Praise to God
+##### Praise God
 Consider God's character and deeds. Worship God, bearing testimony to how he is so great and how he has worked so mightily in your life and in the world.
 
 </PracticeGuide_Lament>
