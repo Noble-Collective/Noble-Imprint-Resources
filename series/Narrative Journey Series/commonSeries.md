@@ -9,7 +9,7 @@ a modern-day catechism for the church
 </CoverTagline>
 
 <CoverSeriesSummary>
-**The Narrative Journey** is a multibook series in Christian discipleship. Built for believers and churches, this set of studies serves as a modern-day catechism, charting a course toward Christlike maturity. It stands within and builds upon the long-established tradition of catechesis and confessional instruction, while simulatneously orienting believers to a multimodal exploration of inspired Scripture. Pedagogically sound, formationally rich, and missionally oriented, this curriculum sets key biblical narratives as the foundation of its design. The twelve-session format integrates biblical study, theological dialogue, personal reflection, ministry practice, and missional engagement in a hermeneutical process that guides Christians and churches in what it means to be a committed disciple of Christ.
+**The Narrative Journey** is a multibook series in Christian discipleship. Built for believers and churches, this set of studies serves as a modern-day catechism, charting a course toward Christlike maturity. It stands within and builds upon the long-established tradition of catechesis and confessional instruction, while simultaneously orienting believers to a multimodal exploration of inspired Scripture. Pedagogically sound, formationally rich, and missionally oriented, this curriculum sets key biblical narratives as the foundation of its design. The twelve-session format integrates biblical study, theological dialogue, personal reflection, ministry practice, and missional engagement in a hermeneutical process that guides Christians and churches in what it means to be a committed disciple of Christ.
 </CoverSeriesSummary>
 
 <SeriesAuthor>
@@ -17,7 +17,7 @@ Matthew R. Lynskey
 </SeriesAuthor>
 
 <AuthorBio>
-Matthew R. Lynskey, Ph.D. (2018), University of South Africa, serves as a missionary and Executive Director of Noble Collective, a church-based missionary society. He is the author of _Tyconius’ Book of Rules_ (Brill, 2021), the spiritual formation journal _Sacred Markings_ (Noble Imprint, 2021), and the initiation series _Passage: Crossing Thresholds in the Sojourn of Life_ (Noble Imprint, forthcoming). He has served in a variety of ministry capacities such as cross-cultural missionary, preaching pastor, church planter, theological educator, and Bible translation trainer. Currently, he is an elder and Teaching Pastor at Noble City Church, a small network of house churches. He lives with his wife, Sukey, and their seven children in York, Pennsylvania.
+Matthew R. Lynskey, Ph.D. (2018), University of South Africa, serves as a missionary and Executive Director of Noble Collective, a church-based missionary society. He is the author of _Tyconius’ Book of Rules_ (Brill, 2021), the spiritual formation journal _Sacred Markings_ (Noble Imprint, 2021), and the faith-based initiation series _Passage: Crossing Thresholds in the Sojourn of Life_ (Noble Imprint, forthcoming). He has served in a variety of ministry capacities such as cross-cultural missionary, preaching pastor, church planter, theological educator, and Bible translation trainer. Currently, he is an elder and Teaching Pastor at Noble City Church, a small network of house churches. He lives with his wife, Sukey, and their seven children in York, Pennsylvania.
 </AuthorBio>
 
 
