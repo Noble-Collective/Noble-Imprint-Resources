@@ -1,0 +1,15 @@
+<svg data-size="large" width="33pt" height="33pt" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-240,0)">
+        <rect id="M5-Publicizing-the-Truth" x="240" y="0" width="33" height="33" style="fill:none;"/>
+        <g id="M5-Publicizing-the-Truth1">
+            <g id="movement-icon">
+                <g id="icon">
+                    <path id="globe-outline" d="M252.721,6.627C258.183,4.53 264.311,7.258 266.408,12.721C268.505,18.183 265.776,24.311 260.314,26.408C254.851,28.505 248.723,25.776 246.627,20.314C244.53,14.851 247.258,8.723 252.721,6.627Z" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                    <path id="globe-lines" d="M252.721,6.627L260.314,26.408M252.721,6.627C255.452,5.578 259.366,9.156 261.463,14.619C263.559,20.081 263.045,25.359 260.314,26.408C257.583,27.456 253.669,23.878 251.572,18.416C249.475,12.953 249.989,7.675 252.721,6.627ZM245.969,17.502L265.015,10.191M246.739,12.441C252.068,12.059 256.841,10.227 261.056,6.945M248.019,22.843L267.066,15.532M251.978,26.09C256.194,22.807 260.966,20.975 266.296,20.594" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                </g>
+                <path id="ring" d="M256.5,1.813C264.612,1.813 271.188,8.388 271.188,16.5C271.188,24.612 264.612,31.188 256.5,31.188C248.388,31.188 241.812,24.612 241.812,16.5C241.812,8.388 248.388,1.813 256.5,1.813Z" style="fill:none;stroke:#ffffff;stroke-width:0.703125px;"/>
+                <path id="ring-arcs" d="M240.386,16.5C240.386,7.6 247.6,0.386 256.5,0.386M272.614,16.5C272.614,25.4 265.4,32.614 256.5,32.614" style="fill:none;stroke:#ffffff;stroke-width:0.703125px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

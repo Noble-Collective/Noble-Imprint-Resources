@@ -1,0 +1,17 @@
+<svg data-size="large" width="33pt" height="33pt" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-120,0)">
+        <rect id="M3-Entering-the-Story" x="120" y="0" width="33" height="33" style="fill:none;"/>
+        <g id="M3-Entering-the-Story1">
+            <g id="movement-icon">
+                <g id="icon">
+                    <path id="compass-circle" d="M136.517,6.084C142.278,6.084 146.949,10.755 146.949,16.516C146.949,22.278 142.278,26.948 136.517,26.948C130.755,26.948 126.085,22.278 126.085,16.516C126.085,10.755 130.755,6.084 136.517,6.084Z" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                    <path id="compass-ticks" d="M136.517,6.812L136.517,5.235M146.221,16.516L147.798,16.516M136.517,26.22L136.517,27.797M126.813,16.516L125.236,16.516" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                    <path id="compass-needle-north" d="M140.977,12.056L137.718,17.717L135.316,15.315L140.977,12.056Z" style="fill:#ffffff;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75px;"/>
+                    <path id="compass-needle-south" d="M132.057,20.976L137.718,17.717L135.316,15.315L132.057,20.976Z" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                </g>
+                <path id="ring" d="M136.5,1.813C144.612,1.813 151.188,8.388 151.188,16.5C151.188,24.612 144.612,31.188 136.5,31.188C128.388,31.188 121.812,24.612 121.812,16.5C121.812,8.388 128.388,1.813 136.5,1.813Z" style="fill:none;stroke:#ffffff;stroke-width:0.703125px;"/>
+                <path id="ring-arcs" d="M120.386,16.5C120.386,7.6 127.6,0.386 136.5,0.386M152.614,16.5C152.614,25.4 145.4,32.614 136.5,32.614" style="fill:none;stroke:#ffffff;stroke-width:0.703125px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

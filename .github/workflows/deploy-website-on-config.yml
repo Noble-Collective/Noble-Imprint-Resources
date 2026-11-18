@@ -8,7 +8,7 @@ name: Refresh Website Cache on Config Change
 # that commit auto-deploys a fresh image — so every instance serves the new config.
 #
 # Text-only edits (session and common .md) don't need this — the website reads those
-# fresh per request (30s cache). This fires ONLY on meta.json and search-terms.json changes (infrequent).
+# fresh per request (30s cache). This fires ONLY on meta.json, search-terms.json and icons/ changes (infrequent).
 
 on:
   push:
@@ -17,6 +17,8 @@ on:
       - '**/meta.json'
       # Library search terms are baked into the same snapshot.
       - 'search-terms.json'
+      # Infographic icons ride in the same snapshot (tree.infographicIcons).
+      - 'icons/**'
 
 jobs:
   trigger-cache-refresh:

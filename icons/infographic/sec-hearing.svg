@@ -1,0 +1,15 @@
+<svg data-size="large" width="33pt" height="33pt" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="M1-Hearing-the-Word" x="0" y="0" width="33" height="33" style="fill:none;"/>
+    <g id="M1-Hearing-the-Word1">
+        <g id="movement-icon">
+            <g id="icon">
+                <path id="book-cover" d="M16.517,13.699L7.337,9.997L7.337,22.139L16.517,25.841L25.698,22.139L25.698,9.997L16.517,13.699Z" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                <path id="book-spine" d="M16.517,13.699L16.517,25.841" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                <path id="book-pages" d="M10.002,8.665L16.517,11.33L23.032,8.665M11.927,7.184L16.517,9.109L21.107,7.184" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+                <path id="book-cross" d="M21.107,14.587L21.107,21.399M19.256,17.549L22.958,16.068" style="fill:none;stroke:#ffffff;stroke-width:0.75px;"/>
+            </g>
+            <path id="ring" d="M16.5,1.813C24.612,1.813 31.188,8.388 31.188,16.5C31.188,24.612 24.612,31.188 16.5,31.188C8.388,31.188 1.813,24.612 1.813,16.5C1.813,8.388 8.388,1.813 16.5,1.813Z" style="fill:none;stroke:#ffffff;stroke-width:0.703125px;"/>
+            <path id="ring-arcs" d="M0.386,16.5C0.386,7.6 7.6,0.386 16.5,0.386M32.614,16.5C32.614,25.4 25.4,32.614 16.5,32.614" style="fill:none;stroke:#ffffff;stroke-width:0.703125px;"/>
+        </g>
+    </g>
+</svg>

@@ -22,6 +22,9 @@ on:
       # Library search terms (carried in the Content Release once the app
       # bundles them; until then the app's publish no-ops).
       - 'search-terms.json'
+      # Infographic icons ship in the Content Release as images
+      # (Collective-Shared plans/2026-11-18-infographic-icons-one-source.md).
+      - 'icons/**'
       # The hidden Test Book (Playwright commits to it constantly) never
       # reaches the app. Negation must come last.
       - '!series/**/Test Book/**'
