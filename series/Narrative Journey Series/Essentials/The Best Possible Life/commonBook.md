@@ -1,3 +1,15 @@
+<CoverTitle>
+The Best Possible Life
+</CoverTitle>
+
+<CoverKeyword>
+Living
+</CoverKeyword>
+
+<CoverBookLine>
+The Best Possible Life surveys biblical principles of Christian living
+</CoverBookLine>
+
 <TenCommandments>
 > And God spoke all these words, saying,  
 > I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.  
