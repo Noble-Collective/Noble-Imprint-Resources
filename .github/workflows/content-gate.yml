@@ -119,13 +119,30 @@ jobs:
         run: node .github/scripts/check-search-terms.mjs
 
       # --- Advance live (only when everything above passed; never on a PR or a plain manual run). ---
+      # The secret may hold the PEM itself or base64 of it (the form Secret Manager keeps, github-app-private-key).
+      # The decoded key is masked line by line, never printed, and handed on through $GITHUB_ENV (a step output that
+      # matches a mask would be dropped by Actions).
+      - name: App key (PEM or base64 of PEM)
+        if: ${{ success() && env.APP_KEY_SET == 'true' && (github.event_name == 'push' || steps.mode.outputs.override == 'true') }}
+        env:
+          RAW_KEY: ${{ secrets.CONTENT_GATE_APP_KEY }}
+        run: |
+          case "$RAW_KEY" in
+            -----BEGIN*) key="$RAW_KEY" ;;
+            *) key="$(printf '%s' "$RAW_KEY" | tr -d ' \r\n' | base64 -d 2>/dev/null)" || { echo "::error::CONTENT_GATE_APP_KEY is neither a PEM nor base64 of one."; exit 1; } ;;
+          esac
+          case "$key" in -----BEGIN*) ;; *) echo "::error::CONTENT_GATE_APP_KEY does not decode to a PEM private key."; exit 1 ;; esac
+          while IFS= read -r line; do [ -n "$line" ] && echo "::add-mask::$line"; done <<< "$key"
+          delim="KEY_$(openssl rand -hex 8)"
+          { echo "APP_PRIVATE_KEY<<$delim"; printf '%s\n' "$key"; echo "$delim"; } >> "$GITHUB_ENV"
+
       - name: Token for moving live (the content server app)
         id: apptoken
         if: ${{ success() && env.APP_KEY_SET == 'true' && (github.event_name == 'push' || steps.mode.outputs.override == 'true') }}
         uses: actions/create-github-app-token@v1
         with:
           app-id: 4407594
-          private-key: ${{ secrets.CONTENT_GATE_APP_KEY }}
+          private-key: ${{ env.APP_PRIVATE_KEY }}
 
       - name: Advance live
         id: advance
