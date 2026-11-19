@@ -198,7 +198,7 @@ Each person's eternity will take shape based on their relationship to God in thi
 
 In essence, the story behind it all is an incredible account of God's gracious and true dealings with sinful humanity. It tells the true story of the world that is unfolding before our eyes. And we are all characters in this cosmic drama. While we could not make our way back to God, God has made his way to us. He sent his one and only Son to become a sacrifice for sin, a victor over death, and an advocate before the Father. In his first coming, Jesus Christ opened the doors for eternal life, so that all who believe in him will gain entrance into this eternal kingdom. The first coming of Christ prepares us for his second coming. Christ will return to earth, only this time it will be to rescue his people, conquer the enemy, enact final judgment, and restore the world. 
 
-Many times, humans ask if God is on their side. We want God to meet our needs, champion our causes, and The Scripture summons us to be on God's side by To the story behind it all is to recognzie that story of the worls is heading in this direction
+Many times, humans ask if God is on their side. We want God to meet our needs, champion our causes, and help us in our predicaments. We long for a divine advocate The more pressing question is not whether God is on our side, but whether we are on God's side. The The Scripture summons us to be reconciled with God—to make peace with God—by wholeheartedly entrusting our lives to Christ. The true events  on God's side by To the story behind it all is to recognzie that story of the worls is heading in this direction
 
 ##### Conclusion
 
