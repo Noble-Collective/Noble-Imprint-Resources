@@ -1,13 +1,14 @@
+
 <CoverTitle>
-The Best Possible Life
+The Open Invitation
 </CoverTitle>
 
 <CoverKeyword>
-Living
+Formation
 </CoverKeyword>
 
 <CoverBookLine>
-The Best Possible Life surveys biblical principles of Christian living
+The Open Invitation investigates basic habits of Christian formation
 </CoverBookLine>
 
 <LordsPrayer>

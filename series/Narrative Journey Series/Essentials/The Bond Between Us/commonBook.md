@@ -1,13 +1,13 @@
 <CoverTitle>
-The Open Invitation
+The Bond Between Us
 </CoverTitle>
 
 <CoverKeyword>
-Formation
+Community
 </CoverKeyword>
 
 <CoverBookLine>
-The Open Invitation investigates basic habits of Christian formation
+The Bond Between Us contemplates basic truths of Christian community
 </CoverBookLine>
 
 <CommunityCovenant>
