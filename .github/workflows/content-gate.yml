@@ -43,6 +43,11 @@ permissions:
 jobs:
   gate:
     runs-on: ubuntu-latest
+    env:
+      # D8: `live` is moved by the website's GitHub App (noble-collective-content-server), the only actor the `live`
+      # ruleset lets update it. Its private key is the Actions secret CONTENT_GATE_APP_KEY (set by Steve). Without the
+      # secret the gate falls back to the job's own token (works only while the ruleset doesn't restrict updates).
+      APP_KEY_SET: ${{ secrets.CONTENT_GATE_APP_KEY != '' }}
     steps:
       - name: Mode
         id: mode
@@ -114,11 +119,19 @@ jobs:
         run: node .github/scripts/check-search-terms.mjs
 
       # --- Advance live (only when everything above passed; never on a PR or a plain manual run). ---
+      - name: Token for moving live (the content server app)
+        id: apptoken
+        if: ${{ success() && env.APP_KEY_SET == 'true' && (github.event_name == 'push' || steps.mode.outputs.override == 'true') }}
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: 4407594
+          private-key: ${{ secrets.CONTENT_GATE_APP_KEY }}
+
       - name: Advance live
         id: advance
         if: ${{ success() && (github.event_name == 'push' || steps.mode.outputs.override == 'true') }}
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ steps.apptoken.outputs.token || github.token }}
           SHA: ${{ steps.mode.outputs.override == 'true' && inputs.sha || github.sha }}
         run: node .github/scripts/advance-live.mjs advance "$SHA"
 

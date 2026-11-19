@@ -20,4 +20,5 @@ bundled content.
   `check-infographic-icons.yml`, `check-search-terms.yml`, `deploy-website-on-config.yml`. Add a new content check as
   a step in the gate, never as its own workflow.
 - **P6 (2026-11-19):** the app's Content Release is dispatched by the gate after `live` moves over app paths (`needsAppPublish`: series/ minus the Test Book, bibles/, search-terms.json, icons/); the app builds the latest `live` (its `content_ref` input, default live; `main` = rollback). `notify-app.yml` is manual only.
+- **D8 (2026-11-19):** `live` is moved with a token from the website's GitHub App (noble-collective-content-server, id 4407594; Actions secret `CONTENT_GATE_APP_KEY`, set by Steve). Ruleset 27607357 on `live`: no deletion, no force push, and (once the secret is set) updates only by that app. Without the secret the gate falls back to its own token.
 - Tests: `node --test .github/scripts/advance-live.test.mjs` (and each check's `*.test.mjs`).
