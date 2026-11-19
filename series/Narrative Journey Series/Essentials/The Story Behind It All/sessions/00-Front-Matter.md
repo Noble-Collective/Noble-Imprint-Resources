@@ -47,9 +47,9 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 << John Bunyan, *The Pilgrim’s Progress*
 
-> Read the Bible with reverence. Think every line you read, God is speaking to you ... Read with seriousness. It is matter of life and death; by this word you must be tried ... Read the word with affection. Get your hearts quickened with the word ... Read the scripture, not only as a history, but as a love-letter sent to you from God which may affect your hearts
+> Read the Bible with reverence. Think every line you read, God is speaking to you ... Read with seriousness. It is matter of life and death; by this word you must be tried ... Read the word with affection. Get your hearts quickened with the word ... Read the Scripture, not only as a history, but as a love-letter sent to you from God which may affect your hearts ... Pray that the same Spirit that wrote the word, may assist you in the reading of it; that God’s Spirit would show you the wonderful things of his law.
 
-<< Thomas Watson, The Select Works of the Rev. Thomas Watson, Comprising His Celebrated Body of Divinity, in a Series of Lectures on the Shorter Catechism, and Various Sermons and Treatises (New York: Robert Carter & Brothers, 1855), 28.
+<< Thomas Watson, *A Body of Practical Divinity*
 
 ## Table of Contents
 
