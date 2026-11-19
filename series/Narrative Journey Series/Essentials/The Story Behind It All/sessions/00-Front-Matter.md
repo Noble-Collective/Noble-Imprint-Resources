@@ -39,9 +39,13 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 << Augustine, _Expositions on the Book of Psalms_
 
-> The art of Story as I see it is a very difficult one ... To be stories at all they must be series of events: but it must be understood that this series—the plot, as we call it—is only really a net whereby to catch something else.
+> 
+> This book will make a traveler of thee,
+> If by its counsel thou wilt ruled be;
+> It will direct thee to the Holy Land,
+> If thou wilt its directions understand
 
-<< C. S. Lewis, _On Stories: And Other Essays on Literature_
+<< John Bunyan, *The Pilgrim’s Progress*
 
 ## Table of Contents
 
