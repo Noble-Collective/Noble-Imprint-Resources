@@ -35,9 +35,9 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 << G. K. Chesterton, _Orthodoxy_
 
-> The Birth of Christ is the eucatastrophe of Man's history. The Resurrection is the eucatastrophe of the story of the Incarnation. This story begins and ends in joy ... There is no tale ever told that men would rather find was true, and none which so many sceptical men have accepted as true on its own merits.
+> The Holy City is not the Church of this country only, but of the whole world as well: not that of this age only, but from Abel himself down to those who shall to the end be born and believe in Christ, the whole assembly of the Saints, belonging to one city; which city is Christ’s body, of which Christ is the Head ... We toil, because we are as yet pilgrims: while they within that city are awaiting our arrival. Letters have reached us too from that city, apart from which we are wandering: those letters are the Scriptures, which exhort us to live well ... The King himself descended, and became a path to us in our wanderings: that walking in Him, we may neither stray, nor faint nor fall among robbers, nor be caught in the snares that are set near our path. This character, then, we recognise in the whole Person of Christ, together with the Church .… He Himself is our Head, He is God, co-equal with the Father, the Word of God, by whom all things were made: but God to create, Man to renew; God to make, Man to restore.
 
-<< J. R. R. Tolkien, "On Fairy Stories"
+<< Augustine, _Expositions on the Book of Psalms_
 
 > The art of Story as I see it is a very difficult one ... To be stories at all they must be series of events: but it must be understood that this series—the plot, as we call it—is only really a net whereby to catch something else.
 
