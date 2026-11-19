@@ -8,7 +8,7 @@ Devotion
 </CoverKeyword>
 
 <CoverBookLine>
-The Glory Due  Possible Life surveys biblical principles of Christian living
+The Glory Due His Name traces essential elements of Christian devotion
 </CoverBookLine>
 
 <DevotionCreed>

@@ -1,3 +1,15 @@
+<CoverTitle>
+The Best Possible Life
+</CoverTitle>
+
+<CoverKeyword>
+Living
+</CoverKeyword>
+
+<CoverBookLine>
+The Best Possible Life surveys biblical principles of Christian living
+</CoverBookLine>
+
 <CommunityCovenant>
 > We prize the family as a bedrock of faith formation,  
 > we cherish marriage as a most holy and most sacred union,  
