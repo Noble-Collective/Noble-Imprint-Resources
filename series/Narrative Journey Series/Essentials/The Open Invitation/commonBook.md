@@ -7,7 +7,7 @@ Living
 </CoverKeyword>
 
 <CoverBookLine>
-The Best Possible Life surveys biblical principles  of Christian living
+The Best Possible Life surveys biblical principles of Christian living
 </CoverBookLine>
 
 <LordsPrayer>
