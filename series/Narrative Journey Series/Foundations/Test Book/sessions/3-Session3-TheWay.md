@@ -179,4 +179,4 @@ Part of the path of discipleship is to align our goals and aspirations with Godâ
 
 <Question id=TheCallSes3-MissionalOutreach>Witness the Text: _Consider how you can use this passage to witness to the surrounding world. Use the suggested ideas to prime your imagination. Then, put together a plan to share this passage with unbelievers. Afterward, reflect on this mission experience._</Question>
 
-<!-- content gate D8 check: harmless, removed by the drill -->
+<Item icon="zz-gate-drill">Content gate drill (D8): the gate must hold this</Item>
