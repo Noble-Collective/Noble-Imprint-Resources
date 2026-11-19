@@ -47,6 +47,17 @@ export function needsWebsiteRefresh(files, { truncated = false } = {}) {
   return files.some((f) => f === 'search-terms.json' || f === 'meta.json' || f.endsWith('/meta.json') || f.startsWith('icons/'));
 }
 
+// Pure (P6): does this change reach the app? The app ships series/, bibles/, search-terms.json and icons/ (its
+// Content Release, published by Noble-Imprint-App publish-content.yml), but never the hidden Test Book, which the
+// Playwright suites commit to constantly. Same paths as the old notify-app.yml push filter.
+export function needsAppPublish(files, { truncated = false } = {}) {
+  if (truncated) return true;
+  return files.some((f) => {
+    if (f.startsWith('series/')) return !/^series\/(.+\/)?Test Book\//.test(f);
+    return f.startsWith('bibles/') || f === 'search-terms.json' || f.startsWith('icons/');
+  });
+}
+
 const short = (s) => (s ? String(s).slice(0, 7) : String(s));
 
 // --- GitHub REST (injectable for tests) ---------------------------------------------------------------------------
@@ -118,7 +129,7 @@ export async function probe({ api, sha, before }) {
 export async function advance({ api, sha }) {
   const liveSha = await api.liveSha();
   const log = [];
-  const out = { advanced: 'false', refresh_website: 'false', live_before: liveSha || '', live_after: liveSha || '' };
+  const out = { advanced: 'false', refresh_website: 'false', publish_app: 'false', live_before: liveSha || '', live_after: liveSha || '' };
   if (!liveSha) {
     const d = decide({ sha, liveSha });
     log.push(d.message);
@@ -137,7 +148,8 @@ export async function advance({ api, sha }) {
   out.advanced = 'true';
   out.live_after = sha;
   out.refresh_website = needsWebsiteRefresh(cmp.files, cmp) ? 'true' : 'false';
-  log.push(`live moved to ${short(sha)}. ${cmp.files.length} file(s) since the last live; website snapshot refresh: ${out.refresh_website}.`);
+  out.publish_app = needsAppPublish(cmp.files, cmp) ? 'true' : 'false';
+  log.push(`live moved to ${short(sha)}. ${cmp.files.length} file(s) since the last live; website snapshot refresh: ${out.refresh_website}; app publish: ${out.publish_app}.`);
   return { out, log, decision: d };
 }
 

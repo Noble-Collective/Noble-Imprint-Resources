@@ -156,3 +156,31 @@ test('githubApi: 404 on the live ref = no live; PATCH is never a force', async (
   assert.equal(patch.url, 'https://api.github.com/repos/o/r/git/refs/heads/live');
   assert.deepEqual(JSON.parse(patch.init.body), { sha: B, force: false });
 });
+
+// --- P6: the app's content publish runs after the gate, only for changes the app ships ------------------------------
+import { needsAppPublish } from './advance-live.mjs';
+
+test('needsAppPublish: series, bibles, search terms, icons — never the hidden Test Book, never tooling', () => {
+  assert.equal(needsAppPublish(['series/S/Book/sessions/01.md']), true);
+  assert.equal(needsAppPublish(['bibles/bsb/references.json']), true);
+  assert.equal(needsAppPublish(['search-terms.json']), true);
+  assert.equal(needsAppPublish(['icons/infographic/heart.svg']), true);
+  assert.equal(needsAppPublish(['series/Narrative Journey Series/Foundations/Test Book/sessions/3.md']), false);
+  assert.equal(needsAppPublish(['.github/workflows/content-gate.yml', 'README.md']), false);
+  assert.equal(needsAppPublish(['series/Narrative Journey Series/Foundations/Test Book/meta.json', 'series/X/Y/meta.json']), true);
+  assert.equal(needsAppPublish([], { truncated: true }), true);
+});
+
+test('advance: publish_app follows the files live moved over', async () => {
+  const mk = (files) => fakeApi({
+    live: A,
+    compares: {
+      [`${A}...${B}`]: { status: 'ahead', files, truncated: false },
+      [`${B}...main`]: { status: 'identical', files: [], truncated: false },
+    },
+  });
+  assert.equal((await advance({ api: mk(['series/S/B/sessions/1.md']), sha: B })).out.publish_app, 'true');
+  assert.equal((await advance({ api: mk(['.github/scripts/x.mjs']), sha: B })).out.publish_app, 'false');
+  const none = await advance({ api: fakeApi(), sha: B });
+  assert.equal(none.out.publish_app, 'false');
+});

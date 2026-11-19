@@ -122,6 +122,29 @@ jobs:
           SHA: ${{ steps.mode.outputs.override == 'true' && inputs.sha || github.sha }}
         run: node .github/scripts/advance-live.mjs advance "$SHA"
 
+      # --- P6: the app's content publish, only after live moved over something the app ships. ---
+      # Noble-Imprint-App publish-content.yml builds the LATEST live (bursts collapse there; identical output = no-op),
+      # so a commit that failed the checks is never tried. This replaces notify-app.yml's push trigger.
+      - name: Publish app content
+        if: ${{ success() && steps.advance.outputs.publish_app == 'true' }}
+        env:
+          # Fine-grained PAT: Actions read/write on Noble-Imprint-App only.
+          GH_TOKEN: ${{ secrets.APP_DISPATCH_TOKEN }}
+          SHA: ${{ steps.advance.outputs.live_after }}
+        run: |
+          for attempt in 1 2 3 4; do
+            if gh workflow run publish-content.yml \
+                 --repo Noble-Collective/Noble-Imprint-App \
+                 --ref develop \
+                 -f reason="resources live ${SHA::7}"; then
+              echo "Dispatched publish-content (the app builds the latest live; identical output = no-op)."
+              exit 0
+            fi
+            [ "$attempt" -lt 4 ] && { echo "Dispatch failed (attempt $attempt) — retrying in $((attempt * 20))s"; sleep $((attempt * 20)); }
+          done
+          echo "::error::Could not dispatch the app's content publish after 4 attempts."
+          exit 1
+
       # --- Tell the website when its baked snapshot (tree, search terms, icons) needs rebuilding. ---
       # After go-live: when live moved over a meta.json / search-terms.json / icons/ change.
       # Before go-live (no live): the old deploy-website-on-config rule, whatever the checks said.

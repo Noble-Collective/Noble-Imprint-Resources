@@ -19,5 +19,5 @@ bundled content.
 - Retired 2026-11-18 (folded into the gate): `check-audience.yml`, `check-book-ids.yml`,
   `check-infographic-icons.yml`, `check-search-terms.yml`, `deploy-website-on-config.yml`. Add a new content check as
   a step in the gate, never as its own workflow.
-- `notify-app.yml` (the app's content publish) is separate and must stay unchanged until P6.
+- **P6 (2026-11-19):** the app's Content Release is dispatched by the gate after `live` moves over app paths (`needsAppPublish`: series/ minus the Test Book, bibles/, search-terms.json, icons/); the app builds the latest `live` (its `content_ref` input, default live; `main` = rollback). `notify-app.yml` is manual only.
 - Tests: `node --test .github/scripts/advance-live.test.mjs` (and each check's `*.test.mjs`).
