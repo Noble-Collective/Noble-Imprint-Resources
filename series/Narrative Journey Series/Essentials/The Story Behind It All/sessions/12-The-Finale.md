@@ -98,9 +98,9 @@ This final scene of the Bible is where the story of this present world ends. But
 
 << Romans 8:24–25
 
-> True devotion will rather ask to be allowed to give, and will count as loss all which may not be given up for the Lord's sake.
+> Who told you that the night would never end in day? Who told you that the sea would ebb out till there should be nothing left but a vast track of mud and sand? Who told thee that the winter would proceed from frost to frost, from snow, and ice, and hail, to deeper snow, and yet more heavy tempest? Who told you this, I say? Don't you know that day follows night, that flood comes after ebb, that spring and summer succeed to winter? Hope then! Hope you ever! For God fails you not.
 
-<< James Hudson Taylor, _Thoughts_
+<< Charles Spurgeon, "Memoby—The Handmaid of Hope"
 
 ##### Introduction
 
