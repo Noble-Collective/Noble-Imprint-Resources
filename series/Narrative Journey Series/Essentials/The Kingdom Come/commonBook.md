@@ -7,7 +7,7 @@ Witness
 </CoverKeyword>
 
 <CoverBookLine>
-The Kingdom Come explores biblical principles of Christian witness
+The Kingdom Come studies vital dynamics of Christian witness
 </CoverBookLine>
 
 <WitnessCreed>
