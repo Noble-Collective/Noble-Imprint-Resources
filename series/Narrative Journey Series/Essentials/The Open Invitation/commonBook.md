@@ -1,3 +1,15 @@
+<CoverTitle>
+The Best Possible Life
+</CoverTitle>
+
+<CoverKeyword>
+Living
+</CoverKeyword>
+
+<CoverBookLine>
+The Best Possible Life surveys biblical principles  of Christian living
+</CoverBookLine>
+
 <LordsPrayer>
 > Pray then like this:  
 > Our Father in heaven,  

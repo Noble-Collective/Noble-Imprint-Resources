@@ -1,5 +1,14 @@
+<CoverTitle>
+The Story Behind It All
+</CoverTitle>
 
+<CoverKeyword>
+Belief
+</CoverKeyword>
 
+<CoverBookLine>
+The Story Behind It All explores core doctrines of Christian belief
+</CoverBookLine>
 
 <ApostlesCreed>
 > I believe in God the Father Almighty,  
