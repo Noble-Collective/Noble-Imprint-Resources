@@ -39,7 +39,6 @@ _The Story Behind It All: A Narrative Journey of Christian Belief_
 
 << Augustine, _Expositions on the Book of Psalms_
 
-> 
 > This book will make a traveler of thee,
 > If by its counsel thou wilt ruled be;
 > It will direct thee to the Holy Land,
