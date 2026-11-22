@@ -39,6 +39,7 @@ concurrency:
 
 permissions:
   contents: write
+  checks: write # C5: the "Content gate report" check run the website's tick reads
 
 jobs:
   gate:
@@ -78,8 +79,9 @@ jobs:
           node-version: 22
 
       - name: Gate tests (advance-live)
+        id: g_live
         if: steps.mode.outputs.override != 'true'
-        run: node --test .github/scripts/advance-live.test.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node --test .github/scripts/advance-live.test.mjs 2>&1 | tee "$RUNNER_TEMP/logs/g_live.log"
 
       - name: Is there a live branch yet?
         id: probe
@@ -91,46 +93,57 @@ jobs:
 
       # --- The four checks. Each runs even when an earlier one failed, so one push shows every problem. ---
       - name: Guard tests (audience)
+        id: g_audience
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node --test .github/scripts/check-audience.test.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node --test .github/scripts/check-audience.test.mjs 2>&1 | tee "$RUNNER_TEMP/logs/g_audience.log"
       - name: Every audience is a known value
+        id: audience
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node .github/scripts/check-audience.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node .github/scripts/check-audience.mjs 2>&1 | tee "$RUNNER_TEMP/logs/audience.log"
 
       - name: Guard tests (book ids)
+        id: g_ids
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node --test .github/scripts/check-book-ids.test.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node --test .github/scripts/check-book-ids.test.mjs 2>&1 | tee "$RUNNER_TEMP/logs/g_ids.log"
       - name: Every public book has a good, unique "id"
+        id: ids
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node .github/scripts/check-book-ids.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node .github/scripts/check-book-ids.mjs 2>&1 | tee "$RUNNER_TEMP/logs/ids.log"
 
       - name: Guard tests (infographic icons)
+        id: g_icons
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node --test .github/scripts/check-infographic-icons.test.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node --test .github/scripts/check-infographic-icons.test.mjs 2>&1 | tee "$RUNNER_TEMP/logs/g_icons.log"
       - name: Every infographic icon has a usable drawing
+        id: icons
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node .github/scripts/check-infographic-icons.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node .github/scripts/check-infographic-icons.mjs 2>&1 | tee "$RUNNER_TEMP/logs/icons.log"
 
       - name: Guard tests (search terms, vendored SDK spec)
+        id: g_terms
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node --test .github/scripts/check-search-terms.test.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node --test .github/scripts/check-search-terms.test.mjs 2>&1 | tee "$RUNNER_TEMP/logs/g_terms.log"
       - name: Check search-terms.json
+        id: terms
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node .github/scripts/check-search-terms.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node .github/scripts/check-search-terms.mjs 2>&1 | tee "$RUNNER_TEMP/logs/terms.log"
 
       # --- C2 (2026-11-22): the shared content contract (Collective-Shared ARCHITECTURE §9h, plan
       # plans/2026-11-21-content-contract.md). Errors in a PUBLIC book (or a book whose status can't be read) hold live;
       # hidden books and warnings never do. Full findings, warnings included, go to the run summary.
       - name: Guard tests (content contract, vendored)
+        id: g_contract
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
-        run: node --test .github/scripts/content-contract.test.mjs
+        run: mkdir -p "$RUNNER_TEMP/logs" && node --test .github/scripts/content-contract.test.mjs 2>&1 | tee "$RUNNER_TEMP/logs/g_contract.log"
       - name: Content contract
+        id: contract
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
         run: |
 
           { echo '## Content contract'; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
           status=0
           node .github/scripts/content-contract.cjs --content . > "$RUNNER_TEMP/contract.txt" || status=$?
+          node .github/scripts/content-contract.cjs --content . --json > "$RUNNER_TEMP/contract.json" || true # C5 report
           cat "$RUNNER_TEMP/contract.txt"
           cat "$RUNNER_TEMP/contract.txt" >> "$GITHUB_STEP_SUMMARY"; echo '```' >> "$GITHUB_STEP_SUMMARY"
           exit $status
@@ -139,6 +152,7 @@ jobs:
       # bundle, the contract's app rules, the content-dependent tests; ~4 min). The app repo is private, so the gate
       # dispatches it and waits (APP_DISPATCH_TOKEN: Actions read/write on the app repo). A failure holds live.
       - name: App acceptance (Noble-Imprint-App content-acceptance.yml)
+        id: app
         if: ${{ success() && github.event_name == 'push' && steps.mode.outputs.override != 'true' }}
         timeout-minutes: 40
         env:
@@ -146,6 +160,7 @@ jobs:
           SHA: ${{ github.sha }}
           REPO: Noble-Collective/Noble-Imprint-App
         run: |
+          mkdir -p "$RUNNER_TEMP/logs"; exec > >(tee "$RUNNER_TEMP/logs/app.log") 2>&1
           reason="gate run ${GITHUB_RUN_ID}"
           ok=false
           for attempt in 1 2 3; do
@@ -169,6 +184,21 @@ jobs:
             echo "::error::The app's content acceptance failed for ${SHA::7} — live stays where it is. See https://github.com/$REPO/actions/runs/$run"
             exit 1
           fi
+
+      # --- C5 (2026-11-22): one report of what holds live + the warnings, as the check run "Content gate report" on
+      # this commit (JSON in its text). The website's content-gate tick reads it: hold email after 15 min, all-clear,
+      # Monday warnings digest (Noble-Imprint-Resource-Website src/server/content-gate-digest.js). Never fails the gate.
+      - name: Gate report tests
+        if: ${{ !cancelled() && steps.mode.outputs.override != 'true' && github.event_name != 'pull_request' }}
+        continue-on-error: true # a reporting bug must never hold content
+        run: node --test .github/scripts/gate-report.test.mjs
+      - name: Content gate report
+        if: ${{ !cancelled() && steps.mode.outputs.override != 'true' && github.event_name != 'pull_request' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          STEPS: ${{ toJSON(steps) }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: node .github/scripts/gate-report.mjs --contract "$RUNNER_TEMP/contract.json" --logs "$RUNNER_TEMP/logs"
 
       # --- Advance live (only when everything above passed; never on a PR or a plain manual run). ---
       # The secret may hold the PEM itself or base64 of it (the form Secret Manager keeps, github-app-private-key).
