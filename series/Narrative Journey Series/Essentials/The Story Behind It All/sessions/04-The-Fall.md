@@ -254,5 +254,3 @@ God created humans to enjoy his good world. Rather than caring for creation as s
 <!-- @include: StrategyQuestions id="TheStorySes4-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
-
-</div>

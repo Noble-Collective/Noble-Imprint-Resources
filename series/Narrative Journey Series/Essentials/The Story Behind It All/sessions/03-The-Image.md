@@ -283,5 +283,3 @@ Above all that God had made, <Callout>humanity stands in a unique place, embodyi
 <!-- @include: StrategyQuestions id="TheStorySes3-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
-
-</div>

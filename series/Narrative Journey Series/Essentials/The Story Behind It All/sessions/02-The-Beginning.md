@@ -275,5 +275,3 @@ Our understanding of the story behind all reality will grow as we start to recog
 <!-- @include: StrategyQuestions id="TheStorySes2-PublicizeTruth" -->
 
 <!-- @include: MissionPracticesInfographic -->
-
-</div>
