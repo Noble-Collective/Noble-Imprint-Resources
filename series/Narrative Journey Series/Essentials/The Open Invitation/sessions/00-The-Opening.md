@@ -94,7 +94,7 @@ Coming soon.
 
 <!-- @include: Opening_SessionFramework_Intro -->
 
-<!-- @include: Opening_SessionFrameworkInfographic -->
+<!-- @include: SessionFrameworkInfographic -->
 
 ### Planning Calendar
 
