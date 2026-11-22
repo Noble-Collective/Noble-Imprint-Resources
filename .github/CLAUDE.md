@@ -26,4 +26,7 @@ bundled content.
   header names the version). Errors in a public book (or an unreadable status) hold `live`; hidden books and warnings
   never do; findings go to the run summary. Plan `plans/2026-11-21-content-contract.md`. The four older checks stay
   until the contract is shown to cover them.
+- **C4 (2026-11-22): the gate dispatches the app's `content-acceptance.yml`** (Noble-Imprint-App, `--ref develop`,
+  `content_sha` = the pushed sha) with `APP_DISPATCH_TOKEN`, finds the run by its title and waits (~4 min); a failure
+  holds `live`. Push events only.
 - Tests: `node --test .github/scripts/advance-live.test.mjs` (and each check's `*.test.mjs`).
