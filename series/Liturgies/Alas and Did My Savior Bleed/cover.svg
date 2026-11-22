@@ -1,0 +1,11 @@
+<svg width="422" height="630" viewBox="0 0 422 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Placeholder cover (2026-11-22) in the Liturgies style: replace with the real cover. -->
+<rect width="422" height="630" fill="#6E2430"/>
+<rect x="24" y="24" width="374" height="582" stroke="#D2A85A" stroke-width="2"/>
+<rect x="32" y="32" width="358" height="566" stroke="#D2A85A" stroke-width="0.8"/>
+<path d="M211 120 L301 190 L301 440 L211 510 L121 440 L121 190 Z" stroke="#D2A85A" stroke-width="1.6"/>
+<path d="M211 170 V330 M176 210 H246" stroke="#D2A85A" stroke-width="3" stroke-linecap="round"/>
+<text x="211" y="378" text-anchor="middle" fill="#D2A85A" font-family="Georgia, 'Times New Roman', serif" font-size="21">Alas and Did</text>
+<text x="211" y="404" text-anchor="middle" fill="#D2A85A" font-family="Georgia, 'Times New Roman', serif" font-size="21">My Savior Bleed</text>
+<path d="M181 428 H241" stroke="#D2A85A" stroke-width="0.8"/>
+</svg>
