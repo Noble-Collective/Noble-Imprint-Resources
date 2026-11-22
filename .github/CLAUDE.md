@@ -21,4 +21,9 @@ bundled content.
   a step in the gate, never as its own workflow.
 - **P6 (2026-11-19):** the app's Content Release is dispatched by the gate after `live` moves over app paths (`needsAppPublish`: series/ minus the Test Book, bibles/, search-terms.json, icons/); the app builds the latest `live` (its `content_ref` input, default live; `main` = rollback). `notify-app.yml` is manual only.
 - **D8 (2026-11-19):** `live` is moved with a token from the website's GitHub App (noble-collective-content-server, id 4407594; Actions secret `CONTENT_GATE_APP_KEY`, set by Steve). Ruleset 27607357 on `live`: no deletion, no force push, and (once the secret is set) updates only by that app. Without the secret the gate falls back to its own token.
+- **C2 (2026-11-22): the gate also runs the shared content contract** (`scripts/content-contract.cjs`, VENDORED from
+  Collective-Shared `packages/userdata/dist/content/cli.cjs` — never edit it here; refresh by copying the built file,
+  header names the version). Errors in a public book (or an unreadable status) hold `live`; hidden books and warnings
+  never do; findings go to the run summary. Plan `plans/2026-11-21-content-contract.md`. The four older checks stay
+  until the contract is shown to cover them.
 - Tests: `node --test .github/scripts/advance-live.test.mjs` (and each check's `*.test.mjs`).

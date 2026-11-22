@@ -118,6 +118,23 @@ jobs:
         if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
         run: node .github/scripts/check-search-terms.mjs
 
+      # --- C2 (2026-11-22): the shared content contract (Collective-Shared ARCHITECTURE §9h, plan
+      # plans/2026-11-21-content-contract.md). Errors in a PUBLIC book (or a book whose status can't be read) hold live;
+      # hidden books and warnings never do. Full findings, warnings included, go to the run summary.
+      - name: Guard tests (content contract, vendored)
+        if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
+        run: node --test .github/scripts/content-contract.test.mjs
+      - name: Content contract
+        if: ${{ !cancelled() && steps.mode.outputs.override != 'true' }}
+        run: |
+
+          { echo '## Content contract'; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          status=0
+          node .github/scripts/content-contract.cjs --content . > "$RUNNER_TEMP/contract.txt" || status=$?
+          cat "$RUNNER_TEMP/contract.txt"
+          cat "$RUNNER_TEMP/contract.txt" >> "$GITHUB_STEP_SUMMARY"; echo '```' >> "$GITHUB_STEP_SUMMARY"
+          exit $status
+
       # --- Advance live (only when everything above passed; never on a PR or a plain manual run). ---
       # The secret may hold the PEM itself or base64 of it (the form Secret Manager keeps, github-app-private-key).
       # The decoded key is masked line by line, never printed, and handed on through $GITHUB_ENV (a step output that
