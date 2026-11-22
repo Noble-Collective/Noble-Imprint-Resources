@@ -31,4 +31,21 @@ bundled content.
   (`develop`, `APP_DISPATCH_TOKEN`, ~4 min), website (`main`, `WEBSITE_DISPATCH_TOKEN`, ~1 min), Institute (`main`,
   `INSTITUTE_DISPATCH_TOKEN`, ~2 min — skipped with a warning until that secret exists). A product run that FAILS holds
   `live`; a missing token, refused dispatch or unreadable run is a warning only. Push events only.
+- **C5 (2026-11-22): the gate's last checking step posts a check run "Content gate report"** on the commit
+  (`scripts/gate-report.mjs`; push + manual runs, never PRs; always `neutral`, and its own tests are
+  `continue-on-error`, so a reporting bug never holds content). `output.summary` = what holds live + the warnings by
+  book (also in the run summary); `output.text` = the same as JSON v1 (`holding`, `warnings`, `fingerprint` = the
+  problem set, line numbers and order ignored). Each checking step has an `id` and tees its output to
+  `$RUNNER_TEMP/logs/<id>.log`, so a failed older check's `::error::` lines and each product's acceptance run link
+  (app / website / Institute, headed by the product in the email) reach the report. **No email is sent from this
+  public repo:** the website's `content-gate-tick` (every 5 min) reads the report (its GitHub App has Checks: read) and
+  sends the hold email to the staff list (Steve + Matt) once main has been held 15 minutes, one per problem set, the
+  all clear, and the Monday 8 AM ET warnings digest (website `src/server/content-gate-digest.js`). A new check step
+  needs an `id`, the tee, and a line in `CHECK_STEPS`.
+- **C5 after the gate (2026-11-22):** a failure AFTER `live` moved (the app's `publish-content.yml`, the website's
+  `refresh-cache.yml` / `deploy.yml`) is CI triage's (Collective-Shared `tools/ci-triage/README.md`): Steve gets one
+  issue per real failure, as before. When triage's verdict says the CONTENT is at fault (`fault: content`), it also
+  posts the verdict to the website (`POST /api/content-gate/after-gate`, GitHub OIDC from `ci-triage.yml` on
+  Collective-Shared main, `src/server/after-gate.js`), which emails the content editors (staff list minus Steve) once
+  per failed run, with what to change. A run whose title has `[test]` goes to Steve only.
 - Tests: `node --test .github/scripts/advance-live.test.mjs` (and each check's `*.test.mjs`, `gate-report.test.mjs`).
