@@ -1,5 +1,6 @@
 # Part Four: Feast
 
+<!-- page 321 -->
 ## Feast Liturgy
 
 ### INTRODUCTION
@@ -18,7 +19,7 @@ Welcome to the feast of Epiphany! This gathering is a celebration that commemora
 
 After the long night of sin and curse, light has come into the world. The Epiphany season is a time to remember the revelation of God’s Son to humanity. Jesus is the Light of the World, God’s eternal Son who took on human flesh, triumphing over darkness, overcoming evil, and conquering sin. This evening, we remember that Jesus was born Savior of the world. Since God’s light has dawned on humanity, this is a time of searching, seeing, beholding, and testifying. After prolonged darkness, divine light has come.
 
-As we gather tonight, we imitate the wise men, who long ago sought for the baby born in Bethlehem. Today, we search for the one and only Christ. We heed these noble travelers as our guides, who journeyed afar by the light of the celestial star. Today, we learn again to see by the light of God’s own Son. During this assembly, we keep step in step with the Magi who bowed in worship, offered gifts of devotion, and adored the incarnate Lord born in the manger. Today, we behold the glory of God made manifest in human flesh. We follow the example of these eastern sojourners who brought news to Herod that the King of the Jews was born. Today, we bear witness to the world that the Savior has come.
+As we gather tonight, we imitate the wise men, who long ago sought for the baby born in Bethlehem. Today, we search for the one and only Christ. We heed these noble travelers as our guides, who journeyed afar by the light of the celestial star. Today, we learn again to see by the light of God’s own Son. During this <!-- page 322 -->assembly, we keep step in step with the Magi who bowed in worship, offered gifts of devotion, and adored the incarnate Lord born in the manger. Today, we behold the glory of God made manifest in human flesh. We follow the example of these eastern sojourners who brought news to Herod that the King of the Jews was born. Today, we bear witness to the world that the Savior has come.
 
 Tonight, we gather in hope that in Christ God has “turned night into day, making light seem near in the face of darkness” (Job 17:12).
 
@@ -52,7 +53,7 @@ And teach us in its ways to go.
 ##### VERSE 3
 
 O come, O Branch of Jesse’s stem,
-Unto your own and rescue them!
+Unto your own and rescue them!<!-- page 323 -->
 From depths of hell your people save,
 And give them victory o’er the grave.
 
@@ -92,6 +93,7 @@ There is no one righteous, not even one. There is no one who understands, no one
 
 We hope for light, but there is darkness; for brightness, but we walk in gloom. Isaiah 59:9
 
+<!-- page 324 -->
 ##### LEADER
 
 The enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead. My spirit grows faint within me; my heart is dismayed inside me. Psalm 143:3–4
@@ -132,6 +134,7 @@ I am the man who has seen affliction under the rod of God’s wrath. He has driv
 
 We hope for light, but there is darkness; for brightness, but we walk in gloom. Isaiah 59:9
 
+<!-- page 325 -->
 ##### LEADER
 
 He deprives the earth’s leaders of reason and makes them wander in a trackless wasteland. They grope in the darkness without light; He makes them stagger like drunkards. Job 12:24–25
@@ -171,6 +174,7 @@ Fast bound in Sin and Misery,
 Friend of Sinners, let me find
 My help, my all in Thee.
 
+<!-- page 326 -->
 ##### VERSE 2
 
 Who my Misery can relate,
@@ -210,7 +214,7 @@ My Midnight into Day.
 
 In our darkness, we seek for God’s light. In our sin, we search for divine mercy. In our groping, we search for redeeming grace. Thanks be to God! We wandered in our lost estate, but our great God has come to us: “For the Son of Man came to seek and to save the lost” (Luke 19:10).
 
-Some sat in darkness and in the shadow of death, prisoners in affliction and chains, because they rebelled against the words of God and despised the counsel of the Most High. He humbled their hearts with hard labor; they stumbled, and there was no one to help. Psalm 107:10–12
+Some sat in darkness and in the shadow of death, prisoners in affliction and chains, because they rebelled against the words of God and despised the counsel of the Most High. He humbled <!-- page 327 -->their hearts with hard labor; they stumbled, and there was no one to help. Psalm 107:10–12
 
 ##### ALL
 
@@ -256,6 +260,7 @@ Blessed are those who know the joyful sound, who walk, O Lord, in the light of Y
 
 Shine the light of Your face upon us, O Lord. Psalm 4:6
 
+<!-- page 328 -->
 ##### LEADER
 
 May the Lord, who is good, provide atonement for everyone who sets his heart on seeking God—the Lord, the God of his fathers. 2 Chronicles 30:18–19
@@ -302,6 +307,7 @@ King for ever,
 Ceasing never
 Over us all to reign.
 
+<!-- page 329 -->
 ##### VERSE 3
 
 Frankincense to offer have I,
@@ -341,6 +347,7 @@ _During the meal, enjoy a time of fellowship and reflection with those around yo
 2. At this time, what are you searching for and seeking? How do you hope to encounter God this upcoming year?
 3. Who are the people in your life that God wants you to tell about his Son?
 
+<!-- page 330 -->
 ### SEEING BY THE LIGHT OF CHRIST
 
 #### What Child Is This?
@@ -379,6 +386,7 @@ Let loving hearts enthrone Him.
 
 God did not leave us in darkness, sin, or despair. He sent his Son to rescue us. Christ is our life, our refuge, and our light. God is light, and in Him there is no darkness at all. 1 John 1:5
 
+<!-- page 331 -->
 ##### ALL
 
 The Lord is my light and my salvation—whom shall I fear? Psalm 27:1
@@ -425,7 +433,7 @@ The Lord is my light and my salvation—whom shall I fear? Psalm 27:1
 
 ##### LEADER
 
-How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings! They feast on the abundance of Your house, and You give them drink from Your river of delights. For with You is the fountain of life; in Your light we see light. Psalm 36:7–9
+How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings! They feast on the abundance of Your house, and You give them drink from <!-- page 332 -->Your river of delights. For with You is the fountain of life; in Your light we see light. Psalm 36:7–9
 
 ##### ALL
 
@@ -467,6 +475,7 @@ And he my rising sun.
 
 We were blinded by sin, yet you sent your Son to enlighten our dark eyes. We were ruined by wickedness, yet you sent your Son to heal our blindness. We were groping in darkness, yet you sent your Son to rescue us from our wandering. We see all by the light of Christ. He is our light and our salvation! Amen.
 
+<!-- page 333 -->
 ### ADORING THE INCARNATE LORD
 
 #### O Come, All Ye Faithful
@@ -510,6 +519,7 @@ In Him was life, and that life was the light of men. John 1:4
 
 The people walking in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned. Isaiah 9:2
 
+<!-- page 334 -->
 ##### ALL
 
 In Him was life, and that life was the light of men. John 1:4
@@ -562,6 +572,7 @@ The one who walks in the darkness does not know where he is going. While you hav
 
 In Him was life, and that life was the light of men. John 1:4
 
+<!-- page 335 -->
 ##### LEADER
 
 And whoever sees Me sees the One who sent Me. I have come into the world as a light, so that no one who believes in Me should remain in darkness. John 12:45–46
@@ -602,7 +613,7 @@ Offspring of the Virgin’s womb:
 Veiled in flesh the Godhead see;
 Hail th’ incarnate Deity,
 Pleased with us in flesh to dwell,
-Jesus, our Immanuel.
+Jesus, our Immanuel.<!-- page 336 -->
 Hark! the herald angels sing,
 “Glory to the newborn King”
 
@@ -644,6 +655,7 @@ The church is called to be light in the world. Hear the testimony of God’s wor
 
 I will also make You a light for the nations, to bring My salvation to the ends of the earth. Isaiah 49:6
 
+<!-- page 337 -->
 I am sending you to them to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those sanctified by faith in Me. Acts 26:17–18
 
 For you were once darkness, but now you are light in the Lord. Walk as children of light, for the fruit of the light consists in all goodness, righteousness, and truth. Ephesians 5:8–9
@@ -662,6 +674,7 @@ As we embrace our calling as light in the world, we look forward to the day when
 
 Arise, shine, for your light has come, and the glory of the Lord rises upon you. For behold, darkness covers the earth, and thick darkness is over the peoples; but the Lord will rise upon you, and His glory will appear over you. Nations will come to your light, and kings to the brightness of your dawn. Isaiah 60:1–3
 
+<!-- page 338 -->
 No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the Lord will be your everlasting light, and your God will be your splendor. Your sun will no longer set, and your moon will not wane; for the Lord will be your everlasting light, and the days of your sorrow will cease. Isaiah 60:19–20
 
 #### Send the Light
@@ -732,7 +745,7 @@ The appearing of Christ is our freedom, our rescue, our light, and our joy. We r
 
 Joy to the world; the Lord is come;
 Let Earth receive her King;
-Let ev’ry heart prepare him room,
+Let ev’ry heart prepare him room,<!-- page 339 -->
 And heav’n and nature sing.
 
 ##### VERSE 2
@@ -765,4 +778,4 @@ And wonders of his love.
 May the Lord bless you and keep you; may the Lord cause His face to shine upon you and be gracious to you; may the Lord lift up His countenance toward you and give you peace. Numbers 6:24–26
 
 ![Painting](09 A- Brueghel - 1600 - Adoration of the Magi in the snow)
-Brueghel, Pieter. Adoration of the Magi in the Snow. 1600. Oil on panel, 38 × 56 cm. Museo Correr.
+<!-- page 341 -->Brueghel, Pieter. Adoration of the Magi in the Snow. 1600. Oil on panel, 38 × 56 cm. Museo Correr.

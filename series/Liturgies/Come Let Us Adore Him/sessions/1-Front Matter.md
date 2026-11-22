@@ -1,5 +1,6 @@
 # Front Matter
 
+<!-- page ii -->
 ## Front Matter
 
 ### Series’ Title
@@ -19,6 +20,7 @@ A Table in the Wilderness: Ecclesial Liturgies for Christian Pilgrims
 <br>
 <br>
 
+<!-- page iii -->
 Come, Let Us Adore Him:
 A Community Liturgy for Advent, Nativity, and Epiphany
 <br>
@@ -37,6 +39,7 @@ Noble Imprint
 <br>
 <br>
 
+<!-- page vi -->
 ### Publishing and Licensing
 
 _Come, Let Us Adore Him: A Community Liturgy for Advent, Nativity, and Epiphany_
@@ -57,6 +60,7 @@ Scripture quotations are from the BSB (The Holy Bible, Berean Standard Bible), a
 <br>
 <br>
 
+<!-- page vii -->
 ### Introductory Quotes
 
 Jesus Christ, the Son of God, was born of the Virgin Mary, and became a man. Is he not rightly called Wonderful? Infinite, and an infant—eternal, and yet born of a woman—Almighty, and yet hanging on a woman’s breast—supporting the universe, and yet needing to be carried in a mother’s arms—king of angels, and yet the reputed son of Joseph—heir of all things, and yet the carpenter’s despised son. Wonderful art thou, O Jesus, and that shall be thy name for ever.
@@ -82,6 +86,7 @@ Pouring eyesight on our eyes.
 
 << Charles Wesley, Poetical Works
 
+<!-- page viii -->
 ### Poem
 
 #### To the Place Where All Men Are at Home
@@ -133,6 +138,7 @@ And all men are at home.
 <br>
 <br>
 
+<!-- page ix -->
 for Noble City Church—
 our family of fellow
 sojourners and exiles
@@ -142,4 +148,4 @@ sojourners and exiles
 <br>
 ![Painting](01-A-Bruegel-1566-The-census-at-Bethlehem)
 
-Bruegel, Pieter. The Census at Bethlehem. 1566. Oil on oak panel, 115.5 x 163.5 cm. Oldmasters Museum.
+<!-- page x -->Bruegel, Pieter. The Census at Bethlehem. 1566. Oil on oak panel, 115.5 x 163.5 cm. Oldmasters Museum.

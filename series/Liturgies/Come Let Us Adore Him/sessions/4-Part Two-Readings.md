@@ -1,5 +1,6 @@
 # Part Two: Readings
 
+<!-- page 14 -->
 ## First Week of Advent: Foreshadowings
 
 ### ADVENT PRELUDE
@@ -14,6 +15,7 @@
 
 God promised that deliverance for sinful humanity would come from the seed of a woman. According to God’s promise, and in the fullness of time, a Savior would be born to rescue people from sin, Satan, and death. To prepare people for his coming, God brought about many miraculous births. The children of promise born to these barren and afflicted women were testimonies of God’s grace and prefigurings that foreshadowed the coming of the eternal Son of God, Jesus Christ. During Advent, we live in the shadows, remembering what it was like when God opened up barren wombs, removed despairing shame, heard the cries of the afflicted, and infused hope into a broken and battered humanity. The true stories of these divinely appointed births announce the incarnation of Christ: God’s Son taking on human flesh, being born into the world as a baby. When the promised children of old entered the world, God’s people experienced joy, relief, rescue, life, and grace. What these miracle children did in part, Jesus Christ would do in full when he came into the world, not born of a barren woman, but conceived in a virgin mother.
 
+<!-- page 15 -->
 ### ADVENT PREAMBLE
 
 #### A Celebration of Shadows
@@ -28,7 +30,7 @@ Christmas is a celebration of shadows coming to reality, forms taking on their t
 
 ##### READER
 
-Many have undertaken to compose an account of the things that have been fulfilled among us, just as they were handed down to us by the initial eyewitnesses and servants of the word. Therefore, having carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught. In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah, and whose wife Elizabeth was a daughter of Aaron. Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord. But they had no children, because Elizabeth was barren, and they were both well along in years. One day while Zechariah’s division was on duty and he was serving as priest before God, he was chosen by lot, according to the custom of the priesthood, to enter the temple of the Lord and burn incense. And at the hour of the incense offering, the whole congregation was praying outside. Just then an angel of the Lord appeared to Zechariah, standing at the right side of the altar of incense. When Zechariah saw him, he was startled and gripped with fear. But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John. He will be a joy and delight to you, and many will rejoice at his birth, for he will be great in the sight of the Lord. He shall never take wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb. Many of the sons of Israel he will turn back to the Lord their God. And he will go on before the Lord in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous—to make ready a people prepared for the Lord.” “How can I be sure of this?” Zechariah asked the angel. “I am an old man, and my wife is well along in years.” “I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news. And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.” Meanwhile, the people were waiting for Zechariah and wondering why he took so long in the temple. When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained speechless. And when the days of his service were complete, he returned home. After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared, “The Lord has done this for me. In these days He has shown me favor and taken away my disgrace among the people.” When the time came for Elizabeth to have her child, she gave birth to a son. Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her. On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah. But his mother replied, “No! He shall be called John.” They said to her, “There is no one among your relatives who bears this name.” So they made signs to his father to find out what he wanted to name the child. Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed. Immediately Zechariah’s mouth was opened and his tongue was released, and he began to speak, praising God. All their neighbors were filled with awe, and people throughout the hill country of Judea were talking about these events. And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him. And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel.
+Many have undertaken to compose an account of the things that have been fulfilled among us, just as they were handed down to us by the initial eyewitnesses and servants of the word. Therefore, having carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught. In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah, and whose wife Elizabeth was a daughter of Aaron. Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord. But they had no children, because Elizabeth was barren, and they were both well along in years. One day while Zechariah’s division was on duty and he was serving as priest before God, he was chosen by lot, according to the custom of the priesthood, to enter the temple of the Lord and burn incense. And at the hour of the incense offering, the whole congregation was praying outside. Just then an angel of the Lord appeared to Zechariah, standing at the right side of the altar of incense. When Zechariah saw him, he was startled and gripped with fear. But the angel said to him, “Do not <!-- page 16 -->be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John. He will be a joy and delight to you, and many will rejoice at his birth, for he will be great in the sight of the Lord. He shall never take wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb. Many of the sons of Israel he will turn back to the Lord their God. And he will go on before the Lord in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous—to make ready a people prepared for the Lord.” “How can I be sure of this?” Zechariah asked the angel. “I am an old man, and my wife is well along in years.” “I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news. And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.” Meanwhile, the people were waiting for Zechariah and wondering why he took so long in the temple. When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained speechless. And when the days of his service were complete, he returned home. After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared, “The Lord has done this for me. In these days He has shown me favor and taken away my disgrace among the people.” When the time came for Elizabeth to have her child, she gave birth to a son. Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her. On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah. But his mother replied, “No! He shall be called John.” They said to her, “There is no one among your relatives who bears this name.” So they made signs to his father to find out what he wanted to name the child. Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed. Immediately Zechariah’s mouth was opened and his tongue was released, and he began to speak, praising God. All their neighbors were filled with awe, and people throughout the hill country of Judea were talking about these events. And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him. And <!-- page 17 -->the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel.
 
 << Luke 1:1–25, 57–66, 80
 
@@ -65,7 +67,7 @@ Raise us to thy glorious throne.
 
 #### ALL
 
-We live in a broken world. Sin has ruined God’s good creation and left fertile paradise to be barren and hostile. During this time of Advent, we wait to celebrate the coming of our Lord. His coming brings true peace on earth, bringing God’s world back to order and fullness: removing the reproach of sin, restoring relationship with God, crushing the head of the serpent, and reconciling mankind with one another. Through his miraculous birth, God would bring about an end to human barrenness and exile. The coming of Jesus resulted in a righteous war against violence, injustice, and evil. His humble entrance into this world would upend the kingdoms of this world, level exalted places, disarm spiritual forces, and bring down earthly powers. As we light this candle in our waiting, we declare Jesus as God’s peace on earth.
+We live in a broken world. Sin has ruined God’s good creation and left fertile paradise to be barren and hostile. During this time of Advent, we wait to celebrate the coming of our Lord. His coming brings true peace on earth, bringing God’s world back to order and fullness: removing the reproach of sin, restoring relationship with God, crushing the head of the serpent, and reconciling mankind with one another. Through his miraculous birth, God would bring about an end to human barrenness and exile. The coming of Jesus resulted in a righteous war against violence, <!-- page 18 -->injustice, and evil. His humble entrance into this world would upend the kingdoms of this world, level exalted places, disarm spiritual forces, and bring down earthly powers. As we light this candle in our waiting, we declare Jesus as God’s peace on earth.
 
 *Light the candle.*
 
@@ -87,7 +89,7 @@ Grace and peace to you from God our Father and the Lord Jesus Christ. He has mad
 
 ##### ALL
 
-The Lord brings death and gives life; He brings down to Sheol and raises up. The Lord sends poverty and wealth; He humbles and He exalts. He raises the poor from the dust and lifts the needy from the ash heap. He seats them among princes and bestows on them a throne of honor. For the foundations of the earth are the Lord’s, and upon them He has set the world.
+The Lord brings death and gives life; He brings down to Sheol and raises up. The Lord sends poverty and wealth; He humbles and He exalts. He raises the poor from the dust and lifts the needy from <!-- page 19 -->the ash heap. He seats them among princes and bestows on them a throne of honor. For the foundations of the earth are the Lord’s, and upon them He has set the world.
 
 << 1 Samuel 2:6–8
 
@@ -103,6 +105,7 @@ Now may the God of peace Himself sanctify you completely, and may your entire sp
 
 
 
+<!-- page 21 -->
 ## - First Day of Advent
 
 ### SCRIPTURE READING
@@ -138,6 +141,7 @@ As mild he comes to them,
 As when upon the Virgin’s breast
 He lay at Bethlehem:
 
+<!-- page 22 -->
 #### VERSE 4
 
 As mild to meek-eyed love and faith,
@@ -165,7 +169,7 @@ Be but the veil withdrawn.
 
 #### Ponder the Mystery of His Incarnation
 
-O most sweet Lord Jesus, grant me Your unworthy servant devoutly to ponder the mystery of Your incarnation; to search wisely, to understand sublimely; what is not understood to venerate humbly: and ever to give thanks to You for condescension so great, and love so inestimable. For to contemplate this mystery affords me the greatest delight; and amid all Your other wonders brings me the sweetest savor, touches me most deeply: draws me most mightily, and ravishes my whole spirit within me. Grant me then often to dwell on it: and carefully to consider how it was foreknown and foretold by the holy prophets. The patriarchs give witness of Your incarnation. A splendid witness also to You bears Isaac, the son of Abraham, in the things that befell him. For his birth, foretold by an angel, is a presage of Your nativity: which however far surpasses the manner of birth of all that are born of women. He was brought forth of a barren mother through the promise of an angel: but You, promised from the beginning of the world, in a more ineffable fashion was born of a virgin mother for our salvation. He in his conception gave joy to parents and friends: but You in Your birth did give great joy to angels and men. This very miracle wrought in the womb of old age makes easy of belief the child-bearing of maidenhood. You therefore, Who did perform this in Your servant, could certainly do more in Yourself. For seeing that You are Author of nature, You hold all things under Your power: and You are bound by the law or right of none.
+O most sweet Lord Jesus, grant me Your unworthy servant devoutly to ponder the mystery of Your incarnation; to search wisely, to understand sublimely; what is not understood to venerate humbly: and ever to give thanks to You for condescension so great, and love so inestimable. For to contemplate this mystery affords me the greatest delight; and amid all Your other wonders brings me the sweetest savor, touches me most deeply: draws me most mightily, and ravishes my whole spirit within me. Grant me then often to dwell on it: and carefully to consider how it was foreknown and foretold by the holy prophets. The patriarchs give witness of Your incarnation. A splendid witness also to You bears Isaac, the son of Abraham, in the things that befell him. For his birth, foretold by an angel, is a presage of Your nativity: which however far surpasses the manner of birth of all that are born of women. He was brought forth of a barren mother through the promise of an angel: but You, promised from the beginning of the world, in a more ineffable fashion was born of a virgin mother for our salvation. He in his conception gave joy <!-- page 23 -->to parents and friends: but You in Your birth did give great joy to angels and men. This very miracle wrought in the womb of old age makes easy of belief the child-bearing of maidenhood. You therefore, Who did perform this in Your servant, could certainly do more in Yourself. For seeing that You are Author of nature, You hold all things under Your power: and You are bound by the law or right of none.
 
 << Thomas à Kempis, Incarnation of Christ
 
@@ -197,6 +201,7 @@ The weed not being, I may adore the Wearer.
 
 << Francis Quarles, “On the Infancy of Our Savior”
 
+<!-- page 24 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### To Whom Would We Go
@@ -215,6 +220,7 @@ The world is in want of its fountain; and for it, Lord, as for You, all therein 
 
 
 
+<!-- page 25 -->
 ## - Second Day of Advent
 
 ### SCRIPTURE READING
@@ -236,6 +242,7 @@ The royal Child is born;
 And angel hosts in glad array
 His Advent keep this morn.
 
+<!-- page 26 -->
 #### REFRAIN
 
 Rejoice, rejoice! Th’incarnate Word
@@ -270,7 +277,7 @@ With service undefiled.
 
 #### The Best Way to Reconcile Two Disagreeing Families
 
-Christ is the bridegroom, man’s nature the bride, the conjunction and blessed union of both in one person is his marriage. The best way to reconcile two disagreeing families is to make some marriage between them: even so, the Word became flesh, and dwelt among us in the world that he might hereby make our peace, reconciling God to man and man to God. By this happy match the Son of God is become the Son of Man, even flesh of our flesh, and bone of our bones; and the sons of men are made the sons of God. My sin is his sin, and his righteousness is my righteousness. He who knew no sin, for my sake was made sin; and I, contrariwise, having no good thing, am made the righteousness of God in him: I which am brown by persecution, and black by nature so foul as the sow that walloweth in the mire, through his favour am comely, without spot or wrinkle, so white as the snow, like a lily among thorns, even the fairest among women. This happy marriage is not a marriage, but it makes a merry age, being ‘the consolation of Israel,’ and comfort of Jerusalem’s heart. Indeed, Christ our husband does absent himself from us in his body for a time; but when he did ascend into heaven he took with him our pawn, namely his flesh; and he gave us his pawn, namely, his Spirit, assuring us that we shall one day, when the world is ended, enter with him into the wedding chamber, and there feast with him, and enjoy his blessed company for evermore.
+Christ is the bridegroom, man’s nature the bride, the conjunction and blessed union of both in one person is his marriage. The best way to reconcile two disagreeing families is to make some marriage between them: even so, the Word became flesh, and dwelt among us in the world that he might hereby make our peace, reconciling God to man and man to God. By this happy match the Son of God is become the Son of Man, even flesh of our flesh, and bone of our bones; and the sons of men are made the sons of God. My sin is his sin, and his righteousness is my righteousness. He who knew no sin, for my sake was made sin; and I, contrariwise, having no good thing, am made the righteousness of God in him: I which am brown by persecution, and black by nature so foul as the sow that walloweth in the mire, through his favour am comely, without spot <!-- page 27 -->or wrinkle, so white as the snow, like a lily among thorns, even the fairest among women. This happy marriage is not a marriage, but it makes a merry age, being ‘the consolation of Israel,’ and comfort of Jerusalem’s heart. Indeed, Christ our husband does absent himself from us in his body for a time; but when he did ascend into heaven he took with him our pawn, namely his flesh; and he gave us his pawn, namely, his Spirit, assuring us that we shall one day, when the world is ended, enter with him into the wedding chamber, and there feast with him, and enjoy his blessed company for evermore.
 
 << John Boys, “Christmas Day Morning Prayer”
 
@@ -304,6 +311,7 @@ His little ones came chanting round
   
 << John Keble, “Autumn Buds”
 
+<!-- page 28 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### The Messenger of the Covenant Whom We Delight In
@@ -316,19 +324,20 @@ I believe in the name of the only begotten Son of God, by whom are all things, a
 
 #### Disperse These Clouds of Sins That Stand Between
 
-Return, O great Shepherd of my soul, and with your crook reduce me to your fold; you are my way, conduct me; you are my light, direct me; you are my life, quicken me. Disperse these clouds of sins that stand between your angry face and my benighted soul; remove that cursed bar which my rebellion has set between your deafened ear and my confused prayers; and let your comfortable beams reflect upon me. Leave me not, O God, unto myself; O Lord, forsake me not too long; for in me dwells nothing but despair, and the terrors of hell have taken hold of me. Cast me not away from your presence, and take not your Holy Spirit from me. Remove this heart of stone, and give me, O good God, a heart of flesh, that it may be capable of your mercies, and sensible of thy judgments; plant in my heart a fear of your name, and deliver my soul from carnal security; order my affections according to your will, that I may love what you love, and hate what you hate; kindle my zeal with a coal from your altar, and increase my faith by the assurance of your love. O holy fire, that always burns and never goes out, kindle me! O sacred light, that always shines and is never dark, illuminate me! O sweet Jesus, pierce the marrow of my soul with the shafts of your love, that it may burn and melt, and languish with the only desire of you! Let my soul always desire you, and seek you, and find you, and sweetly rest in you; be in all my thoughts, in all my words, in all my actions; that both my thoughts, my words, and my actions being sanctified by you here, I may be glorified by you hereafter.
+Return, O great Shepherd of my soul, and with your crook reduce me to your fold; you are my way, conduct me; you are my light, direct me; you are my life, quicken me. Disperse these clouds of sins that stand between your angry face and my benighted soul; remove that cursed bar which my rebellion has set between your deafened ear and my confused prayers; and let your comfortable beams reflect upon me. Leave me not, O God, unto myself; O Lord, forsake me not too long; for in me dwells nothing but despair, and the terrors of hell have taken hold of me. Cast me not away from your presence, and take not your Holy Spirit from me. Remove this heart of stone, and give me, O good God, a heart of flesh, that it may be capable of your mercies, and sensible of thy judgments; plant in my heart a fear of your name, and deliver my soul from carnal security; order my affections according to your will, that I may love what you love, and hate what you hate; kindle my zeal with a coal from your altar, and increase my faith by the assurance of your love. O holy fire, that always burns and never <!-- page 29 -->goes out, kindle me! O sacred light, that always shines and is never dark, illuminate me! O sweet Jesus, pierce the marrow of my soul with the shafts of your love, that it may burn and melt, and languish with the only desire of you! Let my soul always desire you, and seek you, and find you, and sweetly rest in you; be in all my thoughts, in all my words, in all my actions; that both my thoughts, my words, and my actions being sanctified by you here, I may be glorified by you hereafter.
 
 << Frances Quarles, *Judgment and Mercy*
 
 
 
+<!-- page 31 -->
 ## - Third Day of Advent
 
 ### SCRIPTURE READING
 
 #### God Has Taken Away My Shame
 
-When the Lord saw that Leah was unloved, He opened her womb; but Rachel was barren. And Leah conceived and gave birth to a son, and she named him Reuben, for she said, “The Lord has seen my affliction. Surely my husband will love me now.” Again she conceived and gave birth to a son, and she said, “Because the Lord has heard that I am unloved, He has given me this son as well.” So she named him Simeon. Once again Leah conceived and gave birth to a son, and she said, “Now at last my husband will become attached to me, because I have borne him three sons.” So he was named Levi. And once more she conceived and gave birth to a son and said, “This time I will praise the Lord.” So she named him Judah. Then Leah stopped having children. When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob. Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?” Then she said, “Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family.” So Rachel gave Jacob her servant Bilhah as a wife, and he slept with her, and Bilhah conceived and bore him a son. Then Rachel said, “God has vindicated me; He has heard my plea and given me a son.” So she named him Dan. And Rachel’s servant Bilhah conceived again and bore Jacob a second son. Then Rachel said, “In my great struggles, I have wrestled with my sister and won.” So she named him Naphtali. When Leah saw that she had stopped having children, she gave her servant Zilpah to Jacob as a wife. And Leah’s servant Zilpah bore Jacob a son. Then Leah said, “How fortunate!” So she named him Gad. When Leah’s servant Zilpah bore Jacob a second son, Leah said, “How happy I am! For the women call me happy.” So she named him Asher. Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah, “Please give me some of your son’s mandrakes.” But Leah replied, “Is it not enough that you have taken away my husband? Now you want to take my son’s mandrakes as well?” “Very well,” said Rachel, “he may sleep with you tonight in exchange for your son’s mandrakes.” When Jacob came in from the field that evening, Leah went out to meet him and said, “You must come with me, for I have hired you with my son’s mandrakes.” So he slept with her that night. And God listened to Leah, and she conceived and bore a fifth son to Jacob. Then Leah said, “God has rewarded me for giving my maidservant to my husband.” So she named him Issachar. Again Leah conceived and bore a sixth son to Jacob. “God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun. After that, Leah gave birth to a daughter and named her Dinah. Then God remembered Rachel. He listened to her and opened her womb, and she conceived and gave birth to a son. “God has taken away my shame,” she said. She named him Joseph, and said, “May the Lord add to me another son.”
+When the Lord saw that Leah was unloved, He opened her womb; but Rachel was barren. And Leah conceived and gave birth to a son, and she named him Reuben, for she said, “The Lord has seen my affliction. Surely my husband will love me now.” Again she conceived and gave birth to a son, and she said, “Because the Lord has heard that I am unloved, He has given me this son as well.” So she named him Simeon. Once again Leah conceived and gave birth to a son, and she said, “Now at last my husband will become attached to me, because I have borne him three sons.” So he was named Levi. And once more she conceived and gave birth to a son and said, “This time I will praise the Lord.” So she named him Judah. Then Leah stopped having children. When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob. Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?” Then she said, “Here is my maidservant Bilhah. Sleep with her, that she may bear children for me, so that through her I too can build a family.” So Rachel gave Jacob her servant Bilhah as a wife, and he slept with her, and Bilhah conceived and bore him a son. Then Rachel said, “God has vindicated me; He has heard my plea and given me a son.” So she named him Dan. And Rachel’s servant Bilhah conceived again and bore Jacob a second son. Then Rachel said, “In my great struggles, I have wrestled with my sister and won.” So she named him Naphtali. When Leah saw that she had stopped having children, she gave her servant Zilpah to Jacob as a wife. And Leah’s servant Zilpah bore Jacob a son. Then Leah said, “How fortunate!” So she named him Gad. When Leah’s servant Zilpah bore Jacob a second son, Leah said, “How happy I am! For the women call me happy.” So she named him Asher. Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah, “Please give me some of your son’s mandrakes.” But Leah replied, “Is it not enough that you have taken away my husband? Now you want to take my son’s <!-- page 32 -->mandrakes as well?” “Very well,” said Rachel, “he may sleep with you tonight in exchange for your son’s mandrakes.” When Jacob came in from the field that evening, Leah went out to meet him and said, “You must come with me, for I have hired you with my son’s mandrakes.” So he slept with her that night. And God listened to Leah, and she conceived and bore a fifth son to Jacob. Then Leah said, “God has rewarded me for giving my maidservant to my husband.” So she named him Issachar. Again Leah conceived and bore a sixth son to Jacob. “God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun. After that, Leah gave birth to a daughter and named her Dinah. Then God remembered Rachel. He listened to her and opened her womb, and she conceived and gave birth to a son. “God has taken away my shame,” she said. She named him Joseph, and said, “May the Lord add to me another son.”
 
 << Genesis 29:31–30:24
 
@@ -358,6 +367,7 @@ To meet your lowly King,
 Nor let your faithless heart despise
 The peace He comes to bring.
 
+<!-- page 33 -->
 ##### VERSE 4
 
 As judge, on clouds of light,
@@ -385,7 +395,7 @@ Through all eternity.
 
 #### That He Might Roll Away That Reproach
 
-The wise God saw this the best way for our redemption that Christ should be incarnate; it was not fit for any to satisfy God’s justice but man; none could do it but God; therefore, Christ being both God and man, he is the fittest to undertake this work of redemption. Christ was born of a woman, that he might roll away that reproach from the woman which she had contracted by being seduced by the serpent. The Holy Ghost having framed Christ in the virgin’s womb, did, in a wonderful manner, unite Christ’s human nature to his divine, and so of both made one person. This is a mystery, which the angels pry into with adoration. It was love in God the Father to send Christ, and love in Christ that he came to be incarnate. Christ is God-man, because he is a lover of man. Christ came out of pity and indulgence to us. Not our deserts, but our misery, made Christ take flesh. Christ’s taking flesh, was a plot of free grace, and a pure design of love. God himself, though Almighty, was overcome with love. Christ incarnate is nothing but love covered with flesh. Christ took our flesh upon him that he might take our sins, and so appease God’s wrath. Christ took our flesh, that he might make the human nature appear lovely to God, and the divine nature appear lovely to man. Christ came to sinful man; man that had defaced his image, abused his love; man who was turned rebel; yet he came to man, resolving to conquer obstinacy with kindness. Behold the love of Christ. He comes to poor sinful man and draws him into his embraces. He came not in the majesty of a king, attended with his life-guard, but he came poor; not like the heir of heaven, but like one of an inferior descent. The place he was born in was poor: not the royal city Jerusalem, but Bethlehem, a poor obscure place. He was born in an inn, and a manger was his cradle, the cobwebs his curtains, the beasts his companions. He came into the world poor. He came that he might take our flesh, and redeem us; that he might instate us into a kingdom. He was poor that he might make us rich. He was born of a virgin that we might be born of God. He took our flesh that he might give us his Spirit. He lay in the manger that we might lie in paradise. He came down from heaven that he might bring us to heaven. And what was all this but love? If our hearts be not rocks, this love of Christ should affect us. Seeing Christ took our flesh, and was born of a virgin, let us labour that he may be spiritually born in our hearts. What will it profit us, that Christ was born into the world, unless he be born in our hearts: that he was united to our nature, unless he be united to our persons?
+The wise God saw this the best way for our redemption that Christ should be incarnate; it was not fit for any to satisfy God’s justice but man; none could do it but God; therefore, Christ being both God and man, he is the fittest to undertake this work of redemption. Christ was born of a woman, that he might roll away that reproach from the woman which she had contracted by being seduced by the serpent. The Holy Ghost having framed Christ in the virgin’s womb, did, in a wonderful manner, unite Christ’s human nature to his divine, and so of both made one person. This is a mystery, which the angels pry into with adoration. It was love in God the Father to send Christ, and love in Christ that he came to be incarnate. Christ is God-man, because he is a lover of man. Christ came out of pity and indulgence to us. Not our deserts, but our misery, made Christ take flesh. Christ’s taking flesh, was a plot of free grace, and a pure design of love. God himself, though Almighty, was overcome with love. Christ incarnate is nothing but love covered with flesh. Christ took our flesh upon him that he might take our sins, and so appease God’s wrath. Christ took our <!-- page 34 -->flesh, that he might make the human nature appear lovely to God, and the divine nature appear lovely to man. Christ came to sinful man; man that had defaced his image, abused his love; man who was turned rebel; yet he came to man, resolving to conquer obstinacy with kindness. Behold the love of Christ. He comes to poor sinful man and draws him into his embraces. He came not in the majesty of a king, attended with his life-guard, but he came poor; not like the heir of heaven, but like one of an inferior descent. The place he was born in was poor: not the royal city Jerusalem, but Bethlehem, a poor obscure place. He was born in an inn, and a manger was his cradle, the cobwebs his curtains, the beasts his companions. He came into the world poor. He came that he might take our flesh, and redeem us; that he might instate us into a kingdom. He was poor that he might make us rich. He was born of a virgin that we might be born of God. He took our flesh that he might give us his Spirit. He lay in the manger that we might lie in paradise. He came down from heaven that he might bring us to heaven. And what was all this but love? If our hearts be not rocks, this love of Christ should affect us. Seeing Christ took our flesh, and was born of a virgin, let us labour that he may be spiritually born in our hearts. What will it profit us, that Christ was born into the world, unless he be born in our hearts: that he was united to our nature, unless he be united to our persons?
 
 << Thomas Watson, *A Body of Practical Divinity*
 
@@ -403,6 +413,7 @@ Dwell in the blissful sound!
 Its influence every fear disarms,
 And spreads sweet comfort round,
 
+<!-- page 35 -->
 Here pardon, life, and joys divine
 In rich effusion flow,
 For guilty rebels lost in sin,
@@ -444,7 +455,7 @@ Thy wonders can display?
 
 #### This Christ Was Made Our Brother
 
-This Christ, the true Son of God, being true God and true man, was made our brother, when, according to the time appointed, he had taken upon him whole man, (that is, consisting of soul and body,) and in one indivisible person united two natures, (yet were not these natures confounded,) that he might restore us, being dead, to life, and make us fellow-heirs with himself. He, taking flesh of the most pure Virgin Mary, the Holy Ghost working together, flesh (I say) sacred by the union of the Godhead, and like unto ours in all things, sin only excepted, (because it behoved our sacrifice to be unspotted,) gave the same flesh to death, for the purgation of all sin. The same Christ, as he is to us the full and perfect hope and trust of our immortality, so he placed his flesh, being raised up from death into heaven, at the right hand of his Almighty Father. This Conqueror, having triumphed over death, sin, and all the infernal devils, sitting as our Captain, Head, and chief High Priest, doth defend and plead our cause continually, till he do reform us to that image after which we were created, and bring us to the fruition of life everlasting. And we look for him to come in the end of the world, a true and upright Judge, and to give sentence upon all flesh, (being first raised up to that judgment,) and to advance the godly above the sky, and to condemn the wicked, both in soul and body, to eternal destruction. Who, as he is the only Mediator, Intercessor, sacrifice, and also our High Priest, Lord, and King; so we do acknowledge, and with the whole heart believe, that he alone is our atonement, redemption, sanctification, expiation, wisdom, protection, and deliverance: simply herein rejecting all means of our life and salvation, beside this Christ alone.
+This Christ, the true Son of God, being true God and true man, was made our brother, when, according to the time appointed, he had taken upon him whole man, (that is, consisting of soul and body,) and in one indivisible person united two natures, (yet were <!-- page 36 -->not these natures confounded,) that he might restore us, being dead, to life, and make us fellow-heirs with himself. He, taking flesh of the most pure Virgin Mary, the Holy Ghost working together, flesh (I say) sacred by the union of the Godhead, and like unto ours in all things, sin only excepted, (because it behoved our sacrifice to be unspotted,) gave the same flesh to death, for the purgation of all sin. The same Christ, as he is to us the full and perfect hope and trust of our immortality, so he placed his flesh, being raised up from death into heaven, at the right hand of his Almighty Father. This Conqueror, having triumphed over death, sin, and all the infernal devils, sitting as our Captain, Head, and chief High Priest, doth defend and plead our cause continually, till he do reform us to that image after which we were created, and bring us to the fruition of life everlasting. And we look for him to come in the end of the world, a true and upright Judge, and to give sentence upon all flesh, (being first raised up to that judgment,) and to advance the godly above the sky, and to condemn the wicked, both in soul and body, to eternal destruction. Who, as he is the only Mediator, Intercessor, sacrifice, and also our High Priest, Lord, and King; so we do acknowledge, and with the whole heart believe, that he alone is our atonement, redemption, sanctification, expiation, wisdom, protection, and deliverance: simply herein rejecting all means of our life and salvation, beside this Christ alone.
 
 << First Helvetic Confession
 
@@ -452,19 +463,20 @@ This Christ, the true Son of God, being true God and true man, was made our brot
 
 #### We Live in the Cloudless Noontide
 
-Almighty God, who can speak like you? There is music in your voice and there is infinite tenderness in every tone which you breathe into the listening heart. Thy words are full of hope: you bring a great brightness to shine upon our dark life, and in many a prophetic word you cause us to forecast the morning and rejoice in the broad light of boundless day. You have never withheld the word of hope from the race of mankind. In the hour of sadness and intolerable depression you caused your voice to be heard, promising that the light shall come and that the glory of the Lord shall fill the earth. We bless you that we have seen the fulfillment of your promises: we live in the cloudless noontide: Jesus Christ your Son, our Saviour, has come in all the plenitude of his redeeming power, and after his descent upon us there can be no more night on earth. May we receive him as men receive the light who have been long waiting for it: worn out, wearied, and sleep-bound, we rejoice when you come to us with rest, security, and peace. We rejoice when the light calls us to renewed duty and to rekindled hope. May the Son of the Father, the Prince of Peace, the King of kings and Lord of lords be born again in our hearts every day. May our breasts be the Bethlehem of his incarnation, and may our life be the sphere of his illuminating and redeeming ministry. Evermore draw us away with infinite constraint of love from the foolish delusion that we could have saved ourselves, bind us with ever deepening and ever purifying loyalty to Jesus Christ, our only Saviour, infinite in his redeeming power. We need this gospel all our life long, but specially in hours of agony when our sin is heavy upon us and our remorse doth eat as a canker and our conscience is as a flaming fire within us, and all life gathers itself up into an unanswerable accusation. Then may we hide ourselves in your wounded side, Messiah, Son of God. Pity us in our distresses, laugh not at us from the heavens derisively when we try to climb and then ignominiously fall, but lift us with strong and healing hands and set us where you would have us be, and not our will but yours be done, again and again we say. We have no better prayer: it is not ours, it is your Son’s. Amen.
+Almighty God, who can speak like you? There is music in your voice and there is infinite tenderness in every tone which you breathe into the listening heart. Thy words are full of hope: you bring a great brightness to shine upon our dark life, and in many a prophetic word you cause us to forecast the morning and rejoice in the broad light of boundless day. You have never withheld the word of hope from the race of mankind. In the hour of sadness and intolerable depression you caused your voice to be heard, promising that the light shall come and that the glory of the Lord shall fill the earth. We bless you that we have seen the fulfillment of your promises: we live in the cloudless noontide: Jesus Christ your <!-- page 37 -->Son, our Saviour, has come in all the plenitude of his redeeming power, and after his descent upon us there can be no more night on earth. May we receive him as men receive the light who have been long waiting for it: worn out, wearied, and sleep-bound, we rejoice when you come to us with rest, security, and peace. We rejoice when the light calls us to renewed duty and to rekindled hope. May the Son of the Father, the Prince of Peace, the King of kings and Lord of lords be born again in our hearts every day. May our breasts be the Bethlehem of his incarnation, and may our life be the sphere of his illuminating and redeeming ministry. Evermore draw us away with infinite constraint of love from the foolish delusion that we could have saved ourselves, bind us with ever deepening and ever purifying loyalty to Jesus Christ, our only Saviour, infinite in his redeeming power. We need this gospel all our life long, but specially in hours of agony when our sin is heavy upon us and our remorse doth eat as a canker and our conscience is as a flaming fire within us, and all life gathers itself up into an unanswerable accusation. Then may we hide ourselves in your wounded side, Messiah, Son of God. Pity us in our distresses, laugh not at us from the heavens derisively when we try to climb and then ignominiously fall, but lift us with strong and healing hands and set us where you would have us be, and not our will but yours be done, again and again we say. We have no better prayer: it is not ours, it is your Son’s. Amen.
 
 << Joseph Parker, *These Sayings of Mine*
 
 
 
+<!-- page 39 -->
 ## - Fourth Day of Advent
 
 ### SCRIPTURE READING
 
 #### He Is Dedicated to the Lord
 
-Now there was a man named Elkanah who was from Ramathaim-zophim in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. He had two wives, one named Hannah and the other Peninnah. And Peninnah had children, but Hannah had none. Year after year Elkanah would go up from his city to worship and sacrifice to the Lord of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the Lord. And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters. But to Hannah he would give a double portion, for he loved her even though the Lord had closed her womb. Because the Lord had closed Hannah’s womb, her rival would provoke her and taunt her viciously. And this went on year after year. Whenever Hannah went up to the house of the Lord, her rival taunted her until she wept and would not eat. “Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?” So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the Lord. In her bitter distress, Hannah prayed to the Lord and wept with many tears. And she made a vow, pleading, “O Lord of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the Lord all the days of his life, and no razor shall ever come over his head.” As Hannah kept on praying before the Lord, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman oppressed in spirit. I have not had any wine or strong drink, but I have poured out my soul before the Lord. Do not take your servant for a wicked woman; for all this time I have been praying out of the depth of my anguish and grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began eating again, and her face was no longer downcast. The next morning Elkanah and Hannah got up early to bow in worship before the Lord, and then returned home to Ramah. And Elkanah had relations with his wife Hannah, and the Lord remembered her. So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the Lord.” Then Elkanah and all his house went up to make the annual sacrifice to the Lord and to fulfill his vow, but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the Lord and to stay there permanently.” “Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the Lord confirm His word.” So Hannah stayed and nursed her son until she had weaned him. Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the Lord at Shiloh. And when they had slaughtered the bull, they brought the boy to Eli. “Please, my lord,” said Hannah, “as surely as you live, my lord, I am the woman who stood here beside you praying to the Lord. I prayed for this boy, and since the Lord has granted me what I asked of Him, I now dedicate the boy to the Lord. For as long as he lives, he is dedicated to the Lord.”
+Now there was a man named Elkanah who was from Ramathaim-zophim in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. He had two wives, one named Hannah and the other Peninnah. And Peninnah had children, but Hannah had none. Year after year Elkanah would go up from his city to worship and sacrifice to the Lord of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the Lord. And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters. But to Hannah he would give a double portion, for he loved her even though the Lord had closed her womb. Because the Lord had closed Hannah’s womb, her rival would provoke her and taunt her viciously. And this went on year after year. Whenever Hannah went up to the house of the Lord, her rival taunted her until she wept and would not eat. “Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?” So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the Lord. In her bitter distress, Hannah prayed to the Lord and wept with many tears. And she made a vow, pleading, “O Lord of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the Lord all the days of his life, and no razor shall ever come over his head.” As Hannah kept on praying before the Lord, Eli watched her mouth. Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk and said to her, “How long will you be drunk? Put away your wine!” “No, my lord,” Hannah replied. “I am a woman oppressed in spirit. I have not had any wine or strong drink, but I have poured out my soul before the Lord. Do not take your servant for a wicked woman; for all this time I have been praying out of the depth of my anguish and <!-- page 40 -->grief.” “Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.” “May your maidservant find favor with you,” said Hannah. Then she went on her way, and she began eating again, and her face was no longer downcast. The next morning Elkanah and Hannah got up early to bow in worship before the Lord, and then returned home to Ramah. And Elkanah had relations with his wife Hannah, and the Lord remembered her. So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the Lord.” Then Elkanah and all his house went up to make the annual sacrifice to the Lord and to fulfill his vow, but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the Lord and to stay there permanently.” “Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the Lord confirm His word.” So Hannah stayed and nursed her son until she had weaned him. Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the Lord at Shiloh. And when they had slaughtered the bull, they brought the boy to Eli. “Please, my lord,” said Hannah, “as surely as you live, my lord, I am the woman who stood here beside you praying to the Lord. I prayed for this boy, and since the Lord has granted me what I asked of Him, I now dedicate the boy to the Lord. For as long as he lives, he is dedicated to the Lord.”
 
 << 1 Samuel 1:1–28
 
@@ -482,7 +494,7 @@ And every voice a song.
 ##### VERSE 2
 
 On Him the Spirit largely poured
-Exerts its sacred fire;
+Exerts its sacred fire;<!-- page 41 -->
 Wisdom and might, and zeal and love
 His holy breast inspire.
 
@@ -519,7 +531,7 @@ With Thy beloved Name.
 
 #### An End of the Woful Captivity
 
-This happy day made an end of the woful Captivity of the sons of men under sin and Satan. This is the greatest strain of joy. I would have your Soul transported as it were with an Ecstasy of devotion, as if Zeal and the Love of Jesus Christ put you in a dream; imagine strongly that this day is not the Anniversary to be celebrated after many years, but the very day itself of Christ’s Nativity. Cannot you think that this Church is the Cratch that received the Babe? Cannot you think yourselves to be those Shepherds whom the Angels sent of the good Errand, to look out a Saviour? Who had not rather be one of them Shepherds than any King in the world? Then strongly possess your souls that you see the Son of God; that you stand over him and behold him, as he is wrapped in swaddling cloths, lying in a Manger. O that we could so deeply persuade our Soul that this Text is no report, but a vision before our eyes. So we must do, or else it is not full Christmas joy, it is no true Angelical devotion. Mary laid the Child in a Manger. O the wonderful humiliation of the eternal God to be such a Son. I know not in what thing poverty may better boast and glory than in the rags of Christ. His want is no comfort to them that are rich; his mean apparel is no comfort to our costly garments: but this is a comfort to them that want clothing to cover their Nakedness, that Christ himself was wrapt in swaddling cloths. He triumphed over poverty in this poor and base Array, as truly and verily as he triumphed over death. Now death was conquered by Christ, not that we should not die at all, but that we should vanquish death by the Resurrection: So Poverty was thus led captive, and overcome. So this wrapping and swaddling of his Arms and Legs was but a representation how he should yield up all his Limbs to be bound unto the Cross. O behold this thing, you that think it no Christmas without bravery upon your backs, these were our Savior's clothes for this good time, he had no other gaudy Garments; but take up the fringe of your own Coats, look upon the Ornaments you wear, and tell me what Saviour it is you imitate; you lay all you can upon your backs to celebrate his first coming into the world, which was in baseness and poverty. I pray you what would you be willing to put on when you shall meet him at his second coming in the clouds? Learn from hence to condescend unto the Humility of Christ if you mean to ascend unto his glory.
+This happy day made an end of the woful Captivity of the sons of men under sin and Satan. This is the greatest strain of joy. I would have your Soul transported as it were with an Ecstasy of devotion, as if Zeal and the Love of Jesus Christ put you in a dream; imagine strongly that this day is not the Anniversary to be celebrated after many years, but the very day itself of Christ’s Nativity. Cannot you think that this Church is the Cratch that received the Babe? Cannot you think yourselves to be those Shepherds whom the Angels sent of the good Errand, to look out a Saviour? Who had not rather be one of them Shepherds than any King in the world? Then strongly possess your souls that you see the Son of God; that you stand over <!-- page 42 -->him and behold him, as he is wrapped in swaddling cloths, lying in a Manger. O that we could so deeply persuade our Soul that this Text is no report, but a vision before our eyes. So we must do, or else it is not full Christmas joy, it is no true Angelical devotion. Mary laid the Child in a Manger. O the wonderful humiliation of the eternal God to be such a Son. I know not in what thing poverty may better boast and glory than in the rags of Christ. His want is no comfort to them that are rich; his mean apparel is no comfort to our costly garments: but this is a comfort to them that want clothing to cover their Nakedness, that Christ himself was wrapt in swaddling cloths. He triumphed over poverty in this poor and base Array, as truly and verily as he triumphed over death. Now death was conquered by Christ, not that we should not die at all, but that we should vanquish death by the Resurrection: So Poverty was thus led captive, and overcome. So this wrapping and swaddling of his Arms and Legs was but a representation how he should yield up all his Limbs to be bound unto the Cross. O behold this thing, you that think it no Christmas without bravery upon your backs, these were our Savior's clothes for this good time, he had no other gaudy Garments; but take up the fringe of your own Coats, look upon the Ornaments you wear, and tell me what Saviour it is you imitate; you lay all you can upon your backs to celebrate his first coming into the world, which was in baseness and poverty. I pray you what would you be willing to put on when you shall meet him at his second coming in the clouds? Learn from hence to condescend unto the Humility of Christ if you mean to ascend unto his glory.
 
 << John Hacket, “The First Sermon Upon the Incarnation”
 
@@ -534,7 +546,7 @@ Weeping as a stranger;
 If a King indeed art thou,
 Where is all thy glory now?
 Where thy halls of splendor?
-Here is nought but poverty,
+Here is nought but poverty,<!-- page 43 -->
 Barren need and penury,
 Little child so tender.
 
@@ -573,6 +585,7 @@ He is ordained of God the Father, and anointed with the Holy Ghost, to be our ch
 
 ### REFLECTIVE PRAYER
 
+<!-- page 44 -->
 #### O Word Conceived and Man Contemplated
 
 Great and holy and purifier of all the world—for I will speak to You as to a living person—O Word of God and Light and Life and Wisdom and Might—for I rejoice in all Your names—O Offspring and Expression and Signet of the Great Mind; O Word conceived and Man contemplated, Who bears all things, binding them by the Word of Your power; receive this discourse, not now as firstfruits, but perhaps as the completion of my offerings, a thanksgiving, and at the same time a supplication, that we may suffer no evil beyond those necessary and sacred cares in which our life has been passed; and stay the tyranny of the body over us; (You see, O Lord, how great it is and how it bows me down) or Your own sentence, if we are to be condemned by You. But if we are to be released, in accordance with our desire, and be received into the Heavenly Tabernacle, there too it may be we shall offer You acceptable Sacrifices upon Your Altar, to Father and Word and Holy Ghost; for to You belong all glory and honor and might, world without end. Amen.
@@ -581,13 +594,14 @@ Great and holy and purifier of all the world—for I will speak to You as to a l
 
 
 
+<!-- page 45 -->
 ## - Fifth Day of Advent
 
 ### SCRIPTURE READING
 
 #### You Are Barren But You Will Conceive
 
-Again the Israelites did evil in the sight of the Lord, so He delivered them into the hand of the Philistines for forty years. Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children. The angel of the Lord appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son. Now please be careful not to drink wine or strong drink, and not to eat anything unclean. For behold, you will conceive and give birth to a son. And no razor shall come over his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.” So the woman went and told her husband, “A man of God came to me. His appearance was like the angel of God, exceedingly awesome. I did not ask him where he came from, and he did not tell me his name. But he said to me, ‘Behold, you will conceive and give birth to a son. Now, therefore, do not drink wine or strong drink, and do not eat anything unclean, because the boy will be a Nazirite to God from the womb until the day of his death.’” Then Manoah prayed to the Lord, “Please, O Lord, let the man of God You sent us come to us again to teach us how to raise the boy who is to be born.” And God listened to the voice of Manoah, and the angel of God returned to the woman as she was sitting in the field; but her husband Manoah was not with her. The woman ran quickly to tell her husband, “Behold, the man who came to me the other day has reappeared!” So Manoah got up and followed his wife. When he came to the man, he asked, “Are you the man who spoke to my wife?” “I am,” he said. Then Manoah asked, “When your words come to pass, what will be the boy’s rule of life and mission?” So the angel of the Lord answered Manoah, “Your wife is to do everything I told her. She must not eat anything that comes from the vine, nor drink any wine or strong drink, nor eat anything unclean. She must do everything I have commanded her.” “Please stay here,” Manoah said to the angel of the Lord, “and we will prepare a young goat for you.” And the angel of the Lord replied, “Even if I stay, I will not eat your food. But if you prepare a burnt offering, offer it to the Lord.” For Manoah did not know that it was the angel of the Lord. Then Manoah said to the angel of the Lord, “What is your name, so that we may honor you when your word comes to pass?” “Why do you ask my name,” said the angel of the Lord, “since it is beyond comprehension?” Then Manoah took a young goat and a grain offering and offered them on a rock to the Lord. And as Manoah and his wife looked on, the Lord did a marvelous thing. When the flame went up from the altar to the sky, the angel of the Lord ascended in the flame. When Manoah and his wife saw this, they fell facedown to the ground. And when the angel of the Lord did not appear again to Manoah and his wife, Manoah realized that it had been the angel of the Lord. “We are going to die,” he said to his wife, “for we have seen God!” But his wife replied, “If the Lord had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.” So the woman gave birth to a son and named him Samson. The boy grew, and the Lord blessed him. And the Spirit of the Lord began to stir him at Mahaneh-dan, between Zorah and Eshtaol.
+Again the Israelites did evil in the sight of the Lord, so He delivered them into the hand of the Philistines for forty years. Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children. The angel of the Lord appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son. Now please be careful not to drink wine or strong drink, and not to eat anything unclean. For behold, you will conceive and give birth to a son. And no razor shall come over his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.” So the woman went and told her husband, “A man of God came to me. His appearance was like the angel of God, exceedingly awesome. I did not ask him where he came from, and he did not tell me his name. But he said to me, ‘Behold, you will conceive and give birth to a son. Now, therefore, do not drink wine or strong drink, and do not eat anything unclean, because the boy will be a Nazirite to God from the womb until the day of his death.’” Then Manoah prayed to the Lord, “Please, O Lord, let the man of God You sent us come to us again to teach us how to raise the boy who is to be born.” And God listened to the voice of Manoah, and the angel of God returned to the woman as she was sitting in the field; but her husband Manoah was not with her. The woman ran quickly to tell her husband, “Behold, the man who came to me the other day has reappeared!” So Manoah got up and followed his wife. When he came to the man, he asked, “Are you the man who spoke to my wife?” “I am,” he said. Then Manoah asked, “When your words come to pass, what will be the boy’s rule of life and mission?” So the angel of the Lord answered Manoah, “Your wife is to do everything I told her. She must not eat anything that comes from the vine, nor drink any wine or strong drink, nor eat anything unclean. She must do everything I have commanded her.” “Please stay here,” Manoah said to the angel of the Lord, “and we will prepare a young goat for you.” And the angel of the Lord replied, <!-- page 46 -->“Even if I stay, I will not eat your food. But if you prepare a burnt offering, offer it to the Lord.” For Manoah did not know that it was the angel of the Lord. Then Manoah said to the angel of the Lord, “What is your name, so that we may honor you when your word comes to pass?” “Why do you ask my name,” said the angel of the Lord, “since it is beyond comprehension?” Then Manoah took a young goat and a grain offering and offered them on a rock to the Lord. And as Manoah and his wife looked on, the Lord did a marvelous thing. When the flame went up from the altar to the sky, the angel of the Lord ascended in the flame. When Manoah and his wife saw this, they fell facedown to the ground. And when the angel of the Lord did not appear again to Manoah and his wife, Manoah realized that it had been the angel of the Lord. “We are going to die,” he said to his wife, “for we have seen God!” But his wife replied, “If the Lord had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.” So the woman gave birth to a son and named him Samson. The boy grew, and the Lord blessed him. And the Spirit of the Lord began to stir him at Mahaneh-dan, between Zorah and Eshtaol.
 
 << Judges 13:1–25
 
@@ -610,7 +624,7 @@ When half-gone was the night.
 Isaiah ’twas foretold it,
 The Rose I have in mind:
 With Mary we behold it,
-The virgin mother kind.
+The virgin mother kind.<!-- page 47 -->
 To show God’s love aright
 She bore to men a Savior
 When half-gone was the night.
@@ -631,7 +645,7 @@ And lightens every load
 
 #### Mercies Long Waited for Often Prove Signal Mercies
 
-His parents had been long childless. Many eminent persons were born of mothers that had been kept a great while in the want of the blessing of children, as Isaac, Joseph, Samuel, and John the Baptist, that the mercy might be the more acceptable when it did come. Sing, O barren! thou that didst not bear. Mercies long waited for often prove signal mercies, and it is made to appear that they were worth waiting for, and by them others may be encouraged to continue their hope in God’s mercy. The glad tidings brought to his mother, that she should have a son. The messenger was an angel of the Lord, yet appearing as a man, with the aspect and garb of a prophet, or man of God. And this angel was the Lord himself, that is, the Word of the Lord, who was to be the Messiah, for his name is called Wonderful, and Jehovah, The great Redeemer did in a particular manner concern himself about this typical redeemer. It was not so much for the sake of Manoah and his wife, obscure Danites, that this extraordinary message was sent, but for Israel’s sake, whose deliverer he was to be, and not only so but for the Messiah’s sake, whose type he was to be, and whose birth must be foretold by an angel, as his was. The angel, in the message he delivers, takes notice of her affliction. God often sends in comfort to his people very seasonably, when they feel most from their troubles. He assures her that she should conceive and bear a son and repeats the assurance. To show the power of a divine word, the strongest man that ever was was a child of promise, as Isaac, born by force and virtue of a promise, and faith in that promise. He appoints that the child should be a Nazarite from his birth. This deliverer of Israel must be in the strictest manner devoted to God and an example of holiness. Now herein Samson was a type of Christ, As a Nazarite to God, a Nazarite from the womb. For, though our Lord Jesus was not a Nazarite himself, yet he was typified by the Nazarites, as being perfectly pure from all sin, not so much as conceived in it, and entirely devoted to his Father’s honor. Of the Jewish church, as concerning the flesh, Christ came, because to them pertained the promise of him. By virtue of that promise, he long lay as it were in the womb of that church, which for many ages was pregnant of him, and therefore, like Samson’s mother, during that pregnancy was made a holy nation and a peculiar people, and strictly forbidden to touch any unclean thing for his sake, who in the fulness of time was to come from them. As a deliverer of Israel; for he is Jesus a Saviour, who saves his people from their sins. But with this difference: Samson did only begin to deliver Israel (David was afterwards raised up to complete the destruction of the Philistines), but our Lord Jesus is both Samson and David too, both the author and finisher of our faith.
+His parents had been long childless. Many eminent persons were born of mothers that had been kept a great while in the want of the blessing of children, as Isaac, Joseph, Samuel, and John the Baptist, that the mercy might be the more acceptable when it did come. Sing, O barren! thou that didst not bear. Mercies long waited for often prove signal mercies, and it is made to appear that they were worth waiting for, and by them others may be encouraged to continue their hope in God’s mercy. The glad tidings brought to his mother, that she should have a son. The messenger was an angel of the Lord, yet appearing as a man, with the aspect and garb of a prophet, or man of God. And this angel was the Lord himself, that is, the Word of the Lord, who was to be the Messiah, for his name is called Wonderful, and Jehovah, The great Redeemer did in a particular manner concern himself about this typical redeemer. It was not so much for the sake of Manoah and his wife, obscure Danites, that this extraordinary message was sent, but for Israel’s sake, whose deliverer he was to be, and not only so but for the Messiah’s sake, whose type he was to be, and whose birth must be foretold by an angel, as his was. The angel, in the message he delivers, takes notice of her affliction. God often sends in comfort to his people very seasonably, when they feel most from their troubles. He assures her that she should conceive and bear a son and repeats the assurance. To show the power of a divine word, the <!-- page 48 -->strongest man that ever was was a child of promise, as Isaac, born by force and virtue of a promise, and faith in that promise. He appoints that the child should be a Nazarite from his birth. This deliverer of Israel must be in the strictest manner devoted to God and an example of holiness. Now herein Samson was a type of Christ, As a Nazarite to God, a Nazarite from the womb. For, though our Lord Jesus was not a Nazarite himself, yet he was typified by the Nazarites, as being perfectly pure from all sin, not so much as conceived in it, and entirely devoted to his Father’s honor. Of the Jewish church, as concerning the flesh, Christ came, because to them pertained the promise of him. By virtue of that promise, he long lay as it were in the womb of that church, which for many ages was pregnant of him, and therefore, like Samson’s mother, during that pregnancy was made a holy nation and a peculiar people, and strictly forbidden to touch any unclean thing for his sake, who in the fulness of time was to come from them. As a deliverer of Israel; for he is Jesus a Saviour, who saves his people from their sins. But with this difference: Samson did only begin to deliver Israel (David was afterwards raised up to complete the destruction of the Philistines), but our Lord Jesus is both Samson and David too, both the author and finisher of our faith.
 
 << Matthew Henry, *Commentary*
 
@@ -654,6 +668,7 @@ The promise to the fathers given,
 And let thy Kingdom come, dear Lord,
 To light our souls with flame from heaven.
 
+<!-- page 49 -->
 Turn, turn to us thy countenance,
 Who humbly bow before thy throne,
 That heaven, our sweet inheritance,
@@ -673,19 +688,20 @@ We, however, as we indeed always have done (and more especially since we have be
 
 #### Open Now That Promised Well of Life
 
-O merciful Lord God, You are Alpha and Omega, the beginning and the end; You say it is done, of things that are yet to come, so faithful and true are Your promises. You have promised by Your own word out of Your own mouth, that unto him that is athirst, You will give of the fountain of the water of life freely. O Lord, I thirst, I faint, I languish, I long for one drop of mercy: as the hart pants for the water-brooks, so pants my soul after You, O God, and after the yearning bowels of thy compassion: had I now in possession the glory, the wealth, and pleasures of the whole world; nay, had I ten thousand lives, joyfully would I lay them down, to have this poor trembling soul received into the bleeding arms of my blessed Redeemer. O Lord my spirit within me is melted into tears of blood, my heart is shivered into pieces; out of the very place of dragons and shadow of death, do I lift up my thoughts heavy and sad before thee. The remembrance of my former vanities and pollutions, is a vomit to my soul, and it is sorely wounded with the grievous representation thereof; the very flames of hell, Lord, the fury of thy just wrath, the scorchings of my own conscience, have so wasted and parched mine heart, that my thirst is insatiable, my bowels are hot within me, my desire after Jesus Christ, pardon and grace, is greedy as the grave; the coals thereof are coals of fire, which have a most vehement flame; and, Lord, in thy blessed book You call and cry Ho, every one that thirsts, come to the waters. In that great day of the feast, You stood, and cried with Your own mouth. If any man thirsts, let him come unto me and drink; and these are Your own words, Those who hunger and thirst after righteousness, shall be filled. I challenge You, Lord, in this my most extreme thirst after Your own blessed self, and spiritual life in You, by that word and by that promise which You have made, that You make it good to me, that lies grovelling in the dust, and trembling, at Your feet: Oh! open now that promised well of life, for I must drink, or else I die.
+O merciful Lord God, You are Alpha and Omega, the beginning and the end; You say it is done, of things that are yet to come, so faithful and true are Your promises. You have promised by Your own word out of Your own mouth, that unto him that is athirst, You will give of the fountain of the water of life freely. O Lord, I thirst, I faint, I languish, I long for one drop of mercy: as the hart pants for the water-brooks, so pants my soul after You, O God, and after the yearning bowels of thy compassion: had I now in <!-- page 50 -->possession the glory, the wealth, and pleasures of the whole world; nay, had I ten thousand lives, joyfully would I lay them down, to have this poor trembling soul received into the bleeding arms of my blessed Redeemer. O Lord my spirit within me is melted into tears of blood, my heart is shivered into pieces; out of the very place of dragons and shadow of death, do I lift up my thoughts heavy and sad before thee. The remembrance of my former vanities and pollutions, is a vomit to my soul, and it is sorely wounded with the grievous representation thereof; the very flames of hell, Lord, the fury of thy just wrath, the scorchings of my own conscience, have so wasted and parched mine heart, that my thirst is insatiable, my bowels are hot within me, my desire after Jesus Christ, pardon and grace, is greedy as the grave; the coals thereof are coals of fire, which have a most vehement flame; and, Lord, in thy blessed book You call and cry Ho, every one that thirsts, come to the waters. In that great day of the feast, You stood, and cried with Your own mouth. If any man thirsts, let him come unto me and drink; and these are Your own words, Those who hunger and thirst after righteousness, shall be filled. I challenge You, Lord, in this my most extreme thirst after Your own blessed self, and spiritual life in You, by that word and by that promise which You have made, that You make it good to me, that lies grovelling in the dust, and trembling, at Your feet: Oh! open now that promised well of life, for I must drink, or else I die.
 
 << Isaac Ambrose, *The First Thing*
 
 
 
+<!-- page 51 -->
 ## - Sixth Day of Advent
 
 ### SCRIPTURE READING
 
 #### Is All Well With You
 
-One day Elisha went to Shunem, and a prominent woman who lived there persuaded him to have a meal. So whenever he would pass by, he would stop there to eat. Then the woman said to her husband, “Behold, now I know that the one who often comes our way is a holy man of God. Please let us make a small room upstairs and put in it a bed, a table, a chair, and a lamp for him. Then when he comes to us, he can stay there.” One day Elisha came to visit and went to his upper room to lie down. And he said to Gehazi his servant, “Call the Shunammite woman.” And when he had called her, she stood before him, and Elisha said to Gehazi, “Now tell her, ‘Look, you have gone to all this trouble for us. What can we do for you? Can we speak on your behalf to the king or the commander of the army?’” “I have a home among my own people,” she replied. So he asked, “Then what should be done for her?” “Well, she has no son,” Gehazi replied, “and her husband is old.” “Call her,” said Elisha. So Gehazi called her, and she stood in the doorway. And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God. But the woman did conceive, and at that time the next year she gave birth to a son, just as Elisha had told her. And the child grew, and one day he went out to his father, who was with the harvesters. “My head! My head!” he complained to his father. So his father told a servant, “Carry him to his mother.” After the servant had picked him up and carried him to his mother, the boy sat on her lap until noon, and then he died. And she went up and laid him on the bed of the man of God. Then she shut the door and went out. And the woman called her husband and said, “Please send me one of the servants and one of the donkeys, that I may go quickly to the man of God and return.” “Why would you go to him today?” he replied. “It is not a New Moon or a Sabbath.” “Everything is all right,” she said. Then she saddled the donkey and told her servant, “Drive onward; do not slow the pace for me unless I tell you.” So she set out and went to the man of God at Mount Carmel. When the man of God saw her at a distance, he said to his servant Gehazi, “Look, there is the Shunammite woman. Please run out now to meet her and ask, ‘Are you all right? Is your husband all right? Is your child all right?’” And she answered, “Everything is all right.” When she reached the man of God at the mountain, she clung to his feet. Gehazi came over to push her away, but the man of God said, “Leave her alone, for her soul is in deep distress, and the Lord has hidden it from me and has not told me.” Then she said, “Did I ask you for a son, my lord? Didn’t I say, ‘Do not deceive me?’” So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, and go! If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Then lay my staff on the boy’s face.” And the mother of the boy said, “As surely as the Lord lives and as you yourself live, I will not leave you.” So he got up and followed her. Gehazi went on ahead of them and laid the staff on the boy’s face, but there was no sound or response. So he went back to meet Elisha and told him, “The boy has not awakened.” When Elisha reached the house, there was the boy lying dead on his bed. So he went in, closed the door behind the two of them, and prayed to the Lord. Then Elisha got on the bed and lay on the boy, mouth to mouth, eye to eye, and hand to hand. As he stretched himself out over him, the boy’s body became warm. Elisha turned away and paced back and forth across the room. Then he got on the bed and stretched himself out over the boy again, and the boy sneezed seven times and opened his eyes. Elisha summoned Gehazi and said, “Call the Shunammite woman.” So he called her and she came. Then Elisha said, “Pick up your son.” She came in, fell at his feet, and bowed to the ground. Then she picked up her son and went out.
+One day Elisha went to Shunem, and a prominent woman who lived there persuaded him to have a meal. So whenever he would pass by, he would stop there to eat. Then the woman said to her husband, “Behold, now I know that the one who often comes our way is a holy man of God. Please let us make a small room upstairs and put in it a bed, a table, a chair, and a lamp for him. Then when he comes to us, he can stay there.” One day Elisha came to visit and went to his upper room to lie down. And he said to Gehazi his servant, “Call the Shunammite woman.” And when he had called her, she stood before him, and Elisha said to Gehazi, “Now tell her, ‘Look, you have gone to all this trouble for us. What can we do for you? Can we speak on your behalf to the king or the commander of the army?’” “I have a home among my own people,” she replied. So he asked, “Then what should be done for her?” “Well, she has no son,” Gehazi replied, “and her husband is old.” “Call her,” said Elisha. So Gehazi called her, and she stood in the doorway. And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God. But the woman did conceive, and at that time the next year she gave birth to a son, just as Elisha had told her. And the child grew, and one day he went out to his father, who was with the harvesters. “My head! My head!” he complained to his father. So his father told a servant, “Carry him to his mother.” After the servant had picked him up and carried him to his mother, the boy sat on her lap until noon, and then he died. And she went up and laid him on the bed of the man of God. Then she shut the door and went out. And the woman called her husband and said, “Please send me one of the servants and one of the donkeys, that I may go quickly to the man of God and return.” “Why would you go to him today?” he replied. “It is not a New Moon or a Sabbath.” “Everything is all right,” she said. Then she saddled the donkey and told her servant, “Drive onward; do not slow the pace for me unless I tell you.” So she set out and went to the man of God at Mount Carmel. When the man of God saw her at a distance, he <!-- page 52 -->said to his servant Gehazi, “Look, there is the Shunammite woman. Please run out now to meet her and ask, ‘Are you all right? Is your husband all right? Is your child all right?’” And she answered, “Everything is all right.” When she reached the man of God at the mountain, she clung to his feet. Gehazi came over to push her away, but the man of God said, “Leave her alone, for her soul is in deep distress, and the Lord has hidden it from me and has not told me.” Then she said, “Did I ask you for a son, my lord? Didn’t I say, ‘Do not deceive me?’” So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, and go! If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Then lay my staff on the boy’s face.” And the mother of the boy said, “As surely as the Lord lives and as you yourself live, I will not leave you.” So he got up and followed her. Gehazi went on ahead of them and laid the staff on the boy’s face, but there was no sound or response. So he went back to meet Elisha and told him, “The boy has not awakened.” When Elisha reached the house, there was the boy lying dead on his bed. So he went in, closed the door behind the two of them, and prayed to the Lord. Then Elisha got on the bed and lay on the boy, mouth to mouth, eye to eye, and hand to hand. As he stretched himself out over him, the boy’s body became warm. Elisha turned away and paced back and forth across the room. Then he got on the bed and stretched himself out over the boy again, and the boy sneezed seven times and opened his eyes. Elisha summoned Gehazi and said, “Call the Shunammite woman.” So he called her and she came. Then Elisha said, “Pick up your son.” She came in, fell at his feet, and bowed to the ground. Then she picked up her son and went out.
 
 << 2 Kings 4:8–37
 
@@ -698,7 +714,7 @@ One day Elisha went to Shunem, and a prominent woman who lived there persuaded h
 Jesus, Jesus, only Jesus
 Can my heartfelt longing still.
 Lo, I pledge myself to Jesus,
-What He wills alone to will,
+What He wills alone to will,<!-- page 53 -->
 For my heart, which He hath filled,
 Ever cries, “Lord, as Thou wilt.”
 
@@ -744,7 +760,7 @@ As Thou wilt, Lord, as Thou wilt.
 
 #### High Thoughts About Christ—He Is All
 
-True Christians have high thoughts of Christ. They see in Him a wondrous Person, far above all other beings in His nature,—a Person who is at one and the same time perfect God, mighty to save, and perfect Man, able to feel.—They see in Him an All-powerful Redeemer, who has paid their countless debts to God, and delivered their souls from guilt and hell.—They see in Him an Almighty Friend, who left heaven for them, lived for them, died for them, rose again for them,—that He might save them for evermore.—They see in Him an Almighty Physician, who washed away their sins in His own blood, put His own Spirit in their hearts, delivered them from the power of sin, and gave them power to become God’s children.—Happy are they who have such thoughts! True Christians have trustful thoughts of Christ. They daily lean the weight of their souls upon Him by faith, for pardon and peace. They daily commit the care of their souls to Him, as a man commits a treasure to a safe keeper. They daily cling to Him by faith, as a child in a crowd clings to its mother’s hand. They look to Him daily for mercy, grace, comfort, help, and strength, as Israel looked to the pillar of cloud and fire in the wilderness for guidance. Christ is the Rock under their feet, and the staff in their hands, their ark and their city of refuge, their sun and their shield, their bread and their medicine, their health and their light, their fountain and their shelter, their portion and their home, their door and their ladder, their root and their head, their advocate and their physician, their captain and their elder brother, their life, their hope, and their all. Happy are they who have such thoughts! Reader, have you? True Christians have hopeful thoughts of Christ. They expect to receive far more from Him one day than they have ever received yet. They hope that they shall be kept to the end, and never perish. But this is not all. They look forward to Christ’s second coming and expect that then they shall see far more than they have seen, and enjoy far more than they have yet enjoyed. They have the earnest of an inheritance now in the Spirit dwelling in their heart. But they hope for a far fuller possession when this world has passed away. They have hopeful thoughts of Christ’s second Advent, of their own resurrection from the grave of their reunion with all the saints who have gone before them, of eternal blessedness in Christ’s kingdom. Happy are they who have such thoughts! They sweeten life, and lift men over many cares. Reader, have you such thoughts? Reader, thoughts such as these are the property of all true Christians. Reader, this Christmas may possibly be your last. Who can tell but you may never live to see another December come round? Who can tell but your place may be empty, when the family party next Christmas is gathered together? Do not, I entreat you, put off my question or turn away from it. It can do you no harm to look at it and consider it. What do you think of Christ?
+True Christians have high thoughts of Christ. They see in Him a wondrous Person, far above all other beings in His nature,—a Person who is at one and the same time perfect God, mighty to <!-- page 54 -->save, and perfect Man, able to feel.—They see in Him an All-powerful Redeemer, who has paid their countless debts to God, and delivered their souls from guilt and hell.—They see in Him an Almighty Friend, who left heaven for them, lived for them, died for them, rose again for them,—that He might save them for evermore.—They see in Him an Almighty Physician, who washed away their sins in His own blood, put His own Spirit in their hearts, delivered them from the power of sin, and gave them power to become God’s children.—Happy are they who have such thoughts! True Christians have trustful thoughts of Christ. They daily lean the weight of their souls upon Him by faith, for pardon and peace. They daily commit the care of their souls to Him, as a man commits a treasure to a safe keeper. They daily cling to Him by faith, as a child in a crowd clings to its mother’s hand. They look to Him daily for mercy, grace, comfort, help, and strength, as Israel looked to the pillar of cloud and fire in the wilderness for guidance. Christ is the Rock under their feet, and the staff in their hands, their ark and their city of refuge, their sun and their shield, their bread and their medicine, their health and their light, their fountain and their shelter, their portion and their home, their door and their ladder, their root and their head, their advocate and their physician, their captain and their elder brother, their life, their hope, and their all. Happy are they who have such thoughts! Reader, have you? True Christians have hopeful thoughts of Christ. They expect to receive far more from Him one day than they have ever received yet. They hope that they shall be kept to the end, and never perish. But this is not all. They look forward to Christ’s second coming and expect that then they shall see far more than they have seen, and enjoy far more than they have yet enjoyed. They have the earnest of an inheritance now in the Spirit dwelling in their heart. But they hope for a far fuller possession when this world has passed away. They have hopeful thoughts of Christ’s second Advent, of their own resurrection from the grave of their reunion with all the saints who have gone before them, of eternal blessedness in Christ’s kingdom. Happy are they who have such thoughts! They sweeten life, and lift men over many cares. Reader, have you such thoughts? Reader, thoughts such as these are the property of all true Christians. Reader, this Christmas may possibly be your last. Who can tell but you may never live to see another December come round? Who can tell but your place may be empty, when the family <!-- page 55 -->party next Christmas is gathered together? Do not, I entreat you, put off my question or turn away from it. It can do you no harm to look at it and consider it. What do you think of Christ?
 
 << J. C. Ryle, *What Think Ye of Christ?*
 
@@ -777,7 +793,7 @@ Thou with thy Saviour art in endless bliss.
 
 #### That the Pride of Man Might Be Exposed and Cured
 
-For we could not be redeemed, even through the one Mediator between God and men, the man Christ Jesus, if He were not also God. Now when Adam was created, he, being a righteous man, had no need of a mediator. But when sin had placed a wide gulf between God and the human race, it was expedient that a Mediator, who alone of the human race was born, lived, and died without sin, should reconcile us to God, and procure even for our bodies a resurrection to eternal life, in order that the pride of man might be exposed and cured through the humility of God; that man might be shown how far he had departed from God, when God became incarnate to bring him back; that an example might be set to disobedient man in the life of obedience of the God-Man; that the fountain of grace might be opened by the Only-begotten taking upon Himself the form of a servant, a form which had no antecedent merit; that an earnest of that resurrection of the body which is promised to the redeemed might be given in the resurrection of the Redeemer; that the devil might be subdued by the same nature which it was his boast to have deceived, and yet man not glorified, lest pride should again spring up; and, in fine, with a view to all the advantages which the thoughtful can perceive and describe, or perceive without being able to describe, as flowing from the transcendent mystery of the person of the Mediator.
+For we could not be redeemed, even through the one Mediator between God and men, the man Christ Jesus, if He were not also God. Now when Adam was created, he, being a righteous man, had no need of a mediator. But when sin had placed a wide gulf between God and the human race, it was expedient that a Mediator, who alone of the human race was born, lived, and died without sin, should reconcile us to God, and procure even for our bodies a resurrection to eternal life, in order that the pride of man might be <!-- page 56 -->exposed and cured through the humility of God; that man might be shown how far he had departed from God, when God became incarnate to bring him back; that an example might be set to disobedient man in the life of obedience of the God-Man; that the fountain of grace might be opened by the Only-begotten taking upon Himself the form of a servant, a form which had no antecedent merit; that an earnest of that resurrection of the body which is promised to the redeemed might be given in the resurrection of the Redeemer; that the devil might be subdued by the same nature which it was his boast to have deceived, and yet man not glorified, lest pride should again spring up; and, in fine, with a view to all the advantages which the thoughtful can perceive and describe, or perceive without being able to describe, as flowing from the transcendent mystery of the person of the Mediator.
 
 << Augustine, *The Enchiridion*
 
@@ -791,13 +807,14 @@ Hasten, oh Father, the coming of our Lord Jesus Christ; make me ever mindful of 
 
 
 
+<!-- page 57 -->
 ## - Seventh Day of Advent
 
 ### SCRIPTURE READING
 
 #### More Are the Children of the Desolate Woman
 
-“Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the Lord. “Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep. For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities. Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood. For your husband is your Maker—the Lord of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth. For the Lord has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God. “For a brief moment I forsook you, but with great compassion I will bring you back. In a surge of anger I hid My face from you for a moment, but with everlasting kindness I will have compassion on you,” says the Lord your Redeemer. “For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you. Though the mountains may be removed and the hills may be shaken, My loving devotion will not depart from you, and My covenant of peace will not be broken,” says the Lord, who has compassion on you. “O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires. I will make your pinnacles of rubies, your gates of sparkling jewels, and all your walls of precious stones. Then all your sons will be taught by the Lord, and great will be their prosperity. In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you. If anyone attacks you, it is not from Me; whoever assails you will fall before you. Behold, I have created the craftsman who fans the coals into flame and forges a weapon fit for its task; and I have created the destroyer to wreak havoc. No weapon formed against you shall prosper, and you will refute every tongue that accuses you. This is the heritage of the servants of the Lord, and their vindication is from Me,” declares the Lord.
+“Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the Lord. “Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep. For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities. Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood. For your husband is your Maker—the Lord of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth. For the Lord has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God. “For a brief moment I forsook you, but with great compassion I will bring you back. In a surge of anger I hid My face from you for a moment, but with everlasting kindness I will have compassion on you,” says the Lord your Redeemer. “For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you. Though the mountains may be removed and the hills may be shaken, My loving devotion will not depart from you, and My covenant of peace will not be broken,” says the Lord, who has compassion on you. “O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires. I will make your pinnacles of rubies, your gates of sparkling jewels, and all your walls of precious stones. Then all your sons will be taught by the Lord, and great will be their prosperity. In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you. If anyone attacks you, it is not from Me; whoever assails you will fall before you. Behold, I have created the craftsman who fans the coals into flame and forges a weapon <!-- page 58 -->fit for its task; and I have created the destroyer to wreak havoc. No weapon formed against you shall prosper, and you will refute every tongue that accuses you. This is the heritage of the servants of the Lord, and their vindication is from Me,” declares the Lord.
 
 << Isaiah 54:1–17
 
@@ -838,6 +855,7 @@ shall peace, the herald, go,
 and righteousness, in fountains,
 from hill to valley flow.
 
+<!-- page 59 -->
 ##### VERSE 4
 
 To him shall prayer unceasing
@@ -855,7 +873,7 @@ that name to us is love.
 
 #### Worshippers From Every Nation, People, and Place
 
-Moreover, God had previously foretold that it would happen, that as the ages passed on, and the end of the world was near at hand, God would gather to Himself from every nation, and people, and place, worshippers much better in obedience and stronger in faith, who would draw from the divine gift that mercy which the Jews had received and lost by despising their religious ordinances. Therefore of this mercy and grace the Word and Son of God is sent as the dispenser and master, who by all the prophets of old was announced as the enlightener and teacher of the human race. He is the power of God, He is the reason, He is His wisdom and glory; He enters into a virgin; by the holy Spirit, He is endued with flesh; God is mingled with man. This is our God, this is Christ, who, as the mediator of the two, puts on man that He may lead them to the Father. What man is, Christ was willing to be, that man also may be what Christ is. And the Jews knew that Christ was to come, for He was always being announced to them by the warnings of prophets. But His advent being signified to them as twofold— the one which should discharge the office and example of a man, the other which should avow Him as God—they did not understand the first advent which preceded, as being hidden in His passion, but believe in the one only which will be manifest in power. But that the people of the Jews could not understand this, was the desert of their sins. They were so punished by their blindness of wisdom and intelligence, that they who were unworthy of life, had life before their eyes, and saw it not.
+Moreover, God had previously foretold that it would happen, that as the ages passed on, and the end of the world was near at hand, God would gather to Himself from every nation, and people, and place, worshippers much better in obedience and stronger in faith, who would draw from the divine gift that mercy which the Jews had received and lost by despising their religious ordinances. Therefore of this mercy and grace the Word and Son of God is sent as the dispenser and master, who by all the prophets of old was announced as the enlightener and teacher of the human race. He is the power of God, He is the reason, He is His wisdom and glory; He enters into a virgin; by the holy Spirit, He is endued with flesh; God is mingled with man. This is our God, this is Christ, who, as the mediator of the two, puts on man that He may lead them to the Father. What man is, Christ was willing to be, that man also may be what Christ is. And the Jews knew that Christ was to come, for He was always being announced to them by the warnings of prophets. But His advent being signified to them as twofold— the one which should discharge the office and example of a man, the other which should avow Him as God—they did not understand the first advent which preceded, as being hidden in His passion, but believe in the one only which will be manifest in power. But that the people of the Jews could not understand this, was the desert of their sins. They were so punished by their <!-- page 60 -->blindness of wisdom and intelligence, that they who were unworthy of life, had life before their eyes, and saw it not.
 
 << Cyprian, “On the Vanity of Idols”
 
@@ -898,6 +916,7 @@ God, the shaper of the earth,
 Crown and glory of the Angels,
 Comes, a Babe of human birth.
 
+<!-- page 61 -->
 In his span the heavens are measured,
 On his palm he holds the sun,
 Yet in swathing bands enfolded,
@@ -933,6 +952,7 @@ The Son, which is the Word of the Father, begotten from everlasting of the Fathe
 
 << Thirty-Nine Articles
 
+<!-- page 62 -->
 ### REFLECTIVE PRAYER
 
 #### Fill My Heart With the Love of Christ
@@ -942,10 +962,11 @@ Lord, I desire by a true and lively faith to close with Jesus Christ, and consen
 << Matthew Henry, *Forms of Prayer*
 
 ![Painting](03 A- Memling - 1480 - Annunciation)
-Memling, Hans. Annunciation. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan Museum of Art.
+<!-- page 63 -->Memling, Hans. Annunciation. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan Museum of Art.
 
 
 
+<!-- page 66 -->
 ## Second Week of Advent: Foretellings
 
 ### ADVENT PRELUDE
@@ -960,6 +981,7 @@ Memling, Hans. Annunciation. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan Mu
 
 God did not leave the coming of Christ unanounced. Across the ages, God spoke of the coming of the Messiah. Through prophetic oracles, divine words, and heaven-sent revelations, God gave advanced notice that his deliverer would come to earth to rescue his rebellious people and restore his ruined creation. God foretold the coming of his Son, Jesus Christ. When the eternal Son of God took on human flesh, he fulfilled many ancient promises, showing God’s word as trustworthy and true. Christ fulfilling God’s promises is the fullness of joy for the human heart. During Advent, we live in anticipation, remembering what it was like to look ahead into the future for God’s promises to become reality. People anchored to God’s promises are a people of hopeful waiting, eager expectation, and undying anticipation. Divine promises give certainty regardless of impediments. God’s covenant people are a community of pilgrims—faithful sojourners ever in transit who are daily guided and guarded by God’s word. God will accomplish what he announced. God will bring the fullness of his plan to reality. Eternal decrees will unfold in earthly reality. Prophetic oracles will come to fruition in human history. This season, we remember what it is like to look ahead in hope of God’s promise for divine salvation to come in human form. 
 
+<!-- page 67 -->
 ### ADVENT PREAMBLE
 
 #### A Celebration of Foretellings
@@ -974,7 +996,7 @@ Christmas is a celebration of foretellings fulfilled, decrees accomplished, insp
 
 #### READER
 
-In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth, to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary. The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.” Mary was greatly troubled at his words and wondered what kind of greeting this might be. So the angel told her, “Do not be afraid, Mary, for you have found favor with God. Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus. He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever. His kingdom will never end!” “How can this be,” Mary asked the angel, “since I am a virgin?” The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the Holy One to be born will be called the Son of God. Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month. For no word from God will ever fail.” “I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her. In those days Mary got ready and hurried to a town in the hill country of Judah, where she entered the home of Zechariah and greeted Elizabeth. When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb! And why am I so honored, that the mother of my Lord should come to me? For as soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy. Blessed is she who has believed that the Lord’s word to her will be fulfilled. Mary stayed with Elizabeth for about three months and then returned home.
+In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth, to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary. The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.” Mary was greatly troubled at his words and wondered what kind of greeting this might be. So the angel told her, “Do not be afraid, Mary, for you have found favor with God. Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus. He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David, and He will reign over the house of Jacob forever. His kingdom will never end!” “How can this be,” Mary asked the angel, “since I am a virgin?” The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the Holy One to be born will be called the Son of God. Look, even Elizabeth your relative has conceived a son in her old age, and she <!-- page 68 -->who was called barren is in her sixth month. For no word from God will ever fail.” “I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her. In those days Mary got ready and hurried to a town in the hill country of Judah, where she entered the home of Zechariah and greeted Elizabeth. When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb! And why am I so honored, that the mother of my Lord should come to me? For as soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy. Blessed is she who has believed that the Lord’s word to her will be fulfilled. Mary stayed with Elizabeth for about three months and then returned home.
 
 << Luke 1:26–45, 56
 
@@ -1004,6 +1026,7 @@ Proclaim the holy birth,
 And praises sing to God the King,
 And peace to men on earth.
 
+<!-- page 69 -->
 ##### VERSE 3
 
 How silently, how silently,
@@ -1034,13 +1057,14 @@ Our Lord Emmanuel!
 
 The world is filled with despair. Sin has gripped God’s good world and subjected it to pain, sorrow, and heartache. Gloom and misfortune loom heavily on the cosmos and in the human heart. During this time of Advent, a time of anticipation, we look forward to the coming of Jesus Christ. His coming brings hope to a world in bondage and misery: salvation to the lost, relief from the curse, universal justice, forgiveness of sin, and assurance of a bright and eternal future. His remarkable birth fulfilled ancient promises, dispelling the desperation and despondency that menaced mankind. Christ’s coming brought bright prospects to a despairing world: light penetrating the darkness, brilliant dawn banishing the deep night, unashamed truth triumphing over twisted lie, and eternal life conquering fiendish death. As we light this candle in our waiting, we declare Jesus as God’s hope for humanity.
 
+<!-- page 70 -->
 ### BIBLICAL MEDLEY
 
 #### The God of Hope
 
 ##### LEADER
 
-Where then is my hope? Who can see any hope for me? What strength do I have, that I should still hope? What is my future, that I should be patient? Justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom. Like the blind, we feel our way along the wall, groping like those without eyes. We stumble at midday as in the twilight; among the vigorous we are like the dead. We all growl like bears and moan like doves. We hope for justice, but find none, for salvation, but it is far from us. We are foreigners and strangers in Your presence, as were all our forefathers. Our days on earth are like a shadow, without hope. No king is saved by his vast army; no warrior is delivered by his great strength. A horse is a vain hope for salvation; even its great strength cannot save. I rise before dawn and cry for help; in Your word I have put my hope. Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God And now, O Lord, for what do I wait? My hope is in You. You are my hiding place and my shield; I put my hope in Your word. I wait for the Lord; my soul does wait, and in His word I put my hope. With awesome deeds of righteousness You answer us, O God of our salvation, the hope of all the ends of the earth and of the farthest seas. Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope. The glorious riches of this mystery is Christ in you, the hope of glory. We who have fled to take hold of the hope set before us may be strongly encouraged. We have this hope as an anchor for the soul, firm and secure. To this end we labor and strive, because we have set our hope on the living God, who is the Savior of everyone, and especially of those who believe. Be strong and courageous, all you who hope in the Lord. Be joyful in hope, patient in affliction, persistent in prayer. Now may our Lord Jesus Christ Himself and God our Father, who by grace has loved us and given us eternal comfort and good hope, encourage your hearts and strengthen you in every good word and deed.
+Where then is my hope? Who can see any hope for me? What strength do I have, that I should still hope? What is my future, that I should be patient? Justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom. Like the blind, we feel our way along the wall, groping like those without eyes. We stumble at midday as in the twilight; among the vigorous we are like the dead. We all growl like bears and moan like doves. We hope for justice, but find none, for salvation, but it is far from us. We are foreigners and strangers in Your presence, as were all our forefathers. Our days on earth are like a shadow, without hope. No king is saved by his vast army; no warrior is delivered by his great strength. A horse is a vain hope for salvation; even its great strength cannot save. I rise before dawn and cry for help; in Your word I have put my hope. Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God And now, O Lord, for what do I wait? My hope is in You. You are my hiding place and my shield; I put my hope in Your word. I wait for the Lord; my soul does wait, and in His word I put my hope. With awesome deeds of righteousness You answer us, O God of our salvation, the hope of all the ends of the earth and of the farthest seas. Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope. The glorious riches of this mystery is Christ in you, the hope of glory. We who have fled to take hold of the hope set before us may be strongly encouraged. We have this hope as an anchor for the soul, firm and secure. To this end we labor and strive, because we have set our hope on the living God, who is the Savior of everyone, and especially of those who believe. Be strong and courageous, all you who hope in the Lord. Be joyful in hope, patient in affliction, persistent in prayer. Now may our Lord Jesus Christ Himself and God our Father, who by grace has loved us <!-- page 71 -->and given us eternal comfort and good hope, encourage your hearts and strengthen you in every good word and deed.
 
 << Job 17:15; Job 6:11; Isaiah 59:9–11; 1 Chronicles 29:15; 
 << Psalm 33:16–17; Psalm 119:147; Psalm 42:11; Psalm 39:7; 
@@ -1070,6 +1094,7 @@ Now may the God of hope fill you with all joy and peace as you believe in Him, s
 
 
 
+<!-- page 73 -->
 ## - Eighth Day of Advent
 
 ### SCRIPTURE READING
@@ -1094,7 +1119,7 @@ Then, lowly bending, wait thy word of peace.
 ##### VERSE 2
 
 Grant us thy peace upon our homeward way;
-With thee began, with thee shall end the day.
+With thee began, with thee shall end the day.<!-- page 74 -->
 Guard thou the lips from sin, the hearts from shame,
 That in this house have called upon thy name.
 
@@ -1118,7 +1143,7 @@ Call us, O Lord, to thine eternal peace.
 
 #### Now That He Has Come to Our Realm
 
-For the Word, perceiving that no otherwise could the corruption of men be undone save by death as a necessary condition, while it was impossible for the Word to suffer death, being immortal, and Son of the Father; to this end He takes to Himself a body capable of death, that it, by partaking of the Word Who is above all, might be worthy to die in the stead of all, and might, because of the Word which was come to dwell in it, remain incorruptible, and that thenceforth corruption might be stayed from all by the Grace of the Resurrection. Whence, by offering unto death the body He Himself had taken, as an offering and sacrifice free from any stain, straightway He put away death from all His peers by the offering of an equivalent. For being over all, the Word of God naturally by offering His own temple and corporeal instrument for the life of all satisfied the debt by His death. And thus He, the incorruptible Son of God, being conjoined with all by a like nature, naturally clothed all with incorruption, by the promise of the resurrection. For the actual corruption in death has no longer holding-ground against men, by reason of the Word, which by His one body has come to dwell among them. And like as when a great king has entered into some large city and taken up his abode in one of the houses there, such city is at all events held worthy of high honor, nor does any enemy or bandit any longer descend upon it and subject it; but, on the contrary, it is thought entitled to all care, because of the king’s having taken up his residence in a single house there: so, too, has it been with the Monarch of all. For now that He has come to our realm, and taken up his abode in one body among His peers, henceforth the whole conspiracy of the enemy against mankind is checked, and the corruption of death which before was prevailing against them is done away. For the race of men had gone to ruin, had not the Lord and Saviour of all, the Son of God, come among us to meet the end of death.
+For the Word, perceiving that no otherwise could the corruption of men be undone save by death as a necessary condition, while it was impossible for the Word to suffer death, being immortal, and Son of the Father; to this end He takes to Himself a body capable of death, that it, by partaking of the Word Who is above all, might be worthy to die in the stead of all, and might, because of the Word which was come to dwell in it, remain incorruptible, and that thenceforth corruption might be stayed from all by the Grace of the Resurrection. Whence, by offering unto death the body He Himself had taken, as an offering and sacrifice free from any stain, straightway He put away death from all His peers by the offering of an equivalent. For being over all, the Word of God naturally by offering His own temple and corporeal instrument for the life of all satisfied the debt by His death. And thus He, the incorruptible Son of God, being conjoined with all by a like nature, naturally clothed all with incorruption, by the promise of the resurrection. For the actual corruption in death has no longer holding-ground against men, by reason of the Word, which by His one body has come to dwell among them. And like as when a great king has entered into some large city and taken up his abode in one of the houses there, such city is at all events held worthy of high honor, <!-- page 75 -->nor does any enemy or bandit any longer descend upon it and subject it; but, on the contrary, it is thought entitled to all care, because of the king’s having taken up his residence in a single house there: so, too, has it been with the Monarch of all. For now that He has come to our realm, and taken up his abode in one body among His peers, henceforth the whole conspiracy of the enemy against mankind is checked, and the corruption of death which before was prevailing against them is done away. For the race of men had gone to ruin, had not the Lord and Saviour of all, the Son of God, come among us to meet the end of death.
 
 << Athanasius of Alexandria, On the Incarnation of the Word
 
@@ -1151,6 +1176,7 @@ shall come, and all shall frame
 to bow them low before thee, Lord,
 and glorify thy Name.
 
+<!-- page 76 -->
 For great thou art, and wonders great
 by thy strong hand are done:
 thou in thy everlasting seat
@@ -1170,12 +1196,13 @@ We, then, following the holy Fathers, all with one consent, teach men to confess
 
 #### We Know Your Grace, O Lord Jesus Christ
 
-O great and glorious Redeemer, who is Wonderful, Counsellor, the Mighty God, the Everlasting Father, the Prince of peace, we praise you, we bless you, we worship you, we glorify you, we give thanks to you for your great glory, O Lord God, Lamb of God, the only begotten Son, Jesus Christ, King of kings, and Lord of Lords, Immanuel, God with us. But chiefly at this time we adore you for leaving the glory which you had with the Father before the world began. We know your grace, O Lord Jesus Christ, that, though you were rich, yet for our sakes you did become poor, that we through your poverty might be made rich. O Son of David, have mercy upon us. You, who did come that we might have life, and might have it more abundantly, be gracious unto us. You who were called Jesus, that you might save your people from their sins, save us, and help us, we humbly beseech you, O Lord. Give unto us grace, Almighty God, that we may cast away the works of darkness, and put upon us the armor of light, now in the time of this mortal life, in which your Son, Jesus Christ, came to visit us in great humility.
+O great and glorious Redeemer, who is Wonderful, Counsellor, the Mighty God, the Everlasting Father, the Prince of peace, we praise you, we bless you, we worship you, we glorify you, we give thanks to you for your great glory, O Lord God, Lamb of God, the only begotten Son, Jesus Christ, King of kings, and Lord of Lords, Immanuel, God with us. But chiefly at this time we adore you for <!-- page 77 -->leaving the glory which you had with the Father before the world began. We know your grace, O Lord Jesus Christ, that, though you were rich, yet for our sakes you did become poor, that we through your poverty might be made rich. O Son of David, have mercy upon us. You, who did come that we might have life, and might have it more abundantly, be gracious unto us. You who were called Jesus, that you might save your people from their sins, save us, and help us, we humbly beseech you, O Lord. Give unto us grace, Almighty God, that we may cast away the works of darkness, and put upon us the armor of light, now in the time of this mortal life, in which your Son, Jesus Christ, came to visit us in great humility.
 
 << Benjamin Kurtz, *Lutheran Prayer Book*
 
 
 
+<!-- page 79 -->
 ## - Ninth Day of Advent
 
 ### SCRIPTURE READING
@@ -1204,6 +1231,7 @@ far beyond the seraph’s thought,
 are you then so mean and lowly
 as unheeded prophets thought?
 
+<!-- page 80 -->
 ##### VERSE 3
 
 Oh, the magnitude of meekness!
@@ -1225,7 +1253,7 @@ of the very world you made.
 #### Become a Bethlehem Fitted to Receive Our Lord
 
 
-Jesus Christ, the Son of God, is born in Bethlehem of Judah. What heart is so stony as not to be softened at these words? What soul is not melted at this voice of her Beloved? What announcement could be sweeter? What intelligence more enrapturing? Was its like ever heard before? Or when did the world ever receive such tidings? Jesus Christ, the Son of God, is born in Bethlehem of Judah. O short word, telling of the Eternal Word abbreviated for us! O word full of heavenly delights! The heart is oppressed by its mellifluous sweetness, and longs to pour forth its redundant riches, but words refuse their service. So overpowering is the music of this short speech that it loses melody if one iota is changed. Jesus Christ, the Son of God, is born in Bethlehem of Judah. O Nativity of spotless sanctity! O birth honourable for the world, birth pleasing and welcome to men, because of the magnificence of the benefit it bestows; birth incomprehensible to the angels, by reason of the depth and sacredness of the mystery! In all its circumstances it is wonderful because of its singular excellence and novelty. Its precedent has not been known, nor has its like ever followed. O birth alone without sorrow, alone without shame, free from corruption, not unlocking, but consecrating the temple of the Virgin’s womb! O Nativity above nature, yet for the sake of nature! Surpassing it by the excellence of the miracle, repairing it by the virtue of the mystery! The Virgin brings forth. The Virgin remains a virgin. Who is not filled with astonishment? The Son of the Most High is born. The Son, begotten of God before all ages, is Incarnate! The Word is become an Infant! Who can sufficiently admire? And it is not a needless Nativity, a superfluous condescension of Infinite Majesty. Jesus Christ, the Son of God, is born in Bethlehem of Judah. Awake, you who lie in the dust—awake and give praise. Behold, the Lord comes with salvation. He comes with salvation, He comes with unction, He comes with glory. Jesus cannot come without salvation, Christ cannot come without unction, nor the Son of God without glory. For He Himself is salvation, He is unction, He is glory. Happy the soul who has tasted this fruit of salvation. Take courage, you who were lost: Jesus comes to seek and save that which was lost. You sick, return to health: Christ comes to heal the contrite of heart with the unction of His mercy. Rejoice, all you who desire great things: the Son of God comes down to you that He may make you the co-heirs of His kingdom. I beseech you, then, O Lord, heal me, and I shall be healed; save me, and I shall be saved; glorify me, and I shall be glorious. Then indeed shall my soul bless the Lord, and all that is within me praise His Holy Name, when He shall have been merciful to my iniquities, have healed my infirmities, and have filled my desire with good things. Remember, too, that it is in Bethlehem of Judah that Jesus is born; and be very careful lest you fail to be found there, lest He fail to be received by you. If, moreover, you live by faith, and have no need to weep because you have forgotten to eat your bread, then, indeed, you have become a Bethlehem fitted to receive our Lord.
+Jesus Christ, the Son of God, is born in Bethlehem of Judah. What heart is so stony as not to be softened at these words? What soul is not melted at this voice of her Beloved? What announcement could be sweeter? What intelligence more enrapturing? Was its like ever heard before? Or when did the world ever receive such tidings? Jesus Christ, the Son of God, is born in Bethlehem of Judah. O short word, telling of the Eternal Word abbreviated for us! O word full of heavenly delights! The heart is oppressed by its mellifluous sweetness, and longs to pour forth its redundant riches, but words refuse their service. So overpowering is the music of this short speech that it loses melody if one iota is changed. Jesus Christ, the Son of God, is born in Bethlehem of Judah. O Nativity of spotless sanctity! O birth honourable for the world, birth pleasing and welcome to men, because of the magnificence of the benefit it bestows; birth incomprehensible to the angels, by reason of the depth and sacredness of the mystery! In all its circumstances it is wonderful because of its singular excellence and novelty. Its precedent has not been known, nor has its like ever followed. O birth alone without sorrow, alone without shame, free from corruption, not unlocking, but consecrating the temple of the Virgin’s womb! O Nativity above nature, yet for the sake of nature! Surpassing it by the excellence of the miracle, repairing it by the virtue of the mystery! The Virgin brings forth. The Virgin remains a virgin. Who is not filled with astonishment? The Son of the Most <!-- page 81 -->High is born. The Son, begotten of God before all ages, is Incarnate! The Word is become an Infant! Who can sufficiently admire? And it is not a needless Nativity, a superfluous condescension of Infinite Majesty. Jesus Christ, the Son of God, is born in Bethlehem of Judah. Awake, you who lie in the dust—awake and give praise. Behold, the Lord comes with salvation. He comes with salvation, He comes with unction, He comes with glory. Jesus cannot come without salvation, Christ cannot come without unction, nor the Son of God without glory. For He Himself is salvation, He is unction, He is glory. Happy the soul who has tasted this fruit of salvation. Take courage, you who were lost: Jesus comes to seek and save that which was lost. You sick, return to health: Christ comes to heal the contrite of heart with the unction of His mercy. Rejoice, all you who desire great things: the Son of God comes down to you that He may make you the co-heirs of His kingdom. I beseech you, then, O Lord, heal me, and I shall be healed; save me, and I shall be saved; glorify me, and I shall be glorious. Then indeed shall my soul bless the Lord, and all that is within me praise His Holy Name, when He shall have been merciful to my iniquities, have healed my infirmities, and have filled my desire with good things. Remember, too, that it is in Bethlehem of Judah that Jesus is born; and be very careful lest you fail to be found there, lest He fail to be received by you. If, moreover, you live by faith, and have no need to weep because you have forgotten to eat your bread, then, indeed, you have become a Bethlehem fitted to receive our Lord.
 
 << Bernard of Clairvaux, “On the Joy His Birth Should Inspire”
 
@@ -1242,6 +1270,7 @@ Didst stoop to redeem a lost race,
 Once more to Thy creatures return,
 And reign in Thy kingdom of grace.
 
+<!-- page 82 -->
 When Thou in our flesh didst appear,
 All nature acknowledged Thy birth;
 Arose the acceptable year,
@@ -1280,6 +1309,7 @@ And love with a passion like Thine.
 
 << Charles Wesley, "Hymn XVIII"
 
+<!-- page 83 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### Our Lord Jesus Christ Is God and Man
@@ -1298,6 +1328,7 @@ Father, our hearts we lift up to your gracious throne, And bless you for the pre
 
 
 
+<!-- page 85 -->
 ## - Tenth Day of Advent
 
 ### SCRIPTURE READING
@@ -1326,6 +1357,7 @@ And praises throng to crown his head.
 His name like sweet perfume shall rise
 With every morning sacrifice.
 
+<!-- page 86 -->
 ##### VERSE 3
 
 People and realms of every tongue
@@ -1357,6 +1389,7 @@ Glory to Him Who could never be measured by us! Our heart is too small for Him, 
 
 << Ephrem the Syrian, “Hymn II”
 
+<!-- page 87 -->
 ### POETICAL VERSE
 
 #### Himself a Noble Vine, We the Lesser Branches
@@ -1388,7 +1421,7 @@ We shall be saved, and sigh no more.
 
 #### He Took Upon Him the Form of a Servant
 
-We believe that our most mighty and gracious God (when he saw that man had thus thrown himself into the damnation both of spiritual and corporal death, and was made altogether miserable and accursed) by his wonderful wisdom and goodness was induced both to seek him, when through fear he had fled from his presence, and also most lovingly to comfort him, giving unto him the promise of his own Son to be born of a woman, which should break the head of the Serpent, and restore him to felicity and happiness. Moreover, we confess, that God did then at length fulfill his promise, made unto the Fathers, by the mouth of his holy Prophets, when, in his appointed time, he sent his only and eternal Son into the world; who took upon him the form of a servant, being made like unto men, and did truly take unto him the nature of man, with all infirmities belonging thereunto, (sin only excepted,) when he was conceived in the womb of the blessed Virgin Mary, by the power of the Holy Ghost, without any means of man. We confess that Christ was partaker of flesh and blood, as the rest his brethren were; that he came from the loins of David, according to the flesh; I say, that he was made of the seed of David, according to the same flesh; and that he was the fruit of a Virgin’s womb, born of a woman, the branch of David, a flower of the root of Jesse, coming of the tribe of Judah, and of the Jews themselves, according to the flesh; and to conclude, the true seed of Abraham and David, the which seed of Abraham he took upon him, being made in all things like unto his brethren, sin only excepted, as hath been said before; so that he is indeed our true Emmanuel, that is, God with us.
+We believe that our most mighty and gracious God (when he saw that man had thus thrown himself into the damnation both of spiritual and corporal death, and was made altogether miserable and accursed) by his wonderful wisdom and goodness was induced both to seek him, when through fear he had fled from his presence, and also most lovingly to comfort him, giving unto him the promise of his own Son to be born of a woman, which should break the head of the Serpent, and restore him to felicity and happiness. Moreover, we confess, that God did then at length fulfill his promise, made unto the Fathers, by the mouth of his holy Prophets, when, in his appointed time, he sent his only and eternal Son into the world; who took upon him the form of a servant, being made like unto men, and did truly take unto him the nature of man, with all infirmities belonging thereunto, (sin only <!-- page 88 -->excepted,) when he was conceived in the womb of the blessed Virgin Mary, by the power of the Holy Ghost, without any means of man. We confess that Christ was partaker of flesh and blood, as the rest his brethren were; that he came from the loins of David, according to the flesh; I say, that he was made of the seed of David, according to the same flesh; and that he was the fruit of a Virgin’s womb, born of a woman, the branch of David, a flower of the root of Jesse, coming of the tribe of Judah, and of the Jews themselves, according to the flesh; and to conclude, the true seed of Abraham and David, the which seed of Abraham he took upon him, being made in all things like unto his brethren, sin only excepted, as hath been said before; so that he is indeed our true Emmanuel, that is, God with us.
 
 << Belgic Confession
 
@@ -1402,6 +1435,7 @@ Source of all light and truth; who did send Your Son Jesus Christ into the world
 
 
 
+<!-- page 89 -->
 ## - Eleventh Day of Advent
 
 ### SCRIPTURE READING
@@ -1435,7 +1469,7 @@ He deigned to cast a pitying eye
 Upon His helpless creature;
 The whole creation’s Head and Lord,
 By highest seraphim adored,
-Assumed our very nature;
+Assumed our very nature;<!-- page 90 -->
 Jesus, grant us, thro’ Your merit,
 To inherit Your salvation;
 Hear, O hear our supplication.
@@ -1458,7 +1492,7 @@ Evermore by earth and heaven.
 
 #### Taking on the Flesh of an Ancient Race
 
-We may thus arrive at a certain proof that His flesh was human, if He derived its substance from His mother’s womb, although we are at once furnished with clear evidences of the human character of His flesh, from its name and description as that of a man, and from the nature of its constitution, and from the system of its sensations, and from its suffering of death. Now, it will first be necessary to show what previous reason there was for the Son of God’s being born of a virgin. He who was going to consecrate a new order of birth, must Himself be born after a novel fashion, concerning which Isaiah foretold how that the Lord Himself would give the sign. What, then, is the sign? “Behold a virgin shall conceive and bear a son.” Accordingly, a virgin did conceive and bear “Emmanuel, God with us.” This is the new nativity; a man is born in God. And in this man God was born, taking the flesh of an ancient race, without the help, however, of the ancient seed, in order that He might reform it with a new seed, that is, in a spiritual manner, and cleanse it by the removal of all its ancient stains. But the whole of this new birth was prefigured, as was the case in all other instances, in ancient type, the Lord being born as man by a dispensation in which a virgin was the medium. The earth was still in a virgin state, reduced as yet by no human labour, with no seed as yet cast into its furrows, when, as we are told, God made man out of it into a living soul. As, then, the first Adam is thus introduced to us, it is a just inference that the second Adam likewise, as the apostle has told us, was formed by God into a quickening spirit out of the ground,—in other words, out of a flesh which was unstained as yet by any human generation. But that I may lose no opportunity of supporting my argument from the name of Adam, why is Christ called Adam by the apostle, unless it be that, as man, He was of that earthly origin? And even reason here maintains the same conclusion, because it was by just the contrary operation that God recovered His own image and likeness, of which He had been robbed by the devil. For it was while Eve was yet a virgin, that the ensnaring word had crept into her ear which was to build the edifice of death. Into a virgin’s soul, in like manner, must be introduced that Word of God which was to raise the fabric of life; so that what had been reduced to ruin by this sex, might by the selfsame sex be recovered to salvation. As Eve had believed the serpent, so Mary believed the angel. The delinquency which the one occasioned by believing, the other by believing effaced. But (it will be said) Eve did not at the devil’s word conceive in her womb. Well, she at all events conceived; for the devil’s word afterwards became as seed to her that she should conceive as an outcast, and bring forth in sorrow. Indeed she gave birth to a fratricidal devil; whilst Mary, on the contrary, bare one who was one day to secure salvation to Israel, His own brother after the flesh, and the murderer of Himself. God therefore sent down into the virgin’s womb His Word, as the good Brother, who should blot out the memory of the evil brother. Hence it was necessary that Christ should come forth for the salvation of man, in that condition of flesh into which man had entered ever since his condemnation.
+We may thus arrive at a certain proof that His flesh was human, if He derived its substance from His mother’s womb, although we are at once furnished with clear evidences of the human character of His flesh, from its name and description as that of a man, and from the nature of its constitution, and from the system of its sensations, and from its suffering of death. Now, it will first be necessary to show what previous reason there was for the Son of God’s being born of a virgin. He who was going to consecrate a new order of birth, must Himself be born after a novel fashion, concerning which Isaiah foretold how that the Lord Himself would give the sign. What, then, is the sign? “Behold a virgin shall conceive and bear a son.” Accordingly, a virgin did conceive and bear “Emmanuel, God with us.” This is the new nativity; a man is born in God. And in this man God was born, taking the flesh of an ancient race, without the help, however, of the ancient seed, in order that He might reform it with a new seed, that is, in a spiritual manner, and cleanse it by the removal of all its ancient stains. But the whole of this new birth was prefigured, as was the case in all other instances, in ancient type, the Lord being born as man by a dispensation in which a virgin was the medium. The earth was still in a virgin state, reduced as yet by no human labour, with no seed <!-- page 91 -->as yet cast into its furrows, when, as we are told, God made man out of it into a living soul. As, then, the first Adam is thus introduced to us, it is a just inference that the second Adam likewise, as the apostle has told us, was formed by God into a quickening spirit out of the ground,—in other words, out of a flesh which was unstained as yet by any human generation. But that I may lose no opportunity of supporting my argument from the name of Adam, why is Christ called Adam by the apostle, unless it be that, as man, He was of that earthly origin? And even reason here maintains the same conclusion, because it was by just the contrary operation that God recovered His own image and likeness, of which He had been robbed by the devil. For it was while Eve was yet a virgin, that the ensnaring word had crept into her ear which was to build the edifice of death. Into a virgin’s soul, in like manner, must be introduced that Word of God which was to raise the fabric of life; so that what had been reduced to ruin by this sex, might by the selfsame sex be recovered to salvation. As Eve had believed the serpent, so Mary believed the angel. The delinquency which the one occasioned by believing, the other by believing effaced. But (it will be said) Eve did not at the devil’s word conceive in her womb. Well, she at all events conceived; for the devil’s word afterwards became as seed to her that she should conceive as an outcast, and bring forth in sorrow. Indeed she gave birth to a fratricidal devil; whilst Mary, on the contrary, bare one who was one day to secure salvation to Israel, His own brother after the flesh, and the murderer of Himself. God therefore sent down into the virgin’s womb His Word, as the good Brother, who should blot out the memory of the evil brother. Hence it was necessary that Christ should come forth for the salvation of man, in that condition of flesh into which man had entered ever since his condemnation.
 
 << Tertullian, “On the Flesh of Christ”
 
@@ -1468,7 +1502,7 @@ We may thus arrive at a certain proof that His flesh was human, if He derived it
 
 Immensity cloistered in thy dear womb,
 Now leaves His well-belov’d imprisonment,
-There He hath made Himself to His intent
+There He hath made Himself to His intent<!-- page 92 -->
 Weak enough, now into the world to come;
 But O, for thee, for Him, hath the inn no room?
 Yet lay Him in this stall, and from the Orient,
@@ -1487,7 +1521,7 @@ With His kind mother, who partakes thy woe.
 
 #### Believe Also in the Son of God, One and Only
 
-Believe also in the Son of God, One and Only, our Lord Jesus Christ, Who was begotten God of God, begotten Life of Life, begotten Light of Light, Who is in all things like to Him that begat, Who received not His being in time, but was before all ages eternally and incomprehensibly begotten of the Father: The Wisdom and the Power of God, and His Righteousness personally subsisting: Who sitteth on the right hand of the Father before all ages. He holds His royal dignity, and shares the Father’s seat, being God and Wisdom and Power, as hath been said; reigning together with the Father, and creating all things for the Father, yet lacking nothing in the dignity of Godhead. Believe that of One God there is One Only-begotten Son, who is before all ages God the Word; not the uttered word diffused into the air, nor to be likened to impersonal words; but the Word the Son, Maker of all who partake of reason. Believe then that this Only-begotten Son of God for our sins came down from heaven upon earth, and took upon Him this human nature and was begotten of the Holy Virgin and of the Holy Ghost, and was made Man, not in seeming and mere show, but in truth; nor yet by passing through the Virgin as through a channel; but was of her made truly flesh, and truly nourished with milk, and did truly eat as we do, and truly drink as we do. For if the Incarnation was a phantom, salvation is a phantom also. The Christ was of two natures, Man in what was seen, but God in what was not seen; as Man truly eating like us, for He had the like feeling of the flesh with us; but as God feeding the five thousand from five loaves; as Man truly dying, but as God raising him that had been dead four days; truly sleeping in the ship as Man, and walking upon the waters as God.
+Believe also in the Son of God, One and Only, our Lord Jesus Christ, Who was begotten God of God, begotten Life of Life, begotten Light of Light, Who is in all things like to Him that begat, Who received not His being in time, but was before all ages eternally and incomprehensibly begotten of the Father: The Wisdom and the Power of God, and His Righteousness personally subsisting: Who sitteth on the right hand of the Father before all ages. He holds His royal dignity, and shares the Father’s seat, being God and Wisdom and Power, as hath been said; reigning together with the Father, and creating all things for the Father, yet lacking nothing in the dignity of Godhead. Believe that of One God there is One Only-begotten Son, who is before all ages God the Word; not the uttered word diffused into the air, nor to be likened to impersonal words; but the Word the Son, Maker of all who partake of reason. Believe then that this Only-begotten Son of God for our sins came down from heaven upon earth, and took upon Him this human nature and was begotten of the Holy Virgin and of the Holy Ghost, and was made Man, not in seeming and mere show, but in truth; nor yet by passing through the Virgin as through a channel; but was of her made truly flesh, and truly nourished with milk, and did truly eat as we do, and truly drink as we do. For if the Incarnation was a phantom, salvation is a phantom also. The Christ was of two natures, Man in what was seen, but God in what was <!-- page 93 -->not seen; as Man truly eating like us, for He had the like feeling of the flesh with us; but as God feeding the five thousand from five loaves; as Man truly dying, but as God raising him that had been dead four days; truly sleeping in the ship as Man, and walking upon the waters as God.
 
 << Cyril of Jerusalem, *The Catechetical Lectures*
 
@@ -1501,6 +1535,7 @@ O almighty God, who of Your great mercy did cause Your Son to be conceived by th
 
 
 
+<!-- page 95 -->
 ## - Twelfth Day of Advent
 
 ### SCRIPTURE READING
@@ -1522,6 +1557,7 @@ The darkness deepens; Lord, with me abide.
 When other helpers fail and comforts flee,
 Help of the helpless, O abide with me.
 
+<!-- page 96 -->
 ##### VERSE 2
 
 Swift to its close ebbs out life’s little day;
@@ -1556,7 +1592,7 @@ In life, in death, O Lord, abide with me.
 
 #### Go Boldly To God in Our Flesh
 
-Are you bruised? Be of good comfort, he calls you; conceal not your wounds, open all before him, keep not Satan’s counsel. Go to Christ though trembling. We shall be healed and have a gracious answer. Go boldly to God in our flesh; for this end that we might go boldly to him, he is flesh of our flesh, and bone of our bone. Never fear to go to God, since we have such a Mediator with him, that is not only our friend, but our brother and husband. Well might the angels proclaim from heaven, “Behold, we bring you tidings of joy.” Peace and joy are two main fruits of his kingdom. Let the world be as it will, if we cannot rejoice in the world, yet we may rejoice in the Lord. His presence makes any condition comfortable. There is no cause of fear where he is present. Let this stay us when we feel ourselves bruised. Christ his course is first to wound, then to heal according to my trials will be my graces and comforts.
+Are you bruised? Be of good comfort, he calls you; conceal not your wounds, open all before him, keep not Satan’s counsel. Go to Christ though trembling. We shall be healed and have a gracious answer. Go boldly to God in our flesh; for this end that we might go boldly to him, he is flesh of our flesh, and bone of our bone. Never fear to go to God, since we have such a Mediator with him, that is not only our friend, but our brother and husband. Well might the angels proclaim from heaven, “Behold, we bring you tidings of joy.” Peace and joy are two main fruits of his kingdom. Let the world be as it will, if we cannot rejoice in the world, yet we may rejoice in the Lord. His presence makes any condition comfortable. There is no cause of fear where he is present. Let this stay us when we feel ourselves bruised. Christ his course is first to <!-- page 97 -->wound, then to heal according to my trials will be my graces and comforts.
 
 << Richard Sibbes, *The Bruised Reed*
 
@@ -1599,6 +1635,7 @@ To his dread home in Tartarus,
 And, jeeringly, had made him think.
 That fetiches could set him free—
 
+<!-- page 98 -->
 That gods of wood, and brass, and stone.
 Could soothe and ’suage and sympathize.
 And sin had tainted everything,
@@ -1644,6 +1681,7 @@ Dry parched-up rock, and thirsty stone.
 Then changed the nature of its heart,
 Paid passing homage to the Child,—
 
+<!-- page 99 -->
 Brought forth mid beds of velvet moss,
 In opening leaves and unfurled fronds,
 A wealth of loveliness untold.
@@ -1685,7 +1723,7 @@ They knelt down brutes, and rose up men.
 
 #### By His Stripes We Are Healed
 
-For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps: “He committed no sin, and no deceit was found in His mouth.” When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly. He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.” For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls.
+For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps: “He committed no sin, and no deceit was found in His mouth.” When they heaped abuse on Him, He did not retaliate; when He <!-- page 100 -->suffered, He made no threats, but entrusted Himself to Him who judges justly. He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.” For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls.
 
 << 1 Peter 2:21–25
 
@@ -1699,6 +1737,7 @@ Lord Jesus Christ, true light, eternal and unchangeable, Who to enlighten the da
 
 
 
+<!-- page 101 -->
 ## - Thirteenth Day of Advent
 
 ### SCRIPTURE READING
@@ -1727,6 +1766,7 @@ In his holy courts they flourish.
 From all evil things he spares them;
 In his mighty arms he bears them.
 
+<!-- page 102 -->
 ##### VERSE 3
 
 Neither life nor death shall ever
@@ -1761,7 +1801,7 @@ To preserve us, pure and holy.
 
 #### Only Chastity and Purity Spring From It
 
-Grace does not interfere with nature and her work, but rather improves and promotes it. Likewise Mary, without doubt, also nourished the child with milk from her breast and not with strange milk, her breast being filled by heaven, without injury or impurity. I mention this that we may be grounded in the faith and know that Jesus was a natural man in every respect just as we, the only difference being in his relation to sin and grace, he being without a sinful nature. It is a great comfort to us that Jesus took upon himself our nature and flesh. How could God have shown his goodness in a more sublime manner than by humbling himself to partake of flesh and blood, that he did not even disdain the natural privacy but honors nature most highly in that part where in Adam and Eve it was most miserably brought to shame? So that henceforth even that can be regarded godly, honest and pure, which in all men is the most ungodly, shameful and impure. These are real miracles of God, for in no way could he have given us stronger, more forcible and purer pictures of chastity than in this birth. When we look at this birth, and reflect upon how the sublime Majesty moves with great earnestness and inexpressible love and goodness upon the flesh and blood of this virgin, we see how here all evil lust and every evil thought is banished. No woman can inspire such pure thoughts in a man as this virgin; nor can any man inspire such pure thought in a woman as this child. If in reflecting on this birth we recognize the work of God that is embodied in it, only chastity and purity spring from it.
+Grace does not interfere with nature and her work, but rather improves and promotes it. Likewise Mary, without doubt, also nourished the child with milk from her breast and not with strange milk, her breast being filled by heaven, without injury or impurity. I mention this that we may be grounded in the faith and know that Jesus was a natural man in every respect just as we, the only difference being in his relation to sin and grace, he being without a sinful nature. It is a great comfort to us that Jesus took upon himself our nature and flesh. How could God have shown his goodness in a more sublime manner than by humbling himself to partake of flesh and blood, that he did not even disdain the natural privacy but honors nature most highly in that part where in Adam and Eve it was most miserably brought to shame? So that <!-- page 103 -->henceforth even that can be regarded godly, honest and pure, which in all men is the most ungodly, shameful and impure. These are real miracles of God, for in no way could he have given us stronger, more forcible and purer pictures of chastity than in this birth. When we look at this birth, and reflect upon how the sublime Majesty moves with great earnestness and inexpressible love and goodness upon the flesh and blood of this virgin, we see how here all evil lust and every evil thought is banished. No woman can inspire such pure thoughts in a man as this virgin; nor can any man inspire such pure thought in a woman as this child. If in reflecting on this birth we recognize the work of God that is embodied in it, only chastity and purity spring from it.
 
 << Martin Luther, “The Birth of Jesus”
 
@@ -1790,7 +1830,7 @@ And by an Hebrew-born child stricken dumb.
 The letters of th’ Old Law effaced are;
 Down falls the statue of great Jupiter,
 With th’ twins and their nursing beast—which shower
-Of prodigies rouse up the emperor,
+Of prodigies rouse up the emperor,<!-- page 104 -->
 Who thus far in the dark could see, t’ erect
 In honor of th’ Almighty Architect,
 An altar in the Capitol to’s Son
@@ -1828,7 +1868,7 @@ As Pharaoh did, till this nativity;
 Then shall thy conscience oraclize thy fate,
 Than was Augustus’s more fortunate;
 Nor in the Capitol but in thy heart
-Erect an altar to Him, let each part
+Erect an altar to Him, let each part<!-- page 105 -->
 Express thou art awake, and seeing canst tell,
 That now salvation’s come to Israel.
 
@@ -1846,12 +1886,13 @@ He took upon him our flesh, and therein fulfilled all things necessary for our r
 
 #### Receive Me, O My Saviour
 
-O God the Father, who cannot be thought to have made me only to destroy me, have mercy upon me. O God the Son, who knowing Your Father’s will, did come into the world to save me, have mercy upon me. O God the Holy Ghost, who to the same end hast so often breathed holy thoughts into me, have mercy upon me. O holy, blessed, and glorious Trinity, whom in Three Persons I adore as One God, have mercy upon me. Receive me, O my Saviour, as a sheep that has gone astray, but would now return to the great Shepherd and Bishop of my soul! Father, accept my imperfect repentance, compassionate my infirmities, forgive my wickedness, purify my uncleanness, strengthen my weakness, fix my unstableness, and let thy good Spirit watch over me for ever, and Your love ever rule in my heart, through the merits, and sufferings, and love of Your Son, in whom You are always well-pleased.
+O God the Father, who cannot be thought to have made me only to destroy me, have mercy upon me. O God the Son, who knowing Your Father’s will, did come into the world to save me, have mercy upon me. O God the Holy Ghost, who to the same end hast so often breathed holy thoughts into me, have mercy upon me. O <!-- page 106 -->holy, blessed, and glorious Trinity, whom in Three Persons I adore as One God, have mercy upon me. Receive me, O my Saviour, as a sheep that has gone astray, but would now return to the great Shepherd and Bishop of my soul! Father, accept my imperfect repentance, compassionate my infirmities, forgive my wickedness, purify my uncleanness, strengthen my weakness, fix my unstableness, and let thy good Spirit watch over me for ever, and Your love ever rule in my heart, through the merits, and sufferings, and love of Your Son, in whom You are always well-pleased.
 
 << John Wesley, *A Collection of Forms of Prayer*
 
 
 
+<!-- page 107 -->
 ## - Fourteenth Day of Advent
 
 ### SCRIPTURE READING
@@ -1873,7 +1914,7 @@ Much we need Thy tender care;
 In Thy pleasant pastures feed us,
 For our use Thy folds prepare:
 Blessed Jesus, blessed Jesus,
-Thou hast bought us, Thine we are;
+Thou hast bought us, Thine we are;<!-- page 108 -->
 Blessed Jesus, blessed Jesus,
 Thou hast bought us, Thine we are.
 
@@ -1916,7 +1957,7 @@ Thou hast loved us, love us still
 
 #### All Sinners Came to See the Lamb of God
 
-I see a strange and novel mystery: shepherds sound all around my ears, not piping a barren tune, but singing a heavenly hymn. Angels are singing, archangels are dancing, the cherubim are hymning, the seraphim are glorifying, all are celebrating, since they see God upon the earth, man in Heaven. I see the one who is on high lower because of His plan, the one who is below on high because of His love for humanity. Today Bethlehem resembled Heaven: in place of stars it received angels hymning, in place of the sun it contained the righteous One without confining Him. And do not ask how: for where God wills it, nature’s order is overcome. For He willed it, He had the power, He came down, He saved—all things follow upon God. Today, He who Is is born, and He who Ιs becomes what He was not. For being God, He becomes human, though He did not cease from being God. For He hasn’t become human by separating from His divinity, nor again has He become God by advancing from a human. But, being Word, because He could not suffer as Word, He became flesh, His nature remaining unchanged. For kings came, in astonishment at the heavenly King, for He had come upon the earth without angels, without archangels, without thrones, without dominions, without powers, without authorities, but walking a foreign and untrodden path, He came forth from an uncultivated womb. But kings came to worship the heavenly King of glory, while soldiers came to serve the commander-in-chief of power; women came to see the one who was born from a man, in order that He might change the woman’s grief into joy; the virgins came to see the child of the virgin, because the Creator of milk and breasts, who makes the fountains of breasts to produce naturally flowing streams, received a child’s nourishment from His virgin mother; the infant came to see the one who became an infant in order to furnish praise from the mouths of infants; the children came to see the child who produced witnesses because of Herod’s madness; the men came to see the one who was incarnated and healed the woes of slaves; the shepherds came to see the good shepherd, who lays down His life for the sheep; the priests came to see the one who became the high priest in the order of Melchizedek; the slaves came to see the one who took the form of a slave in order to honor our slavery with freedom; the fishers came to see the one who makes hunters of people from among fishers; the tax collectors came to see the one who appointed an evangelist from among the tax collectors; the prostitutes came to see the one who offers His feet to the tears of prostitutes; and, that I may speak but briefly, all sinners came to see the lamb of God who takes upon himself the sin of the world, Magi accompanying, shepherds praising, tax collectors speaking the good news, prostitutes bearing perfume, Samaritans thirsting for the fountain of life, the Canaanite woman with undoubting faith. Since everyone else, then, is exulting, I too want to exult, I want to dance, I desire to celebrate. For Ηe both was, and was before, and always was. But, on the one hand, He always was as God, managing the world. But today Ηe came forth, on the one hand as a human, shepherding His people, while also as God, saving the world. Let us give glory to Christ, the one who, from pathless ways, made a way, together with the Father and the Holy Spirit, now and forever, and into eternity.
+I see a strange and novel mystery: shepherds sound all around my ears, not piping a barren tune, but singing a heavenly hymn. Angels are singing, archangels are dancing, the cherubim are hymning, the seraphim are glorifying, all are celebrating, since they see God upon <!-- page 109 -->the earth, man in Heaven. I see the one who is on high lower because of His plan, the one who is below on high because of His love for humanity. Today Bethlehem resembled Heaven: in place of stars it received angels hymning, in place of the sun it contained the righteous One without confining Him. And do not ask how: for where God wills it, nature’s order is overcome. For He willed it, He had the power, He came down, He saved—all things follow upon God. Today, He who Is is born, and He who Ιs becomes what He was not. For being God, He becomes human, though He did not cease from being God. For He hasn’t become human by separating from His divinity, nor again has He become God by advancing from a human. But, being Word, because He could not suffer as Word, He became flesh, His nature remaining unchanged. For kings came, in astonishment at the heavenly King, for He had come upon the earth without angels, without archangels, without thrones, without dominions, without powers, without authorities, but walking a foreign and untrodden path, He came forth from an uncultivated womb. But kings came to worship the heavenly King of glory, while soldiers came to serve the commander-in-chief of power; women came to see the one who was born from a man, in order that He might change the woman’s grief into joy; the virgins came to see the child of the virgin, because the Creator of milk and breasts, who makes the fountains of breasts to produce naturally flowing streams, received a child’s nourishment from His virgin mother; the infant came to see the one who became an infant in order to furnish praise from the mouths of infants; the children came to see the child who produced witnesses because of Herod’s madness; the men came to see the one who was incarnated and healed the woes of slaves; the shepherds came to see the good shepherd, who lays down His life for the sheep; the priests came to see the one who became the high priest in the order of Melchizedek; the slaves came to see the one who took the form of a slave in order to honor our slavery with freedom; the fishers came to see the one who makes hunters of people from among fishers; the tax collectors came to see the one who appointed an evangelist from among the tax collectors; the prostitutes came to see the one who offers His feet to the tears of prostitutes; and, that I may speak but briefly, all sinners came to see the lamb of God who takes upon himself the sin of the world, Magi accompanying, shepherds praising, tax collectors speaking the good news, <!-- page 110 -->prostitutes bearing perfume, Samaritans thirsting for the fountain of life, the Canaanite woman with undoubting faith. Since everyone else, then, is exulting, I too want to exult, I want to dance, I desire to celebrate. For Ηe both was, and was before, and always was. But, on the one hand, He always was as God, managing the world. But today Ηe came forth, on the one hand as a human, shepherding His people, while also as God, saving the world. Let us give glory to Christ, the one who, from pathless ways, made a way, together with the Father and the Holy Spirit, now and forever, and into eternity.
 
 << John Chrysostom, “On the Birthday of Our Savior Jesus Christ”
 
@@ -1947,6 +1988,7 @@ Till ev’n His beams sing, and my music shine.
 
 << George Herbert, “Christmas”
 
+<!-- page 111 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### The Lord Calls Himself Another David and Shepherd
@@ -1959,7 +2001,7 @@ Neither has any man, of all things whatsoever, any thing at all whereby he may d
 
 #### For the Sake of Your Son Our Saviour Jesus Christ
 
-O God, who makes us glad year by year with the remembrance of the birth of Thine only Son Jesus Christ, grant that as we joyfully receive Him for our Redeemer, we may compassionate the miseries of those who have never heard the good tidings of great joy, which were intended for all people. Do, most loving Father, of Your tender mercy, cause the sound of the Gospel to reach the ends of the world. Grant that all nations may receive Your Blessed Son, and believe on His Name, and give unto them power to become the sons of God, so that with the heavenly host Your whole family in heaven and earth may praise You, and say, ‘Glory to God in the highest, on earth peace, good will towards men.’ Hear us, O Heavenly Father, for the sake of Your Son our Saviour Jesus Christ. Amen.
+O God, who makes us glad year by year with the remembrance of the birth of Thine only Son Jesus Christ, grant that as we joyfully receive Him for our Redeemer, we may compassionate the miseries of those who have never heard the good tidings of great joy, which were intended for all people. Do, most loving Father, of Your tender mercy, cause the sound of the Gospel to reach the ends of the world. Grant that all nations may receive Your Blessed Son, and believe on His Name, and give unto them power to become the sons of God, so that with the heavenly host Your whole family in <!-- page 112 -->heaven and earth may praise You, and say, ‘Glory to God in the highest, on earth peace, good will towards men.’ Hear us, O Heavenly Father, for the sake of Your Son our Saviour Jesus Christ. Amen.
 
 << *Book of Missionary Prayers*
 
@@ -1968,6 +2010,7 @@ da Vinci, Leonardo. The Annunciation. 1472-1476. Oil and tempera on poplar panel
 
 
 
+<!-- page 116 -->
 ## Third Week of Advent: Longings
 
 ### ADVENT PRELUDE
@@ -1992,6 +2035,7 @@ be a truly inexhaustible fountain.
 
 God created humans for himself. Until we find our repose in Christ, human restlessness, angst, and disquiet will persist. Sin is a brazen and self-defeating rejection of God that leaves humanity hollow and empty. In our rebellion, we are causes of our own futility, villains of our own vexation, and perpetrators of our own discontentment. Since Adam’s fall, the human race is guilty of self-ambush in our rejection of God. During Advent, we live in longing, reflecting on the deep yearnings of the human heart and announcing Jesus as the only one who can remove our ache, satisfy our hunger, quench our thirst, and bless in abundance. This season is a time of confession, humbly acknowledging our sin before God and honestly admitting our need for God. Expressions of human longing abound in Scripture, in particular in the Psalms. Equally, this collection of hymns announces Christ’s coming. This week of Advent, we return to this ancient songbook of God’s covenant people. These timeless and inspired words capture the profound yearnings of the human heart, which can only be filled in Jesus. He alone is the fountain of fullness that will never run dry.
 
+<!-- page 117 -->
 ### ADVENT PREAMBLE
 
 #### A Celebration of Longings
@@ -2006,7 +2050,7 @@ Christmas is a celebration of longings fulfilled, expectations met, hunger satis
 
 ##### READER
 
-Then Mary said: “My soul magnifies the Lord, and my spirit rejoices in God my Savior! For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed. For the Mighty One has done great things for me. Holy is His name. His mercy extends to those who fear Him, from generation to generation. He has performed mighty deeds with His arm; He has scattered those who are proud in the thoughts of their hearts. He has brought down rulers from their thrones, but has exalted the humble. He has filled the hungry with good things, but has sent the rich away empty. He has helped His servant Israel, remembering to be merciful, as He promised to our fathers, to Abraham and his descendants forever.” Then his father Zechariah was filled with the Holy Spirit and prophesied: “Blessed be the Lord, the God of Israel, because He has visited and redeemed His people. He has raised up a horn of salvation for us in the house of His servant David, as He spoke through His holy prophets, those of ages past, salvation from our enemies and from the hand of all who hate us, to show mercy to our fathers and to remember His holy covenant, the oath He swore to our father Abraham, to grant us deliverance from hostile hands, that we may serve Him without fear, in holiness and righteousness before Him all the days of our lives. And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him, to give to His people the knowledge of salvation through the forgiveness of their sins, because of the tender mercy of our God, by which the Dawn will visit us from on high, to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”
+Then Mary said: “My soul magnifies the Lord, and my spirit rejoices in God my Savior! For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed. For the Mighty One has done great things for me. Holy is His name. His mercy extends to those who fear Him, from generation to generation. He has performed mighty deeds with His arm; He has scattered those who are proud in the thoughts of their hearts. He has brought down rulers from their thrones, but has exalted the humble. He has filled the hungry with good things, but has sent the rich away empty. He has helped His servant Israel, remembering to be merciful, as He promised to our fathers, to Abraham and his descendants forever.” Then his father Zechariah was filled with the Holy Spirit and prophesied: “Blessed be the Lord, the God of Israel, because He has visited and redeemed His people. He has raised up a horn of <!-- page 118 -->salvation for us in the house of His servant David, as He spoke through His holy prophets, those of ages past, salvation from our enemies and from the hand of all who hate us, to show mercy to our fathers and to remember His holy covenant, the oath He swore to our father Abraham, to grant us deliverance from hostile hands, that we may serve Him without fear, in holiness and righteousness before Him all the days of our lives. And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him, to give to His people the knowledge of salvation through the forgiveness of their sins, because of the tender mercy of our God, by which the Dawn will visit us from on high, to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”
 
 << Luke 1:46–55, 67–79
 
@@ -2036,6 +2080,7 @@ They bend on hovering wing,
 And ever o’er its Babel sounds
 The blessed angels sing.
 
+<!-- page 119 -->
 ##### VERSE 3
 
 And ye, beneath life’s crushing load,
@@ -2064,7 +2109,7 @@ Which now the angels sing.
 
 ##### ALL
 
-Creation groans under the burden of sin and curse. Sin has vandalized God’s good world and turned joy into sorrow, delight into despair, and gladness into disappointment. During this time of Advent, we look forward to tears of sadness turning into shouts of exultation. Christ has come into the world. God has done great and gracious things in sending his Son, Jesus. He left the uninterrupted praise of heaven to dwell among the misery of men. Jesus’ coming restores joy to God’s created order: redeeming the lost, restoring the fallen, filling the empty, cleansing the guilty, helping the needy, enlivening the dead, and saving the oppressed. At the fullness of time, Jesus was born to put an end to human despair and sorrow. His humble birth bore the fruit of deep and unending joy expressed in worship, praise, and honor of a sovereign and gracious God. It is through effulgent and eternal joy in Christ that God would ruin the schemes of evil and satisfy deep inner longings of the human heart. As we light this candle in our waiting, we declare Jesus as God’s joy to the world.
+Creation groans under the burden of sin and curse. Sin has vandalized God’s good world and turned joy into sorrow, delight into despair, and gladness into disappointment. During this time of Advent, we look forward to tears of sadness turning into shouts of exultation. Christ has come into the world. God has done great and gracious things in sending his Son, Jesus. He left the uninterrupted praise of heaven to dwell among the misery of men. Jesus’ coming restores joy to God’s created order: redeeming the lost, restoring the fallen, filling the empty, cleansing the guilty, helping the needy, enlivening the dead, and saving the oppressed. At the fullness of time, Jesus was born to put an end to human despair and sorrow. His humble birth bore the fruit of deep and unending joy expressed in worship, praise, and honor of a sovereign and gracious God. It is through effulgent and eternal joy in Christ that God would ruin the schemes of evil and satisfy deep <!-- page 120 -->inner longings of the human heart. As we light this candle in our waiting, we declare Jesus as God’s joy to the world.
 
 ### BIBLICAL MEDLEY
 
@@ -2072,7 +2117,7 @@ Creation groans under the burden of sin and curse. Sin has vandalized God’s go
 
 ##### LEADER
 
-As the deer pants for streams of water, so my soul longs after You, O God. My soul thirsts for God, the living God. When shall I come and appear in God’s presence? My tears have been my food both day and night, while men ask me all day long, “Where is your God?” Be merciful to me, O Lord, for I am in distress; my eyes fail from sorrow, my soul and body as well. For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away. Weeping may stay the night, but joy comes in the morning. Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom. Humble yourselves before the Lord, and He will exalt you. Rejoice in the Lord always. I will say it again: Rejoice! But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You. We also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy, now that you are receiving the goal of your faith, the salvation of your souls. You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand. I sought the Lord, and He answered me; He delivered me from all my fears. Those who look to Him are radiant with joy; their faces shall never be ashamed. You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy, that my heart may sing Your praises and not be silent. O Lord my God, I will give thanks forever. Consider it pure joy, my brothers, when you encounter trials of many kinds, because you know that the testing of your faith develops perseverance. Beloved, do not be surprised at the fiery trial that has come upon you, as though something strange were happening to you. But rejoice that you share in the sufferings of Christ, so that you may be overjoyed at the revelation of His glory. Be joyful in hope, patient in affliction, persistent in prayer.
+As the deer pants for streams of water, so my soul longs after You, O God. My soul thirsts for God, the living God. When shall I come and appear in God’s presence? My tears have been my food both day and night, while men ask me all day long, “Where is your God?” Be merciful to me, O Lord, for I am in distress; my eyes fail from sorrow, my soul and body as well. For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away. Weeping may stay the night, but joy comes in the morning. Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom. Humble yourselves before the Lord, and He will exalt you. Rejoice in the Lord always. I will say it again: Rejoice! But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You. We also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy, now that you are receiving the goal of your faith, the salvation of your souls. You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand. I sought the Lord, and He answered me; He delivered me from all my fears. Those who look to Him are radiant with joy; their faces shall never be ashamed. You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy, that my heart may sing Your praises and not be silent. O Lord my God, I will give thanks forever. Consider it pure joy, my brothers, when you encounter trials of many kinds, because you know that the testing of your faith develops perseverance. Beloved, do not be surprised at the fiery trial that has come upon you, as though something strange were happening to you. But rejoice that you <!-- page 121 -->share in the sufferings of Christ, so that you may be overjoyed at the revelation of His glory. Be joyful in hope, patient in affliction, persistent in prayer.
 
 << Psalm 42:1–3; Psalm 31:9–10; Psalm 30:5; 
 << James 4:8–10; Philippians 4:4; Psalm 5:11; 
@@ -2102,6 +2147,7 @@ Now to Him who is able to keep you from stumbling and to present you unblemished
 
 
 
+<!-- page 123 -->
 ## - Fifteenth Day of Advent
 
 ### SCRIPTURE READING
@@ -2131,7 +2177,7 @@ Crown Him! Crown Him, Lord of all!
 
 ##### VERSE 2
 Who is He the people bless
-For His words of gentleness?
+For His words of gentleness?<!-- page 124 -->
 Who is He to whom they bring
 All the sick and sorrowing?
 
@@ -2162,7 +2208,7 @@ Rules through all the world alone?
 
 #### God Reconciled His Glory With Our Eternal Benefit
 
-And now the Angels, who had adored the Holy Jesus in Heaven, come also to pay their homage to him upon Earth; and laying aside their flaming swords they take into their hands instruments of music, and sing, Glory be to God on high, signifying to us, that the Incarnation of the Holy Jesus was a very great instrument of the glorification of God. And in vain doth man satisfy himself with complacencies and ambitious designs upon earth, when he sees before him God in the form of a servant, humble, and poor, and crying, and an infant full of need and weakness. But God hath pleased to reconcile his Glory with our eternal Benefit; and that also was part of the Angels song, In earth peace to men of good will. Whosoever seeks to avoid all this world’s Adversity, can never find Peace: but he only who hath resolved all his Affections and placed them in the heart of God, he who denies his own Will, and hath killed Self-love, he only enjoys this Peace; and in proportion to every man’s Mortification and Self-denial, so are the degrees of his Peace: and this is the Peace which the Angel proclaimed at the enunciation of that Birth which taught Humility, and Contempt of things below, and all their vainer glories, by the greatest argument in the world, even the Poverty of God incarnate.
+And now the Angels, who had adored the Holy Jesus in Heaven, come also to pay their homage to him upon Earth; and laying aside their flaming swords they take into their hands instruments of music, and sing, Glory be to God on high, signifying to us, that the Incarnation of the Holy Jesus was a very great instrument of the glorification of God. And in vain doth man satisfy himself with complacencies and ambitious designs upon earth, when he sees before him God in the form of a servant, humble, and poor, and crying, and an infant full of need and weakness. But God hath pleased to reconcile his Glory with our eternal Benefit; and that also was part of the Angels song, In earth peace to men of good will. Whosoever seeks to avoid all this world’s Adversity, can never find Peace: but he only who hath resolved all his Affections and placed them in the heart of God, he who denies his own Will, and hath killed Self-love, he only enjoys this Peace; and in proportion to every man’s Mortification and Self-denial, so are the degrees of <!-- page 125 -->his Peace: and this is the Peace which the Angel proclaimed at the enunciation of that Birth which taught Humility, and Contempt of things below, and all their vainer glories, by the greatest argument in the world, even the Poverty of God incarnate.
 
 << Jeremy Taylor, “The Apparition of the Angels to the Shepherd”
 
@@ -2201,7 +2247,7 @@ Yet, if thou wilt, thou canst make clean.
 Sweet Jesu! will then. Let no more
 This leper haunt and soil thy door!
 Cure him, ease him,
-O release him!
+O release him!<!-- page 126 -->
 And let once more, by mystic birth,
 The Lord of life be born in earth.
 
@@ -2219,12 +2265,13 @@ The Substance of the Trinity is, so to say, a common Essence in that which is di
 
 #### The Ignoble Circumstances of Your Birth
 
-Holy and Immortal Jesus, I adore and worship You with the lowest prostrations and humility of Soul and body, and give You all thanks for that great Love to us whereof Your Nativity has made demonstration; for that Humility of Yours expressed in the poor and ignoble circumstances which You did voluntarily choose in the manner of Your Birth. And I present to Your holy Humanity inchased in the adorable Divinity my Body and Soul; humbly desiring, that as You did clothe Yourself with a Humane body, You may invest me with the robes of Righteousness, covering my sins, inabling my weaknesses, and sustaining my mortality, till I shall finally in conformity to Your Beauties and Perfections be clothed with the stole of Glory. Amen.
+Holy and Immortal Jesus, I adore and worship You with the lowest prostrations and humility of Soul and body, and give You all thanks for that great Love to us whereof Your Nativity has made demonstration; for that Humility of Yours expressed in the poor and ignoble circumstances which You did voluntarily choose in the manner of Your Birth. And I present to Your holy Humanity inchased in the adorable Divinity my Body and Soul; humbly desiring, that as You did clothe Yourself with a Humane body, You may invest me with the robes of Righteousness, covering my sins, inabling my weaknesses, and sustaining my mortality, till I shall <!-- page 127 -->finally in conformity to Your Beauties and Perfections be clothed with the stole of Glory. Amen.
 
 << Jeremy Taylor, "Considerations Upon the Nativity"
 
 
 
+<!-- page 129 -->
 ## - Sixteenth Day of Advent
 
 ### SCRIPTURE READING
@@ -2246,7 +2293,7 @@ To you, Redeemer, King,
 To whom the lips of children
 Made sweet hosannas ring.
 You are the King of Israel
-And David’s royal Son,
+And David’s royal Son,<!-- page 130 -->
 Now in the Lord’s name coming,
 The King and Blessed One.
 
@@ -2278,7 +2325,7 @@ O good and gracious King!
 
 #### Christ Was David’s Son, He Became His Lord Also
 
-But let us, brethren, both believe and declare, both the Son of David, and the Lord of David. Let us not be ashamed of the Son of David, lest we find the Lord of David angry with us. We know that Christ sits at the right hand of the Father, since His resurrection from the dead, and ascent into heaven. It is already done: we saw not it, but we have believed it: we have read it in the Scripture, have heard it preached, and hold it by faith. So that by the very circumstance that Christ was David’s Son, He became His Lord also. For That which was born of the seed of David was so honoured, that It was also the Lord of David. You wonder at this, as if the same did not happen in human affairs. For if it should happen, that the son of any private person be made a king, will he not be his father’s lord? What is yet more wonderful may happen, not only that the son of a private person, by being made a king, may become his father’s lord; but that the son of a layman, by being made a Bishop, may become his father’s father. So that in this very circumstance, that Christ took upon Him the flesh, that He died in the flesh, that He rose again in the same flesh, that in the same He ascended into Heaven, and sitteth on the right hand of His Father, in this same flesh so honoured, so brightened, so changed into a heavenly garb, He is both David’s Son, and David’s Lord. Christ is with the Father, invisible and incorruptible, because He is His Word, and His Power, and His Wisdom, and God with God, through whom all things were made; He is “King eternal;” but, nevertheless, that reign of temporal government, by which, through the mediation of His flesh, He called us into eternity, begins with Christians; but of His reign there shall be no end. His enemies therefore are made His footstool, while He is sitting on the right hand of His Father, as it is written; this is now going on, this will go on unto the end. Rule, rule, O Son of David, Lord of David.
+But let us, brethren, both believe and declare, both the Son of David, and the Lord of David. Let us not be ashamed of the Son of David, lest we find the Lord of David angry with us. We know that Christ sits at the right hand of the Father, since His resurrection from the dead, and ascent into heaven. It is already done: we saw not it, but we have believed it: we have read it in the Scripture, have heard it preached, and hold it by faith. So that by the very circumstance that Christ was David’s Son, He became His Lord also. For That which was born of the seed of David was so honoured, that It was also the Lord of David. You wonder at this, as if the same did not happen in human affairs. For if it should happen, that the son of any private person be made a king, will he not be his father’s lord? What is yet more wonderful may happen, <!-- page 131 -->not only that the son of a private person, by being made a king, may become his father’s lord; but that the son of a layman, by being made a Bishop, may become his father’s father. So that in this very circumstance, that Christ took upon Him the flesh, that He died in the flesh, that He rose again in the same flesh, that in the same He ascended into Heaven, and sitteth on the right hand of His Father, in this same flesh so honoured, so brightened, so changed into a heavenly garb, He is both David’s Son, and David’s Lord. Christ is with the Father, invisible and incorruptible, because He is His Word, and His Power, and His Wisdom, and God with God, through whom all things were made; He is “King eternal;” but, nevertheless, that reign of temporal government, by which, through the mediation of His flesh, He called us into eternity, begins with Christians; but of His reign there shall be no end. His enemies therefore are made His footstool, while He is sitting on the right hand of His Father, as it is written; this is now going on, this will go on unto the end. Rule, rule, O Son of David, Lord of David.
 
 << Augustine, *Expositions on the Book of Psalms*
 
@@ -2304,6 +2351,7 @@ Flocking through the dark
 To the only Ark,
 The only Fold.
 
+<!-- page 132 -->
 Lord God of all things
 Be they near or far,
 Be they high or low;
@@ -2336,12 +2384,13 @@ Yes, Lord, I believe that You are the Christ, the Son of God, who was to come in
 
 #### It Is Your Special Mercy
 
-Yes, Almighty Father, it is Your special mercy, both to give Your Son, and with him all things, to the highly favoured objects of Your everlasting love. It was he who, from all eternity, did contrive, order, will, appoint, and prepare the great salvation of the gospel, and choose Christ as the head, and the church as the body of this stupendous work of redemption. It is You who have carried on and executed all the great designs; and it is You who did strengthen and complete the whole in the final salvation of all the members of it, in grace here, and glory hereafter. Blessed, holy compassionate Lord God! for Jesus’s sake fulfil this promise daily in my soul; bear me up, carry me through, and strengthen me in the Lord my God, that I may indeed walk up and down in his name, until You bring me in to see his face in your eternal home, and dwell under the light of his countenance for ever.
+Yes, Almighty Father, it is Your special mercy, both to give Your Son, and with him all things, to the highly favoured objects of Your everlasting love. It was he who, from all eternity, did contrive, order, will, appoint, and prepare the great salvation of the gospel, and choose Christ as the head, and the church as the body of this stupendous work of redemption. It is You who have carried on and executed all the great designs; and it is You who did strengthen and complete the whole in the final salvation of all the members of it, in grace here, and glory hereafter. Blessed, holy compassionate Lord God! for Jesus’s sake fulfil this promise daily in my soul; bear me up, carry me through, and strengthen me in the Lord my God, <!-- page 133 -->that I may indeed walk up and down in his name, until You bring me in to see his face in your eternal home, and dwell under the light of his countenance for ever.
 
 << Robert Hawker, *The Poor Man’s Morning and Evening*
 
 
 
+<!-- page 135 -->
 ## - Seventeenth Day of Advent
 
 ### SCRIPTURE READING
@@ -2352,6 +2401,7 @@ Endow the king with Your justice, O God, and the son of the king with Your right
 
 << Psalm 72:1–20
 
+<!-- page 136 -->
 ### DEVOTIONAL HYMN
 
 #### Christ Is the King and He Shall Reign
@@ -2397,7 +2447,7 @@ His praise each day be told.
 
 #### God Incarnate Is the End of Fear
 
-Come, my soul, enter into your chamber, and shut your door about you! Be quiet! God will fight for you. Be not dismayed; God’s purpose cannot be overthrown. Let not your heart be faint. Lo, a virgin has borne a Son, whose name is Immanuel—God with us. “Fear not: I bring you glad tidings of great joy. To you is born a Saviour.” God Incarnate is the end of fear; and the heart that realizes that He is in the midst, that takes heed to the assurance of his loving presence, will be quiet in the midst of alarm. No weapon that is formed against you shall prosper, and every tongue that shall rise in judgment against you, you shall condemn. Only be patient and be quiet. On the prairies men often fight fire with fire. Against the career of the wall of flame there is but one resource; before it reaches the terrified fugitives they must light a fire to sweep the ground bare, that when the advancing horror reaches the spot there will be no fuel left for it to feed on. So with the heart of man, the only true preservation from fear of our fellows is an overmastering fear of our God. Sanctify Him in your hearts. Let Him be your fear and dread.
+Come, my soul, enter into your chamber, and shut your door about you! Be quiet! God will fight for you. Be not dismayed; God’s purpose cannot be overthrown. Let not your heart be faint. Lo, a virgin has borne a Son, whose name is Immanuel—God with us. <!-- page 137 -->“Fear not: I bring you glad tidings of great joy. To you is born a Saviour.” God Incarnate is the end of fear; and the heart that realizes that He is in the midst, that takes heed to the assurance of his loving presence, will be quiet in the midst of alarm. No weapon that is formed against you shall prosper, and every tongue that shall rise in judgment against you, you shall condemn. Only be patient and be quiet. On the prairies men often fight fire with fire. Against the career of the wall of flame there is but one resource; before it reaches the terrified fugitives they must light a fire to sweep the ground bare, that when the advancing horror reaches the spot there will be no fuel left for it to feed on. So with the heart of man, the only true preservation from fear of our fellows is an overmastering fear of our God. Sanctify Him in your hearts. Let Him be your fear and dread.
 
 << F. B. Meyer, *Our Daily Homily*
 
@@ -2425,7 +2475,7 @@ Of peace on earth, good-will to men!
 
 Then from each black, accursed mouth
 The cannon thundered in the South,
-  And with the sound
+  And with the sound<!-- page 138 -->
   The carols drowned
 Of peace on earth, good-will to men!
 
@@ -2453,7 +2503,7 @@ With peace on earth, good-will to men.”
 
 #### The Incarnation at the Center of God’s Methods
 
-The whole teaching of Holy Scripture places the Incarnation at the center of the methods of God with a sinning race. Toward that Incarnation everything moved until its accomplishment, finding therein fulfillment and explanation. The messages of the prophets and seers and the songs of the psalmists trembled with more or less certainty toward the final music which announced the coming of Christ. All the results also of these partial and broken messages of the past led toward the Incarnation. There is a fourfold statement of purpose declared in the New Testament: the purpose to reveal the Father; the purpose to put away sin; the purpose to destroy the works of the devil; and the purpose to establish by another advent the Kingdom of God in the world. Christ was in conflict with all that was contrary to the purposes of God in individual, social, national, and racial life. There is a sense in which when we have said this we have stated the whole meaning of His coming. His revelation of the Father was toward this end; His putting away of sin was part of this very process; and His second advent will be for the complete and final overthrow of all the works of the devil.
+The whole teaching of Holy Scripture places the Incarnation at the center of the methods of God with a sinning race. Toward that Incarnation everything moved until its accomplishment, finding therein fulfillment and explanation. The messages of the prophets and seers and the songs of the psalmists trembled with more or less certainty toward the final music which announced the coming of Christ. All the results also of these partial and broken messages of the past led toward the Incarnation. There is a fourfold statement of purpose declared in the New Testament: the purpose to reveal the Father; the purpose to put away sin; the purpose to destroy the works of the devil; and the purpose to establish by another advent the Kingdom of God in the world. Christ was in conflict with all that was contrary to the purposes of God in individual, social, national, and racial life. There is a sense in which when we have said this we have stated the whole meaning of His coming. His revelation of the Father was toward this end; His putting away of <!-- page 139 -->sin was part of this very process; and His second advent will be for the complete and final overthrow of all the works of the devil.
 
 << The Fundamentals
 
@@ -2467,6 +2517,7 @@ Oh blessed Jesus, who descended from Heaven into the womb of the blessed virgin,
 
 
 
+<!-- page 141 -->
 ## - Eighteenth Day of Advent
 
 ### SCRIPTURE READING
@@ -2499,6 +2550,7 @@ Left for us His Father’s home,
 Blazed the path of true obedience,
 Shone as light amidst the gloom.
 
+<!-- page 142 -->
 ##### VERSE 3
 
 Thus, with thirty years accomplished,
@@ -2532,7 +2584,7 @@ While the timeless ages run.
 
 #### For All One Common Measure of Joy
 
-Our Saviour, dearly-beloved, was born to-day: let us be glad. For there is no proper place for sadness, when we keep the birthday of the Life, which destroys the fear of mortality and brings to us the joy of promised eternity. No one is kept from sharing in this happiness. There is for all one common measure of joy, because as our Lord the destroyer of sin and death finds none free from charge, so is He come to free us all. Let the saint exult in that he draws near to victory. Let the sinner be glad in that he is invited to pardon. Let the gentile take courage in that he is called to life. For the Son of God in the fulness of time which the inscrutable depth of the Divine counsel has determined, has taken on him the nature of man, thereby to reconcile it to its Author: in order that the inventor of death, the devil, might be conquered through that (nature) which he had conquered. And in this conflict undertaken for us, the fight was fought on great and wondrous principles of fairness; for the Almighty Lord enters the lists with His savage foe not in His own majesty but in our humility, opposing him with the same form and the same nature, which shares indeed our mortality, though it is free from all sin.
+Our Saviour, dearly-beloved, was born to-day: let us be glad. For there is no proper place for sadness, when we keep the birthday of the Life, which destroys the fear of mortality and brings to us the joy of promised eternity. No one is kept from sharing in this happiness. There is for all one common measure of joy, because as our Lord the destroyer of sin and death finds none free from charge, so is He come to free us all. Let the saint exult in that he draws near to victory. Let the sinner be glad in that he is invited to pardon. Let the gentile take courage in that he is called to life. For the Son of God in the fulness of time which the inscrutable depth of the Divine counsel has determined, has taken on him the nature of man, thereby to reconcile it to its Author: in order that the <!-- page 143 -->inventor of death, the devil, might be conquered through that (nature) which he had conquered. And in this conflict undertaken for us, the fight was fought on great and wondrous principles of fairness; for the Almighty Lord enters the lists with His savage foe not in His own majesty but in our humility, opposing him with the same form and the same nature, which shares indeed our mortality, though it is free from all sin.
 
 << Leo the Great, “On the Feast of the Nativity I”
 
@@ -2569,7 +2621,7 @@ We saw thee by thine own sweet light.
 Poor World, said I, what wilt thou do
 To entertain this starry stranger?
 Is this the best thou canst bestow,
-A cold, and not too cleanly, manger?
+A cold, and not too cleanly, manger?<!-- page 144 -->
 Contend, ye powers of heav’n and earth,
 To fit a bed for this huge birth.
 
@@ -2605,6 +2657,7 @@ I believe in God the Father Almighty; Maker of heaven and earth. And in Jesus Ch
 << The Apostles’ Creed
 
 
+<!-- page 145 -->
 ### REFLECTIVE PRAYER
 
 #### O the Unsearchable Riches of Christ’s Love
@@ -2615,6 +2668,7 @@ Without Christ, earth would be hell, and heaven would not be heaven. He is the h
 
 
 
+<!-- page 147 -->
 ## - Nineteenth Day of Advent
 
 ### SCRIPTURE READING
@@ -2650,6 +2704,7 @@ To crown the second Adam’s state!
 What honours shall thy Son adorn,
 Who condescended to be born!
 
+<!-- page 148 -->
 ##### VERSE 4
 
 See him below his angels made,
@@ -2674,6 +2729,7 @@ Nurslings of purity and disciples of chastity, raise we our hymn to the Virgin-b
 
 << Cyril of Jerusalem, The Catechetical Lectures
 
+<!-- page 149 -->
 ### POETICAL VERSE
 
 #### Thou Did’st Leave Thy Throne and Thy Kingly Crown
@@ -2715,6 +2771,7 @@ When He cometh and calleth for me.
 
 << Emily Elizabeth Steele Elliott, “That the King of Glory May Come In”
 
+<!-- page 150 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### The Son of God Took Unto Him Man’s Nature
@@ -2733,6 +2790,7 @@ When we fell from You here, in this world, You took into Your care the reparatio
 
 
 
+<!-- page 151 -->
 ## - Twentieth Day of Advent
 
 ### SCRIPTURE READING
@@ -2767,6 +2825,7 @@ And the babe, the world’s redeemer,
 First revealed his sacred face,
 Evermore and evermore!
 
+<!-- page 152 -->
 ##### VERSE 3
 
 This is He whom seers in old time
@@ -2803,7 +2862,7 @@ Evermore and evermore!
 
 #### In His Fullness Took Upon Himself Me in My Fullness
 
-We speak not of man as having become God, but of God as having become Man. For being by nature perfect God, He naturally became likewise perfect Man: and did not change His nature nor make the dispensation an empty show, but became, without confusion or change or division, one in subsistence with the flesh, which was conceived of the holy Virgin. He did not change the nature of His divinity into the essence of flesh, nor the essence of flesh into the nature of His divinity, and did not make one compound nature out of His divine nature and the human nature He had assumed. In respect of His divinity He is connected with the Father and the Spirit, while in respect of His humanity He is connected with His mother and all mankind. For Christ, which name implies both natures, is spoken of as at once God and man, created and uncreated, subject to suffering and incapable of suffering. The natures of Christ also, although they are united, yet are united without confusion. For each keeps its own natural individuality strictly unchanged. For Christ, indeed, is one, perfect both in divinity and in humanity. For God the Word omitted none of the things which He implanted in our nature when He formed us in the beginning, but took them all upon Himself, body and soul both intelligent and rational, and all their properties. For the creature that is devoid of one of these is not man. But He in His fulness took upon Himself me in my fulness, and was united whole to whole that He might in His grace bestow salvation on the whole man. For what has not been taken cannot be healed.
+We speak not of man as having become God, but of God as having become Man. For being by nature perfect God, He naturally became likewise perfect Man: and did not change His nature nor make the dispensation an empty show, but became, without confusion or change or division, one in subsistence with the flesh, which was conceived of the holy Virgin. He did not change the nature of His divinity into the essence of flesh, nor the essence of flesh into the nature of His divinity, and did not make one compound nature out of His divine nature and the human nature <!-- page 153 -->He had assumed. In respect of His divinity He is connected with the Father and the Spirit, while in respect of His humanity He is connected with His mother and all mankind. For Christ, which name implies both natures, is spoken of as at once God and man, created and uncreated, subject to suffering and incapable of suffering. The natures of Christ also, although they are united, yet are united without confusion. For each keeps its own natural individuality strictly unchanged. For Christ, indeed, is one, perfect both in divinity and in humanity. For God the Word omitted none of the things which He implanted in our nature when He formed us in the beginning, but took them all upon Himself, body and soul both intelligent and rational, and all their properties. For the creature that is devoid of one of these is not man. But He in His fulness took upon Himself me in my fulness, and was united whole to whole that He might in His grace bestow salvation on the whole man. For what has not been taken cannot be healed.
 
 << John Damascene, *An Exact Exposition of the Orthodox Faith*
 
@@ -2834,6 +2893,7 @@ And bind Thy church to Thee.
 << Henry Francis Lyte, “To Heal His Ancient Nation”
 
 
+<!-- page 154 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### Prophet, Priest, and King
@@ -2846,12 +2906,13 @@ It pleased God, in his eternal purpose, to choose and ordain the Lord Jesus, his
 
 #### You Did Send Forth Your Beloved Son
 
-You did send forth Your beloved Son, anointed with Your Holy Spirit; to preach the gospel to the poor, to heal the broken hearted, to preach deliverance to the captives, and recovery of sight to the blind; to set at liberty them that are bruised, to proclaim the acceptable year of the Lord, to comfort all that mourn; to appoint unto them that mourn in Zion, to give unto them beauty for ashes; the oil of joy for mourning; the garment of praise for the spirit of heaviness. He preached ransom to all who are heavy laden, and with faithful hearts come to him; he invites all the thirsty to the waters of life; he bore all our sins upon the cross in his own body; and our debt he blotted out by his blood. My God, look not upon me, but upon the eternal Melchizedek, Christ Jesus, whom You have appointed high priest over Your house, upon the blessed King of Your righteousness, who has no beginning nor end of days, and is a high priest for ever; who did not honor himself, but is ordained of You. I have no comfort neither in heaven above nor upon earth, but in thee alone, have mercy upon me in my great distress; my unclean, sinful flesh afflicts me; my wicked nature wages war against me, and besides, for thy word’s sake, I have become an abomination, an outcast and a fable to all men. My sins combat me, my soul is in tribulation and pain; therefore, dear Lord, I pray thee not for gold and silver, for they can profit me nothing in the day of vengeance, neither for long life, for they are always perverse, but this I desire alone of You, from my whole heart, that You would look upon me, a miserable sinner, with the gracious eyes of Your mercy; in my affliction and pain, comfort me with Your Holy Spirit, and forgive all my sins.
+You did send forth Your beloved Son, anointed with Your Holy Spirit; to preach the gospel to the poor, to heal the broken hearted, to preach deliverance to the captives, and recovery of sight to the blind; to set at liberty them that are bruised, to proclaim the acceptable year of the Lord, to comfort all that mourn; to appoint unto them that mourn in Zion, to give unto them beauty for ashes; the oil of joy for mourning; the garment of praise for the spirit of heaviness. He preached ransom to all who are heavy laden, and with faithful hearts come to him; he invites all the thirsty to the waters of life; he bore all our sins upon the cross in his own body; and our debt he blotted out by his blood. My God, look not upon me, but upon the eternal Melchizedek, Christ Jesus, whom You have appointed high priest over Your house, upon the blessed King of Your righteousness, who has no beginning nor end of days, and is a high priest for ever; who did not honor himself, but is ordained of You. I have no comfort neither in heaven above nor upon earth, but in thee alone, have mercy upon me in my great distress; my unclean, sinful flesh afflicts me; my wicked nature wages war against me, and besides, for thy word’s sake, I have become an abomination, an outcast and a fable to all men. My sins combat me, my soul is in tribulation and pain; therefore, dear Lord, I pray thee not for gold and silver, for they can profit me nothing in the day of vengeance, neither for long life, for they are always perverse, but this I desire alone of You, from my whole heart, that You would <!-- page 155 -->look upon me, a miserable sinner, with the gracious eyes of Your mercy; in my affliction and pain, comfort me with Your Holy Spirit, and forgive all my sins.
 
 << Menno Simons, Psalm 25 Supplication
 
 
 
+<!-- page 157 -->
 ## - Twenty-First Day of Advent
 
 ### SCRIPTURE READING
@@ -2870,7 +2931,7 @@ My heart is stirred by a noble theme as I recite my verses to the king; my tongu
 
 Majestic sweetness sits enthroned
 Upon the Savior’s brow;
-His head with radiant glories crowned,
+His head with radiant glories crowned,<!-- page 158 -->
 His lips with grace o’erflow,
 His lips with grace o’erflow.
 
@@ -2904,7 +2965,7 @@ And saves me from the grave.
 
 #### The Excellency of Christ, the Very True Son of God
 
-In the description of the excellency of Christ, the very true Son of God, there are set down sundry points of glory. No beauty among men is comparable to the beauty of Christ, who is not only the fairest of ten thousand for wisdom and holiness, and whatsoever virtue can be named, as he is man; but also, as he to God, he is the resplendency of his Father’s glory, the Holy One of Israel, of whose glory the whole earth is full, by whose beautiful righteousness and power the deformity of sin and misery of his own is taken away in part, and shall be removed fully. Christ, by the doctrine which he delivers, is able not only to discover sin and misery, and the true way of delivery from the same by grace, and to direct a man in the way of salvation by grace, but also graciously and powerfully to persuade a man to embrace it. Christ is furnished to subdue and conquer and bring in so many as he pleases under subjection unto his kingdom, he has his sword, even the rod of his mouth, his word, which is sharper than any two-edged sword, which no man can withstand. He goes not abroad to conquer or subdue without this his sword, which is his word; it is always with him ready to be drawn forth, and to be thrust into the soul and conscience of the hearer. The wheels of Christ’s chariot, whereupon he rides when he goes to conquer and subdue new converts to his kingdom, are majesty, truth, meekness, righteousness, manifested in the preaching of his gospel; majesty, when the stately magnificence of his person and offices is declared; truth, when certainty of all that he teaches in Scripture is known; meekness, when his grace and mercy are offered to rebels; and righteousness, when justification by faith in his name is clearly set forth. Christ goes no voyage in vain, he comes not short of his intent and purpose, but does the work for which he comes, preaching the gospel. The holiness and righteousness of Jesus Christ, both as he is God and as he is God incarnate, are so essential to his person and employment, that his rule of government and administration of his affairs in his kingdom cannot be but right. Great shall be the joy of men and angels in the general meeting of the whole church, all being gathered together by the angels, who have lived from the beginning of the world to the ending thereof, and all received into the fellowship of God in blessedness to endure for ever.
+In the description of the excellency of Christ, the very true Son of God, there are set down sundry points of glory. No beauty among men is comparable to the beauty of Christ, who is not only the fairest of ten thousand for wisdom and holiness, and whatsoever virtue can be named, as he is man; but also, as he to God, he is the resplendency of his Father’s glory, the Holy One of Israel, of whose glory the whole earth is full, by whose beautiful righteousness and power the deformity of sin and misery of his own is taken away in part, and shall be removed fully. Christ, by the doctrine which he delivers, is able not only to discover sin and misery, and the true way of delivery from the same by grace, and to direct a man in the way of salvation by grace, but also graciously and powerfully to persuade a man to embrace it. Christ is furnished <!-- page 159 -->to subdue and conquer and bring in so many as he pleases under subjection unto his kingdom, he has his sword, even the rod of his mouth, his word, which is sharper than any two-edged sword, which no man can withstand. He goes not abroad to conquer or subdue without this his sword, which is his word; it is always with him ready to be drawn forth, and to be thrust into the soul and conscience of the hearer. The wheels of Christ’s chariot, whereupon he rides when he goes to conquer and subdue new converts to his kingdom, are majesty, truth, meekness, righteousness, manifested in the preaching of his gospel; majesty, when the stately magnificence of his person and offices is declared; truth, when certainty of all that he teaches in Scripture is known; meekness, when his grace and mercy are offered to rebels; and righteousness, when justification by faith in his name is clearly set forth. Christ goes no voyage in vain, he comes not short of his intent and purpose, but does the work for which he comes, preaching the gospel. The holiness and righteousness of Jesus Christ, both as he is God and as he is God incarnate, are so essential to his person and employment, that his rule of government and administration of his affairs in his kingdom cannot be but right. Great shall be the joy of men and angels in the general meeting of the whole church, all being gathered together by the angels, who have lived from the beginning of the world to the ending thereof, and all received into the fellowship of God in blessedness to endure for ever.
 
 << David Dickson, *A Brief Explication of the Psalms*
 
@@ -2921,6 +2982,7 @@ Hadst for Thy place
 Of birth, a base
 Out-stable for Thy court here.
 
+<!-- page 160 -->
 Instead of neat inclosures
 Of interwoven osiers,
 Instead of fragrant posies,
@@ -2953,7 +3015,7 @@ A free-born of our city.
 
 #### The Only Redeemer of God’s Elect
 
-The only Redeemer of God’s elect is the Lord Jesus Christ, who being the eternal Son of God, became man, and so was and continues to be God and man, in two distinct natures and one person for ever. Christ, the son of God, became man by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Spirit in the Virgin Mary, and born of her, yet without sin. Christ as our Redeemer executes the offices of a prophet, of a priest, and of a king, both in his state of humiliation and exaltation. Christ executes the office of a prophet, in revealing to us, by his Word, and Spirit, the will of God for our salvation. Christ executes the office of a priest, in his once offering up himself a sacrifice to satisfy divine justice, and to reconcile us to God, and in making continual intercession for us. Christ executes the office of a king in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies. Christ’s humiliation consisted in his being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time. Christ’s exaltation consists in his rising again from the dead on the third day, in ascending up into heaven, and sitting at the right hand of God the Father, and in coming to judge the world at the last day.
+The only Redeemer of God’s elect is the Lord Jesus Christ, who being the eternal Son of God, became man, and so was and continues to be God and man, in two distinct natures and one person for ever. Christ, the son of God, became man by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Spirit in the Virgin Mary, and born of her, yet without sin. Christ as our Redeemer executes the offices of a prophet, of a priest, and of a king, both in his state of humiliation and exaltation. Christ executes the office of a prophet, in revealing to us, by his Word, and Spirit, the will of God for our salvation. <!-- page 161 -->Christ executes the office of a priest, in his once offering up himself a sacrifice to satisfy divine justice, and to reconcile us to God, and in making continual intercession for us. Christ executes the office of a king in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies. Christ’s humiliation consisted in his being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried, and continuing under the power of death for a time. Christ’s exaltation consists in his rising again from the dead on the third day, in ascending up into heaven, and sitting at the right hand of God the Father, and in coming to judge the world at the last day.
 
 << Spurgeon’s Catechism
 
@@ -2966,11 +3028,12 @@ With regard to Christ, the law and the prophets and the evangelists have proclai
 << Irenaeus, *Fragments*
 
 ![Painting](05 A- di Cosimo - 1489 - Visitation)
-Cosimo, Piero di. Visitation. 1489. Oil on panel, 184 × 189 cm. Samuel H. Kress Collection.
+<!-- page 163 -->Cosimo, Piero di. Visitation. 1489. Oil on panel, 184 × 189 cm. Samuel H. Kress Collection.
 
 
 
 
+<!-- page 166 -->
 ## Fourth Week of Advent: Appearings
 
 ### ADVENT PRELUDE
@@ -2989,6 +3052,7 @@ the truth itself and the Spirit revealing it by its own light to the soul.
 
 No man can make his way to God. No person can understand God by his own ability. God must make his way to man. God must reveal himself to feeble and finite humanity. Throughout the history of the world, God made appearances in which he manifested himself to mankind. Our God does not remain distant and uninvolved in the world. He is actively engaged in the events of the world, and he graciously intervenes in our circumstances. During Advent, we live in expectation of an encounter with God, recalling what it was like for ancient saints to be in God’s presence. In the birth of Christ, we do not simply have a veiled or partial manifestation of God to humanity. Jesus is the full and final revelation of God to his creation. Those who experienced God in the past met with the true and living God in powerful ways. But it could not compare with the full unveiling of God in the Son of God, Jesus Christ. There is no greater word of revelation than the Living Word of God. The incarnate Christ—fully God and fully Man—is Immanuel: God-in-the-flesh dwelling with men. His appearance is a divine gift. His advent is hope of deliverance. His arrival is the culmination of God’s self-disclosure to lowly humanity. And only through his illuminating presence can sinful humanity find forgiveness of sin and the gift of immortality. Let us this week look to encounter God through his written word and the Living Word.
 
+<!-- page 167 -->
 ### ADVENT PREAMBLE
 
 #### A Celebration of Appearings
@@ -3003,7 +3067,7 @@ Christmas is a celebration of divine appearing, God dwelling with mankind, divin
 
 #### READER
 
-This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit. Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly. But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit. She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.” All this took place to fulfill what the Lord had said through the prophet: “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”). When Joseph woke up, he did as the angel of the Lord had commanded him, and embraced Mary as his wife. But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.
+This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit. Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly. But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit. She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.” All this took place to fulfill what the Lord had said through the prophet: “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”). When Joseph woke up, <!-- page 168 -->he did as the angel of the Lord had commanded him, and embraced Mary as his wife. But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.
 
 << Matthew 1:18–25
 
@@ -3047,6 +3111,7 @@ Alleluia to our King;
 Christ the Savior is born,
 Christ the Savior is born.
 
+<!-- page 169 -->
 ### COMMUNITY DECLARATION
 
 #### Love Toward Mankind
@@ -3061,7 +3126,7 @@ We have rejected God to our own demise, causing the earth to suffer from spurnin
 
 ##### LEADER
 
-And you were dead in your trespasses and sins, in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience. All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath. My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns— broken cisterns that cannot hold water. Turn, O Lord, and deliver my soul; save me because of Your loving devotion. Remember, O Lord, Your compassion and loving devotion, for they are from age to age. Remember not the sins of my youth, nor my rebellious acts; remember me according to Your loving devotion, because of Your goodness, O Lord. May Your loving devotion rest on us, O Lord, as we put our hope in You. My God of loving devotion will come to meet me; God will let me stare down my foes. You know that Christ appeared to take away sins, and in Him there is no sin. In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior. This is how God’s love was revealed among us: God sent His one and only Son into the world, so that we might live through Him. And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins. God proves His love for us in this: While we were still sinners, Christ died for us. Because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved. Behold what manner of love the Father has given to us, that we should be called children of God. And that is what we are! But I have trusted in Your loving devotion; my heart will rejoice in Your salvation. I will sing to the Lord, for He has been good to me. You have granted me life and loving devotion, and Your care has preserved my spirit. May the beloved of the Lord rest secure in Him; God shields him all day long, and upon His shoulders he rests.
+And you were dead in your trespasses and sins, in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience. All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath. My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns— broken cisterns that cannot hold water. Turn, O Lord, and deliver my soul; save me because of Your loving devotion. Remember, O Lord, Your compassion and loving devotion, for they are from age to age. Remember not the sins of my youth, nor my rebellious acts; remember me according to Your loving devotion, because of <!-- page 170 -->Your goodness, O Lord. May Your loving devotion rest on us, O Lord, as we put our hope in You. My God of loving devotion will come to meet me; God will let me stare down my foes. You know that Christ appeared to take away sins, and in Him there is no sin. In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior. This is how God’s love was revealed among us: God sent His one and only Son into the world, so that we might live through Him. And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins. God proves His love for us in this: While we were still sinners, Christ died for us. Because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved. Behold what manner of love the Father has given to us, that we should be called children of God. And that is what we are! But I have trusted in Your loving devotion; my heart will rejoice in Your salvation. I will sing to the Lord, for He has been good to me. You have granted me life and loving devotion, and Your care has preserved my spirit. May the beloved of the Lord rest secure in Him; God shields him all day long, and upon His shoulders he rests.
 
 << Ephesians 2:1–3; Jeremiah 2:13; Psalm 6:4; 
 << Psalm 25:6–7; Psalm 33:22; Psalm 56:10; 1 John 3:5; 
@@ -3078,6 +3143,7 @@ The Lord lives, and blessed be my Rock! And may God, the Rock of my salvation, b
 
 << 2 Samuel 22:48–51
 
+<!-- page 171 -->
 ### BLESSING AND BENEDICTION
 
 #### Kept Blameless
@@ -3090,6 +3156,7 @@ Grace and peace to you from Him who is and was and is to come, and from the seve
 
 
 
+<!-- page 173 -->
 ## - Twenty-Second Day of Advent
 
 ### SCRIPTURE READING
@@ -3100,6 +3167,7 @@ Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maid
 
 << Genesis 16:1–16
 
+<!-- page 174 -->
 ### DEVOTIONAL HYMN
 
 #### The Fear Not of Christmas-Tide
@@ -3145,7 +3213,7 @@ Take thy Christmas joy from Him.
 
 #### Make Good Your Christmas-Day
 
-The whole life of Christ was a continual passion; others die martyrs, but Christ was born a martyr. He found a Golgotha (where he was crucified) even in Bethlehem, where he was born; for to his tenderness then the straws were almost as sharp as the thorns after, and the manger as uneasy at first as his cross at last. His birth and his death were but one continual act, and his Christmas-day and his Good Friday are but the evening and morning of one and the same day. And as even his birth is his death, so every action and passage that manifests Christ to us, is his birth, for Epiphany is manifestation because upon that day Christ was manifested to the Gentiles in those wise men who came then to worship him, yet the ancient church called this day (the day of Christ’s birth) the Epiphany, because this day Christ was manifested to the world, by being born this day. Every manifestation of Christ to the world, to the church, to a particular soul, is an Epiphany, a Christmas-day. Make good your Christmas-day, that Christ be born in you, and he that died for you will live with you all the year, and all the years of your lives, and inspire into you, and receive from you at the last gasp.
+The whole life of Christ was a continual passion; others die martyrs, but Christ was born a martyr. He found a Golgotha (where he was crucified) even in Bethlehem, where he was born; for to his tenderness then the straws were almost as sharp as the <!-- page 175 -->thorns after, and the manger as uneasy at first as his cross at last. His birth and his death were but one continual act, and his Christmas-day and his Good Friday are but the evening and morning of one and the same day. And as even his birth is his death, so every action and passage that manifests Christ to us, is his birth, for Epiphany is manifestation because upon that day Christ was manifested to the Gentiles in those wise men who came then to worship him, yet the ancient church called this day (the day of Christ’s birth) the Epiphany, because this day Christ was manifested to the world, by being born this day. Every manifestation of Christ to the world, to the church, to a particular soul, is an Epiphany, a Christmas-day. Make good your Christmas-day, that Christ be born in you, and he that died for you will live with you all the year, and all the years of your lives, and inspire into you, and receive from you at the last gasp.
 
 << John Donne, "Sermon IV"
 
@@ -3173,6 +3241,7 @@ For when or whither I go I cannot tell.
 
 << Anonymous
 
+<!-- page 176 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### Jesus Christ, the Image of the Eternal Father
@@ -3185,12 +3254,13 @@ The Son of God, our Lord Jesus Christ, who is the Image of the Eternal Father, i
 
 #### O Most Merciful Redeemer
 
-See, O most merciful Redeemer, with how great a multitude of enemies I am besieged and set round about, who without ceasing seek my destruction, and have already most tyrannously spoiled me of my garments, and most grievously wounded me, leaving me half dead; so that without Your help I must needs perish. Help, therefore, O most sweet Saviour, and deliver me from these mine enemies. Heal me, O Lord, and I shall be healed. Save me, and I shall be saved. Ah good Jesus, my sins are great and infinite, I confess, but Your mercies are much greater and more infinite. My wounds are many and grievous, but You are that most loving Samaritan, full of pity and compassion, who, by pouring wine and oil into my wounds, are able to heal them. I am a sinner, but You are a Saviour. I am sick, but You are a physician. I am blind, but You are the Light of the world. I am Satan’s prisoner, but You are a Redeemer. I am dead in sin, but You are the Resurrection and life. I am hungry, but You are the living Bread. I am thirsty, but You are the Well of life. I am poor, but You are the Lord of all wealth. I am a barren tree, but You are that true and fruitful Vine. I am the lost sheep, but You are that good Shepherd. O most merciful Saviour, I find in myself nothing but sin, death, and damnation, yet in You I find grace, mercy, favour, reconciliation, forgiveness of sins, and everlasting life. Take away therefore what is mine, which is all evil, and give me what is Yours, which is all good.
+See, O most merciful Redeemer, with how great a multitude of enemies I am besieged and set round about, who without ceasing seek my destruction, and have already most tyrannously spoiled me of my garments, and most grievously wounded me, leaving me half dead; so that without Your help I must needs perish. Help, therefore, O most sweet Saviour, and deliver me from these mine enemies. Heal me, O Lord, and I shall be healed. Save me, and I shall be saved. Ah good Jesus, my sins are great and infinite, I confess, but Your mercies are much greater and more infinite. My wounds are many and grievous, but You are that most loving Samaritan, full of pity and compassion, who, by pouring wine and oil into my wounds, are able to heal them. I am a sinner, but You are a Saviour. I am sick, but You are a physician. I am blind, but <!-- page 177 -->You are the Light of the world. I am Satan’s prisoner, but You are a Redeemer. I am dead in sin, but You are the Resurrection and life. I am hungry, but You are the living Bread. I am thirsty, but You are the Well of life. I am poor, but You are the Lord of all wealth. I am a barren tree, but You are that true and fruitful Vine. I am the lost sheep, but You are that good Shepherd. O most merciful Saviour, I find in myself nothing but sin, death, and damnation, yet in You I find grace, mercy, favour, reconciliation, forgiveness of sins, and everlasting life. Take away therefore what is mine, which is all evil, and give me what is Yours, which is all good.
 
 << Thomas Becon, *Flower of Godly Prayers*
 
 
 
+<!-- page 179 -->
 ## - Twenty-Third Day of Advent
 
 ### SCRIPTURE READING
@@ -3201,6 +3271,7 @@ Then the Lord appeared to Abraham by the Oaks of Mamre in the heat of the day, w
 
 << Genesis 18:1–15
 
+<!-- page 180 -->
 ### DEVOTIONAL HYMN
 
 #### The God of Abraham Praise
@@ -3245,7 +3316,7 @@ The great archangels sing,
 And “Holy, holy, holy!” cry
 “Almighty King!
 Who was, and is, the same,
-And evermore shall be:
+And evermore shall be:<!-- page 181 -->
 Jehovah, Lord, the great I AM,
 We worship thee!”
 
@@ -3264,7 +3335,7 @@ Sarah is not transported with admiration and joy, on receiving the promise of Go
 #### The Light and Glory of the Word
 
 The Spirit breathes upon the Word,
-And brings the truth to sight;
+And brings the truth to sight;<!-- page 182 -->
 Precepts and promises afford
 A sanctifying light.
 
@@ -3294,7 +3365,7 @@ In brighter worlds above.
 
 #### The Eternal Word of God Was Made Flesh
 
-We believe and confess constantly, that Christ in the time hereunto appointed, according to the promise of God, was given to us of the Father; and that so the Eternal Word of God was made flesh; that is, that this Son of God, being united to our nature in one person, was made our brother, that we, through him, might be made partakers of the inheritance of God. We believe, that this Jesus Christ was conceived of the Holy Ghost; born of the pure and undefiled Virgin Mary; that he suffered under Pontius Pilate, was crucified, and died for our sins; and that so, by the one oblation of himself, he did satisfy God our heavenly Father for us, and reconcile us to him; and thus by his death did triumph, and overcome the world, death, and hell. Moreover, that according to the flesh he was buried, descended into hell, and the third day rose again from the dead. These things being sufficiently approved, that he in his soul and body ascended into heaven, and sitteth there at the right hand, that is, in the glory of God the Father Almighty; and from thence shall come to judge the quick and the dead.
+We believe and confess constantly, that Christ in the time hereunto appointed, according to the promise of God, was given to us of the Father; and that so the Eternal Word of God was made flesh; that is, that this Son of God, being united to our nature in one person, was made our brother, that we, through him, might be made partakers of the inheritance of God. We believe, that this Jesus Christ was conceived of the Holy Ghost; born of the pure and undefiled Virgin Mary; that he suffered under Pontius Pilate, was crucified, and died for our sins; and that so, by the one oblation of himself, he did satisfy God our heavenly Father for us, and reconcile us to him; and thus by his death did triumph, and overcome the world, death, and hell. Moreover, that according to the flesh he was buried, descended into hell, and the third day rose again from the dead. These things being sufficiently approved, that he in his soul and body ascended into heaven, and sitteth there at <!-- page 183 -->the right hand, that is, in the glory of God the Father Almighty; and from thence shall come to judge the quick and the dead.
 
 << Confession of Basle
 
@@ -3308,6 +3379,7 @@ Stir up, O Lord, Your power, and come; and mercifully fulfill that which You hav
 
 
 
+<!-- page 185 -->
 ## - Twenty-Fourth Day of Advent
 
 ### SCRIPTURE READING
@@ -3331,6 +3403,7 @@ And I am left alone with thee;
 With thee all night I mean to stay
 And wrestle till the break of day.
 
+<!-- page 186 -->
 ##### VERSE 2
 
 I need not tell thee who I am,
@@ -3379,7 +3452,7 @@ I shall with the God-man prevail.
 ##### VERSE 7
 
 My strength is gone, my nature dies,
-I sink beneath thy weighty hand,
+I sink beneath thy weighty hand,<!-- page 187 -->
 Faint to revive, and fall to rise;
 I fall, and yet by faith I stand;
 I stand, and will not let thee go,
@@ -3426,7 +3499,7 @@ Thy nature and thy name is love.
 The Sun of Righteousness on me
 Hath rose, with healing in his wings;
 Withered my nature’s strength; from thee
-My soul its life and comfort brings;
+My soul its life and comfort brings;<!-- page 188 -->
 My help is all laid up above;
 Thy nature and thy name is love.
 
@@ -3454,7 +3527,7 @@ Thy nature and thy name is love.
 
 #### In Your Eye This Man Is True God
 
-Be with me now in your faithful spirit, holy and blessed Patriarch Jacob, to combat the poisonous hissings of the serpent of unbelief. Prevail once more in your wrestling with the Man, and, being the stronger, once more entreat His blessing. Why pray for what you might demand from your weaker Opponent? Your strong arm has vanquished Him Whose blessing you pray. Your bodily victory is in broad contrast to your soul’s humility, your deeds to your thoughts. It is a Man whom you hold powerless in your strong grasp; but in your eye this Man is true God, and God not in name only, but in nature. It is not the blessing of a God by adoption that you do claim, but the true God’s blessing. With Man you strive; but face to face you see God. What you see with the bodily eye is different far from what you behold with the vision of faith. You have felt Him to be weak Man; but your soul has been saved because it saw God in Him. When you were wrestling you were Jacob; you are Israel now, through faith in the blessing which you did claim. According to the flesh, the Man is thy inferior, for a type of His passion in the flesh; but you can recognize God in that weak flesh, for a sign of His blessing in the Spirit. The witness of the eye does not disturb your faith; His feebleness does not mislead you into neglect of His blessing. Though He is Man, His humanity is no bar to His being God, His Godhead no bar to His being true God; for, being God, He must indeed be true.
+Be with me now in your faithful spirit, holy and blessed Patriarch Jacob, to combat the poisonous hissings of the serpent of unbelief. Prevail once more in your wrestling with the Man, and, being the stronger, once more entreat His blessing. Why pray for what you might demand from your weaker Opponent? Your strong arm has vanquished Him Whose blessing you pray. Your bodily victory is in broad contrast to your soul’s humility, your deeds to your thoughts. It is a Man whom you hold powerless in your strong grasp; but in your eye this Man is true God, and God not in name only, but in nature. It is not the blessing of a God by adoption that you do claim, but the true God’s blessing. With Man you strive; but face to face you see God. What you see with the bodily eye is different far from what you behold with the vision of faith. You have felt Him to be weak Man; but your soul has been saved because it saw God in Him. When you were wrestling you were Jacob; you are Israel now, through faith in the blessing which you did claim. According to the flesh, the Man is thy inferior, for a type of His passion in the <!-- page 189 -->flesh; but you can recognize God in that weak flesh, for a sign of His blessing in the Spirit. The witness of the eye does not disturb your faith; His feebleness does not mislead you into neglect of His blessing. Though He is Man, His humanity is no bar to His being God, His Godhead no bar to His being true God; for, being God, He must indeed be true.
 
 << Hilary of Poitiers, *On the Trinity*
 
@@ -3489,6 +3562,7 @@ While endless ages run.
 
 << Gregory the Great, “Hymn to the Saviour”
 
+<!-- page 190 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### We Believe That You Came From God
@@ -3507,13 +3581,14 @@ O Lord, I am lost in astonishment at Your mercy and love. That You should not on
 
 
 
+<!-- page 191 -->
 ## - Twenty-Fifth Day of Advent
 
 ### SCRIPTURE READING
 
 #### I Have Now Come as Commander of the Lord’s Army
 
-Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and their spirits failed for fear of the Israelites. At that time the Lord said to Joshua, “Make flint knives and circumcise the sons of Israel once again.” So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth. Now this is why Joshua circumcised them: All those who came out of Egypt—all the men of war—had died on the journey in the wilderness after they had left Egypt. Though all who had come out were circumcised, none of those born in the wilderness on the journey from Egypt had been circumcised. For the Israelites had wandered in the wilderness forty years, until all the nation’s men of war who had come out of Egypt had died, since they did not obey the Lord. So the Lord vowed never to let them see the land He had sworn to their fathers to give us, a land flowing with milk and honey. And Joshua raised up their sons in their place, and these were the ones he circumcised. Until this time they were still uncircumcised, since they had not been circumcised along the way. And after all the nation had been circumcised, they stayed there in the camp until they were healed. Then the Lord said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So that place has been called Gilgal to this day. On the evening of the fourteenth day of the month, while the Israelites were camped at Gilgal on the plains of Jericho, they kept the Passover. The day after the Passover, on that very day, they ate unleavened bread and roasted grain from the produce of the land. And the day after they had eaten from the produce of the land, the manna ceased. There was no more manna for the Israelites, so that year they began to eat the crops of the land of Canaan. Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in His hand. Joshua approached Him and asked, “Are You for us or for our enemies?” “Neither,” He replied. “I have now come as Commander of the Lord’s army.” Then Joshua fell facedown in reverence and asked Him, “What does my Lord have to say to His servant?” The Commander of the Lord’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.
+Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and their spirits failed for fear of the Israelites. At that time the Lord said to Joshua, “Make flint knives and circumcise the sons of Israel once again.” So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth. Now this is why Joshua circumcised them: All those who came out of Egypt—all the men of war—had died on the journey in the wilderness after they had left Egypt. Though all who had come out were circumcised, none of those born in the wilderness on the journey from Egypt had been circumcised. For the Israelites had wandered in the wilderness forty years, until all the nation’s men of war who had come out of Egypt had died, since they did not obey the Lord. So the Lord vowed never to let them see the land He had sworn to their fathers to give us, a land flowing with milk and honey. And Joshua raised up their sons in their place, and these were the ones he circumcised. Until this time they were still uncircumcised, since they had not been circumcised along the way. And after all the nation had been circumcised, they stayed there in the camp until they were healed. Then the Lord said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So that place has been called Gilgal to this day. On the evening of the fourteenth day of the month, while the Israelites were camped at Gilgal on the plains of Jericho, they kept the Passover. The day after the Passover, on that very day, they ate unleavened bread and roasted grain from the produce of the land. And the day after they had eaten from the produce of the land, the manna ceased. There was no more manna for the Israelites, so that year they began to eat the crops of the land of Canaan. Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in His hand. Joshua approached Him and asked, “Are You for us or for our enemies?” “Neither,” He replied. “I have now come as Commander of the Lord’s army.” Then Joshua fell <!-- page 192 -->facedown in reverence and asked Him, “What does my Lord have to say to His servant?” The Commander of the Lord’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.
 
 << Joshua 5:1–15
 
@@ -3554,6 +3629,7 @@ Preaching truth and doom to come,
 Christ, our Enoch, is translated
 To his everlasting home.
 
+<!-- page 193 -->
 ##### VERSE 4
 
 Raise us from the Earth to Heaven,
@@ -3571,7 +3647,7 @@ In his heav’nly citadel.
 
 #### The Defiance of Christmas
 
-Unless we understand the presence of an enemy, we shall not only miss the point of Christianity, but even miss the point of Christmas. Christmas for us in Christendom has become one thing, and in one sense even a simple thing. But like all the truths of that tradition, it is in another sense a very complex thing. Its unique note is the simultaneous striking of many notes; of humility, of gaiety, of gratitude, of mystical fear, but also of vigilance and of drama. It is not only an occasion for the peacemakers any more than for the merry-makers. There is something defiant in it also; something that makes the abrupt bells at midnight sound like the great guns of a battle that has just been won. All this indescribable thing that we call the Christmas atmosphere only hangs in the air as something like a lingering fragrance or fading vapour from the exultant explosion of that one hour in the Judean hills nearly two thousand years ago. But the savour is still unmistakable, and it is something too subtle or too solitary to be covered by our use of the word peace. By the very nature of the story the rejoicings in the cavern were rejoicings in a fortress or an outlaw’s den; properly understood it is not unduly flippant to say they were rejoicings in a dug-out. It is not only true that such a subterranean chamber was a hiding-place from enemies; and that the enemies were already scouring the stony plain that lay above it like a sky. It is not only that the very horse-hoofs of Herod might in that sense have passed like thunder over the sunken head of Christ. It is also that there is in that image a true idea of an outpost, of a piercing through the rock and an entrance into an enemy territory. There is in this buried divinity an idea of undermining the world; of shaking the towers and palaces from below; even as Herod the great king felt that earthquake under him and swayed with his swaying palace.
+Unless we understand the presence of an enemy, we shall not only miss the point of Christianity, but even miss the point of Christmas. Christmas for us in Christendom has become one thing, and in one sense even a simple thing. But like all the truths of that tradition, it is in another sense a very complex thing. Its unique note is the simultaneous striking of many notes; of humility, of gaiety, of gratitude, of mystical fear, but also of vigilance and of drama. It is not only an occasion for the peacemakers any more than for the merry-makers. There is something defiant in it also; something that makes the abrupt bells at midnight sound like the great guns of a battle that has just been won. All this indescribable thing that we call the Christmas atmosphere only hangs in the air as something like a lingering fragrance or fading vapour from the exultant explosion of that one hour in the Judean hills nearly two thousand years ago. But the savour is still unmistakable, and it is something too subtle or too solitary to be covered by our use of the word peace. By the very nature of the story the rejoicings in the cavern were rejoicings in a fortress or an outlaw’s den; properly understood it is not unduly flippant to say they were rejoicings in a dug-out. It is not only true that such a subterranean chamber was a hiding-place from enemies; and that the enemies were already scouring the stony plain that lay above it like a sky. It is not only that the very horse-hoofs of Herod might in that sense have passed like thunder over the sunken head of Christ. It is also that there is in that image a true idea of an outpost, of a piercing through the rock <!-- page 194 -->and an entrance into an enemy territory. There is in this buried divinity an idea of undermining the world; of shaking the towers and palaces from below; even as Herod the great king felt that earthquake under him and swayed with his swaying palace.
 
 << G. K. Chesterton, *The Everlasting Man*
 
@@ -3610,7 +3686,7 @@ Love caused Thy incarnation,
 Love brought Thee down to me;
 Thy thirst for my salvation
 Procured my liberty.
-O love beyond all telling,
+O love beyond all telling,<!-- page 195 -->
 That led Thee to embrace,
 In love all love excelling,
 Our lost and fallen race!
@@ -3653,7 +3729,7 @@ Endeavor to oppose.
 
 He comes to judge the nations,
 A terror to His foes,
-A Light of consolations
+A Light of consolations<!-- page 196 -->
 And blessed Hope to those
 Who love the Lord’s appearing.
 
@@ -3675,19 +3751,20 @@ Jesus the Son of the Virgin Mary, the promised Messiah; whom the Fathers expecte
 
 #### May Recover All by Being Made Alive Again in Christ
 
-O Eternal God and Father, teach me, I beseech You, by Your Holy Spirit, that even as I have lost all by dying in Adam, so I may recover all by being made alive again in Christ. Grant that I may daily die to my self, by continual mortification and repentance, and devote and give myself up entirely to You; that so all the good things which I have lost may be restored to me, through Jesus Christ our Lord. Amen.
+O Eternal God and Father, teach me, I beseech You, by Your Holy Spirit, that even as I have lost all by dying in Adam, so I may recover all by being made alive again in Christ. Grant that I may daily die to my self, by continual mortification and repentance, and devote and give myself up entirely to You; that so all the good <!-- page 197 -->things which I have lost may be restored to me, through Jesus Christ our Lord. Amen.
 
 << Johann Ardnt, *True Christianity*
 
 
 
+<!-- page 199 -->
 ## - Twenty-Sixth Day of Advent
 
 ### SCRIPTURE READING
 
 #### The Fourth Man in the Fire
 
-King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon. Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the other officials of the provinces to attend the dedication of the statue he had set up. So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the rulers of the provinces assembled for the dedication of the statue that King Nebuchadnezzar had set up, and they stood before it. Then the herald loudly proclaimed, “O people of every nation and language, this is what you are commanded: As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up. And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.” Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up. At this time some astrologers came forward and maliciously accused the Jews, saying to King Nebuchadnezzar, “O king, may you live forever! You, O king, have issued a decree that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music must fall down and worship the golden statue, and that whoever does not fall down and worship will be thrown into the blazing fiery furnace. But there are some Jews you have appointed to manage the province of Babylon—Shadrach, Meshach, and Abednego—who have ignored you, O king, and have refused to serve your gods or worship the golden statue you have set up.” Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king, and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true that you do not serve my gods or worship the golden statue I have set up? Now, if you are ready, as soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the statue I have made. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?” Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king. But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.” At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual, and he commanded some mighty men of valor in his army to tie up Shadrach, Meshach, and Abednego and throw them into the blazing fiery furnace. So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace. The king’s command was so urgent and the furnace so hot that the fiery flames killed the men who carried up Shadrach, Meshach, and Abednego. And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace. Suddenly King Nebuchadnezzar jumped up in amazement and asked his advisers, “Did we not throw three men, firmly bound, into the fire?” “Certainly, O king,” they replied. “Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!” Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire, and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them. Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They violated the king’s command and risked their lives rather than serve or worship any god except their own God. Therefore I decree that the people of any nation or language who say anything offensive against the God of Shadrach, Meshach, and Abednego will be cut into pieces and their houses reduced to rubble. For there is no other god who can deliver in this way.” Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon. 
+King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon. Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the other officials of the provinces to attend the dedication of the statue he had set up. So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the rulers of the provinces assembled for the dedication of the statue that King Nebuchadnezzar had set up, and they stood before it. Then the herald loudly proclaimed, “O people of every nation and language, this is what you are commanded: As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the golden statue that King Nebuchadnezzar has set up. And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.” Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up. At this time some astrologers came forward and maliciously accused the Jews, saying to King Nebuchadnezzar, “O king, may you live forever! You, O king, have issued a decree that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music must fall down and worship the golden statue, and that whoever does not fall down and worship will be thrown into the blazing fiery furnace. But there are some Jews you have appointed to manage the province of Babylon—Shadrach, Meshach, and Abednego—who have ignored you, O king, and have refused to serve your gods or worship the golden statue you have set up.” Then Nebuchadnezzar, furious with rage, summoned Shadrach, Meshach, and Abednego. So these men were brought before the king, and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true that you do not serve my gods or worship the golden statue I have set up? Now, if you are ready, as soon as you <!-- page 200 -->hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, you must fall down and worship the statue I have made. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?” Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king. But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.” At this, Nebuchadnezzar was filled with rage, and the expression on his face changed toward Shadrach, Meshach, and Abednego. He gave orders to heat the furnace seven times hotter than usual, and he commanded some mighty men of valor in his army to tie up Shadrach, Meshach, and Abednego and throw them into the blazing fiery furnace. So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace. The king’s command was so urgent and the furnace so hot that the fiery flames killed the men who carried up Shadrach, Meshach, and Abednego. And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into the blazing fiery furnace. Suddenly King Nebuchadnezzar jumped up in amazement and asked his advisers, “Did we not throw three men, firmly bound, into the fire?” “Certainly, O king,” they replied. “Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!” Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire, and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them. Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They violated the king’s command and risked their lives rather than serve or worship any god except their own God. Therefore I decree that the people of any nation or language who say anything offensive against the God of Shadrach, <!-- page 201 -->Meshach, and Abednego will be cut into pieces and their houses reduced to rubble. For there is no other god who can deliver in this way.” Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon. 
 
 << Daniel 3:1–30
 
@@ -3729,7 +3806,7 @@ Will the Lord appear?
 
 #### The World Needs a Savior
 
-This is just what the world wanted. This is just what the world always wants. The world wants this not the less that it is in some instances not aware of the necessity. What does a drowning man want? A lecture on natation? Tell him how to use his right arm, and his left, and his lower limbs; remark on the gracefulness of his action. All this would be exceedingly gratifying to a man who is struggling for life. You would not mock a drowning man; you are not cruel enough for that. What does the drowning man want? A strong grip: no reasoning; let him be reasoned with by-and-by; let him work his way into the metaphysics of the occasion when he has leisure. First of all get him out, and bring him into safety .... The world did not want an adviser. The world had advised itself almost into hell. The world did not ask for a speculator. Everything that man could do had been done, and men sat in the darkness of their own wisdom. The world did not want a reformer, a man who could change his outward and transient relations, an engineer that would continually devote his time (for appropriate remuneration) to the readjustment of the wheels and the pulleys and the various mechanical forces of society. The world wanted a Saviour. Saviour is a complex word. It has in it all human nature, all divine nature, all the past of history, all the possibility of prophecy, all the mystery of apocalypse; the tenderness outvying the love of women, the majesty humbling the haughtiness of kings.
+This is just what the world wanted. This is just what the world always wants. The world wants this not the less that it is in some instances not aware of the necessity. What does a drowning man <!-- page 202 -->want? A lecture on natation? Tell him how to use his right arm, and his left, and his lower limbs; remark on the gracefulness of his action. All this would be exceedingly gratifying to a man who is struggling for life. You would not mock a drowning man; you are not cruel enough for that. What does the drowning man want? A strong grip: no reasoning; let him be reasoned with by-and-by; let him work his way into the metaphysics of the occasion when he has leisure. First of all get him out, and bring him into safety .... The world did not want an adviser. The world had advised itself almost into hell. The world did not ask for a speculator. Everything that man could do had been done, and men sat in the darkness of their own wisdom. The world did not want a reformer, a man who could change his outward and transient relations, an engineer that would continually devote his time (for appropriate remuneration) to the readjustment of the wheels and the pulleys and the various mechanical forces of society. The world wanted a Saviour. Saviour is a complex word. It has in it all human nature, all divine nature, all the past of history, all the possibility of prophecy, all the mystery of apocalypse; the tenderness outvying the love of women, the majesty humbling the haughtiness of kings.
 
 << Joseph Parker, *The People’s Bible*
 
@@ -3750,7 +3827,7 @@ Yet none approach to warm their hearts, or feel my fire but I!
 My faultless breast the furnace is,
   the fuel wounding thorns,
 Love is the fire, and sighs the smoke,
-  the ashes shame and scorns;
+  the ashes shame and scorns;<!-- page 203 -->
 The fuel justice layeth on, and mercy blows the coals,
 The metal in this furnace wrought are men’s defiled souls,
 For which, as now on fire I am to work them to their good,
@@ -3772,12 +3849,13 @@ We further believe and teach that the Son of God, our Lord Jesus Christ, was pre
 
 #### Stand by Me in the Name of Jesus Christ
 
-Almighty, Eternal God! What a strange thing is this world! How does it open wide the mouths of the people! How small and poor is the confidence of men toward God! How is the flesh so tender and weak, and the devil so mighty and so busy through his apostles and the wise of this world! How soon do they withdraw the hand, and whirl away, and run the common path and the broad way to hell, where the godless belong. They look only upon that which is splendid and powerful, great and mighty, and which hath consideration. If I turn my eyes thither also, it is all overwith me; the bell is cast, and the judgment is pronounced. Ah, God! Ah, God! O, my God, stand by me against the reason and wisdom of all the world! Do so! You must do it—You alone. Behold, it is not my cause, but Yours. For my own person I have nothing to do here with these great lords of the world. Gladly would I, too, have good quiet days, and be unperplexed. But Yours is the cause. Lord; it is just and eternal. Stand by me, true, Eternal God! I confide in no man. It is to no purpose, and in vain. Everything halts that is fleshly, or that savours of flesh. O God! O God! Do You not hear, my God? Are You dead? No; You cannot die; You only hide Yourself. Have You chosen me for this end? I ask You. But I know of a surety that You have chosen me. Ha! then may God direct it; for never did I think, in all my life, to be opposed to such great lords; neither have I intended it. Ha! God, then stand by me in the name of Jesus Christ, who shall be my shelter and my shield, yea, my firm tower, through the might and strengthening of Your Holy Spirit. Lord, where do You stay? My God, where are You? Come, come! I am ready even to lay down my life for this cause, patient as a little lamb. For just is the cause, and Yours. So will I not separate myself from You forever. Be it determined in Your name. The world shall not be able to force me against my conscience, though it were full of devils. And though my body, originally the work and creature of Your hands, go to destruction in this cause—yea, though it be shattered in pieces—Your word and Your Spirit, they are good to me still! It concerns only the body; the soul is Yours, and belongs to You, and shall also remain with You for ever. Amen. God help me! Amen.
+Almighty, Eternal God! What a strange thing is this world! How does it open wide the mouths of the people! How small and poor is the confidence of men toward God! How is the flesh so tender and weak, and the devil so mighty and so busy through his apostles and the wise of this world! How soon do they withdraw the hand, and whirl away, and run the common path and the broad way to <!-- page 204 -->hell, where the godless belong. They look only upon that which is splendid and powerful, great and mighty, and which hath consideration. If I turn my eyes thither also, it is all overwith me; the bell is cast, and the judgment is pronounced. Ah, God! Ah, God! O, my God, stand by me against the reason and wisdom of all the world! Do so! You must do it—You alone. Behold, it is not my cause, but Yours. For my own person I have nothing to do here with these great lords of the world. Gladly would I, too, have good quiet days, and be unperplexed. But Yours is the cause. Lord; it is just and eternal. Stand by me, true, Eternal God! I confide in no man. It is to no purpose, and in vain. Everything halts that is fleshly, or that savours of flesh. O God! O God! Do You not hear, my God? Are You dead? No; You cannot die; You only hide Yourself. Have You chosen me for this end? I ask You. But I know of a surety that You have chosen me. Ha! then may God direct it; for never did I think, in all my life, to be opposed to such great lords; neither have I intended it. Ha! God, then stand by me in the name of Jesus Christ, who shall be my shelter and my shield, yea, my firm tower, through the might and strengthening of Your Holy Spirit. Lord, where do You stay? My God, where are You? Come, come! I am ready even to lay down my life for this cause, patient as a little lamb. For just is the cause, and Yours. So will I not separate myself from You forever. Be it determined in Your name. The world shall not be able to force me against my conscience, though it were full of devils. And though my body, originally the work and creature of Your hands, go to destruction in this cause—yea, though it be shattered in pieces—Your word and Your Spirit, they are good to me still! It concerns only the body; the soul is Yours, and belongs to You, and shall also remain with You for ever. Amen. God help me! Amen.
 
 << Martin Luther, *Prayer Before Diet of Worms*
 
 
 
+<!-- page 205 -->
 ## - Twenty-Seventh Day of Advent
 
 ### SCRIPTURE READING
@@ -3788,6 +3866,7 @@ In the year that King Uzziah died, I saw the Lord seated on a throne, high and e
 
 << Isaiah 6:1–13
 
+<!-- page 206 -->
 ### DEVOTIONAL HYMN
 
 #### God Himself Is With Us, Let Us Now Adore Him
@@ -3833,6 +3912,7 @@ As the hosts celestial.
 
 << Gerhardt Tersteegen
 
+<!-- page 207 -->
 ### HISTORIC WITNESS
 
 #### This Strange Secrecy
@@ -3851,7 +3931,7 @@ Concealed till now; then from the typic law,
 Where we His manhood but by figures saw;
 And lastly from His mother’s womb He came
 To us, a perfect God and perfect Man.
-Now in a manger lies the eternal Word:
+Now in a manger lies the eternal Word:<!-- page 208 -->
 The Word He is, yet can no speech afford;
 He is the Bread of Life, yet hungry lies;
 The Living Fountain, yet for drink He cries;
@@ -3870,6 +3950,7 @@ That have more reason to be glad than they.
 
 << Rowland Watkyns, “Upon Christ’s Nativity, or Christmas”
 
+<!-- page 209 -->
 ### REFLECTIVE PRAYER
 
 #### Christ Be With Me
@@ -3880,13 +3961,14 @@ The strength of God pilot me; the power of God preserve me; the wisdom of God in
 
 
 
+<!-- page 211 -->
 ## - Twenty-Eighth Day of Advent	
 
 ### SCRIPTURE READING
 
 #### The Lord Is With You, O Mighty Man of Valor
 
-Then the angel of the Lord came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to hide it from the Midianites. And the angel of the Lord appeared to Gideon and said, “The Lord is with you, O mighty man of valor.” “Please, my Lord,” Gideon replied, “if the Lord is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the Lord brought us up out of Egypt?’ But now the Lord has forsaken us and delivered us into the hand of Midian.” The Lord turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?” “Please, my Lord,” Gideon replied, “how can I save Israel? Indeed, my clan is the weakest in Manasseh, and I am the youngest in my father’s house.” “Surely I will be with you,” the Lord replied, “and you will strike down all the Midianites as one man.” Gideon answered, “If I have found favor in Your sight, give me a sign that it is You speaking with me. Please do not depart from this place until I return to You. Let me bring my offering and set it before You.” And the Lord said, “I will stay until you return.” So Gideon went in and prepared a young goat and unleavened bread and an ephah of flour. He placed the meat in a basket and the broth in a pot and brought them out to present to Him under the oak. And the angel of God said to him, “Take the meat and the unleavened bread, lay them on this rock, and pour out the broth.” And Gideon did so. Then the angel of the Lord extended the tip of the staff that was in his hand and touched the meat and the unleavened bread. And fire flared from the rock and consumed the meat and the unleavened bread. Then the angel of the Lord vanished from his sight. When Gideon realized that it was the angel of the Lord, he said, “Oh no, Lord God! I have seen the angel of the Lord face to face!” But the Lord said to him, “Peace be with you. Do not be afraid, for you will not die.” So Gideon built an altar to the Lord there and called it The Lord Is Peace. To this day it stands in Ophrah of the Abiezrites. On that very night the Lord said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it. Then build a proper altar to the Lord your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.” So Gideon took ten of his servants and did as the Lord had told him. But because he was too afraid of his father’s household and the men of the city, he did it by night rather than in the daytime. When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar. “Who did this?” they said to one another. And after they had investigated thoroughly, they were told, “Gideon son of Joash did it.” Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.” But Joash said to all who stood against him, “Are you contending for Baal? Are you trying to save him? Whoever pleads his case will be put to death by morning! If Baal is a god, let him contend for himself with the one who has torn down his altar.” So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.
+Then the angel of the Lord came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to hide it from the Midianites. And the angel of the Lord appeared to Gideon and said, “The Lord is with you, O mighty man of valor.” “Please, my Lord,” Gideon replied, “if the Lord is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the Lord brought us up out of Egypt?’ But now the Lord has forsaken us and delivered us into the hand of Midian.” The Lord turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?” “Please, my Lord,” Gideon replied, “how can I save Israel? Indeed, my clan is the weakest in Manasseh, and I am the youngest in my father’s house.” “Surely I will be with you,” the Lord replied, “and you will strike down all the Midianites as one man.” Gideon answered, “If I have found favor in Your sight, give me a sign that it is You speaking with me. Please do not depart from this place until I return to You. Let me bring my offering and set it before You.” And the Lord said, “I will stay until you return.” So Gideon went in and prepared a young goat and unleavened bread and an ephah of flour. He placed the meat in a basket and the broth in a pot and brought them out to present to Him under the oak. And the angel of God said to him, “Take the meat and the unleavened bread, lay them on this rock, and pour out the broth.” And Gideon did so. Then the angel of the Lord extended the tip of the staff that was in his hand and touched the meat and the unleavened bread. And fire flared from the rock and consumed the meat and the unleavened bread. Then the angel of the Lord vanished from his sight. When Gideon realized that it was the angel of the Lord, he said, “Oh no, Lord God! I have seen the angel of the Lord face to face!” But the Lord said to him, “Peace be with you. Do not be afraid, for you will not die.” So Gideon built an altar to the Lord there and called it The Lord Is Peace. To this day it stands in Ophrah of the Abiezrites. On that very night the Lord <!-- page 212 -->said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it. Then build a proper altar to the Lord your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.” So Gideon took ten of his servants and did as the Lord had told him. But because he was too afraid of his father’s household and the men of the city, he did it by night rather than in the daytime. When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar. “Who did this?” they said to one another. And after they had investigated thoroughly, they were told, “Gideon son of Joash did it.” Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.” But Joash said to all who stood against him, “Are you contending for Baal? Are you trying to save him? Whoever pleads his case will be put to death by morning! If Baal is a god, let him contend for himself with the one who has torn down his altar.” So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.
 
 << Judges 6:11–32
 
@@ -3908,7 +3990,7 @@ Let not thy courage fail thee.
 Thy cause is God’s—go at His call,
 And to His hand commit thine all;
 Fear thou no ill impending;
-His Gideon shall arise for thee,
+His Gideon shall arise for thee,<!-- page 213 -->
 God’s Word and people manfully,
 In God’s own time, defending.
 
@@ -3927,7 +4009,7 @@ To us belongs His blessing.
 
 #### He Came to Subdue the Mighty Powers of Darkness
 
-There is an admirable conjunction of excellencies in Jesus Christ. It appears in what Christ did in taking on him our nature. In this act, his infinite condescension wonderfully appeared, that he who was God should become man; that the word should be made flesh, and should take on him a nature infinitely below his original nature! And it appears yet more remarkably in the low circumstances of his incarnation: he was conceived in the womb of a poor young woman. And though his infinite condescension thus appeared in the manner of his incarnation, yet his divine dignity also appeared in it; for though he was conceived in the womb of a poor virgin, yet he was conceived there by the power of the Holy Ghost. His infinite condescension marvellously appeared in the manner of his birth. He was brought forth in a stable, because there was no room for them in the inn in the time of her travail, she was forced to betake herself to a stable; and when the child was born, it was wrapped in swaddling-clothes, and laid in a manger. There Christ lay a little infant; and there he eminently appeared as a lamb. But yet this feeble infant, born thus in a stable, and laid in a manger, was born to conquer and triumph over Satan, that roaring lion. He came to subdue the mighty powers of darkness, and make a show of them openly; and so to restore peace on earth, and to manifest God’s good-will towards men, and to bring glory to God in the highest; according as the end of his birth was declared by the joyful songs of the glorious hosts of angels appearing to the shepherds at the same time that the infant lay in the manger; whereby his divine dignity was manifested.
+There is an admirable conjunction of excellencies in Jesus Christ. It appears in what Christ did in taking on him our nature. In this act, his infinite condescension wonderfully appeared, that he who was God should become man; that the word should be made flesh, and should take on him a nature infinitely below his original nature! And it appears yet more remarkably in the low circumstances of his incarnation: he was conceived in the womb of a poor young woman. And though his infinite condescension thus appeared in the manner of his incarnation, yet his divine dignity also appeared in it; for though he was conceived in the womb of a poor virgin, yet he was conceived there by the power of the Holy Ghost. His infinite condescension marvellously appeared in the manner of his birth. He was brought forth in a stable, because there was no room for them in the inn in the time of her travail, she was forced to betake herself to a stable; and when the child was born, it was wrapped in swaddling-clothes, and laid in a manger. There Christ lay a little infant; and there he eminently appeared as a lamb. But yet this feeble infant, born thus in a stable, and laid in a manger, was born to conquer and triumph over Satan, that roaring lion. He came to subdue the mighty powers of darkness, and make a show of them openly; and so to restore peace on earth, and to manifest God’s good-will towards men, and to bring glory to God in the highest; according as the end of his birth was declared by the joyful songs of the glorious hosts of angels appearing to the shepherds <!-- page 214 -->at the same time that the infant lay in the manger; whereby his divine dignity was manifested.
 
 << Jonathan Edwards, “The Excellency of Christ”
 
@@ -3972,6 +4054,7 @@ And twilight never intervene.
 
 << Ambrose, “Veni, Redemptor Gentium”
 
+<!-- page 215 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### For Us Men and For Our Salvation Came Down
@@ -3989,10 +4072,11 @@ Give me grace unceasingly to return thanks to Your Word and only Son: as the Pur
 << Lancelot Andrews, *Private Devotions*
 
 ![Painting](06 A- Mengs - 1773 - The dream of Joseph)
-Mengs, Anton Raphael. The Dream of Joseph. 1773. Oil on wood panel, 114 x 86 cm. Kunsthistorisches Museum.
+<!-- page 217 -->Mengs, Anton Raphael. The Dream of Joseph. 1773. Oil on wood panel, 114 x 86 cm. Kunsthistorisches Museum.
 
 
 
+<!-- page 220 -->
 ## Fifth Week of Advent: Teachings
 
 ### ADVENT PRELUDE
@@ -4009,6 +4093,7 @@ came forth and rolled away error.
 
 The truth will set you free. Long ago, humanity lost the freedom of paradise and the intimacy of fellowship with God. Since the collapse of Eden, humanity has been enslaved to lies, burdened with false worship, encumbered by unbelief, and ruled by a deceitful and wicked heart. The rescue of humanity from its dark, idolatrous, and ignorant state would require the light of heavenly truth to shine abroad on the human heart and dispel its blinding darkness. Thanks be to God for sending his Son, the Light of the World, into a world crippled by sin and evil. During Advent, we live in realization that Jesus is the truth, the full revelation of God to humanity. He is true God of true God, true Light of true Light. Jesus’ teaching and life would rescue humanity from lie, error, and falsehood. No longer would Satan rule the hearts of men. Christ’s incomparable character would teach humanity about what it means to be truly human. Christ’s inestimable worth would restore true worship to an idolatrous landscape. Christ’s unparalleled teaching would confront misguided philosophies and human traditions. Christ’s gracious work would restore the fallen race of men to a holy and righteous God. Truly, there is no one like Christ. It matters what we believe about Jesus. The truth about Christ is simple enough for a child to understand and deep enough for a seasoned believer to forever plumb. This season, we reflect on the truth about Christ, for only in a true confession of Christ can we experience the freedom he mercifully offers to us.
 
+<!-- page 221 -->
 ### ADVENT PREAMBLE
 
 #### A Celebration of Teachings
@@ -4023,7 +4108,7 @@ Christmas is a celebration of inspired teachings: Christ proclaimed, truth revea
 
 #### READER
 
-In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through Him all things were made, and without Him nothing was made that has been made. In Him was life, and that life was the light of men. The Light shines in the darkness, and the darkness has not overcome it. There came a man who was sent from God. His name was John. He came as a witness to testify about the Light, so that through him everyone might believe. He himself was not the Light, but he came to testify about the Light. The true Light who gives light to every man was coming into the world. He was in the world, and though the world was made through Him, the world did not recognize Him. He came to His own, and His own did not receive Him. But to all who did receive Him, to those who believed in His name, He gave the right to become children of God—children born not of blood, nor of the desire or will of man, but born of God. The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth. John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’” From His fullness we have all received grace upon grace. For the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known.
+In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through Him all things were made, and without Him nothing was made that has been made. In Him was life, and that life was the light of men. The Light shines in the darkness, and the darkness has not overcome it. There came a man who was sent from God. His name was John. He came as a witness to testify about the Light, so that through him everyone might believe. He himself was not the Light, but he came to testify about the Light. The true Light who gives light to every man was coming into the world. He was in the world, and though the world was made through Him, the world did not recognize Him. He came to His own, and His own did not receive Him. But to all who did receive Him, to those who believed in His name, He gave the right to become children of God—children born not of blood, nor of the desire or will of man, but born of God. The Word became flesh and made His <!-- page 222 -->dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth. John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’” From His fullness we have all received grace upon grace. For the law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known.
 
 << John 1:1–18
 
@@ -4059,7 +4144,7 @@ Behold your King; before Him lowly bend!
 
 Truly He taught us to love one another;
 His law is love and His gospel is peace.
-Chains shall He break, for the slave is our brother,
+Chains shall He break, for the slave is our brother,<!-- page 223 -->
 And in His name all oppression shall cease.
 Sweet hymns of joy in grateful chorus raise we,
 Let all within us praise His holy name.
@@ -4081,7 +4166,7 @@ The fallen world is riddled with lies. Sin preys on unbelief, fuels idolatry, co
 
 ##### LEADER
 
-The devil ... was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies. It is impossible for God to lie. God is not a man, that He should lie, or a son of man, that He should change His mind. Does He speak and not act? Does He promise and not fulfill? We have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances. We have not listened to Your servants the prophets, who spoke in Your name to our kings, leaders, and fathers, and to all the people of the land. To You, O Lord, belongs righteousness, but this day we are covered with shame. So rend your hearts and not your garments, and return to the Lord your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster. Turn my eyes away from worthless things; revive me with Your word. How sweet are Your words to my taste—sweeter than honey in my mouth! I gain understanding from Your precepts; therefore I hate every false way. God our Savior wants everyone to be saved and to come to the knowledge of the truth. For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave Himself as a ransom for all—the testimony that was given at just the right time. We know that the Son of God has come and has given us understanding, so that we may know Him who is true; and we are in Him who is true—in His Son Jesus Christ. He is the true God and eternal life. Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.
+The devil ... was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies. It is impossible for God to lie. God is not a man, that He should lie, or a son of man, that He should change His mind. Does He speak and not act? Does He promise and not fulfill? We have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances. We have not listened <!-- page 224 -->to Your servants the prophets, who spoke in Your name to our kings, leaders, and fathers, and to all the people of the land. To You, O Lord, belongs righteousness, but this day we are covered with shame. So rend your hearts and not your garments, and return to the Lord your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster. Turn my eyes away from worthless things; revive me with Your word. How sweet are Your words to my taste—sweeter than honey in my mouth! I gain understanding from Your precepts; therefore I hate every false way. God our Savior wants everyone to be saved and to come to the knowledge of the truth. For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave Himself as a ransom for all—the testimony that was given at just the right time. We know that the Son of God has come and has given us understanding, so that we may know Him who is true; and we are in Him who is true—in His Son Jesus Christ. He is the true God and eternal life. Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.
 
 << John 8:44; Hebrews 6:18; Numbers 23:19; 
 << Daniel 9:5–7; Joel 2:13; Psalm 119:103–104; 
@@ -4098,6 +4183,7 @@ As my life was fading away, I remembered the Lord. My prayer went up to You, to 
 
 << Jonah 2:7–9
 
+<!-- page 225 -->
 ### BLESSING AND BENEDICTION
 
 #### Now Revealed and Made Known
@@ -4110,6 +4196,7 @@ Now to Him who is able to strengthen you by my gospel and by the proclamation of
 
 
 
+<!-- page 227 -->
 ## - Twenty-Ninth Day of Advent
 
 ### SCRIPTURE READING
@@ -4138,6 +4225,7 @@ Of all creation doomed to die,
 Did save our lost and guilty race
 By healing gifts of heav’nly grace.
 
+<!-- page 228 -->
 ##### VERSE 3
 
 When Earth was near its evening hour,
@@ -4172,7 +4260,7 @@ From age to age eternally.
 
 #### Sheathe Your Sword
 
-But, now, when the new-born King made His appearance, the swaddling-band with which He was wrapped up was the white flag of peace. That manger was the place where the treaty was signed, whereby warfare should be stopped between man’s conscience and himself, and between man’s conscience and his God. Then it was that the trumpet of the heavenly herald was blown aloud, and the royal proclamation was made, “Sheathe your sword, O man, sheathe your sword, O conscience, for God has provided a way by which He can be at peace with man, and by which man can be at peace with God, and with his own conscience, too!” The Gospel of the grace of God promises peace to every man who accepts it; where else can peace be found, but in the message of Jesus? And what a peace it is! It is like a river, and the righteousness of it is like the waves of the sea. It is “the peace of God, which passeth all understanding, which shall keep our hearts and minds through Christ Jesus.” This sacred peace between the soul pardoned and God the Pardoner, this marvellous “at-one-ment” between the guilty sinner and his righteous Judge, this it was of which the angels sang when they said, “Peace on earth.”
+But, now, when the new-born King made His appearance, the swaddling-band with which He was wrapped up was the white flag of peace. That manger was the place where the treaty was signed, whereby warfare should be stopped between man’s conscience and himself, and between man’s conscience and his God. Then it was that the trumpet of the heavenly herald was blown aloud, and the royal proclamation was made, “Sheathe your sword, O man, sheathe your sword, O conscience, for God has provided a way by which He can be at peace with man, and by which man can be at peace with God, and with his own conscience, too!” The Gospel of the grace of God promises peace to every man who accepts it; where else can peace be found, but in the message of Jesus? And what a peace it is! It is like a river, and the righteousness of it is like <!-- page 229 -->the waves of the sea. It is “the peace of God, which passeth all understanding, which shall keep our hearts and minds through Christ Jesus.” This sacred peace between the soul pardoned and God the Pardoner, this marvellous “at-one-ment” between the guilty sinner and his righteous Judge, this it was of which the angels sang when they said, “Peace on earth.”
 
 << C. H. Spurgeon, *Christ’s Incarnation*
 
@@ -4210,6 +4298,7 @@ Can man forget this story?
 
 << Ben Jonson, “A Hymn on the Nativity of My Saviour”
 
+<!-- page 230 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### In Whom It Pleased the Father That All Fulness Should Dwell
@@ -4228,13 +4317,14 @@ O Almighty and everlasting God, and Father, who has made Heaven and Earth, and a
 
 
 
+<!-- page 231 -->
 ## - Thirtieth Day of Advent
 
 ### SCRIPTURE READING
 
 #### The Son Is the Radiance of God’s Glory
 
-On many past occasions and in many different ways, God spoke to our fathers through the prophets. But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe. The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high. So He became as far superior to the angels as the name He has inherited is excellent beyond theirs. For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”? And again, when God brings His firstborn into the world, He says: “Let all God’s angels worship Him.” Now about the angels He says: “He makes His angels winds, His servants flames of fire.” But about the Son He says: “Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom. You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You above Your companions with the oil of joy.” And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands. They will perish, but You remain; they will all wear out like a garment. You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.” Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”? Are not the angels ministering spirits sent to serve those who will inherit salvation? We must pay closer attention, therefore, to what we have heard, so that we do not drift away. For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment, how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him, and was affirmed by God through signs, wonders, various miracles, and gifts of the Holy Spirit distributed according to His will.
+On many past occasions and in many different ways, God spoke to our fathers through the prophets. But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe. The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high. So He became as far superior to the angels as the name He has inherited is excellent beyond theirs. For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”? And again, when God brings His firstborn into the world, He says: “Let all God’s angels worship Him.” Now about the angels He says: “He makes His angels winds, His servants flames of fire.” But about the Son He says: “Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom. You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You above Your companions with the oil of joy.” And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands. They will perish, but You remain; they will all wear out like a garment. You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.” Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”? Are not the angels ministering spirits sent to serve those who will inherit salvation? We must pay closer attention, therefore, to what we have heard, so that we do not drift away. For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment, how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him, and was affirmed by God through signs, wonders, various miracles, and gifts of the <!-- page 232 -->Holy Spirit distributed according to His will.
 
 << Hebrews 1:1–2:4
 
@@ -4278,7 +4368,7 @@ Alleluia! Alleluia! Alleluia! Amen.
 
 #### Christ Is Christianity Itself
 
-Buddha and Confucius, Zarathustra and Mohammed are no doubt the first confessors of the religions which have been founded by them, but they are not the content of these religions, and they stand in an external and to a certain extent accidental relation to them. Their religions could remain the same even though their names were forgotten, or their persons replaced by others. In Christianity, however, it is altogether different. To be sure the notion is occasionally given expression that Christ too does not desire to be the only mediator and He would be quite content that His name should be forgotten, if only His principles and spirit lived on in the community. But others who for themselves have wholly broken with Christianity have in an unpartisan fashion denied and refuted these notions. Christianity stands to the person of Christ in a wholly different relation from that of the religions of the peoples to the persons by whom they have been founded. Jesus is not the first confessor of the religion which bears His name. He was not the first and most eminent Christian, but He holds in Christianity a wholly different place .... Christ is Christianity itself; He stands not outside of it but in its centre; without His name, person and work, there is no Christianity left. In a word, Christ does not point out the way to salvation; He is the Way itself.
+Buddha and Confucius, Zarathustra and Mohammed are no doubt the first confessors of the religions which have been founded by them, but they are not the content of these religions, and they <!-- page 233 -->stand in an external and to a certain extent accidental relation to them. Their religions could remain the same even though their names were forgotten, or their persons replaced by others. In Christianity, however, it is altogether different. To be sure the notion is occasionally given expression that Christ too does not desire to be the only mediator and He would be quite content that His name should be forgotten, if only His principles and spirit lived on in the community. But others who for themselves have wholly broken with Christianity have in an unpartisan fashion denied and refuted these notions. Christianity stands to the person of Christ in a wholly different relation from that of the religions of the peoples to the persons by whom they have been founded. Jesus is not the first confessor of the religion which bears His name. He was not the first and most eminent Christian, but He holds in Christianity a wholly different place .... Christ is Christianity itself; He stands not outside of it but in its centre; without His name, person and work, there is no Christianity left. In a word, Christ does not point out the way to salvation; He is the Way itself.
 
 << Herman Bavinck, *Magnalia Dei*
 
@@ -4302,7 +4392,7 @@ By woman’s guile betray’d to die,
 He, deceived by woman’s part,
 Supplication pour’d;
 Thou Who in my nature art,
-Holy art Thou, Lord!
+Holy art Thou, Lord!<!-- page 234 -->
 Thou, Jesus Christ, wast consubstantial
 With this our perishable clay,
 And, by assuming earthly nature,
@@ -4327,7 +4417,7 @@ He shall reign for ever!
 
 #### This Word Is Called His Son
 
-Now, with regard to this rule of faith—that we may from this point acknowledge what it is which we defend—it is, you must know, that which prescribes the belief that there is one only God, and that He is none other than the Creator of the world, who produced all things out of nothing through His own Word, first of all sent forth; that this Word is called His Son, and, under the name of God, was seen “in diverse manners” by the patriarchs, heard at all times in the prophets, at last brought down by the Spirit and Power of the Father into the Virgin Mary, was made flesh in her womb, and, being born of her, went forth as Jesus Christ; thenceforth He preached the new law and the new promise of the kingdom of heaven, worked miracles; having been crucified, He rose again the third day; (then) having ascended into the heavens, He sat at the right hand of the Father; sent instead of Himself the Power of the Holy Ghost to lead such as believe; will come with glory to take the saints to the enjoyment of everlasting life and of the heavenly promises, and to condemn the wicked to everlasting fire, after the resurrection of both these classes shall have happened, together with the restoration of their flesh.
+Now, with regard to this rule of faith—that we may from this point acknowledge what it is which we defend—it is, you must know, that which prescribes the belief that there is one only God, and that He is none other than the Creator of the world, who produced all things out of nothing through His own Word, first of all sent forth; that this Word is called His Son, and, under the name of God, was seen “in diverse manners” by the patriarchs, heard at all times in the prophets, at last brought down by the Spirit and Power of the Father into the Virgin Mary, was made flesh in her womb, and, being born of her, went forth as Jesus Christ; thenceforth He preached the new law and the new promise of the kingdom of heaven, worked miracles; having been crucified, He rose again the third day; (then) having ascended into the heavens, He sat at the right hand of the Father; sent instead of Himself the Power of the Holy Ghost to lead such as believe; will come with glory to take the saints to the enjoyment of everlasting life and of the heavenly promises, and to condemn the wicked to everlasting fire, after the <!-- page 235 -->resurrection of both these classes shall have happened, together with the restoration of their flesh.
 
 << Tertullian, *Rule of Faith*
 
@@ -4341,6 +4431,7 @@ Dear Offspring of God, in Whom is born all the glory of the Father! Nothing need
 
 
 
+<!-- page 237 -->
 ## - Thirty-First Day of Advent
 
 ### SCRIPTURE READING
@@ -4369,6 +4460,7 @@ By whom the worlds were made;
 (O happy morn! illustrious hour!)
 Was once in flesh array’d!
 
+<!-- page 238 -->
 ##### VERSE 3
 
 Then shone almighty pow’r and love
@@ -4403,7 +4495,7 @@ Our highest praise were poor.
 
 #### O Strange Conjunction
 
-The Word of God Himself—Who is before all worlds, the Invisible, the Incomprehensible, the Bodiless, Beginning of Beginning, the Light of Light, the Source of Life and Immortality, the Image of the Archetypal Beauty, the immovable Seal, the unchangeable Image, the Father’s Definition and Word, came to His own Image, and took on Him flesh for the sake of our flesh, and mingled Himself with an intelligent soul for my soul’s sake, purifying like by like; and in all points except sin was made man. Conceived by the Virgin, who first in body and soul was purified by the Holy Ghost (for it was needful both that Childbearing should be honoured, and that Virginity should receive a higher honour), He came forth then as God with that which He had assumed, One Person in two Natures, Flesh and Spirit. O strange conjunction; the Self-Existent comes into being, the Uncreated is created, That which cannot be contained is contained, by the intervention of an intellectual soul, mediating between the Deity and the corporeity of the flesh. And He Who gives riches becomes poor, for He assumes the poverty of my flesh, that I may assume the richness of His Godhead. He that is full empties Himself, for He empties Himself of His glory for a short while, that I may have a share in His Fulness. What is the riches of His Goodness? What is this mystery that is around me? I had a share in the image; I did not keep it; He partakes of my flesh that He may both save the image and make the flesh immortal. He communicates a second Communion far more marvellous than the first, inasmuch as then He imparted the better Nature, whereas now Himself partakes of the worse. This is more godlike than the former action, this is loftier in the eyes of all men of understanding.
+The Word of God Himself—Who is before all worlds, the Invisible, the Incomprehensible, the Bodiless, Beginning of Beginning, the Light of Light, the Source of Life and Immortality, the Image of the Archetypal Beauty, the immovable Seal, the unchangeable Image, the Father’s Definition and Word, came to His own Image, and took on Him flesh for the sake of our flesh, and mingled Himself with an intelligent soul for my soul’s sake, purifying like by like; and in all points except sin was made man. Conceived by the Virgin, who first in body and soul was purified by the Holy Ghost (for it was needful both that Childbearing should be honoured, and that Virginity should receive a higher honour), He came forth then as God with that which He had assumed, One Person in two Natures, Flesh and Spirit. O strange conjunction; the <!-- page 239 -->Self-Existent comes into being, the Uncreated is created, That which cannot be contained is contained, by the intervention of an intellectual soul, mediating between the Deity and the corporeity of the flesh. And He Who gives riches becomes poor, for He assumes the poverty of my flesh, that I may assume the richness of His Godhead. He that is full empties Himself, for He empties Himself of His glory for a short while, that I may have a share in His Fulness. What is the riches of His Goodness? What is this mystery that is around me? I had a share in the image; I did not keep it; He partakes of my flesh that He may both save the image and make the flesh immortal. He communicates a second Communion far more marvellous than the first, inasmuch as then He imparted the better Nature, whereas now Himself partakes of the worse. This is more godlike than the former action, this is loftier in the eyes of all men of understanding.
 
 << Gregory Nazianzen, *Oration 38*
 
@@ -4411,7 +4503,7 @@ The Word of God Himself—Who is before all worlds, the Invisible, the Incompreh
 
 #### Endured to Be Born and to Die
 
-Hail, festive day, to be reverenced throughout the world, on which God has conquered hell, and gains the stars! The changes of the year and of the months, the bounteous light of the days, the splendour of the hours, all things with voice applaud. Hence, in honour of you, the wood with its foliage applauds; hence the vine, with its silent shoot, gives thanks. Hence the thickets now resound with the whisper of birds; amidst these the sparrow sings with exuberant love. O Christ, Saviour of the world, merciful Creator and Redeemer, the only offspring from the Godhead of the Father, flowing in an indescribable manner from the heart of Your Parent, You self-existing Word, and powerful from the mouth of Your Father, equal to Him, of one mind with Him, His fellow, coeval with the Father, from whom at first the world derived its origin! You do suspend the firmament, You heap together the soil, You do pour forth the seas, by whose government all things which are fixed in their places flourish. Who seeing that the human race was plunged in the depth of misery, that You might rescue man, did Yourself also become man: nor were Your willing only to be born with a body, but You became flesh, which endured to be born and to die. You did undergo funeral obsequies, Yourself the author of life and framer of the world, You did enter the path of death, in giving the aid of salvation. The gloomy chains of the infernal law yielded, and chaos feared to be pressed by the presence of the light. Darkness perishes, put to flight by the brightness of Christ; the thick pall of eternal night falls.
+Hail, festive day, to be reverenced throughout the world, on which God has conquered hell, and gains the stars! The changes of the year and of the months, the bounteous light of the days, the splendour of the hours, all things with voice applaud. Hence, in honour of you, the wood with its foliage applauds; hence the vine, with its silent shoot, gives thanks. Hence the thickets now resound with the whisper of birds; amidst these the sparrow sings with exuberant love. O Christ, Saviour of the world, merciful Creator and Redeemer, the only offspring from the Godhead of the Father, flowing in an indescribable manner from the heart of Your Parent, You self-existing Word, and powerful from the mouth of Your Father, equal to Him, of one mind with Him, His fellow, coeval with the Father, from whom at first the world derived its origin! You do suspend the firmament, You heap together the soil, You do pour forth the seas, by whose government all things which are fixed in their places flourish. Who seeing that the human race was plunged in the depth of misery, that You might rescue man, did Yourself also become man: nor were Your willing only to be born with a body, but You <!-- page 240 -->became flesh, which endured to be born and to die. You did undergo funeral obsequies, Yourself the author of life and framer of the world, You did enter the path of death, in giving the aid of salvation. The gloomy chains of the infernal law yielded, and chaos feared to be pressed by the presence of the light. Darkness perishes, put to flight by the brightness of Christ; the thick pall of eternal night falls.
 
 << Venantius Fortunatus, *Poem*
 
@@ -4427,12 +4519,13 @@ By common confession, the mystery of godliness is great: He appeared in the fles
 
 #### You Did Not Disdain to Be Born of the Virgin
 
-O Lord God! the Fountain of all fullness, we, who are nothing but emptiness, come unto You for all supplies, nor shall we come in vain, since we bear with us a plea which is all prevalent. Since we come commanded by Your Word, encouraged by Your promise, and preceded by Christ Jesus, our great High Priest, we know that whatsoever we shall ask in prayer, believing, we shall receive. Only do You help us now to ask right things and may the utterances of our mouth be acceptable in Thy sight, O God our Strength and our Redeemer. We bless You, also, divine Son of God, co-equal and co-eternal with the Father, that You did not disdain to be born of the Virgin, and that, being found in fashion like a man, You did not refuse to be obedient unto death, even the death of the cross. Let Your brows be girt with something better than thorns. Let the eternal diadem forever glitter there. You were slain and have redeemed us to God by Your blood. Unto You be glory, and honor, and power, and majesty, and dominion, and might, forever and ever!
+O Lord God! the Fountain of all fullness, we, who are nothing but emptiness, come unto You for all supplies, nor shall we come in vain, since we bear with us a plea which is all prevalent. Since we come commanded by Your Word, encouraged by Your promise, and preceded by Christ Jesus, our great High Priest, we know that whatsoever we shall ask in prayer, believing, we shall receive. Only do You help us now to ask right things and may the utterances of our mouth be acceptable in Thy sight, O God our Strength and our Redeemer. We bless You, also, divine Son of God, co-equal and co-eternal with the Father, that You did not disdain to be born of the Virgin, and that, being found in fashion like a man, You did not refuse to be obedient unto death, even the death of the cross. Let Your brows be girt with something better than thorns. Let the eternal diadem forever glitter there. You were slain and have redeemed us to God by Your blood. Unto You be glory, and honor, <!-- page 241 -->and power, and majesty, and dominion, and might, forever and ever!
 
 Charles Spurgeon, *Pulpit Prayers*
 
 
 
+<!-- page 243 -->
 ## - Thirty-Second Day of Advent
 
 ### SCRIPTURE READING
@@ -4470,7 +4563,7 @@ To save the invaded land.
 
 ##### VERSE 4
 
-When Jonah sunk beneath the wave,
+When Jonah sunk beneath the wave,<!-- page 244 -->
 He thought to rise no more;
 But God prepared a fish to save,
 And bear him to the shore.
@@ -4495,7 +4588,7 @@ But cannot come too late.
 
 #### O Amazing Condescension of The Lord Jesus Christ
 
-When we consider the condescension and love of the Lord Jesus Christ, in submitting to be born of a virgin, a poor sinful creature; and especially as he knew how he was to be treated in this world; that he was to be despised, scoffed at, and at last to die a painful, shameful, and ignominious death; that he should be treated as though he was the off-scouring of all mankind; used, not like the son of man, and, therefore, not at all like the Son of God; the consideration of these things should make us to admire the love of the Lord Jesus Christ, who was so willing to offer himself as a ransom for the sins of the people, that when the fullness of time was come, Christ came, made of a woman, made under the law: he came according to the eternal counsel of the Father; he came, not in glory or in splendor, not like him who brought all salvation with him: no, he was born in a stable, and laid in a manger; oxen were his companions. O amazing condescension of the Lord Jesus Christ, to stoop to such low and poor things for our sake. What love is this, what great and wonderful love was here, that the Son of God should come into our world in so mean a condition, to deliver us from the sin and misery in which we were involved by our fall in our first parents! And as all that proceeded from the springs must be muddy, because the fountain was so, the Lord Jesus Christ came to take our natures upon him, to die a shameful, a painful, and an accursed death for our sakes; he died for our sins, and to bring us to God: he cleansed us by his blood from the guilt of sin, he satisfied for our imperfections; and now, my brethren, we have access unto him with boldness; he is a mediator between us and his offended Father.
+When we consider the condescension and love of the Lord Jesus Christ, in submitting to be born of a virgin, a poor sinful creature; and especially as he knew how he was to be treated in this world; that he was to be despised, scoffed at, and at last to die a painful, shameful, and ignominious death; that he should be treated as though he was the off-scouring of all mankind; used, not like the son of man, and, therefore, not at all like the Son of God; the consideration of these things should make us to admire the love of the Lord Jesus Christ, who was so willing to offer himself as a ransom for the sins of the people, that when the fullness of time was come, Christ came, made of a woman, made under the law: he came according to the eternal counsel of the Father; he came, not in glory or in splendor, not like him who brought all salvation with him: no, he was born in a stable, and laid in a manger; oxen were his companions. O amazing condescension of the Lord Jesus Christ, to stoop to such low and poor things for our sake. What love is this, what great and wonderful love was here, that the Son of God should come into our world in so mean a condition, to deliver us from the sin and misery in which we were involved by our fall in our first parents! And as all that proceeded from the <!-- page 245 -->springs must be muddy, because the fountain was so, the Lord Jesus Christ came to take our natures upon him, to die a shameful, a painful, and an accursed death for our sakes; he died for our sins, and to bring us to God: he cleansed us by his blood from the guilt of sin, he satisfied for our imperfections; and now, my brethren, we have access unto him with boldness; he is a mediator between us and his offended Father.
 
 << George Whitefield, “The True Way of Keeping Christmas”
 
@@ -4530,6 +4623,7 @@ I will love thee without end.
 
 << John Newton, “Praise For The Incarnation”
 
+<!-- page 246 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### He Condescended to Be Born of the Virgin
@@ -4548,6 +4642,7 @@ Yea, Lord, with all my heart and soul!—I renounce the vanities of an empty, ch
 
 
 
+<!-- page 247 -->
 ## - Thirty-Third Day of Advent
 
 ### SCRIPTURE READING
@@ -4558,6 +4653,7 @@ Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the 
 
 << Romans 1:1–17
 
+<!-- page 248 -->
 ### DEVOTIONAL HYMN
 
 #### Earth Was Waiting, Spent and Restless
@@ -4595,7 +4691,7 @@ Son of God, and Son of Man.
 
 #### O Sweet Exchange
 
-Truly God Himself, who is almighty, the Creator of all things, and invisible, has sent from heaven, and placed among men, Him who is the truth, and the holy and incomprehensible Word, the very Creator and Fashioner of all things. Was it then, as one might conceive, for the purpose of exercising tyranny, or of inspiring fear and terror? By no means, but under the influence of clemency and meekness. As a king sends his son, who is also a king, so sent He Him; as God He sent Him; as to men He sent Him; as a Saviour He sent Him, and as seeking to persuade, not to compel us; for violence has no place in the character of God. As calling us He sent Him, not as vengefully pursuing us; as loving us He sent Him, not as judging us, when our wickedness had reached its height, and it had been clearly shown that its reward, punishment and death, was impending over us; and when the time had come which God had before appointed for manifesting His own kindness and power, how the one love of God, through exceeding regard for men, did not regard us with hatred, nor thrust us away, nor remember our iniquity against us, but showed great long-suffering, and bore with us, He Himself took on Him the burden of our iniquities, He gave His own Son as a ransom for us, the holy One for transgressors, the blameless One for the wicked, the righteous One for the unrighteous, the incorruptible One for the corruptible, the immortal One for them that are mortal. For what other thing was capable of covering our sins than His righteousness? By what other one was it possible that we, the wicked and ungodly, could be justified, than by the only Son of God? O sweet exchange! O unsearchable operation! O benefits surpassing all expectation! that the wickedness of many should be hid in a single righteous One, and that the righteousness of One should justify many transgressors! having now revealed the Saviour who is able to save even those things which it was formerly impossible to save. He sent the Word, that He might be manifested to the world; and He, being despised by the people of the Jews, was, when preached by the Apostles, believed on by the Gentiles. This is He who was from the beginning, who appeared as if new, and was found old, and yet who is ever born afresh in the hearts of the saints. This is He who, being from everlasting, is to-day called the Son; through whom the Church is enriched, and grace, widely spread, increases in the saints, furnishing understanding, revealing mysteries, announcing times, rejoicing over the faithful, giving to those that seek, by whom the limits of faith are not broken through, nor the boundaries set by the fathers passed over.
+Truly God Himself, who is almighty, the Creator of all things, and invisible, has sent from heaven, and placed among men, Him who is the truth, and the holy and incomprehensible Word, the very Creator and Fashioner of all things. Was it then, as one might conceive, for the purpose of exercising tyranny, or of inspiring fear and terror? By no means, but under the influence of clemency and meekness. As a king sends his son, who is also a king, so sent He Him; as God He sent Him; as to men He sent Him; as a Saviour He sent Him, and as seeking to persuade, not to compel us; for violence has no place in the character of God. As calling us He sent <!-- page 249 -->Him, not as vengefully pursuing us; as loving us He sent Him, not as judging us, when our wickedness had reached its height, and it had been clearly shown that its reward, punishment and death, was impending over us; and when the time had come which God had before appointed for manifesting His own kindness and power, how the one love of God, through exceeding regard for men, did not regard us with hatred, nor thrust us away, nor remember our iniquity against us, but showed great long-suffering, and bore with us, He Himself took on Him the burden of our iniquities, He gave His own Son as a ransom for us, the holy One for transgressors, the blameless One for the wicked, the righteous One for the unrighteous, the incorruptible One for the corruptible, the immortal One for them that are mortal. For what other thing was capable of covering our sins than His righteousness? By what other one was it possible that we, the wicked and ungodly, could be justified, than by the only Son of God? O sweet exchange! O unsearchable operation! O benefits surpassing all expectation! that the wickedness of many should be hid in a single righteous One, and that the righteousness of One should justify many transgressors! having now revealed the Saviour who is able to save even those things which it was formerly impossible to save. He sent the Word, that He might be manifested to the world; and He, being despised by the people of the Jews, was, when preached by the Apostles, believed on by the Gentiles. This is He who was from the beginning, who appeared as if new, and was found old, and yet who is ever born afresh in the hearts of the saints. This is He who, being from everlasting, is to-day called the Son; through whom the Church is enriched, and grace, widely spread, increases in the saints, furnishing understanding, revealing mysteries, announcing times, rejoicing over the faithful, giving to those that seek, by whom the limits of faith are not broken through, nor the boundaries set by the fathers passed over.
 
 << *The Epistle of Diognetus*
 
@@ -4604,7 +4700,7 @@ Truly God Himself, who is almighty, the Creator of all things, and invisible, ha
 #### From Heaven Above to Earth I Come
 
 From Heaven above to earth I come
-To bear good news to every home;
+To bear good news to every home;<!-- page 250 -->
 Glad tidings of great joy I bring
 Whereof I now will say and sing:
 
@@ -4649,7 +4745,7 @@ That Thou must choose Thy infant bed
 Where ass and ox but lately fed!
 
 Were earth a thousand times as fair,
-Beset with gold and jewels rare,
+Beset with gold and jewels rare,<!-- page 251 -->
 She yet were far too poor to be
 A narrow cradle, Lord, for Thee.
 
@@ -4684,7 +4780,7 @@ A glad New Year to all the earth.
 
 #### The Brightness of the Father’s Glory
 
-It pleased God, in his eternal purpose, to choose and ordain the Lord Jesus Christ, his only begotten Son, according to the covenant made between them both, to be the alone mediator between God and man. God the father, who was by Adam’s sin justly offended, and Adam, our common parent, the person offending. Now in order to reconcile God to man, and man to God, who were at a distance, Christ Jesus, the second person in the Trinity, being very God, of the same substance with his father, did, when the fullness of time was come, take unto him man’s nature, with all the essential properties, and common infirmities, sin only excepted.
+It pleased God, in his eternal purpose, to choose and ordain the Lord Jesus Christ, his only begotten Son, according to the covenant made between them both, to be the alone mediator between God and man. God the father, who was by Adam’s sin justly offended, and Adam, our common parent, the person offending. Now in order to reconcile God to man, and man to God, who were at a distance, Christ Jesus, the second person in the Trinity, being very God, of the same substance with his father, did, when the fullness <!-- page 252 -->of time was come, take unto him man’s nature, with all the essential properties, and common infirmities, sin only excepted.
 
 << An Orthodox Creed
 
@@ -4698,6 +4794,7 @@ I render thanks unto You, O almighty Son of God, our Lord Jesus Christ, the word
 
 
 
+<!-- page 253 -->
 ## - Thirty-Fourth Day of Advent
 
 ### SCRIPTURE READING
@@ -4708,6 +4805,7 @@ For it is not to angels that He has subjected the world to come, about which we 
 
 << Hebrews 2:5–18
 
+<!-- page 254 -->
 ### DEVOTIONAL HYMN
 
 #### As Oft, With Worn and Weary Feet
@@ -4754,10 +4852,11 @@ With pity, love, and sympathy.
 
 #### Creator Cradled in a Manger
 
-That Christ should come from the eternal bosom of his Father, to a region of sorrow and death; that God should be manifested in the flesh, the Creator made a creature; that he that was clothed with glory, should be wrapped with rags of flesh; he that filled heaven and earth with his glory, should be cradled in a manger; that the power of God should fly from the weakness of man, the God of Israel go down into Egypt, that the God of the law should be subject to the law; the God of circumcision, circumcised; that he who binds the devils in chains, should be tempted; that he whose is the world, and the fulness thereof, should hunger and thirst; that the God of strength should be weary, the Judge of all flesh condemned, the God of life put to death: that he who is one with the Father, should cry, out of misery, My God, my God, why hast thou forsaken me? That he who had the keys of hell and death at his girdle, should lie imprisoned in the sepulchre of another, having in his life time, no where to lay his head, nor after death to lay his body: that the head before which the angels cast down their crowns, should be crowned with thorns; and those eyes purer than the sun, put out by the darkness of death; those ears, which hear nothing but hallelujahs of saints and angels, to hear the blasphemies of the multitude; that face, that was fairer than the sons of men, to be spit on by those filthy wretched Jews; that mouth and tongue that spake as never man spake, accused. for blasphemy; those hands that freely swayed the sceptre of heaven, and those feet like unto fine brass4 nailed to the cross for man’s sins; each sense annoyed, his feeling or touching with a spear and nails; his smell with stinking savour, being crucified about Golgotha, the place of skulls ; his taste with vinegar and gall; his hearing with reproaches, and the sight of his mother and disciples bemoaning him; his soul comfortless and forsaken, and all this for those very sins that Satan paints, and puts fine colours upon; Oh! how should the consideration of this stir up the soul against it, and induce the soul to fly from it, and to use all holy means, whereby sin may be subdued and destroyed. It is an excellent saying of Bernard, The more vile Christ made himself for us, the more dear he ought to be to us.
+That Christ should come from the eternal bosom of his Father, to a region of sorrow and death; that God should be manifested in <!-- page 255 -->the flesh, the Creator made a creature; that he that was clothed with glory, should be wrapped with rags of flesh; he that filled heaven and earth with his glory, should be cradled in a manger; that the power of God should fly from the weakness of man, the God of Israel go down into Egypt, that the God of the law should be subject to the law; the God of circumcision, circumcised; that he who binds the devils in chains, should be tempted; that he whose is the world, and the fulness thereof, should hunger and thirst; that the God of strength should be weary, the Judge of all flesh condemned, the God of life put to death: that he who is one with the Father, should cry, out of misery, My God, my God, why hast thou forsaken me? That he who had the keys of hell and death at his girdle, should lie imprisoned in the sepulchre of another, having in his life time, no where to lay his head, nor after death to lay his body: that the head before which the angels cast down their crowns, should be crowned with thorns; and those eyes purer than the sun, put out by the darkness of death; those ears, which hear nothing but hallelujahs of saints and angels, to hear the blasphemies of the multitude; that face, that was fairer than the sons of men, to be spit on by those filthy wretched Jews; that mouth and tongue that spake as never man spake, accused. for blasphemy; those hands that freely swayed the sceptre of heaven, and those feet like unto fine brass4 nailed to the cross for man’s sins; each sense annoyed, his feeling or touching with a spear and nails; his smell with stinking savour, being crucified about Golgotha, the place of skulls ; his taste with vinegar and gall; his hearing with reproaches, and the sight of his mother and disciples bemoaning him; his soul comfortless and forsaken, and all this for those very sins that Satan paints, and puts fine colours upon; Oh! how should the consideration of this stir up the soul against it, and induce the soul to fly from it, and to use all holy means, whereby sin may be subdued and destroyed. It is an excellent saying of Bernard, The more vile Christ made himself for us, the more dear he ought to be to us.
 
 << Thomas Brooks, *Precious Remedies*
 
+<!-- page 256 -->
 ### POETICAL VERSE
 
 #### Calm Was the Hallowed Night
@@ -4802,6 +4901,7 @@ well might the Magi tread,
 joyful, the path that led,
 Saviour, to thee!
 
+<!-- page 257 -->
 Infant of Bethlehem!
 Now do I seek, like them,
 thy mean abode;
@@ -4844,6 +4944,7 @@ great three in One!
 
 << Charlotte Elliott, “A Christmas Hymn”
 
+<!-- page 258 -->
 ### CONFESSIONAL INSTRUCTION
 
 #### Jesus Begotten of Father and Born of the Virgin
@@ -4862,6 +4963,7 @@ How great is Your mercy, O heavenly Father, O Almighty God! By mine own power ha
 
 
 
+<!-- page 259 -->
 ## - Thirty-Fifth Day of Advent
 
 ### SCRIPTURE READING
@@ -4885,6 +4987,7 @@ Are lustered by thy ray;
 No eye can to thy throne ascend,
 Nor mind thy brightness comprehend.
 
+<!-- page 260 -->
 ##### VERSE 2
 
 Thy grace, O Father, give,
@@ -4927,7 +5030,7 @@ From age to age eternally.
 
 #### Let All Come Who Would Be Made Whole
 
-To Him, therefore, let all come who would be made whole. Let them receive the medicine which He hath brought down from His Father and made in heaven, preparing it of the juices of those celestial fruits that wither not. This is of no earthly growth, for nature nowhere possesses this compound. Of wondrous purpose took He our flesh, to the end that He might show that the law of the flesh had been subjected to the law of the mind. He was incarnate, that He, the Teacher of men, might overcome as man. Of what profit would it have been to me, had He, as God, bared the arm of His power, and only displayed His Godhead inviolate? Why should He take human nature upon Him, but to suffer Himself to be tempted under the conditions of my nature and my weakness? It was right that He should be tempted, that He should suffer with me, to the end that I might know how to conquer when tempted, how to escape when hard pressed. He overcame by force of continence, of contempt of riches, of faith; He trampled upon ambition, fled from intemperance, bade wantonness be far from Him. This medicine Peter beheld, and left His nets, that is to say, the instruments and security of gain, renouncing the lust of the flesh as a leaky ship, that receives the bilge, as it were, of multitudinous passions. Truly a mighty remedy, that not only removed the scar of an old wound, but even cut the root and source of passion. O Faith, richer than all treasure-houses; O excellent remedy, healing our wounds and sins! A glorious remedy—to have consolation of Christ! Read all the Scriptures, mark all diligently, you will then find that Christ so manifested Himself that God might be discerned in man.
+To Him, therefore, let all come who would be made whole. Let them receive the medicine which He hath brought down from His Father and made in heaven, preparing it of the juices of those celestial fruits that wither not. This is of no earthly growth, for nature nowhere possesses this compound. Of wondrous purpose <!-- page 261 -->took He our flesh, to the end that He might show that the law of the flesh had been subjected to the law of the mind. He was incarnate, that He, the Teacher of men, might overcome as man. Of what profit would it have been to me, had He, as God, bared the arm of His power, and only displayed His Godhead inviolate? Why should He take human nature upon Him, but to suffer Himself to be tempted under the conditions of my nature and my weakness? It was right that He should be tempted, that He should suffer with me, to the end that I might know how to conquer when tempted, how to escape when hard pressed. He overcame by force of continence, of contempt of riches, of faith; He trampled upon ambition, fled from intemperance, bade wantonness be far from Him. This medicine Peter beheld, and left His nets, that is to say, the instruments and security of gain, renouncing the lust of the flesh as a leaky ship, that receives the bilge, as it were, of multitudinous passions. Truly a mighty remedy, that not only removed the scar of an old wound, but even cut the root and source of passion. O Faith, richer than all treasure-houses; O excellent remedy, healing our wounds and sins! A glorious remedy—to have consolation of Christ! Read all the Scriptures, mark all diligently, you will then find that Christ so manifested Himself that God might be discerned in man.
 
 << Ambrose of Milan, *Exposition of the Christian Faith*
 
@@ -4946,7 +5049,7 @@ Called on by light, towards Light they pressed,
 And by their gifts their God confessed.
 
 In holy Jordan’s purest wave
-The heavenly Lamb vouchsafed to lave;
+The heavenly Lamb vouchsafed to lave;<!-- page 262 -->
 That He, to whom was sin unknown,
 Might cleanse His people from their own.
 
@@ -4974,9 +5077,9 @@ The Son of God, the second person in the Trinity, being very and eternal God, of
 
 #### I Humbly Beseech You by the Blessed Nativity of Your Son
 
-I humbly beseech You, by the holy incarnation, and blessed Nativity of Your Son Jesus Christ, the thrice happy day Star that appeared to the World, let Your Mercy this day rest upon me, and the bright beams of Your heavenly light shine forth in the dark corners of my heart, that I may not be transported either through the Corruption of my Nature or the power of darkness to spend this day after my own perverse will and pleasure, but carefully perform Your holy will, willingly, speedily, and constantly. Increase in me, O Lord, the gift of faith, and hope, that I may believe You, and rely on Your merciful promises made unto me, in Christ Jesus bless my Body and Soul, that no evil happen to them, and preserve my memory and senses that they pass not the limits of reason and understanding: Enlighten my mind, O Lord, to look upon good things, inflame my heart with the love of them, and conduct me with Your Grace, that as You have raised my Body from sleep so my Soul may daily be raised from Sin, and Soul, and Body, and Spirit, may be renewed in Righteousness to serve thee, the Living God for evermore. Amen.
+I humbly beseech You, by the holy incarnation, and blessed Nativity of Your Son Jesus Christ, the thrice happy day Star that appeared to the World, let Your Mercy this day rest upon me, and the bright beams of Your heavenly light shine forth in the dark corners of my heart, that I may not be transported either through the Corruption of my Nature or the power of darkness to spend this day after my own perverse will and pleasure, but carefully <!-- page 263 -->perform Your holy will, willingly, speedily, and constantly. Increase in me, O Lord, the gift of faith, and hope, that I may believe You, and rely on Your merciful promises made unto me, in Christ Jesus bless my Body and Soul, that no evil happen to them, and preserve my memory and senses that they pass not the limits of reason and understanding: Enlighten my mind, O Lord, to look upon good things, inflame my heart with the love of them, and conduct me with Your Grace, that as You have raised my Body from sleep so my Soul may daily be raised from Sin, and Soul, and Body, and Spirit, may be renewed in Righteousness to serve thee, the Living God for evermore. Amen.
 
 << Richard Allestree, *The Whole Duty of Prayer*
 
 ![Painting](07 A- Master of the St. John’s Altarpiece - 1510 - John the Baptist pointing out the Lamb of God)
-Master of the St. John’s Altarpiece. John the Baptist Pointing out the Lamb of God. 1510. Oil on panel, 121.9 x 95.6 cm. Philadelphia Museum of Art.
+<!-- page 265 -->Master of the St. John’s Altarpiece. John the Baptist Pointing out the Lamb of God. 1510. Oil on panel, 121.9 x 95.6 cm. Philadelphia Museum of Art.

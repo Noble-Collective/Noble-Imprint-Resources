@@ -1,5 +1,6 @@
 # Part One: Commemoration
 
+<!-- page 3 -->
 ## Commemoration Liturgy
 
 ### ADVENT PREAMBLE
@@ -16,6 +17,7 @@ And in that day it will be said, “Surely this is our God; we have waited for H
 
 << Isaiah 25:9
 
+<!-- page 4 -->
 ### CANDLE LIGHTING
 
 #### Waiting Patiently
@@ -38,6 +40,7 @@ I waited patiently for the Lord; He inclined to me and heard my cry. He lifted m
 
 At Eden’s fall, God’s good and ordered world was ruined by sin. Beauty was marred. Dignity was defaced. Hostility and enmity ravaged the world. Humanity was separated from God. We gaze ahead to the coming of Christ, when all unrest is finally undone. The first candle of Advent reminds us that we wait for Christ as the restorer of peace on earth.
 
+<!-- page 5 -->
 ##### ALL
 
 Come, see the works of the Lord, who brings devastation upon the earth. He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields in the fire. “Be still and know that I am God; I will be exalted among the nations, I will be exalted over the earth.” The Lord of Hosts is with us; the God of Jacob is our fortress.
@@ -66,6 +69,7 @@ Here is My Servant, whom I have chosen, My beloved, in whom My soul delights. I 
 
 We live in a world of pain and sorrow. Tragedy torments the globe, grief mocks mankind, and sorrow taunts the human heart. We look to Christ’s coming as the end of misery and rebirth of delight. The third candle of Advent reminds us that we wait for Christ as the fullness of joy to every believing heart.
 
+<!-- page 6 -->
 ##### ALL
 
 Sing to the Lord, for He has done glorious things. Let this be known in all the earth. Cry out and sing, O citizen of Zion, for great among you is the Holy One of Israel.
@@ -92,7 +96,7 @@ For God so loved the world that He gave His one and only Son, that everyone who 
 
 ##### LEADER
 
-Sin blinds the eyes, deafens the ears, dulls the spirit, and hardens the heart. The world is lost in its evil ways, prone to rebellion, idolatry, immorality, and injustice. The human heart is perpetually deceitful and incurably wicked. Fueling the world’s disrepair is a rejection of God and his word. We have embraced lies to our own demise. We anticipate the coming of Christ as the light of God’s truth breaking into a deceived world. The final candle of Advent reminds us that we wait for Christ as the Word of God—the complete revelation of God to mankind.
+Sin blinds the eyes, deafens the ears, dulls the spirit, and hardens the heart. The world is lost in its evil ways, prone to rebellion, idolatry, immorality, and injustice. The human heart is perpetually deceitful and incurably wicked. Fueling the world’s disrepair is a rejection of God and his word. We have embraced lies to our own demise. We anticipate the coming of Christ as the light of God’s truth breaking into a deceived world. The final candle of Advent <!-- page 7 -->reminds us that we wait for Christ as the Word of God—the complete revelation of God to mankind.
 
 ##### ALL
 
@@ -136,7 +140,7 @@ Ye have seen his natal star.
 
 ##### LEADER
 
-As we wait and remember the first coming of Christ, we acknowledge that we eagerly wait for his second coming. Let us come and worship the newborn King in anticipation of his future return—the final advent of our reigning Lord. In unison, our anthem this season is: Come, Lord Jesus.
+As we wait and remember the first coming of Christ, we acknowledge that we eagerly wait for his second coming. Let us come and worship the newborn King in anticipation of his future <!-- page 8 -->return—the final advent of our reigning Lord. In unison, our anthem this season is: Come, Lord Jesus.
 
 ##### ALL
 
@@ -145,4 +149,4 @@ For the grace of God has appeared, bringing salvation to everyone. It instructs 
 << Titus 2:11–13
 
 ![Painting](02 A- Rieser - 1869 - On the eve of the birth of Christ)
-Rieser, Michael. On the Eve of the Birth of Christ. 1869. Oil on canvas, 92 x 95 cm. Dorotheum.
+<!-- page 9 -->Rieser, Michael. On the Eve of the Birth of Christ. 1869. Oil on canvas, 92 x 95 cm. Dorotheum.

@@ -1,5 +1,6 @@
 # Resources
 
+<!-- page 346 -->
 ## Resources Overview
 
 > How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings! They feast on the abundance of Your house, and You give them drink from Your river of delights. For with You is the fountain of life; in Your light we see light. 
@@ -14,6 +15,7 @@ We have come to the end of this liturgical season. But it does not mean the end 
 
 
 
+<!-- page 347 -->
 ## Glossary
 
 ### Benediction
@@ -56,6 +58,7 @@ a read-and-response prayer, many times put in a list of brief petitions followed
 
 an ordered sequence for guided worship incorporating prayers, songs, confessions, readings, and responses usually designed for corporate worship (and at times can be used for personal devotional worship)
 
+<!-- page 348 -->
 ### Meditation
 
 a devotional reflection on a Scripture passage, theological idea, or spiritual reality that sounds like a short homily
@@ -74,6 +77,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 
 
+<!-- page 349 -->
 ## Endnotes
 
 ### Quote Page
@@ -110,6 +114,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^3) Adapted quote from Ephrem the Syrian, “Nineteen Hymns on the Nativity of Christ in the Flesh,” in _Gregory the Great (Part II), Ephraim Syrus, Aphrahat_ , ed. Philip Schaff and Henry Wace, trans. J. B. Morris and A. Edward Johnston, vol. 13, A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series (New York: Christian Literature Company, 1898), 229–230.
 
+<!-- page 350 -->
 ### Second Day of Advent
 
 (^1) Adapted quote from John Boys as cited in Charles H. Spurgeon, The Treasury of David: Containing an Original Exposition of the Book of Psalms—Psalm I-XXVI, vol. 1, The Treasury of David (London: Robert Culley, 1870), 319–320.
@@ -148,6 +153,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^3) Tertullian, “Against Praxeas,” in _Latin Christianity: Its Founder, Tertullian_ , ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe, trans. Peter Holmes, vol. 3, The Ante-Nicene Fathers (Buffalo: Christian Literature Company, 1885), 598.
 
+<!-- page 351 -->
 (^4) Adapted quoted from Isaac Ambrose, _The Compleat Works of Isaac Ambrose_ (London: R. Chiswel, B. Tooke, & T. Sawbridge, 1682), 64–65.
 
 ### Sixth Day of Advent
@@ -184,6 +190,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^4) Benjamin Kurtz, _Lutheran Prayer Book: For the Use of Families and Individuals_ , Revised and Enlarged Edition (Baltimore: T. Newton Kurtz, 1860), 314–315.
 
+<!-- page 352 -->
 ### Ninth Day of Advent
 
 (^1) Bernard of Clairvaux, “On the Joy His Birth Should Inspire” in Bernard of Clairvaux, _Sermons of St. Bernard on Advent and Christmas_ (London: R & T Washbourne, 1909), 75–80.
@@ -220,6 +227,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^2) Prudentius, “A Christmas Carol” in Prudentius, _Songs from Prudentius_ , ed. Ernest Gilliat- Smith (London: John Lane, 1898), 77–81.
 
+<!-- page 353 -->
 (^3) Thomas à Kempis, _A Meditation on the Incarnation of Christ: Sermons on the Life and Passion of Our Lord and of Hearing and Speaking Good Words_ , vol. 4, The Works of Thomas à Kempis (London: Kegan Paul, Trench, Trübner & Company, 1907), 44–46.
 
 ### Thirteenth Day of Advent
@@ -256,6 +264,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^4) Jeremy Taylor, “Considerations Upon the Nativity” in Jeremy Taylor, _The Whole Works of the Right Rev. Jeremy Taylor_ (London: Longman, Brown, Green, and Longmans, 1847), 70– 71.
 
+<!-- page 354 -->
 ### Sixteenth Day of Advent
 
 (^1) Augustine of Hippo, “Expositions on the Book of Psalms,” in _Saint Augustin: Expositions on the Book of Psalms_ , ed. Philip Schaff, trans. A. Cleveland Coxe, vol. 8, A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series (New York: Christian Literature Company, 1888), 541–542.
@@ -292,6 +301,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^3) Charles P. Krauth, _The Augsburg Confession, Together with the General Creeds; and an Introduction, Notes, and Analytical Index_ (Philadelphia: Lutheran Book Store, 1868), 17.
 
+<!-- page 355 -->
 (^4) John Donne, _Devotions upon Emergent Occasions_ , ed. John Sparrow (Cambridge: The University Press, 1923), 72.
 
 ### Twentieth Day of Advent
@@ -328,6 +338,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^4) Thomas Becon, _Writings of the Rev. Thomas Becon_ (London: Religious Tract Society, 1831), 279–280.
 
+<!-- page 356 -->
 ### Twenty-Third Day of Advent
 
 (^1) John Calvin, _Commentary on the First Book of Moses Called Genesis_ , vol. 1 (Bellingham: Logos Bible Software, 2010), 474–475.
@@ -366,6 +377,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^4) Hezekiah Butterworth, _The Story of the Notable Prayers of Christian History_ (Boston: D. Lothrop and Company, 1880), 97–99.
 
+<!-- page 357 -->
 ### Twenty-Seventh Day of Advent
 
 (^1) Blaise Pascal, _The Harvard Classics 48: Blaise Pascal: Thoughts, Letters, and Minor Works_ , ed. Charles W. Eliot, trans. W. F. Trotter, M. L. Booth, and O. W. Wight (New York: P. F. Collier & Son, 1910), 354–355.
@@ -404,6 +416,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^1) Herman Bavinck, _Magnalia Dei_ quoted in Benjamin B. Warfield, _Christology and Criticism_ , vol. 3, The Works of Benjamin B. Warfield (Bellingham: Logos Bible Software, 2008), 367.
 
+<!-- page 358 -->
 (^2) J. M. Neal, trans., _Hymns of the Eastern Church_ (London: J. T. Hayes, 1876), 133–135.
 
 (^3) Tertullian, “The Prescription against Heretics,” in Latin Christianity: Its Founder, Tertullian, ed. Alexander Roberts, James Donaldson, and A. Cleveland Coxe, trans. Peter Holmes, vol. 3, The Ante-Nicene Fathers (Buffalo: Christian Literature Company, 1885), 249.
@@ -438,6 +451,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^4) Philipp Melanchthon, _Godly Prayers_ (London: W. Seres, 1579), 23–24.
 
+<!-- page 359 -->
 ### Thirty-Fourth Day of Advent
 
 (^1) Thomas Brooks, _Precious Remedies against Satan’s Devices_ (London: Religious Tract Society, 1835), 11–12.
@@ -478,6 +492,7 @@ a symbolic act, ritual, or observance often done in the context of a corporate c
 
 (^1) John Damascene, “An Exact Exposition of the Orthodox Faith,” in _St. Hilary of Poitiers, John of Damascus_ , ed. Philip Schaff and Henry Wace, trans. S. D. F. Salmond, vol. 9b, A
 
+<!-- page 360 -->
 Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series (New York: Christian Literature Company, 1899), 69–70.
 
 ### Sixth Day of Christmas
@@ -514,53 +529,66 @@ Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Se
 
 
 
+<!-- page 361 -->
 ## Artwork
 
 ![Painting](10 A- Botticelli - 1474 - Adoration of the magi)
-Botticelli, Sandro. _Adoration of the Magi_. 1474. Tempera on panel, 111 x 134 cm. Uffizi Gallery.
+<!-- page 363 -->Botticelli, Sandro. _Adoration of the Magi_. 1474. Tempera on panel, 111 x 134 cm. Uffizi Gallery.
 
 ![Painting](11 A- Romano - 1480 - The nativity)
-Romano, Antoniazzo. _The Nativity_. 1480. Tempera on wood, 29.2 x 67.3 cm. Metropolitan Museum of Art.
+<!-- page 365 -->Romano, Antoniazzo. _The Nativity_. 1480. Tempera on wood, 29.2 x 67.3 cm. Metropolitan Museum of Art.
 
 ![Painting](12 A- di Simone, Puccio - 1350 - The nativity)
-di Simone, Puccio. _The Nativity_. 1350. Tempera on wood, 20 x 38.1 cm. Metropolitan Museum of Art.
+<!-- page 367 -->di Simone, Puccio. _The Nativity_. 1350. Tempera on wood, 20 x 38.1 cm. Metropolitan Museum of Art.
 
 ![Painting](13 A- Giorgione - 1505 - Adoration of the Shepherds)
-Giorgione. _Adoration of the Shepherds_. 1505. Oil on panel, 90.8 x 110.5 cm. National Gallery of Art.
+<!-- page 369 -->Giorgione. _Adoration of the Shepherds_. 1505. Oil on panel, 90.8 x 110.5 cm. National Gallery of Art.
 
 ![Painting](14 A- Raphael - 1517 - The visitation)
-Raphael. _The Visitation_. 1517. Oil on canvas, 200 x 145 cm. Museo del Prado.
+<!-- page 371 -->Raphael. _The Visitation_. 1517. Oil on canvas, 200 x 145 cm. Museo del Prado.
 
 ![Painting](15 A- Master of the Houghton Miniatures - 1485 - The annunciation to the shepherds)
-Master of the Houghton Miniatures. _The Annunciation to the Shepherds_. 1485–1490. Tempera on parchment, 12.5 x 9 cm. Getty Museum.
+<!-- page 373 -->Master of the Houghton Miniatures. _The Annunciation to the Shepherds_. 1485–1490. Tempera on parchment, 12.5 x 9 cm. Getty Museum.
 
 ![Painting](16 A- di Giovanni - 1433 -The journey of the Magi)
-Giovanni, Stefano di. _The Journey of the Magi_. 1433–1435. Tempera and gold on wood, 21.6 x 29.8 cm. The Metropolitan Museum of Art.
+<!-- page 375 -->Giovanni, Stefano di. _The Journey of the Magi_. 1433–1435. Tempera and gold on wood, 21.6 x 29.8 cm. The Metropolitan Museum of Art.
 
 
 
+<!-- page 377 -->
 ## Hymns, Songs, and Carols
 
 ![Hymn-Angels from the Realms of Glory](Hymn-Angels from the Realms of Glory)
 
+<!-- page 378 -->
 ![Hymn-Come Thou Long Expected Jesus](Hymn-Come Thou Long Expected Jesus)
 
+<!-- page 379 -->
 ![Hymn-O Little Town of Bethlehem](Hymn-O Little Town of Bethlehem)
 
+<!-- page 380 -->
 ![Hymn-It Came Upon a Midnight Clear](Hymn-It Came Upon a Midnight Clear)
 
+<!-- page 381 -->
 ![Hymn-Silent Night](Hymn-Silent Night)
 
+<!-- page 382 -->
 ![Hymn-In the Bleak Midwinter](Hymn-In the Bleak Midwinter)
 
+<!-- page 383 -->
 ![Hymn-O Come O Come Emmanuel](Hymn-O Come O Come Emmanuel)
 
+<!-- page 384 -->
 ![Hymn-What Child Is This](Hymn-What Child Is This)
 
+<!-- page 385 -->
 ![Hymn-O Come All Ye Faithful](Hymn-O Come All Ye Faithful)
 
+<!-- page 386 -->
 ![Hymn-Hark the Herald Angels Sing](Hymn-Hark the Herald Angels Sing)
 
+<!-- page 387 -->
 ![Hymn-Joy To The World](Hymn-Joy To The World)
 
+<!-- page 388 -->
 ![Hymn-I Heard the Bells on Christmas Day](Hymn-I Heard the Bells on Christmas Day)
