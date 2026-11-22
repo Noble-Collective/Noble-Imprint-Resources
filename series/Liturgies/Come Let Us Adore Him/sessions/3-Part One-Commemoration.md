@@ -148,5 +148,6 @@ For the grace of God has appeared, bringing salvation to everyone. It instructs 
 
 << Titus 2:11–13
 
+<!-- page 9 -->
 ![Painting](02 A- Rieser - 1869 - On the eve of the birth of Christ)
-<!-- page 9 -->Rieser, Michael. On the Eve of the Birth of Christ. 1869. Oil on canvas, 92 x 95 cm. Dorotheum.
+Rieser, Michael. On the Eve of the Birth of Christ. 1869. Oil on canvas, 92 x 95 cm. Dorotheum.

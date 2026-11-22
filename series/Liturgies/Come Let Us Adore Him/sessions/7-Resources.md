@@ -532,26 +532,33 @@ Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Se
 <!-- page 361 -->
 ## Artwork
 
+<!-- page 363 -->
 ![Painting](10 A- Botticelli - 1474 - Adoration of the magi)
-<!-- page 363 -->Botticelli, Sandro. _Adoration of the Magi_. 1474. Tempera on panel, 111 x 134 cm. Uffizi Gallery.
+Botticelli, Sandro. _Adoration of the Magi_. 1474. Tempera on panel, 111 x 134 cm. Uffizi Gallery.
 
+<!-- page 365 -->
 ![Painting](11 A- Romano - 1480 - The nativity)
-<!-- page 365 -->Romano, Antoniazzo. _The Nativity_. 1480. Tempera on wood, 29.2 x 67.3 cm. Metropolitan Museum of Art.
+Romano, Antoniazzo. _The Nativity_. 1480. Tempera on wood, 29.2 x 67.3 cm. Metropolitan Museum of Art.
 
+<!-- page 367 -->
 ![Painting](12 A- di Simone, Puccio - 1350 - The nativity)
-<!-- page 367 -->di Simone, Puccio. _The Nativity_. 1350. Tempera on wood, 20 x 38.1 cm. Metropolitan Museum of Art.
+di Simone, Puccio. _The Nativity_. 1350. Tempera on wood, 20 x 38.1 cm. Metropolitan Museum of Art.
 
+<!-- page 369 -->
 ![Painting](13 A- Giorgione - 1505 - Adoration of the Shepherds)
-<!-- page 369 -->Giorgione. _Adoration of the Shepherds_. 1505. Oil on panel, 90.8 x 110.5 cm. National Gallery of Art.
+Giorgione. _Adoration of the Shepherds_. 1505. Oil on panel, 90.8 x 110.5 cm. National Gallery of Art.
 
+<!-- page 371 -->
 ![Painting](14 A- Raphael - 1517 - The visitation)
-<!-- page 371 -->Raphael. _The Visitation_. 1517. Oil on canvas, 200 x 145 cm. Museo del Prado.
+Raphael. _The Visitation_. 1517. Oil on canvas, 200 x 145 cm. Museo del Prado.
 
+<!-- page 373 -->
 ![Painting](15 A- Master of the Houghton Miniatures - 1485 - The annunciation to the shepherds)
-<!-- page 373 -->Master of the Houghton Miniatures. _The Annunciation to the Shepherds_. 1485–1490. Tempera on parchment, 12.5 x 9 cm. Getty Museum.
+Master of the Houghton Miniatures. _The Annunciation to the Shepherds_. 1485–1490. Tempera on parchment, 12.5 x 9 cm. Getty Museum.
 
+<!-- page 375 -->
 ![Painting](16 A- di Giovanni - 1433 -The journey of the Magi)
-<!-- page 375 -->Giovanni, Stefano di. _The Journey of the Magi_. 1433–1435. Tempera and gold on wood, 21.6 x 29.8 cm. The Metropolitan Museum of Art.
+Giovanni, Stefano di. _The Journey of the Magi_. 1433–1435. Tempera and gold on wood, 21.6 x 29.8 cm. The Metropolitan Museum of Art.
 
 
 

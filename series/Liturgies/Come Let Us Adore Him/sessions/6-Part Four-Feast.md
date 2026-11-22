@@ -777,5 +777,6 @@ And wonders of his love.
 
 May the Lord bless you and keep you; may the Lord cause His face to shine upon you and be gracious to you; may the Lord lift up His countenance toward you and give you peace. Numbers 6:24–26
 
+<!-- page 341 -->
 ![Painting](09 A- Brueghel - 1600 - Adoration of the Magi in the snow)
-<!-- page 341 -->Brueghel, Pieter. Adoration of the Magi in the Snow. 1600. Oil on panel, 38 × 56 cm. Museo Correr.
+Brueghel, Pieter. Adoration of the Magi in the Snow. 1600. Oil on panel, 38 × 56 cm. Museo Correr.

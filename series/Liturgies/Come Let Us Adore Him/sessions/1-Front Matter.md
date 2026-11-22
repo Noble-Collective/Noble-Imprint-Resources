@@ -146,6 +146,7 @@ sojourners and exiles
 <br>
 <br>
 <br>
+<!-- page x -->
 ![Painting](01-A-Bruegel-1566-The-census-at-Bethlehem)
 
-<!-- page x -->Bruegel, Pieter. The Census at Bethlehem. 1566. Oil on oak panel, 115.5 x 163.5 cm. Oldmasters Museum.
+Bruegel, Pieter. The Census at Bethlehem. 1566. Oil on oak panel, 115.5 x 163.5 cm. Oldmasters Museum.

@@ -961,8 +961,9 @@ Lord, I desire by a true and lively faith to close with Jesus Christ, and consen
 
 << Matthew Henry, *Forms of Prayer*
 
+<!-- page 63 -->
 ![Painting](03 A- Memling - 1480 - Annunciation)
-<!-- page 63 -->Memling, Hans. Annunciation. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan Museum of Art.
+Memling, Hans. Annunciation. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan Museum of Art.
 
 
 
@@ -3027,8 +3028,9 @@ With regard to Christ, the law and the prophets and the evangelists have proclai
 
 << Irenaeus, *Fragments*
 
+<!-- page 163 -->
 ![Painting](05 A- di Cosimo - 1489 - Visitation)
-<!-- page 163 -->Cosimo, Piero di. Visitation. 1489. Oil on panel, 184 × 189 cm. Samuel H. Kress Collection.
+Cosimo, Piero di. Visitation. 1489. Oil on panel, 184 × 189 cm. Samuel H. Kress Collection.
 
 
 
@@ -4071,8 +4073,9 @@ Give me grace unceasingly to return thanks to Your Word and only Son: as the Pur
 
 << Lancelot Andrews, *Private Devotions*
 
+<!-- page 217 -->
 ![Painting](06 A- Mengs - 1773 - The dream of Joseph)
-<!-- page 217 -->Mengs, Anton Raphael. The Dream of Joseph. 1773. Oil on wood panel, 114 x 86 cm. Kunsthistorisches Museum.
+Mengs, Anton Raphael. The Dream of Joseph. 1773. Oil on wood panel, 114 x 86 cm. Kunsthistorisches Museum.
 
 
 
@@ -5081,5 +5084,6 @@ I humbly beseech You, by the holy incarnation, and blessed Nativity of Your Son 
 
 << Richard Allestree, *The Whole Duty of Prayer*
 
+<!-- page 265 -->
 ![Painting](07 A- Master of the St. John’s Altarpiece - 1510 - John the Baptist pointing out the Lamb of God)
-<!-- page 265 -->Master of the St. John’s Altarpiece. John the Baptist Pointing out the Lamb of God. 1510. Oil on panel, 121.9 x 95.6 cm. Philadelphia Museum of Art.
+Master of the St. John’s Altarpiece. John the Baptist Pointing out the Lamb of God. 1510. Oil on panel, 121.9 x 95.6 cm. Philadelphia Museum of Art.
