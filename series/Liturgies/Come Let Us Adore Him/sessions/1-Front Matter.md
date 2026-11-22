@@ -49,8 +49,8 @@ Series: A Table in the Wilderness: Ecclesial Liturgies for Christian Pilgrims
 
 © 2025 by Matthew R. Lynskey, with a Creative Commons Attribution-ShareAlike license (CC BY-SA), version 4.0.
 
-Published by Noble Imprint (<www.nobleimprint.com>), a church-based publishing collaborative
-and ministry of Noble Collective (<www.noblecollective.org>).
+Published by Noble Imprint (<https://www.nobleimprint.com>), a church-based publishing collaborative
+and ministry of Noble Collective (<https://www.noblecollective.org>).
 
 This book is published under a CC BY-SA license, which means that you have permission to copy, redistribute, remix, transform, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. License details: <https://creativecommons.org/licenses/bysa/4.0/>.
 
