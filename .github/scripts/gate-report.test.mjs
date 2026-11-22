@@ -71,6 +71,24 @@ test('the app acceptance failed → a holding item with the app run link', () =>
   assert.match(r.holding[0].message, /app/i);
 });
 
+test('the website / Institute acceptance failed → a holding item naming that product, with its run link', () => {
+  for (const [id, name, product] of [['website', 'Website acceptance', 'website'], ['institute', 'Institute acceptance', 'Institute']]) {
+    const r = buildReport({
+      sha: SHA, runUrl: RUN, contract: [],
+      checks: [{ id, name, outcome: 'failure', log: `${name} run: https://github.com/N/X/actions/runs/7\n::error::failed` }],
+    });
+    assert.equal(r.holding.length, 1);
+    assert.equal(r.holding[0].source, name);
+    assert.equal(r.holding[0].link, 'https://github.com/N/X/actions/runs/7');
+    assert.match(r.holding[0].message, new RegExp(product));
+  }
+});
+
+test('a skipped acceptance (no token) is a warning in the log, never a hold', () => {
+  const r = buildReport({ sha: SHA, runUrl: RUN, contract: [], checks: [{ id: 'institute', name: 'Institute acceptance', outcome: 'success', log: '::warning::Institute acceptance skipped: no token' }] });
+  assert.equal(r.held, false);
+});
+
 test('skipped / cancelled steps add nothing', () => {
   const r = buildReport({ sha: SHA, runUrl: RUN, contract: [], checks: [{ id: 'app', name: 'App acceptance', outcome: 'skipped', log: '' }] });
   assert.equal(r.held, false);

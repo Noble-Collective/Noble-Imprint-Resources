@@ -32,7 +32,12 @@ export const CHECK_STEPS = [
   ['g_contract', 'Guard tests (content contract)'],
   ['contract', 'Content contract'],
   ['app', 'App acceptance'],
+  ['website', 'Website acceptance'],
+  ['institute', 'Institute acceptance'],
 ];
+
+// The products whose content-acceptance run the gate waits for (scripts/acceptance.sh), by step id.
+const PRODUCTS = { app: 'app', website: 'website', institute: 'Institute' };
 
 export function parseLogErrors(log) {
   const out = [];
@@ -69,9 +74,10 @@ export function buildReport({ sha, runUrl, contract, checks }) {
       if (!contract) holding.push({ source: c.name, rule: null, book: null, path: null, message: 'The content contract could not run on this commit.', fix: 'Open the gate run: the "Content contract" step shows why.' });
       continue; // its errors are already in
     }
-    if (c.id === 'app') {
-      const link = (/App acceptance run: (\S+)/.exec(c.log || '') || [])[1] || null;
-      holding.push({ source: c.name, rule: null, book: null, path: null, message: "The app couldn't use this commit: its content acceptance check failed.", fix: 'The app acceptance run says which file or book (Steve can open it).', link });
+    const product = PRODUCTS[c.id];
+    if (product) {
+      const link = (/acceptance run: (\S+)/.exec(c.log || '') || [])[1] || null;
+      holding.push({ source: c.name, rule: null, book: null, path: null, message: `The ${product} couldn't use this commit: its content acceptance check failed.`, fix: `The ${product} acceptance run says which file or book (Steve can open it).`, link });
       continue;
     }
     const msgs = parseLogErrors(c.log);
