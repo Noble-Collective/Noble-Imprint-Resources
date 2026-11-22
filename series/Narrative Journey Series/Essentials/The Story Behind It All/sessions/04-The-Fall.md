@@ -1,7 +1,5 @@
 # Session 4: The Fall
 
-<div class="ig-theme-outline">
-
 ## Session Overview
 
 ### Creedal Statement

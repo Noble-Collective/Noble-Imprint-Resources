@@ -1,7 +1,5 @@
 # Session 2: The Beginning
 
-<div class="ig-theme-blush">
-
 ## Session Overview
 
 ### Creedal Statement

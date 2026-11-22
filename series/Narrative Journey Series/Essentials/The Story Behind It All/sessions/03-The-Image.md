@@ -1,7 +1,5 @@
 # Session 3: The Image
 
-<div class="ig-theme-card">
-
 ## Session Overview
 
 ### Creedal Statement
