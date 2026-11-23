@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// VENDORED — do not edit. @noble-collective/userdata 0.16.2 content contract CLI (Collective-Shared f3f25fe, packages/userdata/dist/content/cli.cjs).
+// VENDORED — do not edit. @noble-collective/userdata 0.16.3 content contract CLI (Collective-Shared 7afc73f, packages/userdata/dist/content/cli.cjs).
 // Refresh: copy the built file again (npm run build in packages/userdata). Rules: Collective-Shared ARCHITECTURE §9h.
 "use strict";
 
@@ -382,10 +382,16 @@ var AB_FIELDS = {
   pause_style: "string",
   natural_mode: "boolean"
 };
+var LEGACY_SESSION_RE = /^session\d+\.md$/;
+var isPrintOnlyBlock = (name) => /^Cover[A-Z]/.test(name) || name === "SeriesAuthor" || name === "AuthorBio";
+var isTestBook = (book) => !!book && book.slice(book.lastIndexOf("/") + 1) === "Test Book";
 function check(files) {
   const tree = readTree(files);
   const out = [];
-  const add = (rule, severity, path, book, message, fix, line) => out.push({ rule, severity, path, book, message, fix, ...line ? { line } : {} });
+  const add = (rule, severity, path, book, message, fix, line) => {
+    if (severity === "warning" && isTestBook(book)) return;
+    out.push({ rule, severity, path, book, message, fix, ...line ? { line } : {} });
+  };
   const bookByPath = new Map(tree.books.map((b) => [b.path, b]));
   const scopeSev = (dir) => tree.books.some((b) => (b.path === dir || b.path.startsWith(`${dir}/`)) && b.status !== "hidden") ? "error" : "warning";
   const text = (p) => files[p] ?? "";
@@ -453,7 +459,7 @@ function check(files) {
     if (b.meta.value) coverChecks(b, sev);
     for (const s of b.sessions) {
       if (!s.title) add("R7", sev, s.path, b.path, `${s.path} doesn't start with a "# Title" line.`, 'Make the first line of the session "# " followed by its title.');
-      if (!/^\d+-.+\.md$/.test(s.file)) add("R7", "warning", s.path, b.path, `The session file name ${s.file} isn't "NN-Name.md".`, 'Leave existing files as they are; name new sessions like "01-Opening.md".');
+      if (!/^\d+-.+\.md$/.test(s.file) && !LEGACY_SESSION_RE.test(s.file)) add("R7", "warning", s.path, b.path, `The session file name ${s.file} isn't "NN-Name.md".`, 'Leave existing files as they are; name new sessions like "01-Opening.md".');
     }
   }
   function bookMetaChecks(b, sev) {
@@ -653,7 +659,7 @@ function check(files) {
     const visible = level === "series" ? blocksAt(dir, null, null) : level === "collection" ? blocksAt(parts.slice(0, 2).join("/"), dir, null) : book ? blocksAt(book.series, book.collection, book.path) : /* @__PURE__ */ new Map();
     for (const blk of blocks) scanTags(blankComments(blk.body), file, book ? book.path : null, scopeSev(dir), visible, blk.line - 1);
     for (const blk of blocks) {
-      if (!usedBlocks.has(blk.name)) add("R8", "warning", file, null, `The shared block <${blk.name}> in ${file} isn't included by any session.`, `Include it where it belongs (<!-- @include: ${blk.name} -->), or delete it.`, blk.line - 1);
+      if (!usedBlocks.has(blk.name) && !isPrintOnlyBlock(blk.name)) add("R8", "warning", file, null, `The shared block <${blk.name}> in ${file} isn't included by any session.`, `Include it where it belongs (<!-- @include: ${blk.name} -->), or delete it.`, blk.line - 1);
     }
   }
   function scanTags(t, file, book, sev, blocks, lineOffset = 0) {
@@ -802,6 +808,7 @@ function check(files) {
         folders.push({ path: p.slice(0, -"/meta.json".length), ...typeof m.value.id === "string" ? { id: m.value.id } : {}, ...typeof m.value.title === "string" ? { title: m.value.title } : {} });
       }
       for (const pr of validateTerms(terms, folders)) {
+        if (pr.code === "repeats-ancestor") continue;
         add("R13", pr.level, "search-terms.json", null, `search-terms.json, ${pr.key || "the file"}: ${pr.message}.`, TERMS_FIX[pr.code] ?? "See the Library search terms rules (ARCHITECTURE \xA79d).");
       }
     }
