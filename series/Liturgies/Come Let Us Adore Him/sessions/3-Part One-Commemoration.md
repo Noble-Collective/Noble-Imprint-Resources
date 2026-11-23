@@ -24,7 +24,7 @@ And in that day it will be said, “Surely this is our God; we have waited for H
 
 ##### LEADER
 
-The waiting of Advent eventually gives way to the joy of Christmas. But we cannot experience the true joy of Christ’s coming without encountering the reality of sin. The ruined world writhes under the curse until it is redeemed in Christ. The world is burdened under darkness until it is set free by the eternal Son— the Light of the World. Broken humanity suffers the loss of sin until it is restored by the God–Man, Christ the Lord. The Advent wreath and its candles help us remember these truths. As we set up the candles, we get ourselves ready to celebrate anew the coming of God’s Son. We prepare ourselves to receive him afresh, commemorating his coming as good news to mankind. Because of Jesus, peace triumphs over evil’s tyranny. In Christ, hope overcomes despair. The promised Messiah is joy to the aching human heart. The God-Man is the full expression of God’s love to sinners.
+The waiting of Advent eventually gives way to the joy of Christmas. But we cannot experience the true joy of Christ’s coming without encountering the reality of sin—the tragedy of paradise lost. The ruined world writhes under the curse until it is redeemed in Christ. The world is burdened under darkness until it is set free by the eternal Son— the Light of the World. Broken humanity suffers the loss of sin until it is restored by the God–Man, Christ the Lord. The Advent wreath and its candles help us remember these truths. As we set up the candles, we get ourselves ready to celebrate anew the coming of God’s Son. We prepare ourselves to receive him afresh, commemorating his coming as good news to mankind. Because of Jesus, peace triumphs over evil’s tyranny. In Christ, hope overcomes despair. The promised Messiah is joy to the aching human heart. The God-Man is the full expression of God’s love to sinners.
 
 ##### ALL
 
@@ -82,7 +82,7 @@ Sing to the Lord, for He has done glorious things. Let this be known in all the 
 
 ##### LEADER
 
-God’s cosmos is rife with hatred and hostility. Wars abound. Relationships are in disarray. Humanity is estranged from its Creator. The history of earth is a tragic story of violence, animosity, and ill will. We wait for the coming of Christ, when God’s mercy will be fully put on display in the God-Man. The fourth candle of Advent reminds us that we wait for Christ as the fullness of God’s love poured out on undeserving humanity.
+God’s cosmos is rife with hatred and hostility. Wars abound. Relationships are in disarray. Humanity is estranged from its Creator. Creation itself is ravaged by sin and under divine judgment. The history of earth is a tragic story of violence, animosity, and ill will. We wait for the coming of Christ, when God’s mercy will be fully put on display in the God-Man. The fourth candle of Advent reminds us that we wait for Christ as the fullness of God’s love poured out on undeserving humanity.
 
 ##### ALL
 
