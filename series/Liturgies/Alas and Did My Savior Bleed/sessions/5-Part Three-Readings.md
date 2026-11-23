@@ -1022,6 +1022,20 @@ Memling, Hans. _Annunciation_. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan 
 
 ## Week Two: Offerings
 
+### LENT PRELUDE
+
+> offering
+
+<< Romans 11:26–27
+
+> offering
+
+<< John Calvin, _Commentary on Isaiah_
+
+During Lent, we remember how payment for sin.
+
+The world is broken. Humanity has fallen. Sin has invaded the cosmos. In the perfect paradise of Eden, the first humans rebelled against God bringing the world under curse, condemnation, and corruption. Since then, sorrow, sadness, and grief have tormented God’s good creation. Humanity is both victim and villain in this tragedy of paradise lost. But all hope has not vanished. Paradise will be regained. The world will be reclaimed. Goodness will be restored. And condemned sinners will experience gracious emancipation. In the end, all that is wrong will be set right. Even before the foundations of the world were laid, God had orchestrated such a promised plan—to redeem his creation, to restore fallen humanity, to depose the devil’s tyranny, and to rid the world of sin. The spectacular goodness of God in creation is only magnified as we consider his unmerited favor in salvation. During Lent, we remember how sin has deeply marred and painfully ruined all that God has made. But our sober reflections of this catastrophic fall are met with a steel hope in God’s deliverance—a deliverance foreshadowed by saints of old, whose true and timeless stories prefigure and intimate the full and final relief that God’s one and only Son could exclusively bring.
+
 ## - Eighth Day of Lent
 
 ### SCRIPTURE READING
