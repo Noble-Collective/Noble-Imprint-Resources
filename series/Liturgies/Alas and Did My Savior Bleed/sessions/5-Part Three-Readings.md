@@ -1294,7 +1294,13 @@ Till all in heaven with Christ appear
 
 #### Title From the Text
 
-Confession text [120–220 words]
+Q. How is that place of Scripture to be understood, Is. 53. 9. With his Stripes we are healed? Were not these Stripes his Sufferings both of Soul and Body as Man, that he suffered without us?
+
+A. Yea, with, or by which we are healed, because they were of that merit and efficacy, that by them he procured and purchased that inward Virtue and Grace to be given us, by which the Wound and hurt that Sin had given us is healed, and by means of which, that pure healing Balsam and Oyl comes from him into our Souls for their healing.
+
+Q. What Figure or Type of this was given in the Old Testament?
+
+A. The beaten Oyl, that by the beating and bruising of the Olive, came out of it, which was commanded, together with the fine Flower that came out of the Wheat, by its being ground, to be offered with the daily Sacrifices, and ▪ the Wine that was to be offered, with the ▪ ring, which was the Blood of the Wine ▪ after it was pressed; also the Water that ▪ out of the Rock, being struck by Moses ▪ that refreshed the Israelites, when they were ready to dye for thirst, hath the like ▪ ▪ tion; the beaten Oyl, the fine Flower, and the Wine, in these Offerings, did all of them signifie, as well as the Water that came out of the Rock, when struck by Moses's Rod, the healing, nourishing, and refreshing Vertue of Christ's Grace, which is given us by his Sufferings, Exod. 29. 38, 39, 40, 41.
 
 << Confession or Catechism Name
 
