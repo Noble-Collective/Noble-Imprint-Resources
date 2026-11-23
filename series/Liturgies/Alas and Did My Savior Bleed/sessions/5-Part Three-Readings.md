@@ -1122,39 +1122,14 @@ That Thou hast given us souls and wills and breath;
 
 #### Title From the Text
 
-The Office of Christ, is that which he undertook that he might obtain salvation for men 
+The Office of Christ, is that which he undertook that he might obtain salvation for men .... The priesthood of Christ is that whereby he has purged by ==sacrifice== the sins of men, and obtained the favor of God for them
 
-The priesthood of Christ is that whereby he has purged by ==sacrifice== the sins of men, and obtained the favor of God for them
+In this office Christ himself was the Priest, ==Sacrifice==, and Altar, he was Priest according to both natures. He was a ==Sacrifice==, most properly according to his humane nature ... The chief force whereby this ==sacrifice== was made effectual did depend upon the nature of God, namely that the Son of God did offer himself for us. 
 
-In this office Christ himself was the Priest, ==Sacrifice==, and Altar, he was Priest according to both natures. He was a ==Sacrifice==, most properly according to his humane nature: 
+He was the Altar properly according to his Divine nature. For it is belonging to the Altar to sanctify that which is offered upon it, and so it ought to be of greater dignity then the ==sacrifice== it self.
 
-Yet the chief force whereby this ==sacrifice== was made effectual did depend upon the nature of God, namely that the Son of God did offer himself for us. 
 
-He was the Altar properly according to his Divine nature. For it is belonging to the Altar to sanctifie that which is offered upon it, and so it ought to be of greater dignity then the ==sacrifice== it selfe. _Mat._ 23. 17. But Ghrist by his divine nature did in a certaine manner sanctifie himselfe according to his humane nature, _Iohn_ 17. 19.
-
-20. Therefore it doth hence also appeare, how necessary it was that Christ the Mediator, should be both God and man: for unlesse he had been man, he had not been a fit ==sacrifice==: and unlesse he had been God, that ==sacrifice== had not been of sufficient vertue.
-
-21. The Kingdome, of Christ is that whereby he doth dispence and administer all things with power and authority, which pertaine to the salvation of man, _[Psal. 2. 6](http://127.0.0.1:8765/#/passage/Psalms%202%3A6 "Passage Guide: Psalms 2:6"). [Dan. 2. 44](http://127.0.0.1:8765/#/passage/Daniel%202%3A44 "Passage Guide: Daniel 2:44"). Luc._ 1. 36.
-
-22. The properties of this Kingdome are. First. That it is universall. 1. In respect of all ages, _Mat._ 22. 43. 44. 45. 2. In respect of all kind of men. _[Dan. 7. 14](http://127.0.0.1:8765/#/passage/Daniel%207%3A14 "Passage Guide: Daniel 7:14"). Rev._ 17. 14. 3. In respect also of all Creatures, as they doe in any sort pertaine to the furthering, or beautifying of mens salvation. _Eph._ 1, 21. 22.
-
-23. Secondly, that it is over the very soules, and consciences of men, _Rom._ 14. 17.
-
-24. Thirdly, that it dispenseth life and death eternall, _Rev._ 1. 18.
-
-25. Fourthly, that it is eternall. _Dan._ 2. 44. & 7. 14.
-
-26. Fifthly, that it brings greatest peace, and perfect felicity to those, that are heires of it _Isay_ 9. 6. _[Eph. 2. 16](http://127.0.0.1:8765/#/passage/Ephesians%202%3A16 "Passage Guide: Ephesians 2:16"). Hebr._ 7. 2.
-
-27. Hence this Kingdome in the Scriptures is every where called the Kingdome of God, the kingdome of peace, and glory, in the places above cited: and the Kingdome of light and glory, the Kingdome of Heaven, and the world to come, _Hebr._ 2. 5.
-
-28. And hence also it appeareth how necessary it was that Christ the Mediator should be God, and man: for unlesse he had bin God, he could not be the spirituall King of our soules, dispensing life and death eternall: and unlesse hee had been man he could not have been an head of the same kinde with his body.
-
-29. Christ in all his offices had types: In the propheticall office he h▪d men also so subordinate to h▪mselfe that they also were called prophets: but his Priesthood and kingdome doe not admit such a subordination: neither was there ever any by office a spirituall Priest or King beside Christ alone.
-
-30. The reason of the difference is, because that the declaration of the will of God unto men, which is the office of a Prophet may in some manner be performed by a meere man: but purging of sinnes by ==sacrifice== before God which is the duty of a priest, and government over the soules and consciences of men, which is the part of a King, cannot at all be done by a meere man.
-
-31. The Kings of the nations, are not properly subordinate to Christ in their authority, but unto God.
+Therefore it does also appear, how necessary it was that Christ the Mediator, should be both God and man: for unless he had been man, he had not been a fit ==sacrifice==: and unless he had been God, that ==sacrifice== had not been of sufficient virtue.
 
 << William Ames, *The Marrow of Sacred Divinity*
 
