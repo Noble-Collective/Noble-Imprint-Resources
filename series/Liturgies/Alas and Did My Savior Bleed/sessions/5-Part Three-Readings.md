@@ -1120,19 +1120,13 @@ That Thou hast given us souls and wills and breath;
 
 ### CONFESSIONAL INSTRUCTION
 
-#### Title From the Text
+#### Christ Himself Was Priest, Sacrifice, and Altar
 
 The Office of Christ, is that which he undertook that he might obtain salvation for men .... The priesthood of Christ is that whereby he has purged by ==sacrifice== the sins of men, and obtained the favor of God for them
 
-In this office Christ himself was the Priest, ==Sacrifice==, and Altar, he was Priest according to both natures. He was a ==Sacrifice==, most properly according to his humane nature ... The chief force whereby this ==sacrifice== was made effectual did depend upon the nature of God, namely that the Son of God did offer himself for us. 
-
-He was the Altar properly according to his Divine nature. For it is belonging to the Altar to sanctify that which is offered upon it, and so it ought to be of greater dignity then the ==sacrifice== it self.
-
-
-Therefore it does also appear, how necessary it was that Christ the Mediator, should be both God and man: for unless he had been man, he had not been a fit ==sacrifice==: and unless he had been God, that ==sacrifice== had not been of sufficient virtue.
+In this office Christ himself was the Priest, ==Sacrifice==, and Altar, he was Priest according to both natures. He was a ==Sacrifice==, most properly according to his humane nature ... Yet the chief force whereby this ==sacrifice== was made effectual did depend upon the nature of God, namely that the Son of God did offer himself for us ... He was the Altar properly according to his Divine nature. For it is belonging to the Altar to sanctify that which is offered upon it, and so it ought to be of greater dignity then the ==sacrifice== it self ... But Christ by his divine nature did in a certain manner sanctify himself according to his human nature .... Therefore it does also appear, how necessary it was that Christ the Mediator, should be both God and man: for unless he had been man, he had not been a fit ==sacrifice==: and unless he had been God, that ==sacrifice== had not been of sufficient virtue.
 
 << William Ames, *The Marrow of Sacred Divinity*
-
 
 ### REFLECTIVE PRAYER
 
