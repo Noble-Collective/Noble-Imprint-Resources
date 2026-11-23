@@ -151,7 +151,7 @@ jobs:
       # --- C4 (2026-11-22): can each PRODUCT read this commit? Each repo's read-only content-acceptance.yml, dispatched
       # and waited for by scripts/acceptance.sh (the product repos are private, so no workflow_call). A product run that
       # FAILS holds live; a token/GitHub problem is a warning only. App ~4 min (APP_DISPATCH_TOKEN), website ~1 min
-      # (WEBSITE_DISPATCH_TOKEN), Institute ~2 min (INSTITUTE_DISPATCH_TOKEN; skipped until Steve adds it).
+      # (WEBSITE_DISPATCH_TOKEN), Institute ~2 min (INSTITUTE_DISPATCH_TOKEN, set 2026-11-23).
       - name: App acceptance (Noble-Imprint-App content-acceptance.yml)
         id: app
         if: ${{ success() && github.event_name == 'push' && steps.mode.outputs.override != 'true' }}

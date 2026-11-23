@@ -29,7 +29,7 @@ bundled content.
 - **C4 (2026-11-22): the gate waits for each product's read-only `content-acceptance.yml`** via
   `scripts/acceptance.sh <repo> <branch> <label>` (dispatch on the pushed sha, find the run by its title, wait): app
   (`develop`, `APP_DISPATCH_TOKEN`, ~4 min), website (`main`, `WEBSITE_DISPATCH_TOKEN`, ~1 min), Institute (`main`,
-  `INSTITUTE_DISPATCH_TOKEN`, ~2 min — skipped with a warning until that secret exists). A product run that FAILS holds
+  `INSTITUTE_DISPATCH_TOKEN`, ~2 min; set 2026-11-23 — a missing or expired token is a warning only). A product run that FAILS holds
   `live`; a missing token, refused dispatch or unreadable run is a warning only. Push events only.
 - **C5 (2026-11-22): the gate's last checking step posts a check run "Content gate report"** on the commit
   (`scripts/gate-report.mjs`; push + manual runs, never PRs; always `neutral`, and its own tests are
