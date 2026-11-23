@@ -3957,7 +3957,7 @@ That have more reason to be glad than they.
 
 #### Christ Be With Me
 
-The strength of God pilot me; the power of God preserve me; the wisdom of God instruct me; the eye of God watch over me; the ear of God hear me; the word of God give me sweet talk; the hand of God defend me; the way of God guide me. Christ be with me; Christ before me; Christ after me; Christ in me; Christ under me; Christ over me; Christ on my right hand; on my left hand; Christ at my back; Christ in the heart of every person to whom I speak; Christ in the mouth of every person who speaks to me; Christ in the eyes of every person who looks upon me; Christ in the ear of every person who hears me. To-day I invoke the mighty power of the Trinity.
+The strength of God pilot me; the power of God preserve me; the wisdom of God instruct me; the eye of God watch over me; the ear of God hear me; the word of God give me sweet talk; the hand of God defend me; the way of God guide me. Christ be with me; Christ before me; Christ after me; Christ in me; Christ under me; Christ over me; Christ on my right hand; on my left hand; Christ at my back; Christ in the heart of every person to whom I speak; Christ in the mouth of every person who speaks to me; Christ in the eyes of every person who looks upon me; Christ in the ear of every person who hears me.
 
 << St. Patrick, "On Going to Tara"
 
