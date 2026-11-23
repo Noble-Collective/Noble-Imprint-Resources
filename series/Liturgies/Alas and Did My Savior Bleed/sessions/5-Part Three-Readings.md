@@ -67,11 +67,13 @@ Excerpt text [250–450 words; the one to lengthen or shorten]
 Line
 Line
   Indented line
+    Indented twice
 
 Line
 Line
 
 [20–32 lines; blank line between stanzas; no stanza over 16 lines]
+[Indents: copy the poet's exactly. 2 spaces = indent once, 4 spaces = indent twice (no deeper). Hymn lines stay flush. Lines over about 55 characters may wrap and will be flagged.]
 
 << Author, “Poem Title”
 
