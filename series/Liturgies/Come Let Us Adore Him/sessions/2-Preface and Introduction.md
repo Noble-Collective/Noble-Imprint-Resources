@@ -19,7 +19,7 @@ Liturgy—ordered corporate worship for collective spiritual growth—serves the
 
 As the church occupies her _missional trenches_ , she must be furnished with _doxological armor_. This is the humble aim of this series. The collective worship of the church—be it gathered together in one locale or dispersed as a diaspora people—is the vital foundation for the church to grow into maturity and sustain her missional witness. This approach to worship connects us with the people of God in the past, present, and future. Celebrating God’s redemptive work, the church realizes her participation in the community of faith, which is at once _local_ , _global_ , and _heavenly_. As we sojourn in the wilderness of this world—with its sufferings, hardships, and tribulations—our corporate worship makes us ever aware of God’s mighty deeds and reliable words. In this way, Christian liturgy for the church recalls God’s work of redemption, strengthens us in our faith pilgrimage, and discloses visions of our glorious future.
 
-<< March 2024
+<< November 2025
 << York, Pennsylvania
 
 <!-- page xix -->
