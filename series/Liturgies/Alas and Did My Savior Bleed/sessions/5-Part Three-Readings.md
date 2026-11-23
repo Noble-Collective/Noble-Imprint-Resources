@@ -1149,7 +1149,9 @@ When anyone brings a grain offering to the Lord, his offering must consist of fi
 
 Now if you bring an offering of grain baked in an oven, it must consist of fine flour, either unleavened cakes mixed with oil or unleavened wafers coated with oil. If your offering is a grain offering prepared on a griddle, it must be unleavened bread made of fine flour mixed with oil. Crumble it and pour oil on it; it is a grain offering. If your offering is a grain offering cooked in a pan, it must consist of fine flour with oil. 
 
-When you bring to the Lord the grain offering made in any of these ways, it is to be presented to the priest, and he shall take it to the altar. The priest is to remove the memorial portion from the grain offering and burn it on the altar as an offering made by fire, a pleasing aroma to the Lord. But the remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the offerings made by fire to the Lord. No grain offering that you present to the Lord may be made with leaven, for you are not to burn any leaven or honey as an offering made by fire to the Lord. You may bring them to the Lord as an offering of firstfruits, but they are not to be offered on the altar as a pleasing aroma. And you shall season each of your grain offerings with salt. You must not leave the salt of the covenant of your God out of your grain offering; you are to add salt to each of your offerings. If you bring a grain offering of firstfruits to the Lord, you shall offer crushed heads of new grain roasted on the fire. And you are to put oil and frankincense on it; it isa grain offering. The priest shall then burn the memorial portion of the crushed grain and the oil, together with all its frankincense, as an offering made by fire to the Lord.
+When you bring to the Lord the grain offering made in any of these ways, it is to be presented to the priest, and he shall take it to the altar. The priest is to remove the memorial portion from the grain offering and burn it on the altar as an offering made by fire, a pleasing aroma to the Lord. But the remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the offerings made by fire to the Lord. 
+
+No grain offering that you present to the Lord may be made with leaven, for you are not to burn any leaven or honey as an offering made by fire to the Lord. You may bring them to the Lord as an offering of firstfruits, but they are not to be offered on the altar as a pleasing aroma. And you shall season each of your grain offerings with salt. You must not leave the salt of the covenant of your God out of your grain offering; you are to add salt to each of your offerings. If you bring a grain offering of firstfruits to the Lord, you shall offer crushed heads of new grain roasted on the fire. And you are to put oil and frankincense on it; it isa grain offering. The priest shall then burn the memorial portion of the crushed grain and the oil, together with all its frankincense, as an offering made by fire to the Lord.
 
 << Leviticus 2:1–16
 
@@ -1256,6 +1258,14 @@ With so much earnestnesse you do pursue,
 
 << George Herbert, “Peace”
 
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
 #### The Sheaf and Harvest Is but One Accepted Sacrifice
 
 Jesu, we know that Thou hast died,
@@ -1279,6 +1289,24 @@ Till all in heaven with Christ appear
   Eternally the same.
 
 << Charles Wesley, “Jesu, We Know That Thou Hast Died”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+Whole day: about 1,300 words of prose plus about 55 lines of hymn and poem.
 
 ## - Tenth Day of Lent
 
