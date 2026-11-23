@@ -1,5 +1,99 @@
 # Part Three: Readings
 
+<!-- TEMPLATE: copy the lines between the dashed rules. Limits in [brackets]; delete them after pasting.
+
+- - - - - - - - - - - - - - - - - - - - WEEK OPENER - - - - - - - - - - - - - - - - - - - -
+
+## Week One: Name
+
+### LENT PRELUDE
+
+> Scripture epigraph [no more than 30 words]
+
+<< Book 0:0–0
+
+> Historic quote [no more than 90 words]
+
+<< Author, _Book Title_
+
+Prelude paragraph [no more than 190 words]. Whole prelude page: no more than 310 words.
+
+- - - - - - - - - - - - - - - - - - - - - - DAY - - - - - - - - - - - - - - - - - - - - - -
+
+## - First Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+Line
+Line
+  Indented line
+
+Line
+Line
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+Whole day: about 1,300 words of prose plus about 55 lines of hymn and poem.
+-->
+
 ## Week One: Foreshadowings
 
 ### LENT PRELUDE
@@ -14,7 +108,7 @@
 
 The world is broken. Humanity has fallen. Sin has invaded the cosmos. In the perfect paradise of Eden, the first humans rebelled against God bringing the world under curse, condemnation, and corruption. Since then, sorrow, sadness, and grief have tormented God’s good creation. Humanity is both victim and villain in this tragedy of paradise lost. But all hope has not vanished. Paradise will be regained. The world will be reclaimed. Goodness will be restored. And condemned sinners will experience gracious emancipation. In the end, all that is wrong will be set right. Even before the foundations of the world were laid, God had orchestrated such a promised plan—to redeem his creation, to restore fallen humanity, to depose the devil’s tyranny, and to rid the world of sin. The spectacular goodness of God in creation is only magnified as we consider his unmerited favor in salvation. During Lent, we remember how sin has deeply marred and painfully ruined all that God has made. But our sober reflections of this catastrophic fall are met with a steel hope in God’s deliverance—a deliverance foreshadowed by saints of old, whose true and timeless stories prefigure and intimate the full and final relief that God’s one and only Son could exclusively bring.
 
-## - First Day of Lent
+## First Day of Lent
 
 ### SCRIPTURE READING
 
@@ -158,7 +252,7 @@ Father, we thank Thee for the Book, we thank Thee for the glorious Man, the God 
 
 << Charles Spurgeon, _Prayers From Metropolitan Pulpit_
 
-## - Second Day of Lent
+## Second Day of Lent
 
 ### SCRIPTURE READING
 
