@@ -1122,9 +1122,70 @@ That Thou hast given us souls and wills and breath;
 
 #### Title From the Text
 
-Confession text [120–220 words]
+The Office of Christ, is that which he undertook that he might obtain salvation for men: 1. Tim. 1. 15. This is a sure saying, and worthy of all acceptation: That Iesus Christ came into the World to save Sinners.
 
-<< Confession or Catechism Name
+2. For those that denie that the proper end propounded by God and Christ in this mistery, was the salvation of men, they deprive God and Christ of their honour, and men of their comfort.
+
+3. In it two things are to be considered. The calling to this office, and the office it selfe. _Heb._ 5. 4, 6. 6. None takes this honor to himselfe, but he that is called of God, as was _Aaron:_ So also Christ, &c.
+
+4. The calling is in action of God, especially of the Father, whereby, a speciall covenant being made, he ordained his Son to this office.
+
+5. This covenant is expressed, _Isay._ 53. 10. That if Christ would make himselfe a ==sacrifice== for sin, then he should see his seed, he should prolong his dayes, and the delight of the Lord should prosper by him.
+
+6. This calling therefore containes in it selfe. Chusing, fore-ordaining, and sending. _Isay_ 42. 1. Mine elect 1 _Pet._ 1. 20. Which was sore-knowne before the foundation, of the World, _Iohn_ 3. 17. God hath sent his Sonne into the World. It is called in Scriptures sealing. _Iohn_ 6. 27. Sanctification, _Iohn_ 10. 36. Anointing. _[Isay 61. 1](http://127.0.0.1:8765/#/passage/Isaiah%2061%3A1 "Passage Guide: Isaiah 61:1"). [Psal. 45. 8](http://127.0.0.1:8765/#/passage/Psalms%2045%3A8 "Passage Guide: Psalms 45:8"). Heb._ 1. 9. And a giving, _Ioh._ 3. 16.
+
+7. Chusing, respects the end; fore-ordaining the meanes; sending, the execution it selfe; of meere grace, without any condition foreseene, either inmen, or in Christ himselfe.
+
+8. All things which Christ either did or suffered, even as touching all circumstances were foredetermined. _Luke_ 22. 22. The Sonne of man goeth as it is appointed. _Acts_ 4. 28. That they might doe all things whatsoever thy hand, and thy counsell had before determined to be done.
+
+9. But this calling was not instituted in an ordinary manner, but confirmed with a solemne oath, to confirme the excellency and eternity of it. _Psalme_ 110. 4. _Hebr._ 5. 6. & 7. 24.
+
+10. The office it selfe to which Christ was called is threefold: Of a Prophet, of a Priest, of a King.
+
+11. This number, and order of offices, is shewed: First by mens necess▪ty, greevously labouring under ignorance, alienation from God, and disability to returne to him: the first of which is healed by the Prophecy of Christ, the second by his Priest-hood, the third by his Kingdome.
+
+12. Secondly, the order of conferring salvation doth shew his number also which ought first to be unfolded then obtained, and then afterward applied; the first of which is the part of a Prophet, the second of a Priest and the third of a King.
+
+13. Thirdly, the same order also appeareth by the solemne manner of executing it, whereby Christ did first teach others, declaring the Will of God unto them: then hee did offer himselfe; and afterward hee did enter into his Kingdome.
+
+14. The prophecy of Christ is that whereby he hath perfectly revealed the whole Will of God that bringeth salvation: whence he is in Scripture called not onely a Prophet. _Deut._ 18. 15. _Acts_ 3. 22. And a Doctor, _Mat._ 23. 7. The Apostle of our profession. _Hebr._ 3. 1. And the Angell of the covenant. _Malach._ 3. 1. But also the very wisdome of God. 1 _Cor._ 1. 24. And the treasure of wisdome and understanding, _Col_ 2. 3.
+
+15. This prophecy was in Christ as in the principall cause: in others whether angells, or men as in his instruments, 1 _Pet._ 1. 11. The Prophets did search what or what manner of time the foretelling spirit of Christ which was in them, should decline, &c. And 3. 19. By which going to the spirits which are in prison, he preached· It was in Christ by way of habit so that he might when he pleased, reveale all the secrets of God. But in others by way of act, and flas▪ing or coruscation so that they could not exercise prophesie but at certaine times when he pleased, _Ierem._ 42. 7. After ten dayes came the Lord to _Ieremy._
+
+16. That he might be such a prophet, it was necessary that he should be God, _Iohn_ 1. 18. & 3. 13. And withall also that he should be man, _Acts_ 3. 22. Compared with _Deut._ 18. 15. For unlesse he had beene God, he should neither have perfectly understood the Will of God. 1 _Cor._ 2. 11. 16. Neither had he been able to reveale it throughout all ages: unlesse he had been man, he could not fittly have unfolded it in his own person unto men, _Hebr._ 1. 1.
+
+17. The priesthood of Christ is that whereby he hath purged by ==sacrifice== the sins of men, and obtained the favour of God for them. _Col._ 1. 20. & 22. 2 _Cor._ 5. 15. _Rom._ 5. 10.
+
+18. This priesthood was not legall, or temporary, but according to the order of _Melchisedek. Hebr._ 7. 17. Not by a carnall Commandement but by the power of an endlesse life. _Ibid. Ver._ 16. Not by an order that it weake and lame, but stable, and perfect. _Ibid. Ve._ 18. & 19. Not for a time, but for ever. _Ibid. Verse_ 24. Finally admitting no successor or Vicar, but perpetuall, and proper to Christ, and of him that ever liveth. _Ibid. Vers._ 24. and 25.
+
+19. In this office Christ himselfe was the Priest, ==Sacrifice==, and Altar, he was Priest according to both natures. _Hebr._ 5. 6. He was a ==Sacrifice==, most properly according to his humane nature: whence in the Scriptures this is wont to be attributed not only to the person of Christ, but to his body. _Heb._ 12. 13. 1 _Pet. 2. 13 Col._ 1. 22. To his blood, _Col._ 1. 20. And to his Soule. _[Isay 53. 10](http://127.0.0.1:8765/#/passage/Isaiah%2053%3A10 "Passage Guide: Isaiah 53:10"). Mat._ 20. 28. Yet the chiefe force whereby this ==sacrifice== was made effectuall did depend upon the nature of God, namely that the Sonne of God did offer himselfe for us. _Acts_ 20. 28. _Rom._ 8. 3. He was the Altar properly according to his Divine nature. _Hebr._ 9. 14. & 13. 10. 12. 15. For it is belonging to the Altar to sanctifie that which is offered upon it, and so it ought to be of greater dignity then the ==sacrifice== it selfe. _Mat._ 23. 17. But Ghrist by his divine nature did in a certaine manner sanctifie himselfe according to his humane nature, _Iohn_ 17. 19.
+
+20. Therefore it doth hence also appeare, how necessary it was that Christ the Mediator, should be both God and man: for unlesse he had been man, he had not been a fit ==sacrifice==: and unlesse he had been God, that ==sacrifice== had not been of sufficient vertue.
+
+21. The Kingdome, of Christ is that whereby he doth dispence and administer all things with power and authority, which pertaine to the salvation of man, _[Psal. 2. 6](http://127.0.0.1:8765/#/passage/Psalms%202%3A6 "Passage Guide: Psalms 2:6"). [Dan. 2. 44](http://127.0.0.1:8765/#/passage/Daniel%202%3A44 "Passage Guide: Daniel 2:44"). Luc._ 1. 36.
+
+22. The properties of this Kingdome are. First. That it is universall. 1. In respect of all ages, _Mat._ 22. 43. 44. 45. 2. In respect of all kind of men. _[Dan. 7. 14](http://127.0.0.1:8765/#/passage/Daniel%207%3A14 "Passage Guide: Daniel 7:14"). Rev._ 17. 14. 3. In respect also of all Creatures, as they doe in any sort pertaine to the furthering, or beautifying of mens salvation. _Eph._ 1, 21. 22.
+
+23. Secondly, that it is over the very soules, and consciences of men, _Rom._ 14. 17.
+
+24. Thirdly, that it dispenseth life and death eternall, _Rev._ 1. 18.
+
+25. Fourthly, that it is eternall. _Dan._ 2. 44. & 7. 14.
+
+26. Fifthly, that it brings greatest peace, and perfect felicity to those, that are heires of it _Isay_ 9. 6. _[Eph. 2. 16](http://127.0.0.1:8765/#/passage/Ephesians%202%3A16 "Passage Guide: Ephesians 2:16"). Hebr._ 7. 2.
+
+27. Hence this Kingdome in the Scriptures is every where called the Kingdome of God, the kingdome of peace, and glory, in the places above cited: and the Kingdome of light and glory, the Kingdome of Heaven, and the world to come, _Hebr._ 2. 5.
+
+28. And hence also it appeareth how necessary it was that Christ the Mediator should be God, and man: for unlesse he had bin God, he could not be the spirituall King of our soules, dispensing life and death eternall: and unlesse hee had been man he could not have been an head of the same kinde with his body.
+
+29. Christ in all his offices had types: In the propheticall office he h▪d men also so subordinate to h▪mselfe that they also were called prophets: but his Priesthood and kingdome doe not admit such a subordination: neither was there ever any by office a spirituall Priest or King beside Christ alone.
+
+30. The reason of the difference is, because that the declaration of the will of God unto men, which is the office of a Prophet may in some manner be performed by a meere man: but purging of sinnes by ==sacrifice== before God which is the duty of a priest, and government over the soules and consciences of men, which is the part of a King, cannot at all be done by a meere man.
+
+31. The Kings of the nations, are not properly subordinate to Christ in their authority, but unto God.
+
+<< William Ames, *The Marrow of Sacred Divinity*
+
 
 ### REFLECTIVE PRAYER
 
