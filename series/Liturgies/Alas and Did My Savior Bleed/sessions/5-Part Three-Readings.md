@@ -1101,7 +1101,7 @@ Christ’s death was recognized everywhere where it became known as the reality 
 
 #### Our Life, Our Light, if Once We Turn to Thee
 
-We feel and see with different hearts and eyes:--
+We feel and see with different hearts and eyes:—
   Ah Christ, if all our hearts could meet in Thee
   How well it were for them and well for me,
 Our hearts Thy dear accepted sacrifice.
@@ -1117,6 +1117,24 @@ That Thou hast given us souls and wills and breath;
   And hearts to love Thee; and to see Thee, eyes.
 
 << Christina Rossetti, “Thyself God’s Sole Well-Pleasing Sacrifice”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+Whole day: about 1,300 words of prose plus about 55 lines of hymn and poem
 
 ## - Ninth Day of Lent
 
