@@ -82,7 +82,7 @@ Sing to the Lord, for He has done glorious things. Let this be known in all the 
 
 ##### LEADER
 
-God’s cosmos is rife with hatred and hostility. Wars abound. Relationships are in disarray. Humanity is estranged from its Creator. Creation itself is ravaged by sin and under divine judgment. The history of earth is a tragic story of violence, animosity, and ill will. We wait for the coming of Christ, when God’s mercy will be fully put on display in the God-Man. The fourth candle of Advent reminds us that we wait for Christ as the fullness of God’s love poured out on undeserving humanity.
+God’s cosmos is rife with hatred and hostility. Wars abound. Relationships are in disarray. Humanity is estranged from its Creator. Creation itself is ravaged by sin and under divine judgment. The history of earth is a tragic story of violence, animosity, and ill will. We wait for the coming of Christ, when God’s mercy will be fully put on display in the God-Man. The fourth candle of Advent reminds us that we wait for Christ as the fullness of God’s love poured out on undeserving humanity, redeeming sinful mankind and the ruined cosmos from curse and condemnation.
 
 ##### ALL
 
