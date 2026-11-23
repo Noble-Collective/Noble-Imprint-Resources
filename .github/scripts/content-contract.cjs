@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// VENDORED — do not edit. @noble-collective/userdata 0.16.3 content contract CLI (Collective-Shared 7afc73f, packages/userdata/dist/content/cli.cjs).
+// VENDORED — do not edit. @noble-collective/userdata 0.16.4 content contract CLI (Collective-Shared 9b1dcbf, packages/userdata/dist/content/cli.cjs).
 // Refresh: copy the built file again (npm run build in packages/userdata). Rules: Collective-Shared ARCHITECTURE §9h.
 "use strict";
 
@@ -428,10 +428,6 @@ function check(files) {
         }
       }
       audienceChecks(v, where, null, sev);
-    }
-    const visible = tree.books.some((b) => b.path.startsWith(`${g.path}/`) && b.status !== "hidden");
-    if (!visible) {
-      add("R4", "warning", where, null, `The ${g.kind} ${g.title} (${g.path}) has no visible books, so readers see an empty ${g.kind}.`, `Add a book, make one public, or remove the ${g.kind} folder.`);
     }
   };
   function audienceChecks(v, where, book, sev) {
