@@ -1128,7 +1128,7 @@ Confession text [120–220 words]
 
 ### REFLECTIVE PRAYER
 
-#### Title From the Prayer
+#### Be My Redeemer, My Saviour, My Righteouness, My Atonement-Maker
 
 O most loving Father, weigh not my sins, but remember the most gentle promises. Consider not my evil works, but have respect unto the undefiled deeds of your Son Jesus Christ, whom you have given to be my Redeemer, my Saviour, my righteouness, my atonement-maker, my satisfaction, and the alone and all wholly sufficient sacrifice for all my sins. For his sake, for his innocency and righteousness, have mercy on me, O God, according to thy great mercy, and put away all my unrighteousnesses for thy tender compassion. I have gone astray like a sheep that was lost: yet, O Lord, for your mercy's sake, seek me up, lay me upon thy shoulders, and bring me home again to thy sheep-fold. I have been a lost son. I have riotously spent away my goods with the wicked: yet for your goodness sake, O Father, receive me, and take me home again, if not as your son, yet as one of your servants. I am grievously wounded, and can be helped neither by priest nor Levite: yet cast me not away, good Lord, for your tender mercy's sake, but pour wine and oil into my wounds, bind them up, and never leave me till you have made me perfectly whole. So shall I after this be the more circumspect in training my life according to your blessed will, and evermore sing continual praises to your most blessed name, through Jesus Christ our Lord, to whom, with you and the Holy Ghost, bo all glory and honor worlds without end. Amen.
 
