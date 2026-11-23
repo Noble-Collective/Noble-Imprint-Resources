@@ -1130,7 +1130,10 @@ Confession text [120–220 words]
 
 #### Title From the Prayer
 
-Prayer text [180–300 words]
+O most loving Father, weigh not my sins, but remember the most gentle promises.
+Consider not my evil works, but have respect unto the undefiled deeds of thy Son Jesu Christ, whom thou hast given to be my Redeemer, my Saviour, my righteous-ness, my atonement-maker, my satisfaction, and the alone and all wholly suffcient sacrifice for all my sins. For his sake, for his innocency and righteousness, have ercy on me, O God, according to thy ousnesses for thy tender compassion.
+had gone as tay hike a heep that was lot:
+yet, O Lord, for thy mercy's sake, scek me up, lay me upon thy shoulders, and bring me home again to thy sheep-fold. I have been a lost son. I have riotously spent away my goods with the wicked: yet for thy goodness sake, O Father, receive me, and take me home again, if not as thy son, yet as one of thy servants. I am grievously wounded, and can be holp neither by priest nor Levite: yet cast me not away, good Lord, for thy tender mercy's sake, but pour wine and oil into my wounds, bind them up, and never leave me till thou hast made me perfectly whole. So shall I after this be the more circumspect in training my life according to thy blessed will, and evermore sing continual praises to thy most blessed name, through Jesu Christ our Lord, to whom, with thee and the Holy Ghost, bo all glory and honour worlds without end. Amen. [180–300 words]
 
 << Author, _Book Title_
 
