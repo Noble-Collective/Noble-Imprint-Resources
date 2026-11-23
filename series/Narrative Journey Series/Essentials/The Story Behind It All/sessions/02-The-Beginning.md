@@ -97,7 +97,7 @@ The story of creation is foundational to all that it means to be human and what 
 
 #### When Things Were as They Should Be
 
-> The heavens declare the glory of God; the skies proclaim the work of His hands. Day after day they pour forth speech; night after night they reveal knowledge. Without speech or language, without a sound to be heard, their voice has gone out into all the earth, their words to the ends of the world..
+> The heavens declare the glory of God; the skies proclaim the work of His hands. Day after day they pour forth speech; night after night they reveal knowledge. Without speech or language, without a sound to be heard, their voice has gone out into all the earth, their words to the ends of the world.
 
 << Psalm 19:1–4
 
