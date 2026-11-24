@@ -1208,7 +1208,7 @@ We do it unto Thee.
 #### Take of This Grain, Which in My Garden Grows
 
 Sweet Peace, where dost thou dwell?  I humbly crave,
-                                           Let me once know.
+Let me once know.
              I sought thee in a secret cave,
              And ask’d, if Peace were there.
 A hollow winde did seem to answer, No:
