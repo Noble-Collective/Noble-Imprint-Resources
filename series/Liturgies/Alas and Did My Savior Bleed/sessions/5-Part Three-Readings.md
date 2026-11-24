@@ -972,7 +972,7 @@ But what others also might have said, we must anticipate in reply. For perhaps a
 
 ### POETICAL VERSE
 
-#### Conferred These Gifts Upon Us
+#### Thus Are True Aarons Drest
 
 <Poem>
 
