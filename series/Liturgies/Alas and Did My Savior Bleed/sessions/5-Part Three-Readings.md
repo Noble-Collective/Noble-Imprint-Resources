@@ -972,35 +972,42 @@ But what others also might have said, we must anticipate in reply. For perhaps a
 
 ### POETICAL VERSE
 
-Holinesse on the head,
-Light and perfections on the breast,
+#### Conferred These Gifts Upon Us
+
+<Poem>
+
+        Holinesse on the head,
+    Light and perfections on the breast,
 Harmonious bells below, raising the dead
-To leade them unto life and rest:
-Thus are true Aarons drest:
+    To leade them unto life and rest:
+        Thus are true Aarons drest:
 
-Profanenesse in my head,
-Defects and darknesse in my breast,
+        Profanenesse in my head,
+    Defects and darknesse in my breast,
 A noise of passions ringing me for dead
-Unto a place where is no rest:
-Poore priest, thus am I drest.
+    Unto a place where is no rest:
+        Poore priest, thus am I drest.
 
-Onely another head I have, another heart and breast,
+        Onely another head
+    I have, another heart and breast,
 Another musick, making live, not dead,
-Without Whom I could have no rest:
-In Him I am well drest.
+    Without Whom I could have no rest:
+        In Him I am well drest.
 
-Christ is my onely head,
-My alone onely heart and breast,
+        Christ is my onely head,
+    My alone onely heart and breast,
 My onely musick, striking me ev’n dead,
-That to the old man I may rest,
-And be in Him new-drest.
+    That to the old man I may rest,
+        And be in Him new-drest.
 
-So, holy in my head,
-Perfect and light in my deare breast,
-My doctrine tun’d by Christ,
-Who is not dead,
-But lives in me while I do rest,
-Come, people; Aaron’s drest.
+        So, holy in my head,
+    Perfect and light in my deare breast,
+My doctrine tun’d by Christ, Who is not dead,
+    But lives in me while I do rest,
+        Come, people; Aaron’s drest.
+
+</Poem>
+
 
 << George Herbert, “Aaron”
 
