@@ -1259,7 +1259,6 @@ With so much earnestnesse you do pursue,
             Is onely there.
 
 </Poem>
-
 ### HISTORIC WITNESS
 
 #### Title From the Excerpt
