@@ -20,6 +20,16 @@ Matthew R. Lynskey
 Matthew R. Lynskey, Ph.D. (2018), University of South Africa, serves as Executive Director of Noble Collective, a church-based missionary society. He is the author of _Tyconius’ Book of Rules_ (Brill, 2021), the spiritual formation journal _Sacred Markings_ (Noble Imprint, 2021), and the faith-based initiation series _Passage: Crossing Thresholds in the Sojourn of Life_ (Noble Imprint, forthcoming). He has served in a variety of ministry capacities such as cross-cultural missionary, preaching pastor, church planter, theological educator, and Bible translation trainer. Currently, he is an elder and Teaching Pastor at Noble City Church, a small network of house churches. He lives with his wife, Sukey, and their seven children in York, Pennsylvania.
 </AuthorBio>
 
+<SynopsisPrinciplesHeading>
+Biblical Principles
+</SynopsisPrinciplesHeading>
+
+<CoverSubSeriesList>
+Foundations: Faith Fundamentals for New Believers
+Essentials: Core Discipleship for Local Churches
+Pathways: Basic Training for Emerging Leaders
+Explorations: Further Study for Ongoing Maturity
+</CoverSubSeriesList>
 
 <!-- ───────────────── Front matter — in book order ───────────────── -->
 
