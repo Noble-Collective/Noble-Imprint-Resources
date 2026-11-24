@@ -75,6 +75,8 @@ Line
 [20–32 lines; blank line between stanzas; no stanza over 16 lines]
 [Indents: copy the poet's exactly. 2 spaces = indent once, 4 spaces = indent twice (no deeper). Hymn lines stay flush. Lines over about 55 characters may wrap and will be flagged.]
 
+Poem: <Poem>, blank line, stanzas (blank line between; indent 4 / 8 / 12 spaces by depth), blank line, </Poem>
+
 << Author, “Poem Title”
 
 ### CONFESSIONAL INSTRUCTION
@@ -1259,6 +1261,9 @@ With so much earnestnesse you do pursue,
             Is onely there.
 
 </Poem>
+
+<< George Herbert, "Peace"
+
 ### HISTORIC WITNESS
 
 #### Title From the Excerpt
