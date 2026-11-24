@@ -1207,56 +1207,58 @@ We do it unto Thee.
 
 #### Take of This Grain, Which in My Garden Grows
 
+<Poem>
+
 Sweet Peace, where dost thou dwell?  I humbly crave,
-Let me once know.
-             I sought thee in a secret cave,
-             And ask’d, if Peace were there.
+            Let me once know.
+    I sought thee in a secret cave,
+    And ask’d, if Peace were there.
 A hollow winde did seem to answer, No:
-                                           Go seek elsewhere.
+            Go seek elsewhere.
 
 I did; and going did a rainbow note:
-                                           Surely, thought I,
-             This is the lace of Peaces coat:
-             I will search out the matter.
+            Surely, thought I,
+    This is the lace of Peaces coat:
+    I will search out the matter.
 But while I lookt, the clouds immediately
-                                           Did break and scatter.
+            Did break and scatter.
 
 Then went I to a garden, and did spy
-                                           A gallant flower,
-             The Crown Imperiall: sure, said I,
-             Peace at the root must dwell.
+            A gallant flower,
+    The Crown Imperiall: sure, said I,
+    Peace at the root must dwell.
 But when I digg’d, I saw a worm devoure
-                                           What show’d so well.
+            What show’d so well.
 
 At length I met a rev’rend good old man,
-                                           Whom when of Peace
-             I did demand, he thus began:
-             There was a Prince of old
+            Whom when of Peace
+    I did demand, he thus began:
+    There was a Prince of old
 At Salem dwelt, who liv’d with good increase
-                                           Of flock and fold.
+            Of flock and fold.
 
 He sweetly liv’d; yet sweetnesse did not save
-                                           His life from foes.
-       But after death out of his grave
-              There sprang twelve stalks of wheat:
+            His life from foes.
+    But after death out of his grave
+    There sprang twelve stalks of wheat:
 Which many wondring at, got some of those
-                                           To plant and set.
+            To plant and set.
 
 It prosper’d strangely, and did soon disperse
-                                           Through all the earth:
-        For they that taste it do rehearse,
-             That vertue lies therein,
+            Through all the earth:
+    For they that taste it do rehearse,
+    That vertue lies therein,
 A secret vertue bringing peace and mirth
-                                           By flight of sinne.
+            By flight of sinne.
 
 Take of this grain, which in my garden grows,
-                                           And grows for you;
-        Make bread of it: and that repose
-             And peace, which ev’ry where
+            And grows for you;
+    Make bread of it: and that repose
+    And peace, which ev’ry where
 With so much earnestnesse you do pursue,
-                                           Is onely there.
+            Is onely there.
 
-<< George Herbert, “Peace”
+</Poem>
 
 ### HISTORIC WITNESS
 
