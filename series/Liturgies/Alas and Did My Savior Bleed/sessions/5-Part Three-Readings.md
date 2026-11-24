@@ -116,6 +116,129 @@ The world is broken. Humanity has fallen. Sin has invaded the cosmos. In the per
 
 ### SCRIPTURE READING
 
+#### The Lord Will Provide
+
+Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered. “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.” So Abraham got up early the next morning, saddled his donkey, and took along two of his servants and his son Isaac. He split the wood for a burnt offering and set out for the place God had designated. On the third day Abraham looked up and saw the place in the distance. “Stay here with the donkey,” Abraham told his servants. “The boy and I will go over there to worship, and then we will return to you.” Abraham took the wood for the burnt offer- ing and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together. Then Isaac said to his father Abraham, “My father!” “Here I am, my son,” he replied. “The fire and the wood are here,” said Isaac, “but where is the lamb for the burnt offering?” Abraham answered, “God Himself will pro- vide the lamb for the burnt offering, my son.” And the two walked on together. When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood. Then Abraham reached out his hand and took the knife to slaughter his son. Just then the angel of the Lord called out to him from heaven, “Abraham, Abraham!” “Here I am,” he replied. “Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.” Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son. And Abraham called that place The Lord Will Provide. So to this day it is said, “On the mountain of the Lord it will be provided.” And the angel of the Lord called to Abraham from heaven a second time, saying, “By Myself I have sworn, declares the Lord, that because you have done this and have not with- held your only son, I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.” Abraham went back to his servants, and they got up and set out together for Beersheba. And Abraham settled in Beersheba.
+
+<< Genesis 22:1–19
+
+### DEVOTIONAL HYMN
+
+#### This Heart-Cheering Promise
+
+##### VERSE 1
+
+Though troubles assail us and dangers affright,
+Though friends should all fail us and foes all unite,
+Yet one thing secures us, whatever betide,
+The promise assures us, “The Lord will provide.”
+
+##### VERSE 2
+
+The birds, without garner or storehouse, are fed;
+From them let us learn to trust God for our bread.
+His saints what is fitting shall ne’er be denied
+So long as ’tis written, “The Lord will provide.”
+
+##### VERSE 3
+
+When Satan assails us to stop up our path,
+And courage all fails us, we triumph by faith.
+He cannot take from us, though oft he has tried,
+This heart-cheering promise, “The Lord will provide.”
+
+##### VERSE 4
+
+No strength of our own and no goodness we claim;
+Yet, since we have known of the Savior’s great name,
+In this our strong tower for safety we hide:
+The Lord is our power, “The Lord will provide.”
+
+<< John Newton, “The Lord Will Provide”
+
+### HISTORIC WITNESS
+
+#### Man’s Extremity Is God’s Opportunity
+
+Sing, O heavens! and rejoice, O earth! Man’s extremity is God’s opportunity .... Behold, I show you a mystery, hid under the sacrifice of Abraham’s only son, which, unless your hearts are hardened, must cause you to weep tears of love, and that plentifully too ... We are all fallen creatures, and ... we do not love God or Christ as we ought to do: for, if you admire Abraham offering up his Isaac, how much more ought you to extol, magnify and adore the love of God, who so loved the world, as to give his only begotten Son Christ Jesus our Lord, “that whosoever believeth on Him should not perish, but have everlasting life?” May we not well cry out, Now know we, O Lord, that thou hast loved us, since thou hast not withheld thy Son, thine only Son from us! Abraham was God’s creature (and God was Abraham’s friend) and therefore under the highest obligation to surrender up his Isaac. But O stupendous love! Whilst we were his enemies, God sent forth his Son, made of a woman, made under the law, that he might become a curse for us. O the freeness, as well as the infinity, of the love of God our Father! It is unsearchable: I am lost in contemplating it; it is past finding out. Think, O believers, think of the love of God, in giving Jesus Christ to be a propitiation for our sins. And when you hear how Abraham built an altar, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood; think how your heavenly Father bound Jesus Christ his only Son, and offered him upon the altar of his justice, and laid upon him the iniquities of us all. When you read of Abraham’s stretching forth his hand to slay his son, Think, O think, how God actually suffered his Son to be slain, that we might live for evermore. Do you read of Isaac carrying the wood upon his shoulders, upon which he was to be offered? Let this lead you to mount Calvary (this very mount of Moriah where Isaac was offered, as some think) and take a view of the antitype Jesus Christ, the Son of God, bearing and ready to sink under the weight of that cross, on which he was to hang for us. Do you admire Isaac so freely consenting to die, though a creature, and therefore obliged to go when God called? O do not forget to admire infinitely more the dear Lord Jesus, that promised seed, who willingly said, “Lo, I come,” though under no obligation so to do, “to do thy will,” to obey and die for men, “O God!” Did you weep just now, when I bid you fancy you saw the altar, and the wood laid in order, and Isaac laid bound on the altar? Look by faith, behold the blessed Jesus, our all-glorious Emmanuel, not bound, but nailed on a accursed tree: see how he hangs crowned with thorns, and held in derision of all that are round about him: see how the thorns pierce him, and how the blood in purple streams trickle down his sacred temples! Hark how the God of nature groans! See how he bows his head, and at length humanity gives up the ghost! Isaac is saved, but Jesus, the God of Isaac, dies; A ram is offered up in Isaac’s room, but Jesus has no substitute; Jesus must bleed, Jesus must die; God the Father provided this Lamb for himself from all eternity. He must be offered in time, or man must be damned for evermore. And now, where are your tears? Shall I say, refrain your voice from weeping? No; rather let me exhort you to look to him whom you have pierced, and mourn, as a woman mourneth for her first-born: for we have been the betrayers, we have been the murderers of this Lord of glory; and shall we not bewail those sins, which brought the blessed Jesus to the accursed tree? Having so much done, so much suffered for us, so much forgiven, shall we not love much! O! let us love Him with all our hearts, and minds, and strength, and glorify him in our souls and bodies, for they are his.
+
+<< George Whitefield, “The Offering of Isaac”
+
+### POETICAL VERSE
+
+#### Dread Was the Mystery on Moriah’s Hill
+
+Dread was the mystery on Moriah’s hill:
+  Low on the ridge the cloud of morning lay:
+From each dark fold, along each gliding rill,
+  Strange whispers from the mountain met our way.
+
+But we must wait below, and upward gaze,
+  While toward the mount the father and the son
+Pursue their course, soon in that awful haze
+  To vanish, till the appointed deed be done.
+
+So when the Lord for some parental heart
+  Prepares a martyr’s crown, He calls on high
+Father and child, in His still shrine apart
+  To learn His lore of healing agony.
+
+We may but stay without, and wondering pray;
+  Unknown to us that deep of love and woe,
+The knife in Abraham’s hand upraised to slay,
+  Meek Isaac bound and waiting for the blow.
+
+Weak as the echo of some distant knell,
+  Borne now and then on breathing winds of eve,
+Comes to our ear the sound:—“I see full well
+  The fire and wood; but who the Lamb will give?”
+
+Fitful and faint, should Angel bless our dream,
+  The memory now would fleet and now abide.
+Such to our hearts the stern sweet form may seem
+  Of him who said, “The Almighty will provide.”
+
+Not even to dwellers on the mystic height,
+  Not to the Saints, is full enlightening given:
+The Cross, they hold by, towers beyond their sight,
+  On the hill peak opens a deeper heaven.
+
+Yea, though in one were gathered all the woes
+  That mourners e’er on household altars laid,
+Widows’ and orphans’ tears, untimely throes,
+  Fears, that the memory of loved souls o’ershade
+
+What were it all, to match one drop of Thine,
+  One bitter drop, poured on Thy mountain here
+In Thine own hour? O joy! that Blood is mine:—
+  For us it flowed, even as for Saint and seer.
+
+Well may we mourn our dull cold heart, and eye
+  That up the mount of glorious sacrifice
+Sees such a little way: yet kneel we nigh:
+  Turn not away: let prayer in gloom arise.
+
+He who beside His own the Cross allows
+  Of penitential grief;—who to each Saint
+Calls from His height of woe;—His bleeding brows
+  Will meekly droop to hear our breathing faint.
+
+<< John Keble, “Isaac on Moriah”
+
+### REFLECTIVE PRAYER
+
+Let Isaac praise the Son, for by His goodness he was rescued upon the Mount from the knife, and in his stead there was the victim, the type of the Lamb for the slaughter. The mortal escaped, and He that quickens all died. Blessed be His offering!
+
+<< Ephrem the Syrian, “Hymn XIII”
+
+Confession of faith, of hope, of love. Deliver us, O Lord, even as our fathers in former generations, Noah from the flood, Abraham from Ur of the Chaldees, Isaac from being slain in sacrifice, Jacob from Laban and Esau, Joseph from the slander of his mistress and from the prison, Job from his temptation, Moses from Pharaoh,from stoning, the people from the Red Sea and from Babylon, David from Saul, Goliath, Keilah, Ahitophel, Absalom, Doeg, Sheba; Elias from Jezebel, Hezekiah from Rabshakeh and from the sickness, Esther from Haman, Joash from Athaliah, Jeremiah from the pit, the three children from the furnace, Jonah from the belly of the whale, the disciples from the storm, Peter from the prison of Herod, Paul from shipwreck, stoning, and wild beasts- So rescue us, O Lord, who put our trust in thee.
+
+<< Ephrem
+
+## Second Day of Lent
+
+### SCRIPTURE READING
+
 #### Bread From Heaven for You
 
 On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai. And there in the desert they all grumbled against Moses and Aaron. “If only we had died by the Lord’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!” Then the Lord said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions. Then on the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.” 
@@ -266,7 +389,7 @@ Father, we thank Thee for the Book, we thank Thee for the glorious Man, the God 
 
 << Charles Spurgeon, _Prayers From Metropolitan Pulpit_
 
-## Second Day of Lent
+## - Third Day of Lent
 
 ### SCRIPTURE READING
 
@@ -366,129 +489,6 @@ Following, therefore, the holy fathers, we all teach with one accord one and the
 O Saviour of the world, God of gods, light of light, thou that art the brightness ofthy Father’s glory, the express image of his person; thou that hast destroyed the power of the devil, that hast overcome death .... O Jesus, poor and abject, unknown and despised, have mercy upon me, and let me not be ashamed to follow thee. O Jesus, hated, calumniated, and persecuted, have mercy upon me, and let me not be ashamed to come after thee. O Jesus, betrayed and sold at a vile price, have mercy upon me, and make me content to be as my Master. O Jesus, blasphemed, accused, and wrongfully condemned, have mercy upon me, and teach me to endure the contradiction of sinners. O Jesus, clothed with a habit of reproach and shame, have mercy upon me, and let me not seek my own glory. O Jesus, insulted, mocked, and spit upon, have mercy upon me, and let me run with patience the race set before me. O Jesus, dragged to the pillar, scourged and bathed in blood, have mercy upon me, and let menot faint in the fiery trial. O Jesus, crowned with thorns, and hailed in derision; O Jesus, burdened with our sins, and the curses of the people; O Jesus, affronted, outraged, buffeted, overwhelmed with injuries, griefs and humiliations; O Jesus, hanging on the accursed tree, bowing the head, giving up the ghost, have mercy upon me, and conform my whole soul to thy holy, humble, suffering Spirit. O thou who for the love ofme hast undergone such an infinity of sufferings and humiliations, let me be wholly “emptied of myself,” that I may rejoice tot akeup my cross daily and follow thee. Enable me, too, to endure the pain and despise the shame; and, if it be thy will, to resist even unto blood!
 
 << John Wesley, “Forms of Prayer”
-
-## - Third Day of Lent
-
-### SCRIPTURE READING
-
-#### The Lord Will Provide
-
-Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered. “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.” So Abraham got up early the next morning, saddled his donkey, and took along two of his servants and his son Isaac. He split the wood for a burnt offering and set out for the place God had designated. On the third day Abraham looked up and saw the place in the distance. “Stay here with the donkey,” Abraham told his servants. “The boy and I will go over there to worship, and then we will return to you.” Abraham took the wood for the burnt offer- ing and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together. Then Isaac said to his father Abraham, “My father!” “Here I am, my son,” he replied. “The fire and the wood are here,” said Isaac, “but where is the lamb for the burnt offering?” Abraham answered, “God Himself will pro- vide the lamb for the burnt offering, my son.” And the two walked on together. When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood. Then Abraham reached out his hand and took the knife to slaughter his son. Just then the angel of the Lord called out to him from heaven, “Abraham, Abraham!” “Here I am,” he replied. “Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.” Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son. And Abraham called that place The Lord Will Provide. So to this day it is said, “On the mountain of the Lord it will be provided.” And the angel of the Lord called to Abraham from heaven a second time, saying, “By Myself I have sworn, declares the Lord, that because you have done this and have not with- held your only son, I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.” Abraham went back to his servants, and they got up and set out together for Beersheba. And Abraham settled in Beersheba.
-
-<< Genesis 22:1–19
-
-### DEVOTIONAL HYMN
-
-#### This Heart-Cheering Promise
-
-##### VERSE 1
-
-Though troubles assail us and dangers affright,
-Though friends should all fail us and foes all unite,
-Yet one thing secures us, whatever betide,
-The promise assures us, “The Lord will provide.”
-
-##### VERSE 2
-
-The birds, without garner or storehouse, are fed;
-From them let us learn to trust God for our bread.
-His saints what is fitting shall ne’er be denied
-So long as ’tis written, “The Lord will provide.”
-
-##### VERSE 3
-
-When Satan assails us to stop up our path,
-And courage all fails us, we triumph by faith.
-He cannot take from us, though oft he has tried,
-This heart-cheering promise, “The Lord will provide.”
-
-##### VERSE 4
-
-No strength of our own and no goodness we claim;
-Yet, since we have known of the Savior’s great name,
-In this our strong tower for safety we hide:
-The Lord is our power, “The Lord will provide.”
-
-<< John Newton, “The Lord Will Provide”
-
-### HISTORIC WITNESS
-
-#### Man’s Extremity Is God’s Opportunity
-
-Sing, O heavens! and rejoice, O earth! Man’s extremity is God’s opportunity .... Behold, I show you a mystery, hid under the sacrifice of Abraham’s only son, which, unless your hearts are hardened, must cause you to weep tears of love, and that plentifully too ... We are all fallen creatures, and ... we do not love God or Christ as we ought to do: for, if you admire Abraham offering up his Isaac, how much more ought you to extol, magnify and adore the love of God, who so loved the world, as to give his only begotten Son Christ Jesus our Lord, “that whosoever believeth on Him should not perish, but have everlasting life?” May we not well cry out, Now know we, O Lord, that thou hast loved us, since thou hast not withheld thy Son, thine only Son from us! Abraham was God’s creature (and God was Abraham’s friend) and therefore under the highest obligation to surrender up his Isaac. But O stupendous love! Whilst we were his enemies, God sent forth his Son, made of a woman, made under the law, that he might become a curse for us. O the freeness, as well as the infinity, of the love of God our Father! It is unsearchable: I am lost in contemplating it; it is past finding out. Think, O believers, think of the love of God, in giving Jesus Christ to be a propitiation for our sins. And when you hear how Abraham built an altar, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood; think how your heavenly Father bound Jesus Christ his only Son, and offered him upon the altar of his justice, and laid upon him the iniquities of us all. When you read of Abraham’s stretching forth his hand to slay his son, Think, O think, how God actually suffered his Son to be slain, that we might live for evermore. Do you read of Isaac carrying the wood upon his shoulders, upon which he was to be offered? Let this lead you to mount Calvary (this very mount of Moriah where Isaac was offered, as some think) and take a view of the antitype Jesus Christ, the Son of God, bearing and ready to sink under the weight of that cross, on which he was to hang for us. Do you admire Isaac so freely consenting to die, though a creature, and therefore obliged to go when God called? O do not forget to admire infinitely more the dear Lord Jesus, that promised seed, who willingly said, “Lo, I come,” though under no obligation so to do, “to do thy will,” to obey and die for men, “O God!” Did you weep just now, when I bid you fancy you saw the altar, and the wood laid in order, and Isaac laid bound on the altar? Look by faith, behold the blessed Jesus, our all-glorious Emmanuel, not bound, but nailed on a accursed tree: see how he hangs crowned with thorns, and held in derision of all that are round about him: see how the thorns pierce him, and how the blood in purple streams trickle down his sacred temples! Hark how the God of nature groans! See how he bows his head, and at length humanity gives up the ghost! Isaac is saved, but Jesus, the God of Isaac, dies; A ram is offered up in Isaac’s room, but Jesus has no substitute; Jesus must bleed, Jesus must die; God the Father provided this Lamb for himself from all eternity. He must be offered in time, or man must be damned for evermore. And now, where are your tears? Shall I say, refrain your voice from weeping? No; rather let me exhort you to look to him whom you have pierced, and mourn, as a woman mourneth for her first-born: for we have been the betrayers, we have been the murderers of this Lord of glory; and shall we not bewail those sins, which brought the blessed Jesus to the accursed tree? Having so much done, so much suffered for us, so much forgiven, shall we not love much! O! let us love Him with all our hearts, and minds, and strength, and glorify him in our souls and bodies, for they are his.
-
-<< George Whitefield, “The Offering of Isaac”
-
-### POETICAL VERSE
-
-#### Dread Was the Mystery on Moriah’s Hill
-
-Dread was the mystery on Moriah’s hill:
-  Low on the ridge the cloud of morning lay:
-From each dark fold, along each gliding rill,
-  Strange whispers from the mountain met our way.
-
-But we must wait below, and upward gaze,
-  While toward the mount the father and the son
-Pursue their course, soon in that awful haze
-  To vanish, till the appointed deed be done.
-
-So when the Lord for some parental heart
-  Prepares a martyr’s crown, He calls on high
-Father and child, in His still shrine apart
-  To learn His lore of healing agony.
-
-We may but stay without, and wondering pray;
-  Unknown to us that deep of love and woe,
-The knife in Abraham’s hand upraised to slay,
-  Meek Isaac bound and waiting for the blow.
-
-Weak as the echo of some distant knell,
-  Borne now and then on breathing winds of eve,
-Comes to our ear the sound:—“I see full well
-  The fire and wood; but who the Lamb will give?”
-
-Fitful and faint, should Angel bless our dream,
-  The memory now would fleet and now abide.
-Such to our hearts the stern sweet form may seem
-  Of him who said, “The Almighty will provide.”
-
-Not even to dwellers on the mystic height,
-  Not to the Saints, is full enlightening given:
-The Cross, they hold by, towers beyond their sight,
-  On the hill peak opens a deeper heaven.
-
-Yea, though in one were gathered all the woes
-  That mourners e’er on household altars laid,
-Widows’ and orphans’ tears, untimely throes,
-  Fears, that the memory of loved souls o’ershade
-
-What were it all, to match one drop of Thine,
-  One bitter drop, poured on Thy mountain here
-In Thine own hour? O joy! that Blood is mine:—
-  For us it flowed, even as for Saint and seer.
-
-Well may we mourn our dull cold heart, and eye
-  That up the mount of glorious sacrifice
-Sees such a little way: yet kneel we nigh:
-  Turn not away: let prayer in gloom arise.
-
-He who beside His own the Cross allows
-  Of penitential grief;—who to each Saint
-Calls from His height of woe;—His bleeding brows
-  Will meekly droop to hear our breathing faint.
-
-<< John Keble, “Isaac on Moriah”
-
-### REFLECTIVE PRAYER
-
-Let Isaac praise the Son, for by His goodness he was rescued upon the Mount from the knife, and in his stead there was the victim, the type of the Lamb for the slaughter. The mortal escaped, and He that quickens all died. Blessed be His offering!
-
-<< Ephrem the Syrian, “Hymn XIII”
-
-Confession of faith, of hope, of love. Deliver us, O Lord, even as our fathers in former generations, Noah from the flood, Abraham from Ur of the Chaldees, Isaac from being slain in sacrifice, Jacob from Laban and Esau, Joseph from the slander of his mistress and from the prison, Job from his temptation, Moses from Pharaoh,from stoning, the people from the Red Sea and from Babylon, David from Saul, Goliath, Keilah, Ahitophel, Absalom, Doeg, Sheba; Elias from Jezebel, Hezekiah from Rabshakeh and from the sickness, Esther from Haman, Joash from Athaliah, Jeremiah from the pit, the three children from the furnace, Jonah from the belly of the whale, the disciples from the storm, Peter from the prison of Herod, Paul from shipwreck, stoning, and wild beasts- So rescue us, O Lord, who put our trust in thee.
-
-<< Ephrem
 
 ## - Fourth Day of Lent
 

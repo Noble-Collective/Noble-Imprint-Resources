@@ -14,17 +14,17 @@
 
 (^1) Adapted quote from John Calvin, “Letter to Cardinal James Sadolet,” in John Calvin, Theodore Beza, and Henry Beveridge, _Tracts Relating to the Reformation_, vol. 1 (Edinburgh: Calvin Translation Society, 1844), 42.
 
-### Second Day of Lent
+### First Day of Lent
+
+(^1) Adapted quote from Ephrem the Syrian, “Nineteen Hymns on the Nativity of Christ in the Flesh,” in Gregory the Great (Part II), Ephraim Syrus, Aphrahat, ed. Philip Schaff and Henry Wace, trans. J. B. Morris and A. Edward Johnston, vol. 13, A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series (New York: Christian Literature Company, 1898), 229–230.
+
+### Third Day of Lent
 
 (^1) Adapted quote from Augustine of Hippo, “Sermons on Selected Lessons of the New Testament,” in _Saint Augustin: Sermon on the Mount, Harmony of the Gospels, Homilies on the Gospels_, ed. Philip Schaff, trans. R. G. MacMullen, vol. 6, A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series (New York: Christian Literature Company, 1888), 453.
 
 (^2) “The Chalcedonian Decree Concerning the Faith,” in Charles Joseph Hefele, _A History of the Councils of the Church_, trans. Edward Hayes Plumptre, vol. 3 (Edinburgh: T&T Clark, 1883), 348–349.
 
 (^3) Adapted quote from John Wesley, “Forms of Prayer,” in The Works of the Reverend John Wesley, vol. 6 (New York: J. Emory and B. Waugh, 1831), 395–396.
-
-### Third Day of Lent
-
-(^1) Adapted quote from Ephrem the Syrian, “Nineteen Hymns on the Nativity of Christ in the Flesh,” in Gregory the Great (Part II), Ephraim Syrus, Aphrahat, ed. Philip Schaff and Henry Wace, trans. J. B. Morris and A. Edward Johnston, vol. 13, A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series (New York: Christian Literature Company, 1898), 229–230.
 
 ### Fourth Day of Lent
 
