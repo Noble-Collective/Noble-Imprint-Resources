@@ -225,7 +225,17 @@ Calls from His height of woe;—His bleeding brows
 
 << John Keble, “Isaac on Moriah”
 
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
 ### REFLECTIVE PRAYER
+
+#### Let Isaac Praise the Son
 
 Let Isaac praise the Son, for by His goodness he was rescued upon the Mount from the knife, and in his stead there was the victim, the type of the Lamb for the slaughter. The mortal escaped, and He that quickens all died. Blessed be His offering!
 
