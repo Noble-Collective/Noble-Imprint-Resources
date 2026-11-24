@@ -229,7 +229,7 @@ Calls from His height of woe;—His bleeding brows
 
 #### Title From the Text
 
-Confession text [120–220 words]
+Isaac, after a sort, at his birth, in the deadness of Sarah's wombe, and Abrams age, received from death; and more at his binding for the sacrifice on Mount Moriah, restored to life, and a figure of this onely Sonne of God, and Sonne also of Abraham, Christ here offered in sacrifice on the Crosse, and thus restored to life.
 
 << Confession or Catechism Name
 
