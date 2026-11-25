@@ -3051,9 +3051,11 @@ Prayer text [180–300 words]
 
 ####
 
-"Behold,” He says, "I make all things new." Who is it that so speaks? It is no other than the Lamb Who sits upon the throne—the Lamb all sweetness, the Lamb all happiness, the Lamb all unction; for His name is Christ. O miraculous
-novelty! The curse of Eve is reversed in our
-Virgin, fo
+A Little One is given to little ones, that the Great One may be given to the great, and that those whom the Little One justifies, the Great and Mighty One may afterwards magnify and render glorious. 
+
+Hence, without doubt, St. Paul, the vessel of election, pours out to us the treasures which he had received from the fullness of this Child. For Christ, though a Child, is full of grace and truth. " In Him dwelleth all the fullness of the Godhead corporally.” Hence, I repeat, St. Paul utters that good word which you have heard so often during these past days : " Rejoice in the Lord always : again I say, Rejoice.”1 Of the showing forth of the mystery, he says " Rejoice ” ; of the promise of it he adds : " Again I say, Rejoice.” For both the mystery and its promise are causes of great joy. Rejoice that you have received the gifts of the left hand ; rejoice in the expectation of the rewards of the right. " His left hand is under my head, and his right hand shall embrace me.”2 For the left hand raises, the right receives. The left hand heals and justifies ; the right embraces and blesses. In
+
+"Behold,” He says, "I make all things new." Who is it that so speaks? It is no other than the Lamb Who sits upon the throne—the Lamb all sweetness, the Lamb all happiness, the Lamb all unction; for His name is Christ. 
 
 There are two things from which our weak human nature shrinks—pain and shame. Christ came to take both from us, and this He did by accepting both in His own person—when, for instance, not to mention other occasions, He was condemned to death, and to a most shameful death, by wicked men.
 
