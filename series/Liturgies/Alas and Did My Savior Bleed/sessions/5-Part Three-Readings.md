@@ -1507,7 +1507,36 @@ Our strength and righteousness!
 
 #### Title From the Excerpt
 
+**HOW GOD DEALS WITH SIN AND THE SINNER.**  
+LEVITICUS IV. 27–35.
 
+We have here, (1.) the _sinner_. He is one of the common people; "any man;" "whosoever." (2.) The _sin_. It is one of ignorance; he is not aware of it; conscience did not take cognisance of it; he has forgotten it. (3.) The _remedy_. It is a sin-offering; this only can make it pass as completely from God's memory, as it has passed from his own. (4.) The _atonement_. It is by blood; through the intervention of priesthood; no atonement without the blood of a substitute. (5.) The _connection_ between the sinner and the atonement. He lays his hands on the sacrifice, for a two-fold reason; to identify himself with it; to transfer his sin to it; he says, Let this stand instead of me, its life and death for my life and death. (6.) The _forgiveness_. The sin passes away; there is no condemnation; it is instantaneous, complete, perpetual pardon.
+
+Such was the symbol. Full and expressive,—revealing to us atonement and pardon through the one great sacrifice. Let us see what this old sin-offering teaches us.
+
+I. _What God thinks of sin._ It is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which He hates; its beginning is wrath and death, its end is hell. And as _He_ thinks so does He wish _us_ to think. What think ye of sin? What is your opinion of its nature, its evil, its deservings?
+
+II. _How He deals with it._ He does not despise nor forget it. He deals with it as a Judge. He estimates it as a Judge. He condemns it as a Judge. He inflicts punishment as a Judge. This must be either executed on ourselves personally, or on our substitute. Condemnation must be proclaimed; the penalty must be executed.
+
+(1.) _He condemns sin._ He gave the law to condemn sin. He set up the cross to condemn it more. The soul that sinneth, it shall die. The wages of sin is death.
+
+(2.) _He provides a sin-bearer._ He does not leave _us_ to do this; but does it Himself. He not only appoints the sin-offering, but He provides the victim. His Son, the Word made flesh,—He is the appointed Sin-bearer, divine and human in his constitution, perfect in all respects, sufficient for the great undertaking, able to bear wrath without being consumed.
+
+(3.) _He transfers the guilt._ The Lord hath laid on Him the iniquity of us all. The chastisement of our peace was on Him. He whose is the right to retain or transfer the guilt transfers it to a substitute.
+
+Thus, then, He has provided the atonement. His appointed High Priest has made the atonement. This atonement is now a past fact. It is done. The sin-offering has been brought. The blood has been shed. The propitiation has been accomplished. God has done it all, without man's help, or desire, or concurrence. Nothing more is needed now in the shape of atonement for the guiltiest. No more blood, no more fire, no more endurance of wrath. It is all done! Nothing can be added to it or taken from it. Love is now free to flow out.
+
+III. _How He deals with the sinner._ He bids him come for pardon, and assures him of getting it at once, freely, on the ground of the provided atonement, and simply as a sinner. His object is to connect the sinner with the propitiation; for so long as they remain separate there is no benefit resulting to man from the shed blood. He provides thus for the connection of the sinner.
+
+(1.) He issues a declaration concerning His own free love, His goodwill to men, His willingness to pardon any sinner. "God so loved the world." "God, who is rich in mercy, for the great love wherewith He loved us." Thus we have God's own assurance of a personal welcome to each of us,—as we are. We do not make the welcome personal by our prayers or feelings; we avail ourselves of an already existing personal welcome to each sinner,—as a sinner.
+
+(2.) He issues a testimony to the completeness of the atonement. He raised up His Son from the dead as the _visible_ testimony. But besides this He has in various ways given full testimony as to the sufficiency and suitableness of the atonement.
+
+(3.) He issues a promise of forgiveness to every one who will receive this testimony. "It shall be forgiven him," is His promise to every one who thus believes. Thus forgiveness becomes a matter of certainty to every one who thus connects himself with the divine sin-offering.
+
+Perhaps you say, I see that God has provided a propitiation, that this is complete, and available for me, but how am I to be so connected with it as to obtain the pardon? Everything depends on this connection being established, for without it there is no pardon. Now, how did the Israelite connect himself with the sin-offering? He simply took the lamb and brought it to the priest and said, Let this stand for me, laying his hand on it and thereby transferring all his guilt to it. So we, by receiving the testimony and the promise, connect ourselves with the divine atonement. We go to God saying, Let this life and death be for my life and death. We consent to be dealt with on the footing of another, not our own, and immediately the personal exchange takes place. He gets all our evil, we get all His good. Our demerit goes to Him, His merit comes to us. We take the royal grant of life and righteousness through the life and death of another. Pardon is secured, and ought to be a thing as sure and as conscious to us, as to the Israelite after he had brought the sacrifice and seen it laid on the altar.
+
+_Horatius Bonar, Bible Thoughts and Themes: The Old Testament, ch. XV, pp. 65–68_
 
 << Horatius Bonar, _Light and Truth_
 
