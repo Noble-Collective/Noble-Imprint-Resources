@@ -2001,9 +2001,560 @@ God arises. His enemies are scattered, and those who hate Him flee His presence.
 
 << Psalm 68:1–35
 
-## Week Five: Teachings
+## Week Five: Festivals
+
+### LENT PRELUDE
+
+> Scripture epigraph [no more than 30 words]
+
+<< Book 0:0–0
+
+> Historic quote [no more than 90 words]
+
+<< Author, _Book Title_
+
+Prelude paragraph [no more than 190 words]. Whole prelude page: no more than 310 words.
 
 ## - Twenty-Ninth Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirtieth Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-First Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Second Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Third Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Fourth Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Fifth Day of Lent
+
+### SCRIPTURE READING
+
+#### Title From the Passage
+
+Passage text [350–650 words]
+
+<< Book 0:0–0
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## Week Six: Teachings
+
+### LENT PRELUDE
+
+> Scripture epigraph [no more than 30 words]
+
+<< Book 0:0–0
+
+> Historic quote [no more than 90 words]
+
+<< Author, _Book Title_
+
+Prelude paragraph [no more than 190 words]. Whole prelude page: no more than 310 words.
+
+## - Thirty-Sixth Day of Lent
 
 ### SCRIPTURE READING
 
@@ -2013,33 +2564,228 @@ Now the first covenant had regulations for worship and also an earthly sanctuary
 
 << Hebrews 9:1–28
 
-## - Thirtieth Day of Lent
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Seventh Day of Lent
 
 ### SCRIPTURE READING
 
 #### He Offered for All Time One Sacrifice for Sins
 
-For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship. If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins. Instead, those sacrifices are an annual re- minder of sins, because it is impossible for the blood of bulls and goats to take away sins. Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me. In burnt offerings and sin offerings You took no delight. Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’” In the passage above He says, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor did You delight in them” (although they are offered according to the law). Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second. And by that will, we have been sanctified through the sacrifice of the body of Jesus Christ once for all. Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins. But when this Priest had offered for all time one sacrifice for sins, He sat down at the right hand of God. Since that time, He waits for His enemies to be made a footstool for His feet, because by a single offering He has made perfect for all time those who are being sanctified. The Holy Spirit also testifies to us about this. First He says: “This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.” Then He adds: “Their sins and lawless acts I will remember no more.” And where these have been forgiven, an offering for sin is no longer needed.
+For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship. If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins. Instead, those sacrifices are an annual reminder of sins, because it is impossible for the blood of bulls and goats to take away sins. Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me. In burnt offerings and sin offerings You took no delight. Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’” In the passage above He says, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor did You delight in them” (although they are offered according to the law). Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second. And by that will, we have been sanctified through the sacrifice of the body of Jesus Christ once for all. Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins. But when this Priest had offered for all time one sacrifice for sins, He sat down at the right hand of God. Since that time, He waits for His enemies to be made a footstool for His feet, because by a single offering He has made perfect for all time those who are being sanctified. The Holy Spirit also testifies to us about this. First He says: “This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.” Then He adds: “Their sins and lawless acts I will remember no more.” And where these have been forgiven, an offering for sin is no longer needed.
 
 << Hebrews 10:1–18
 
-## - Thirty-First Day of Lent
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Eighth Day of Lent
 
 ### SCRIPTURE READING
 
 #### While We Were Still Sinners, Christ Died for Us
 
-Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, through whom we have gained access by faith into this grace in which we stand. And we rejoice in the hope of the glory of God. Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us. For at just the right time, while we were still powerless, Christ died for the ungodly. Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. But God proves His love for us in this: While we were still sinners, Christ died for us. Therefore, since we have now been justified by His blood, how much more shall we be saved from wrath through Him! For if, when we were enemies of God, we were reconciled to Him through the death of His Son, how much more, having been reconciled, shall we be saved through His life! Not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned. For sin was in the world before the law was given; but sin is not taken into account when there is no law. Nevertheless, death reigned from Adam until Moses, even over those who did not sin in the way that Adam transgressed. He is a pattern of the One to come. But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, abound to the many! Again, the gift is not like the result of the one man’s sin: The judgment that followed one sin brought condemnation, but the gift that followed many trespasses brought justification. For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive an abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ! So then, just as one trespass brought condemnation for all men, so also one act of righteousness brought justification and life for all men. For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous. The law came in so that the trespass would increase; but where sin increased, grace increased all the more, so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.
+Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, through whom we have gained access by faith into this grace in which we stand. And we rejoice in the hope of the glory of God. Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope. And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us. For at just the right time, while we were still powerless, Christ died for the ungodly. Very rarely will anyone die for a righteous man, though for a good man someone might possibly dare to die. But God proves His love for us in this: While we were still sinners, Christ died for us. Therefore, since we have now been justified by His blood, how much more shall we be saved from wrath through Him! For if, when we were enemies of God, we were reconciled to Him through the death of His Son, how much more, having been reconciled, shall we be saved through His life! Not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned. For sin was in the world before the law was given; but sin is not taken into account when there is no law. Nevertheless, death reigned from Adam until Moses, even over those who did not sin in the way that Adam transgressed. He is a pattern of the One to come. But the gift is not like the trespass. For if the many died by the trespass of the one man, how much more did God’s grace and the gift that came by the grace of the one man, Jesus Christ, abound to the many! Again, the gift is not like the result of the one man’s sin: The judgment that followed one sin brought condemnation, but the gift that followed many trespasses brought justification. For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ! So then, just as one trespass brought condemnation for all men, so also one act of righteousness brought justification and life for all men. For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous. The law came in so that the trespass would increase; but where sin increased, grace increased all the more, so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.
 
 << Romans 5:1–21
 
-## - Thirty-Second Day of Lent
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Thirty-Ninth Day of Lent
 
 ### SCRIPTURE READING
 
 #### God Presented Him as the Atoning Sacrifice
 
-What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin. As it is written: “There is no one righteous, not even one. There is no one who understands, no one who seeks God. All have turned away, they have together become worthless; there is no one who does good, not even one.” “Their throats are open graves; their tongues practice deceit.” “The venom of vipers is on their lips.” “Their mouths are full of cursing and bitterness.” “Their feet are swift to shed blood; ruin and misery lie in their wake, and the way of peace they have not known.” “There is no fear of God before their eyes.” Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin. But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets. And this righteousness from God comes through faith in Jesus Christ to all who believe. There is no distinction, for all have sinned and fall short of the glory of God, and are justified freely by His grace through the redemption that is in Christ Jesus. God presented Him as the atoning sacrifice through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand. He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus. Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith. For we maintain that a man is justified by faith apart from works of the law. Is God the God of Jews only? Is He not the God of Gentiles too? Yes, of Gentiles too, since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith. Do we, then, nullify the law by this faith? Certainly not! Instead, we uphold the law.
+What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin. As it is written: “There is no one righteous, not even one. There is no one who understands, no one who seeks God. All have turned away, they have together become worthless; there is no one who does good, not even one.” “Their throats are open graves; their tongues practice deceit.” “The venom of vipers is on their lips.” “Their mouths are full of cursing and bitterness.” “Their feet are swift to shed blood; ruin and misery lie in their wake, and the way of peace they have not known.” “There is no fear of God before their eyes.” Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin. But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets. And this righteousness from God comes through faith in Jesus Christ to all who believe. There is no distinction, for all have sinned and fall short of the glory of God, and are justified freely by His grace through the redemption that is in Christ Jesus. God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand. He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus. Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith. For we maintain that a man is justified by faith apart from works of the law. Is God the God of Jews only? Is He not the God of Gentiles too? Yes, of Gentiles too, since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith. Do we, then, nullify the law by this faith? Certainly not! Instead, we uphold the law.
 
 << Romans 3:9–31
 
@@ -2106,18 +2852,117 @@ The cross is the impregnable wall, the invulnerable shield, the safeguard of the
 
 << John Chrysostom, _Against Marcionists_
 
+### POETICAL VERSE
 
-## - Thirty-Third Day of Lent
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Fortieth Day of Lent
 
 ### SCRIPTURE READING
 
 #### For He Himself Is Our Peace
 
-And you were dead in your trespasses and sins, in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience. All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath. But because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved! And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus. For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life. Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)—remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world. But now in Christ Jesus you who once were far away have been brought near through the blood of Christ. For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace and reconciling both of them to God in one body through the cross, by which He extinguished their hostility. He came and preached peace to you who were far away and peace to those who were near. For through Him we both have access to the Father by one Spirit. Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone. In Him the whole building is fitted together and grows into a holy temple in the Lord. And in Him you too are being built together into a dwelling place for God in His Spirit.
+And you were dead in your trespasses and sins, in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience. All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath. But because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved! And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus. For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life. Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)—remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world. But now in Christ Jesus you who once were far away have been brought near through the blood of Christ. For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace and reconciling both of them to God in one body through the cross, by which He put to death their hostility. He came and preached peace to you who were far away and peace to those who were near. For through Him we both have access to the Father by one Spirit. Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone. In Him the whole building is fitted together and grows into a holy temple in the Lord. And in Him you too are being built together into a dwelling place for God in His Spirit.
 
 << Ephesians 2:1–22
 
-## - Thirty-Fourth Day of Lent
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Forty-First Day of Lent
 
 ### SCRIPTURE READING
 
@@ -2127,7 +2972,72 @@ Therefore, just as you have received Christ Jesus as Lord, continue to walk in H
 
 << Colossians 2:6–23
 
-## - Thirty-Fifth Day of Lent
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
+
+## - Forty-Second Day of Lent
 
 ### SCRIPTURE READING
 
@@ -2136,3 +3046,68 @@ Therefore, just as you have received Christ Jesus as Lord, continue to walk in H
 Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead, and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you, who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time. In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ. Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy, now that you are receiving the goal of your faith, the salvation of your souls. Concerning this salvation, the prophets who foretold the grace to come to you searched and investigated carefully, trying to determine the time and setting to which the Spirit of Christ in them was pointing when He predicted the sufferings of Christ and the glories to follow. It was revealed to them that they were not serving themselves, but you, when they foretold the things now announced by those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things. Therefore prepare your minds for action. Be sober-minded. Set your hope fully on the grace to be given you at the revelation of Jesus Christ. As obedient children, do not conform to the passions of your former ignorance. But just as He who called you is holy, so be holy in all you do, for it is written: “Be holy, because I am holy.” Since you call on a Father who judges each one’s work impartially, conduct yourselves in reverent fear during your stay as foreigners. For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers, but with the precious blood of Christ, a lamb without blemish or spot. He was known before the foundation of the world, but was revealed in the last times for your sake. Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God.
 
 << 1 Peter 1:3–21
+
+### DEVOTIONAL HYMN
+
+#### Title From the Hymn
+
+##### VERSE 1
+
+Line
+Line
+Line
+Line
+
+##### VERSE 2
+
+Line
+Line
+Line
+Line
+
+[3–5 stanzas, no more than 25 lines]
+
+<< Author, “Hymn Title”
+
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+Excerpt text [250–450 words; the one to lengthen or shorten]
+
+<< Author, _Book Title_
+
+### POETICAL VERSE
+
+#### Title From the Poem
+
+<Poem>
+
+Line
+Line
+    Indented line
+
+Line
+Line
+
+</Poem>
+
+[20–32 lines; blank line between stanzas; no stanza over 16 lines; indent 4 / 8 / 12 spaces by depth]
+
+<< Author, “Poem Title”
+
+### CONFESSIONAL INSTRUCTION
+
+#### Title From the Text
+
+Confession text [120–220 words]
+
+<< Confession or Catechism Name
+
+### REFLECTIVE PRAYER
+
+#### Title From the Prayer
+
+Prayer text [180–300 words]
+
+<< Author, _Book Title_
