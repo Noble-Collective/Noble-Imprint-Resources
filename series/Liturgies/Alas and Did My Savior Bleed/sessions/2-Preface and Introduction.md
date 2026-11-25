@@ -1,8 +1,5 @@
 # Preface and Introduction
 
-Between us and God we had caused a breach by our sins—and God was the first to apply the remedy. He sends to us His ambassadors to call us, the offenders, back to peace. Let us blush, then, for our pride, and let it cause us shame to think we are unwilling to make amends to our neighbour, seeing that God Himself, whom we offended, has come forward in the person of His messengers to ask us to be reconciled to Him.
-
-
 ## Series Preface
 
 > I will remember the works of the Lord; yes, I will remember Your wonders of old. I will reflect on all You have done and ponder Your mighty deeds.

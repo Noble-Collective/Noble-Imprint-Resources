@@ -98,20 +98,6 @@ Prayer text [180–300 words]
 Whole day: about 1,300 words of prose plus about 55 lines of hymn and poem.
 -->
 
-## Week One: Foreshadowings
-
-### LENT PRELUDE
-
-> The Deliverer will come from Zion; He will remove godlessness from Jacob. And this is My covenant with them when I take away their sins.
-
-<< Romans 11:26–27
-
-> If we do not perceive our wretchedness and poverty, we shall never know how desirable is that remedy which Christ has brought to us, or approach him with due ardour of affection. As soon as we know that we are ruined, then, aware of our wretchedness, we eagerly run to avail ourselves of the remedy, which otherwise would be held by us in no estimation. In order, therefore, that Christ may be appreciated by us, let every one consider and examine himself, so as to acknowledge that he is ruined till he is redeemed by Christ .... The whole human race would have perished, if Christ had not brought relief.
-
-<< John Calvin, _Commentary on Isaiah_
-
-The world is broken. Humanity has fallen. Sin has invaded the cosmos. In the perfect paradise of Eden, the first humans rebelled against God bringing the world under curse, condemnation, and corruption. Since then, sorrow, sadness, and grief have tormented God’s good creation. Humanity is both victim and villain in this tragedy of paradise lost. But all hope has not vanished. Paradise will be regained. The world will be reclaimed. Goodness will be restored. And condemned sinners will experience gracious emancipation. In the end, all that is wrong will be set right. Even before the foundations of the world were laid, God had orchestrated such a promised plan—to redeem his creation, to restore fallen humanity, to depose the devil’s tyranny, and to rid the world of sin. The spectacular goodness of God in creation is only magnified as we consider his unmerited favor in salvation. During Lent, we remember how sin has deeply marred and painfully ruined all that God has made. But our sober reflections of this catastrophic fall are met with a steel hope in God’s deliverance—a deliverance foreshadowed by saints of old, whose true and timeless stories prefigure and intimate the full and final relief that God’s one and only Son could exclusively bring.
-
 ## First Day of Lent
 
 ### SCRIPTURE READING
@@ -1043,20 +1029,6 @@ O Eternal God, Father of our Lord Jesus Christ, who when Your Son had drank of t
 
 Memling, Hans. _Annunciation_. 1480. Oil on panel, 76.5 x 54.6 cm. Metropolitan Museum of Art.
 
-## Week Two: Offerings
-
-### LENT PRELUDE
-
-> offering
-
-<< Romans 11:26–27
-
-> offering
-
-<< John Calvin, _Commentary on Isaiah_
-
-During Lent, we remember how payment for sin.
-
 ## Eighth Day of Lent
 
 ### SCRIPTURE READING
@@ -1857,8 +1829,6 @@ Hail Cross of Christ, my God and King!
 
 << A. Cleveland Coxe, “The Atonement”
 
-## Week Three: Foretellings
-
 ## - Fifteenth Day of Lent
 
 ### SCRIPTURE READING
@@ -1929,8 +1899,6 @@ Behold, the days are coming, declares the Lord, when I will make a new covenant 
 
 << Jeremiah 31:31–40
 
-## Week Four: Longings
-
 ## - Twenty-Second Day of Lent
 
 ### SCRIPTURE READING
@@ -2000,20 +1968,6 @@ Preserve me, O God, for in You I take refuge. I said to the Lord, “You are my 
 God arises. His enemies are scattered, and those who hate Him flee His presence. As smoke is blown away, You will drive them out; as wax melts before the fire, the wicked will perish in the presence of God. But the righteous will be glad and rejoice before God; they will celebrate with joy. Sing to God! Sing praises to His name. Exalt Him who rides on the clouds—His name is the Lord—and rejoice before Him. A father of the fatherless, and a defender of the widows, is God in His holy habitation. God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land. O God, when You went out before Your people, when You marched through the wasteland, Selah the earth shook and the heavens poured down rain before God, the One on Sinai, before God, the God of Israel. You sent abundant rain, O God; You refreshed Your weary inheritance. Your flock settled therein; O God, from Your bounty You provided for the poor. The Lord gives the command; a great company of women proclaim it: “Kings and their armies flee in haste; she who waits at home divides the plunder. Though you lie down among the sheepfolds, the wings of the dove are covered with silver, and her feathers with shimmering gold.” When the Almighty b scattered the kings in the land, it was like the snow falling on Zalmon. A mountain of God is Mount Bashan; a mountain of many peaks is Mount Bashan. Why do you gaze in envy, O mountains of many peaks? This is the mountain God chose for His dwelling, where the Lord will surely dwell forever. The chariots of God are tens of thousands—thousands of thousands are they; the Lord is in His sanctuary as He was at Sinai. You have ascended on high; You have led captives away. You have received gifts from men, even from the rebellious, that the Lord God may dwell there. 19 Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah Our God is a God of deliverance; the Lord God is our rescuer from death. Surely God will crush the heads of His enemies, the hairy crowns of those who persist in guilty ways. The Lord said, “I will retrieve them from Bashan, I will bring them up from the depths of the sea, that your foot may be dipped in the blood of your foes—the tongues of your dogs in the same.” They have seen Your procession, O God—the march of my God and King into the sanctuary. The singers lead the way, the musicians follow after, among the maidens playing tambourines. Bless God in the great congregation; bless the Lord from the fountain of Israel. There is Benjamin, the youngest, ruling them, the princes of Judah in their company, the princes of Zebulun and of Naphtali. Summon Your power, O God; show Your strength, O God, which You have exerted on our behalf. Because of Your temple at Jerusalem kings will bring You gifts. Rebuke the beast in the reeds, the herd of bulls among the calves of the nations, until it submits, bringing bars of silver. Scatter the nations who delight in war. Envoys will arrive from Egypt; Cush will stretch out her hands to God. Sing to God, O kingdoms of the earth; sing praises to the Lord—Selah to Him who rides upon the highest heavens of old; behold, His mighty voice resounds. Ascribe the power to God, whose majesty is over Israel, whose strength is in the skies. O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!
 
 << Psalm 68:1–35
-
-## Week Five: Festivals
-
-### LENT PRELUDE
-
-> Scripture epigraph [no more than 30 words]
-
-<< Book 0:0–0
-
-> Historic quote [no more than 90 words]
-
-<< Author, _Book Title_
-
-Prelude paragraph [no more than 190 words]. Whole prelude page: no more than 310 words.
 
 ## - Twenty-Ninth Day of Lent
 
@@ -2539,20 +2493,6 @@ Confession text [120–220 words]
 Prayer text [180–300 words]
 
 << Author, _Book Title_
-
-## Week Six: Teachings
-
-### LENT PRELUDE
-
-> Scripture epigraph [no more than 30 words]
-
-<< Book 0:0–0
-
-> Historic quote [no more than 90 words]
-
-<< Author, _Book Title_
-
-Prelude paragraph [no more than 190 words]. Whole prelude page: no more than 310 words.
 
 ## - Thirty-Sixth Day of Lent
 
