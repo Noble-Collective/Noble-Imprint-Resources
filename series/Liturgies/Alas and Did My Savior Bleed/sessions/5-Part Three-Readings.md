@@ -2977,11 +2977,12 @@ Line
 
 ### HISTORIC WITNESS
 
-#### Title From the Excerpt
+#### He Has Taken Us as His Own
 
-Excerpt text [250–450 words; the one to lengthen or shorten]
+I believe that Jesus Christ, the true Son of God, has become my Lord. It means that he has redeemed me from sin, from the devil, from death and all misery. For before, I had no Lord and King, but was captive under the devil's power. I was condemned to death and entangled in sin and blindness.
+When we were created and had received all manner of blessings from God the Father, the devil came and led us into disobedience and sin, death and all misery; so that we lay under God's anger and wrath, and were condemned to eternal damnation, as we had justly merited. No counsel, no help or comfort, was there for us until the only and eternal Son of God, in his unfathomable goodness, had pity on our miserable wretchedness and came to help us. Thus all the tyrants and oppressors have been routed, and in their stead is Jesus Christ, the Lord of life, of righteousness, of everything pertaining to our welfare and salvation; he has rescued us poor lost creatures from the jaws of hell; he has redeemed us, made us free and restored us to God's favor and grace; he has taken us as his own, under his shelter and protection, that beneath his government we may experience his mercy, his power and wisdom, his life and salvation.
 
-<< Author, _Book Title_
+<< Martin Luther, _Larger Catechism_
 
 ### POETICAL VERSE
 
