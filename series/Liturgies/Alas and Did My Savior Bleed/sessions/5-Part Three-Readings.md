@@ -2096,7 +2096,7 @@ Show forth our Redeemer's praise.
 
 
 
-For the cross destroyed the enmity of God towards man, brought about the reconciliation, made the earth Heaven, associated men with angels, pulled down the citadel of death, unstrung the force of the devil, extinguished the power of sin, delivered the world from error, brought back the truth, expelled the Demons, destroyed temples, overturned altars, suppressed the sacrificial offering, implanted virtue, founded the Churches. The cross is the will of the Father, the glory of the Son, the rejoicing of the Spirit, the boast of Paul
+For the cross destroyed the enmity of God towards man, brought about the reconciliation, made the earth Heaven, associated men with angels, pulled down the citadel of death, unstrung the force of the devil, extinguished the power of sin, delivered the world from error, brought back the truth, expelled the Demons, destroyed temples, overturned altars, suppressed the sacrificial offering, implanted virtue, founded the Churches. The cross is the will of the Father, the glory of the Son, the rejoicing of the Spirit, the boast of Paul “for,” he says, “God forbid that I should boast save in the cross of our Lord Jesus Christ.”
 
 The cross is that which is brighter than the sun, more brilliant than the sunbeam: for when the sun is darkened then the cross shines brightly: and the sun is darkened not because it is extinguished, but because it is overpowered by the brilliancy of the cross. The cross has broken our bond, it has made the prison of death ineffectual, it is the demonstration of the love of God. 
 
