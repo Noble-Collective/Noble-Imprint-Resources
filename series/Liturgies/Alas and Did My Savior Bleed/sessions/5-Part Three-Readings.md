@@ -1991,7 +1991,7 @@ Preserve me, O God, for in You I take refuge. I said to the Lord, “You are my 
 
 << Psalm 16:1–11
 
-## - Twenty-Eighth of Advent
+## - Twenty-Eighth of Lent
 
 ### SCRIPTURE READING
 
@@ -2840,18 +2840,6 @@ Show forth our Redeemer's praise.
 
 << John Hus, "To Avert from Men God's Wrath"
 
-### HISTORIC WITNESS
-
-#### So Great Are the Benefits of the Cross
-
-The cross destroyed the enmity of God towards man, brought about the reconciliation, made the earth Heaven, associated men with angels, pulled down the citadel of death, unstrung the force of the devil, extinguished the power of sin, delivered the world from error, brought back the truth, expelled the Demons, destroyed temples, overturned altars, suppressed the sacrificial offering, implanted virtue, founded the Churches. The cross is the will of the Father, the glory of the Son, the rejoicing of the Spirit, the boast of Paul “for,” he says, “God forbid that I should boast save in the cross of our Lord Jesus Christ.”
-
-The cross is that which is brighter than the sun, more brilliant than the sunbeam: for when the sun is darkened then the cross shines brightly: and the sun is darkened not because it is extinguished, but because it is overpowered by the brilliancy of the cross. The cross has broken our bond, it has made the prison of death ineffectual, it is the demonstration of the love of God. 
-
-The cross is the impregnable wall, the invulnerable shield, the safeguard of the rich, the resource of the poor, the defense of those who are exposed to snares, the armor of those who are attacked, the means of suppressing passion, and of acquiring virtue, the wonderful and marvelous sign. The cross opened Paradise, it brought in the robber, it conducted into the kingdom of Heaven the race of man which was about to perish, and was not worthy even of earth. So great are the benefits which have sprung and do spring from the cross.
-
-<< John Chrysostom, _Against Marcionists_
-
 ### POETICAL VERSE
 
 #### Title From the Poem
@@ -2921,11 +2909,15 @@ Line
 
 ### HISTORIC WITNESS
 
-#### Title From the Excerpt
+#### So Great Are the Benefits of the Cross
 
-Excerpt text [250–450 words; the one to lengthen or shorten]
+The cross destroyed the enmity of God towards man, brought about the reconciliation, made the earth Heaven, associated men with angels, pulled down the citadel of death, unstrung the force of the devil, extinguished the power of sin, delivered the world from error, brought back the truth, expelled the Demons, destroyed temples, overturned altars, suppressed the sacrificial offering, implanted virtue, founded the Churches. The cross is the will of the Father, the glory of the Son, the rejoicing of the Spirit, the boast of Paul “for,” he says, “God forbid that I should boast save in the cross of our Lord Jesus Christ.”
 
-<< Author, _Book Title_
+The cross is that which is brighter than the sun, more brilliant than the sunbeam: for when the sun is darkened then the cross shines brightly: and the sun is darkened not because it is extinguished, but because it is overpowered by the brilliancy of the cross. The cross has broken our bond, it has made the prison of death ineffectual, it is the demonstration of the love of God. 
+
+The cross is the impregnable wall, the invulnerable shield, the safeguard of the rich, the resource of the poor, the defense of those who are exposed to snares, the armor of those who are attacked, the means of suppressing passion, and of acquiring virtue, the wonderful and marvelous sign. The cross opened Paradise, it brought in the robber, it conducted into the kingdom of Heaven the race of man which was about to perish, and was not worthy even of earth. So great are the benefits which have sprung and do spring from the cross.
+
+<< John Chrysostom, _Against Marcionists
 
 ### POETICAL VERSE
 
