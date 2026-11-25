@@ -1883,7 +1883,7 @@ Thus declares the Lord, who stretches out the heavens and lays the foundation of
 << Zechariah 13:1–9
 
 ### HISTORIC WITNESS
-#### dddd
+#### 
 
 ## - Twentieth Day of Lent
 
