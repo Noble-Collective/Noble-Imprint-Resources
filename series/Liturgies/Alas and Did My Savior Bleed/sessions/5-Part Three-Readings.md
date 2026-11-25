@@ -2045,7 +2045,7 @@ What then? Are we any better? Not at all. For we have already made the charge th
 
 ### DEVOTIONAL HYMN
 
-#### Jesus Suffered in Our Stead
+#### He a Full Atonement Made
 
 ##### VERSE 1
 
