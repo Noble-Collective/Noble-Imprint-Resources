@@ -2977,11 +2977,11 @@ Line
 
 ### HISTORIC WITNESS
 
+#### That He Might Be Our Triumphant Conqueror
+
 The work to be performed by the Mediator was of no common description: being to restore us to the divine favour, so as to make us, instead of sons of men, sons of God; instead of heirs of hell, heirs of a heavenly kingdom. Who could do this unless the Son of God should also become the Son of man, and so receive what is ours as to transfer to us what is his, making that which is his by nature to become ours by grace?
 
 It was especially necessary for this cause also that he who was to be our Redeemer should be truly God and man. It was his to swallow up death: who but Life could do so? It was his to conquer sin: who could do so save Righteousness itself? It was his to put to flight the powers of the air and the world: who could do so but the mighty power superior to both? But who possesses life and righteousness, and the dominion and government of heaven, but God alone? Therefore, God, in his infinite mercy, having determined to redeem us, became himself our Redeemer in the person of his only begotten Son.
-
- John Calvin and Henry Beveridge, [_Institutes of the Christian Religion_](https://ref.ly/logosres/icrbev?ref=InstitutesOfTheChristianReligion.Institutes+II%2c+xii%2c+2&off=1261&ctx=m.+8%3a17.\)+Moreover%2c+~it+was+especially+ne), vol. 2 (Edinburgh: The Calvin Translation Society, 1845), 3–4.
 
 Another principal part of our reconciliation with God was, that man, who had lost himself by his disobedience, should, by way of remedy, oppose, to it obedience, satisfy the justice of God, and pay the penalty of sin. Therefore, our Lord came forth very man, adopted the person of Adam, and assumed his name, that he might in his stead obey the Father; that he might present our flesh as the price of satisfaction to the just judgment of God, and in the same flesh pay the penalty which we had incurred. Finally, since as God only he could not suffer, and as man only could not overcome death, he united the human nature with the divine, that he might subject the weakness of the one to death as an expiation of sin, and by the power of the other, maintaining a struggle with death, might gain us the victory. Those, therefore, who rob Christ of divinity or humanity, either detract from his majesty and glory, or obscure his goodness. A common nature is the pledge of our union with the Son of God; that, clothed with our flesh, he warred to death with sin that he might be our triumphant conqueror; that the flesh which he received of us he offered in sacrifice, in order that by making expiation he might wipe away our guilt, and appease the just anger of his Father.
 
