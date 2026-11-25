@@ -12,5 +12,19 @@
   },
   "banner": "Pre-Release",
   "status": "public",
+  "audiobook": {
+    "enabled": true,
+    "chunking_strategy": "linear",
+    "language_normalization": false,
+    "voice_id": "jRAAK67SEFE9m7ci5DhD",
+    "model_id": "eleven_v4",
+    "quality_preset": "high",
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.5,
+      "speed": 0.92
+    },
+    "pronunciation_dictionary_id": null
+  },
   "maxNavHeadingLevel": 2
 }
