@@ -2627,7 +2627,11 @@ Line
 
 #### Title From the Excerpt
 
-Not only is the doctrine of the sacrificial death of Christ embodied in Christianity as an essential element of the system, but in a very real sense it constitutes Christianity. It is this which differentiates Christianity from other religions. Christianity did not come into the world to proclaim a new morality and, sweeping away all the supernatural props by which men were wont to support their trembling, guilt-stricken souls, to throw them back on their own strong right arms to conquer a standing before God for themselves. It came to proclaim the real sacrifice for sin which God had provided in order to supersede all the poor fumbling efforts which men had made and were making to provide a sacrifice for sin for themselves; and, planting men's feet on this, to bid them go forward. It was in this sign that Christianity conquered, and it is in this sign alone that it continues to conquer. We may think what we will of such a religion. What cannot be denied is that Christianity is such a religion.
+What Christ meant to do on the cross, he actually did. He did not die in vain; he did not leave any part of his work undone. Whatever was his intent, by the laying down of his life, he accomplished it; for, if not, dear friends, he would come here again. If any of his work were left undone, he would return to the earth that he might finish it, for he never did leave a work incomplete, and he never will. Christ effected the redemption of his people by one stroke; coming here, and living, and dying. He put away sin; he did not merely try to do it, but he actually accomplished the stupendous work for which he left his glory-throne above.
+He did not die to make men salvable; he died to save them. He did not die that their sin might be put away by some effort of their own; but he died to put it away. 
+
+
+C. H. Spurgeon, “Christ’s One Sacrifice for Sin,” in The Metropolitan Tabernacle Pulpit Sermons, vol. 38 (London: Passmore & Alabaster, 1892), 553.
 
 << B. B. Warfield, Biblicla Doctrines
 
