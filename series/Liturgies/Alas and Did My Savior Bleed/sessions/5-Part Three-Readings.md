@@ -2537,7 +2537,7 @@ But when our wickedness had reached its height, and it had been clearly shown th
 
 For what other thing was capable of covering our sins than His righteousness? By what other one was it possible that we, the wicked and ungodly, could be justified, than by the only Son of God? O sweet exchange! O unsearchable operation! O benefits surpassing all expectation! that the wickedness of many should be hid in a single righteous One, and that the righteousness of One should justify many transgressors! Having therefore convinced us in the former time that our nature was unable to attain to life, and having now revealed the Saviour who is able to save even those things which it was formerly impossible to save, by both these facts He desired to lead us to trust in His kindness, to esteem Him our Nourisher, Father, Teacher, Counsellor, Healer, our Wisdom, Light, Honour, Glory, Power, and Life, so that we should not be anxious concerning clothing and food.
 
-<< Didache
+<< Epistle to Diognetus
 
 ### POETICAL VERSE
 
