@@ -1507,18 +1507,15 @@ Our strength and righteousness!
 
 #### Title From the Excerpt
 
-We have here, the _sinner_. He is one of the common people; "any man;" "whosoever." The _sin_. It is one of ignorance; he is not aware of it; conscience did not take cognizance of it; he has forgotten it. The _remedy_. It is a sin-offering; this only can make it pass as completely from God's memory, as it has passed from his own. The _atonement_. It is by blood; through the intervention of priesthood; no atonement without the blood of a substitute. The _connection_ between the sinner and the atonement. He lays his hands on the sacrifice, for a two-fold reason; to identify himself with it; to transfer his sin to it; he says, Let this stand instead of me, its life and death for my life and death. The _forgiveness_. The sin passes away; there is no condemnation; it is instantaneous, complete, perpetual pardon.
+We have here, the _sinner_. He is one of the common people; "any man;" "whosoever." The _sin_. It is one of ignorance; he is not aware of it; conscience did not take cognizance of it; he has forgotten it. The _remedy_. It is a sin-offering; this only can make it pass as completely from God's memory, as it has passed from his own. The _atonement_. It is by blood; through the intervention of priesthood; no atonement without the blood of a substitute. The _connection_ between the sinner and the atonement. He lays his hands on the sacrifice, for a two-fold reason; to identify himself with it; to transfer his sin to it; he says, Let this stand instead of me, its life and death for my life and death. The _forgiveness_. The sin passes away; there is no condemnation; it is instantaneous, complete, perpetual pardon. Such was the symbol. Full and expressive,—revealing to us atonement and pardon through the one great sacrifice. 
 
-Such was the symbol. Full and expressive,—revealing to us atonement and pardon through the one great sacrifice. 
+Sin is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which He hates; its beginning is wrath and death, its end is hell. 
 
-
-Sin is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which He hates; its beginning is wrath and death, its end is hell. And as _He_ thinks so does He wish _us_ to think. What think ye of sin? What is your opinion of its nature, its evil, its deservings?
-
-II. _How He deals with it._ He does not despise nor forget it. He deals with it as a Judge. He estimates it as a Judge. He condemns it as a Judge. He inflicts punishment as a Judge. This must be either executed on ourselves personally, or on our substitute. Condemnation must be proclaimed; the penalty must be executed.
+He deals with it as a Judge. He estimates it as a Judge. He condemns it as a Judge. He inflicts punishment as a Judge. This must be either executed on ourselves personally, or on our substitute. Condemnation must be proclaimed; the penalty must be executed.
 
 (1.) _He condemns sin._ He gave the law to condemn sin. He set up the cross to condemn it more. The soul that sinneth, it shall die. The wages of sin is death.
 
-(2.) _He provides a sin-bearer._ He does not leave _us_ to do this; but does it Himself. He not only appoints the sin-offering, but He provides the victim. His Son, the Word made flesh,—He is the appointed Sin-bearer, divine and human in his constitution, perfect in all respects, sufficient for the great undertaking, able to bear wrath without being consumed.
+He provides a sin-bearer. He does not leave _us_ to do this; but does it Himself. He not only appoints the sin-offering, but He provides the victim. His Son, the Word made flesh,—He is the appointed Sin-bearer, divine and human in his constitution, perfect in all respects, sufficient for the great undertaking, able to bear wrath without being consumed.
 
 (3.) _He transfers the guilt._ The Lord hath laid on Him the iniquity of us all. The chastisement of our peace was on Him. He whose is the right to retain or transfer the guilt transfers it to a substitute.
 
@@ -1527,7 +1524,8 @@ Thus, then, He has provided the atonement. His appointed High Priest has made th
 
 
 
-Perhaps you say, I see that God has provided a propitiation, that this is complete, and available for me, but how am I to be so connected with it as to obtain the pardon? Everything depends on this connection being established, for without it there is no pardon. Now, how did the Israelite connect himself with the sin-offering? He simply took the lamb and brought it to the priest and said, Let this stand for me, laying his hand on it and thereby transferring all his guilt to it. So we, by receiving the testimony and the promise, connect ourselves with the divine atonement. We go to God saying, Let this life and death be for my life and death. We consent to be dealt with on the footing of another, not our own, and immediately the personal exchange takes place. He gets all our evil, we get all His good. Our demerit goes to Him, His merit comes to us. We take the royal grant of life and righteousness through the life and death of another. Pardon is secured, and ought to be a thing as sure and as conscious to us, as to the Israelite after he had brought the sacrifice and seen it laid on the altar.
+
+He simply took the lamb and brought it to the priest and said, Let this stand for me, laying his hand on it and thereby transferring all his guilt to it. So we, by receiving the testimony and the promise, connect ourselves with the divine atonement. We go to God saying, Let this life and death be for my life and death. We consent to be dealt with on the footing of another, not our own, and immediately the personal exchange takes place. He gets all our evil, we get all His good. Our demerit goes to Him, His merit comes to us. We take the royal grant of life and righteousness through the life and death of another. Pardon is secured, and ought to be a thing as sure and as conscious to us, as to the Israelite after he had brought the sacrifice and seen it laid on the altar.
 
 _Horatius Bonar, Bible Thoughts and Themes: The Old Testament, ch. XV, pp. 65–68_
 
