@@ -3051,9 +3051,9 @@ Prayer text [180–300 words]
 
 ####
 
-A Little One is given to little ones, that the Great One may be given to the great, and that those whom the Little One justifies, the Great and Mighty One may afterwards magnify and render glorious. 
+A Little One is given to little ones, that the Great One may be given to the great, and that those whom the Little One justifies, the Great and Mighty One may afterwards magnify and render glorious. Rejoice that you have received the gifts of the left hand; rejoice in the expectation of the rewards of the right. For the left hand raises, the right receives. The left hand heals and justifies; the right embraces and blesses. In the left hand are contained His merits, in the right His rewards. In the right are delights, in the left are remedies.
 
-Hence, without doubt, St. Paul, the vessel of election, pours out to us the treasures which he had received from the fullness of this Child. For Christ, though a Child, is full of grace and truth. " In Him dwelleth all the fullness of the Godhead corporally.” Hence, I repeat, St. Paul utters that good word which you have heard so often during these past days : " Rejoice in the Lord always : again I say, Rejoice.”1 Of the showing forth of the mystery, he says " Rejoice ” ; of the promise of it he adds : " Again I say, Rejoice.” For both the mystery and its promise are causes of great joy. Rejoice that you have received the gifts of the left hand ; rejoice in the expectation of the rewards of the right. " His left hand is under my head, and his right hand shall embrace me.”2 For the left hand raises, the right receives. The left hand heals and justifies ; the right embraces and blesses. In
+But see how gentle the Physician is! behold how wise! Consider diligently the novelty of these remedies that He brings. See how they are not merely precious, but beautiful as well. They are fruits beneficial for our healing, and at the same time they are charming to the spiritual eye, sweet to the spiritual taste.
 
 "Behold,” He says, "I make all things new." Who is it that so speaks? It is no other than the Lamb Who sits upon the throne—the Lamb all sweetness, the Lamb all happiness, the Lamb all unction; for His name is Christ. 
 
