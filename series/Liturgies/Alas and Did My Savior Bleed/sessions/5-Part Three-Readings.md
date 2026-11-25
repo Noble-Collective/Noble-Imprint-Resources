@@ -3051,6 +3051,10 @@ Prayer text [180–300 words]
 
 ####
 
+"Behold,” He says, "I make all things new." Who is it that so speaks? It is no other than the Lamb Who sits upon the throne—the Lamb all sweetness, the Lamb all happiness, the Lamb all unction; for His name is Christ. O miraculous
+novelty! The curse of Eve is reversed in our
+Virgin, fo
+
 There are two things from which our weak human nature shrinks—pain and shame. Christ came to take both from us, and this He did by accepting both in His own person—when, for instance, not to mention other occasions, He was condemned to death, and to a most shameful death, by wicked men.
 
 Behold here an Infant without stain! Behold the Lamb without spot, the Lamb of God, Who taketh away the sins of the world! Who could better take them away than He Who knew no sin? He, indeed, can cleanse me, who has never Himself been defiled. His touch can remove the clay from my eyes, for His hand is free from the lightest dust. He can take the mote from out my eye Who has no beam in His own; or, rather, He Who has no smallest grain of dust in His own eye can take the beam from mine
