@@ -2977,7 +2977,9 @@ Line
 
 ### HISTORIC WITNESS
 
+Another principal part of our reconciliation with God was, that man, who had lost himself by his disobedience, should, by way of remedy, oppose, to it obedience, satisfy the justice of God, and pay the penalty of sin. Therefore, our Lord came forth very man, adopted the person of Adam, and assumed his name, that he might in his stead obey the Father; that he might present our flesh as the price of satisfaction to the just judgment of God, and in the same flesh pay the penalty which we had incurred. Finally, since as God only he could not suffer, and as man only could not overcome death, he united the human nature with the divine, that he might subject the weakness of the one to death as an expiation of sin, and by the power of the other, maintaining a struggle with death, might gain us the victory. Those, therefore, who rob Christ of divinity or humanity, either detract from his majesty and glory, or obscure his goodness.
 
+<< John Calvin, _Institutes of the Christian Religion_
 
 ### POETICAL VERSE
 
