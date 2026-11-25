@@ -2625,7 +2625,7 @@ Line
 
 ### HISTORIC WITNESS
 
-#### Title From the Excerpt
+#### He Actually Accomplished the Stupendous Work
 
 What Christ meant to do on the cross, he actually did. He did not die in vain; he did not leave any part of his work undone. Whatever was his intent, by the laying down of his life, he accomplished it. Christ effected the redemption of his people by one stroke; coming here, and living, and dying. He put away sin; he did not merely try to do it, but he actually accomplished the stupendous work for which he left his glory-throne above. He did not die to make men salvable; he died to save them. He did not die that their sin might be put away by some effort of their own; but he died to put it away. There was one death, one sacrifice, one atonement, and all the work of man’s redemption was for ever accomplished.
 
@@ -2633,14 +2633,7 @@ Take a good look at Calvary; get the cross distinctly photographed upon your eye
 
 _Christ offered himself alone_. He put away sin by the sacrifice of _himself;_ not by the sacrifice of his Church, not by the sacrifice of martyrs, not by the offering of wafers and consecrated wine; but by the sacrifice of himself alone. You must not add anything to Christ’s sacrifice. Christ does not put away sin through your tears, and your grief, and your merit, and your almsgiving. No, he put away sin by the sacrifice of _himself;_ nothing else. You must take nothing from Christ’s sacrifice, and you must add nothing to it.
 
- C. H. Spurgeon, “[Christ’s One Sacrifice for Sin](https://ref.ly/logosres/mtpserms38?ref=Page.p+559&off=717&ctx=roken+his+holy+law!%0a~Christ+offered+himse),” in _The Metropolitan Tabernacle Pulpit Sermons_, vol. 38 (London: Passmore & Alabaster, 1892), 559.
-
-
-
-
-C. H. Spurgeon, “Christ’s One Sacrifice for Sin,” in The Metropolitan Tabernacle Pulpit Sermons, vol. 38 (London: Passmore & Alabaster, 1892), 553.
-
-<< B. B. Warfield, Biblicla Doctrines
+<< Charles Spurgeon, "Christ’s One Sacrifice for Sin"
 
 ### POETICAL VERSE
 
