@@ -1507,7 +1507,9 @@ Our strength and righteousness!
 
 #### Let This Life and Death Be for My Life and Death
 
-Sin is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which God hates; its beginning is wrath and death, its end is hell. God deals with it as a Judge. He estimates it as a Judge. He condemns it as a Judge. He inflicts punishment as a Judge. This must be either executed on ourselves personally, or on our substitute. God gave the law to condemn sin. He set up the cross to condemn it more. The soul that sins, it shall die. The wages of sin is death.
+Sin is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which God hates; its beginning is wrath and death, its end is hell. 
+
+God deals with it as a Judge. He estimates it as a Judge. He condemns it as a Judge. He inflicts punishment as a Judge. This must be either executed on ourselves personally, or on our substitute. God gave the law to condemn sin. He set up the cross to condemn it more. The soul that sins, it shall die. The wages of sin is death.
 
 But God provides a sin-bearer. He does not leave _us_ to do this; but does it Himself. He not only appoints the sin-offering, but He provides the victim. His Son, the Word made flesh,—He is the appointed Sin-bearer, divine and human in his constitution, perfect in all respects, sufficient for the great undertaking, able to bear wrath without being consumed. God transfers the guilt. The Lord hath laid on Him the iniquity of us all. The chastisement of our peace was on Him. He whose is the right to retain or transfer the guilt transfers it to a substitute.
 
