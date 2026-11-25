@@ -2627,7 +2627,7 @@ Line
 
 #### Title From the Excerpt
 
-Excerpt text [250–450 words; the one to lengthen or shorten]
+This is as much as to say that not only is the doctrine of the sacrificial death of Christ embodied in Christianity as an essential element of the system, but in a very real sense it constitutes Christianity. It is this which differentiates Christianity from other religions. Christianity did not come into the world to proclaim a new morality and, sweeping away all the supernatural props by which men were wont to support their trem-bling, guilt-stricken souls, to throw them back on their own strong right arms to conquer a standing before God for them-selves. It came to proclaim the real sacrifice for sin which God had provided in order to supersede all the poor fumbling efforts which men had made and were making to provide a sacrifice for sin for themselves; and, planting men's feet on this, to bid them go forward. It was in this sign that Christianity conquered, and it is in this sign alone that it continues to con-quer. We may think what we will of such a religion. What cannot be denied is that Christianity is such a religion.
 
 << Author, _Book Title_
 
