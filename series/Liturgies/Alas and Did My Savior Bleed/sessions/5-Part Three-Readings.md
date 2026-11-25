@@ -1503,6 +1503,15 @@ Our strength and righteousness!
 
 << L. Hartsough, “I Hear Thy Welcome Voice”
 
+### HISTORIC WITNESS
+
+#### Title From the Excerpt
+
+
+
+<< Horatius Bonar, _Light and Truth_
+
+
 ### POETICAL VERSE
 
 #### The Holy, Meek, Unspotted Lamb
