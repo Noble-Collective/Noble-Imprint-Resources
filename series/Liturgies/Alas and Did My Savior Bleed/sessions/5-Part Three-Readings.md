@@ -2631,6 +2631,10 @@ What Christ meant to do on the cross, he actually did. He did not die in vain; h
 
 Take a good look at Calvary; get the cross distinctly photographed upon your eyeballs; behold the five wounds and the bloody sweat. The whole gospel was hung on the cross. It was all there; the battle and the victory, the price and the purchase, the doom and the deliverance, the cross and the crown. See again, in the death of Christ on the cross, a clear idea of what he meant to do, and of what he actually did when he laid down his life for us; and be you glad that once, and only once, this great deed had to be done. Nothing more is wanted, Christ has put away the sin of those for whom the covenant was made.
 
+_Christ offered himself alone_. He put away sin by the sacrifice of _himself;_ not by the sacrifice of his Church, not by the sacrifice of martyrs, not by the offering of wafers and consecrated wine; but by the sacrifice of himself alone. You must not add anything to Christ’s sacrifice. Christ does not put away sin through your tears, and your grief, and your merit, and your almsgiving. No, he put away sin by the sacrifice of _himself;_ nothing else. You must take nothing from Christ’s sacrifice, and you must add nothing to it.
+
+ C. H. Spurgeon, “[Christ’s One Sacrifice for Sin](https://ref.ly/logosres/mtpserms38?ref=Page.p+559&off=717&ctx=roken+his+holy+law!%0a~Christ+offered+himse),” in _The Metropolitan Tabernacle Pulpit Sermons_, vol. 38 (London: Passmore & Alabaster, 1892), 559.
+
 C. H. Spurgeon, “Christ’s One Sacrifice for Sin,” in The Metropolitan Tabernacle Pulpit Sermons, vol. 38 (London: Passmore & Alabaster, 1892), 554–55.
 
 
