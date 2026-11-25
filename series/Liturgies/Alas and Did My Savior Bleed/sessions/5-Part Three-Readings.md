@@ -2627,7 +2627,7 @@ Line
 
 #### Title From the Excerpt
 
-What Christ meant to do on the cross, he actually did. He did not die in vain; he did not leave any part of his work undone. Whatever was his intent, by the laying down of his life, he accomplished it. Christ effected the redemption of his people by one stroke; coming here, and living, and dying. He put away sin; he did not merely try to do it, but he actually accomplished the stupendous work for which he left his glory-throne above. He did not die to make men salvable; he died to save them. He did not die that their sin might be put away by some effort of their own; but he died to put it away. 
+What Christ meant to do on the cross, he actually did. He did not die in vain; he did not leave any part of his work undone. Whatever was his intent, by the laying down of his life, he accomplished it. Christ effected the redemption of his people by one stroke; coming here, and living, and dying. He put away sin; he did not merely try to do it, but he actually accomplished the stupendous work for which he left his glory-throne above. He did not die to make men salvable; he died to save them. He did not die that their sin might be put away by some effort of their own; but he died to put it away. There was one death, one sacrifice, one atonement, and all the work of man’s redemption was for ever accomplished.
 
 Take a good look at Calvary; get the cross distinctly photographed upon your eyeballs; behold the five wounds and the bloody sweat. The whole gospel was hung on the cross. It was all there; the battle and the victory, the price and the purchase, the doom and the deliverance, the cross and the crown. See again, in the death of Christ on the cross, a clear idea of what he meant to do, and of what he actually did when he laid down his life for us; and be you glad that once, and only once, this great deed had to be done. Nothing more is wanted, Christ has put away the sin of those for whom the covenant was made.
 
@@ -2635,7 +2635,7 @@ _Christ offered himself alone_. He put away sin by the sacrifice of _himself;_ n
 
  C. H. Spurgeon, “[Christ’s One Sacrifice for Sin](https://ref.ly/logosres/mtpserms38?ref=Page.p+559&off=717&ctx=roken+his+holy+law!%0a~Christ+offered+himse),” in _The Metropolitan Tabernacle Pulpit Sermons_, vol. 38 (London: Passmore & Alabaster, 1892), 559.
 
-C. H. Spurgeon, “Christ’s One Sacrifice for Sin,” in The Metropolitan Tabernacle Pulpit Sermons, vol. 38 (London: Passmore & Alabaster, 1892), 554–55.
+
 
 
 C. H. Spurgeon, “Christ’s One Sacrifice for Sin,” in The Metropolitan Tabernacle Pulpit Sermons, vol. 38 (London: Passmore & Alabaster, 1892), 553.
