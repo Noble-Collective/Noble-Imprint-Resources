@@ -2094,6 +2094,8 @@ Show forth our Redeemer's praise.
 
 << John Hus, "To Avert from Men God's Wrath"
 
+### HISTORIC WITNESS
+
 #### So Great Are the Benefits of the Cross
 
 The cross destroyed the enmity of God towards man, brought about the reconciliation, made the earth Heaven, associated men with angels, pulled down the citadel of death, unstrung the force of the devil, extinguished the power of sin, delivered the world from error, brought back the truth, expelled the Demons, destroyed temples, overturned altars, suppressed the sacrificial offering, implanted virtue, founded the Churches. The cross is the will of the Father, the glory of the Son, the rejoicing of the Spirit, the boast of Paul “for,” he says, “God forbid that I should boast save in the cross of our Lord Jesus Christ.”
