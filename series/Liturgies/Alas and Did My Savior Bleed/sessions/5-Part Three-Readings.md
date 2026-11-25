@@ -227,7 +227,7 @@ Calls from His height of woe;—His bleeding brows
 
 ### CONFESSIONAL INSTRUCTION
 
-#### Title From the Text
+#### Abraham Received Him From the Dead in a Figure
 
 He is called Isaac from _laughing_, because he was a son of joy and exultation to his parents. But Christ is the joy of the whole world, and at his birth the angels proclaimed to the shepherds good tidings of great joy, which shall be to all people. Isaac was the _son of the promise_, being descended in a miraculous manner from Abraham, who was old, and from Sarah, who was barren and past bearing, by the alone efficacy of the word of God ... So Christ, not according to the order of nature, nor by virtue of the general blessing, _increase and multiply_, but by the efficacy of a gracious promise, was born of a virgin mother, by a strange and surprising miracle. Isaac was the _only_ son of Abraham ... so Christ is the only begotten Son of the Father ... though he also has brethren, but of a far more inferior order and condition ... Isaac was the head of Abraham's family, and, in his measure, that is, typically, the origin of the blessing. Christ is the head of God's family.
 
