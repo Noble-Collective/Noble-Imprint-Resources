@@ -1317,7 +1317,7 @@ Whole day: about 1,300 words of prose plus about 55 lines of hymn and poem.
 << Leviticus 3:1–17
 ### HISTORIC WITNESS
 
-####
+#### A Total Renovation of the Whole Man
 
 By sanctification, I mean a total renovation of the whole man; by the righteousness of Christ, believers become legally, by sanctification they are made spiritually, alive; by one they are entitled to, by the other they are made meet for, glory. 
 
