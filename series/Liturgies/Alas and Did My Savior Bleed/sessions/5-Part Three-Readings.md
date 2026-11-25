@@ -1889,6 +1889,23 @@ Who has believed our message? And to whom has the arm of the Lord been revealed?
 
 << Isaiah 53:1–12
 
+### HISTORIC WITNESS
+
+#### Christ Came to Take Both From Us
+
+A Little One is given to little ones, that the Great One may be given to the great, and that those whom the Little One justifies, the Great and Mighty One may afterwards magnify and render glorious. Rejoice that you have received the gifts of the left hand; rejoice in the expectation of the rewards of the right. For the left hand raises, the right receives. The left hand heals and justifies; the right embraces and blesses. In the left hand are contained His merits, in the right His rewards. In the right are delights, in the left are remedies.
+
+But see how gentle the Physician is! behold how wise! Consider diligently the novelty of these remedies that He brings. See how they are not merely precious, but beautiful as well. They are fruits beneficial for our healing, and at the same time they are charming to the spiritual eye, sweet to the spiritual taste.
+
+"Behold,” He says, "I make all things new." Who is it that so speaks? It is no other than the Lamb Who sits upon the throne—the Lamb all sweetness, the Lamb all happiness, the Lamb all unction; for His name is Christ. 
+
+There are two things from which our weak human nature shrinks—pain and shame. Christ came to take both from us, and this He did by accepting both in His own person—when, for instance, not to mention other occasions, He was condemned to death, and to a most shameful death, by wicked men.
+
+Behold here an Infant without stain! Behold the Lamb without spot, the Lamb of God, Who takes away the sins of the world! Who could better take them away than He Who knew no sin? He, indeed, can cleanse me, who has never Himself been defiled. His touch can remove the clay from my eyes, for His hand is free from the lightest dust. He can take the mote from out my eye Who has no beam in His own; or, rather, He Who has no smallest grain of dust in His own eye can take the beam from mine.
+
+<< Bernard, _Sermons_
+
+
 ## - Twenty-First Day of Lent
 
 ### SCRIPTURE READING
@@ -3048,17 +3065,3 @@ Confession text [120–220 words]
 Prayer text [180–300 words]
 
 << Author, _Book Title_
-
-####
-
-A Little One is given to little ones, that the Great One may be given to the great, and that those whom the Little One justifies, the Great and Mighty One may afterwards magnify and render glorious. Rejoice that you have received the gifts of the left hand; rejoice in the expectation of the rewards of the right. For the left hand raises, the right receives. The left hand heals and justifies; the right embraces and blesses. In the left hand are contained His merits, in the right His rewards. In the right are delights, in the left are remedies.
-
-But see how gentle the Physician is! behold how wise! Consider diligently the novelty of these remedies that He brings. See how they are not merely precious, but beautiful as well. They are fruits beneficial for our healing, and at the same time they are charming to the spiritual eye, sweet to the spiritual taste.
-
-"Behold,” He says, "I make all things new." Who is it that so speaks? It is no other than the Lamb Who sits upon the throne—the Lamb all sweetness, the Lamb all happiness, the Lamb all unction; for His name is Christ. 
-
-There are two things from which our weak human nature shrinks—pain and shame. Christ came to take both from us, and this He did by accepting both in His own person—when, for instance, not to mention other occasions, He was condemned to death, and to a most shameful death, by wicked men.
-
-Behold here an Infant without stain! Behold the Lamb without spot, the Lamb of God, Who taketh away the sins of the world! Who could better take them away than He Who knew no sin? He, indeed, can cleanse me, who has never Himself been defiled. His touch can remove the clay from my eyes, for His hand is free from the lightest dust. He can take the mote from out my eye Who has no beam in His own; or, rather, He Who has no smallest grain of dust in His own eye can take the beam from mine
-
-<< Bernard, _Sermons_
