@@ -235,8 +235,6 @@ Abraham could not possibly have given a more illustrious instance of his love to
 
 Isaac was already dead in his father's opinion, and Abraham received him from the dead in a figure. So Christ, being truly dead was restored to life. Isaac was dead in his father's intention, from the moment he received the command to offer him up, until the third day, on which he was forbid to lay hands on the lad. On the third day also Christ arose. When Isaac was restored to Abraham, he dwelt with his father, and became the parent of a numerous seed. So when Christ rose from the dead, he entered into his Father's house, and saw his seed.
 
-_Herman Witsius, The Economy of the Covenants between God and Man, tr. William Crookshank, vol. II, bk. IV, ch. vi, §§ 26–29, pp. [200]–202_
-
 << Herman Witsius, _The Economy of the Covenants_
 
 ### REFLECTIVE PRAYER
