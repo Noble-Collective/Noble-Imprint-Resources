@@ -2043,6 +2043,56 @@ What then? Are we any better? Not at all. For we have already made the charge th
 
 << Romans 3:9–31
 
+### DEVOTIONAL HYMN
+
+#### Jesus Suffered in Our Stead
+
+##### VERSE 1
+
+To avert from men God's wrath
+Jesus suffered in our stead;
+By an ignominious death
+He a full atonement made;
+And by His most precious blood
+Brought us, sinners, nigh to God.
+
+##### VERSE 2
+
+Hither each afflicted soul
+May repair, though filled with grief;
+To the sick, not to the whole,
+The Physician brings relief:
+Fear not, therefore, but draw nigh,
+Christ will all your wants supply.
+
+##### VERSE 3
+
+He who in self-righteousness
+Fixes any hope or stay,
+Has not on the wedding-dress,
+And in shame is sent away:
+To the hungry, weary heart,
+He will food and rest impart.
+
+##### VERSE 4
+
+But examine first your case,
+Whether you be in the faith;
+Do you mourn for pardoning grace?
+Is your only hope His death?
+Then, howe'er your soul's opprest,
+Come, you are a worthy guest.
+
+##### VERSE 5
+
+He who Jesus' mercy knows,
+Is from wrath and envy freed;
+Love unto our neighbor shows
+That we are His flock indeed:
+Thus we may in all our ways
+Show forth our Redeemer's praise.
+
+<< John Hus, "To Avert from Men God's Wrath"
 ## - Thirty-Third Day of Lent
 
 ### SCRIPTURE READING
