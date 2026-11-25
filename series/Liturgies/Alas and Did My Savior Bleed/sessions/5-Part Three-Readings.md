@@ -2977,13 +2977,7 @@ Line
 
 ### HISTORIC WITNESS
 
-#### He Has Taken Us as His Own
 
-I believe that Jesus Christ, the true Son of God, has become my Lord. It means that he has redeemed me from sin, from the devil, from death and all misery. For before, I had no Lord and King, but was captive under the devil's power. I was condemned to death and entangled in sin and blindness. When we were created and had received all manner of blessings from God the Father, the devil came and led us into disobedience and sin, death and all misery; so that we lay under God's anger and wrath, and were condemned to eternal damnation, as we had justly merited. No counsel, no help or comfort, was there for us until the only and eternal Son of God, in his unfathomable goodness, had pity on our miserable wretchedness and came to help us. Thus all the tyrants and oppressors have been routed, and in their stead is Jesus Christ, the Lord of life, of righteousness, of everything pertaining to our welfare and salvation; he has rescued us poor lost creatures from the jaws of hell; he has redeemed us, made us free and restored us to God's favor and grace; he has taken us as his own, under his shelter and protection, that beneath his government we may experience his mercy, his power and wisdom, his life and salvation.
-
-The little word "Lord," in its simplest meaning, signifies as much as "Redeemer"; that is, he who has brought us back from Satan to God, from death to life, from sin to righteousness, and keeps us safe therein. The points which follow in this article are intended to explain this redemption, and to show in what manner and by what means it was accomplished—what it cost Christ, what he incurred and encountered to win us and bring us into his kingdom. He became man—was conceived and born without sin, of the Holy Spirit and of the Virgin Mary—that he might become Lord over all sin; he suffered, died and was buried, and made satisfaction for me, paying my debt, not with silver or gold, but with his own most precious blood. And all this that he might become my Lord; for he had no need to do this for himself. Afterward he rose again, conquering and swallowing up death, and finally ascended into heaven and assumed dominion at the right hand of the Father. The devil and all his powers, therefore, must be subject to him and remain beneath his feet until the last day, when he shall separate and remove us from the wicked world, from the devil, death and sin.
-
-<< Martin Luther, _Larger Catechism_
 
 ### POETICAL VERSE
 
@@ -3006,11 +3000,13 @@ Line
 
 ### CONFESSIONAL INSTRUCTION
 
-#### Title From the Text
+#### He Has Taken Us as His Own
 
-Confession text [120–220 words]
+I believe that Jesus Christ, the true Son of God, has become my Lord. It means that he has redeemed me from sin, from the devil, from death and all misery. For before, I had no Lord and King, but was captive under the devil's power. I was condemned to death and entangled in sin and blindness. When we were created and had received all manner of blessings from God the Father, the devil came and led us into disobedience and sin, death and all misery; so that we lay under God's anger and wrath, and were condemned to eternal damnation, as we had justly merited. No counsel, no help or comfort, was there for us until the only and eternal Son of God, in his unfathomable goodness, had pity on our miserable wretchedness and came to help us. Thus all the tyrants and oppressors have been routed, and in their stead is Jesus Christ, the Lord of life, of righteousness, of everything pertaining to our welfare and salvation; he has rescued us poor lost creatures from the jaws of hell; he has redeemed us, made us free and restored us to God's favor and grace; he has taken us as his own, under his shelter and protection, that beneath his government we may experience his mercy, his power and wisdom, his life and salvation.
 
-<< Confession or Catechism Name
+The little word "Lord," in its simplest meaning, signifies as much as "Redeemer"; that is, he who has brought us back from Satan to God, from death to life, from sin to righteousness, and keeps us safe therein. The points which follow in this article are intended to explain this redemption, and to show in what manner and by what means it was accomplished—what it cost Christ, what he incurred and encountered to win us and bring us into his kingdom. He became man—was conceived and born without sin, of the Holy Spirit and of the Virgin Mary—that he might become Lord over all sin; he suffered, died and was buried, and made satisfaction for me, paying my debt, not with silver or gold, but with his own most precious blood. And all this that he might become my Lord; for he had no need to do this for himself. Afterward he rose again, conquering and swallowing up death, and finally ascended into heaven and assumed dominion at the right hand of the Father. The devil and all his powers, therefore, must be subject to him and remain beneath his feet until the last day, when he shall separate and remove us from the wicked world, from the devil, death and sin.
+
+<< Martin Luther, _Larger Catechism_
 
 ### REFLECTIVE PRAYER
 
