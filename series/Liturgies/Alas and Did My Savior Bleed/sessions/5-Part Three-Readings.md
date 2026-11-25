@@ -1510,9 +1510,12 @@ Our strength and righteousness!
 **HOW GOD DEALS WITH SIN AND THE SINNER.**  
 LEVITICUS IV. 27–35.
 
-We have here, (1.) the _sinner_. He is one of the common people; "any man;" "whosoever." (2.) The _sin_. It is one of ignorance; he is not aware of it; conscience did not take cognisance of it; he has forgotten it. (3.) The _remedy_. It is a sin-offering; this only can make it pass as completely from God's memory, as it has passed from his own. (4.) The _atonement_. It is by blood; through the intervention of priesthood; no atonement without the blood of a substitute. (5.) The _connection_ between the sinner and the atonement. He lays his hands on the sacrifice, for a two-fold reason; to identify himself with it; to transfer his sin to it; he says, Let this stand instead of me, its life and death for my life and death. (6.) The _forgiveness_. The sin passes away; there is no condemnation; it is instantaneous, complete, perpetual pardon.
+We have here, the _sinner_. He is one of the common people; "any man;" "whosoever." (2.) The _sin_. It is one of ignorance; he is not aware of it; conscience did not take cognisance of it; he has forgotten it. (3.) The _remedy_. It is a sin-offering; this only can make it pass as completely from God's memory, as it has passed from his own. (4.) The _atonement_. It is by blood; through the intervention of priesthood; no atonement without the blood of a substitute. (5.) The _connection_ between the sinner and the atonement. He lays his hands on the sacrifice, for a two-fold reason; to identify himself with it; to transfer his sin to it; he says, Let this stand instead of me, its life and death for my life and death. (6.) The _forgiveness_. The sin passes away; there is no condemnation; it is instantaneous, complete, perpetual pardon.
 
-Such was the symbol. Full and expressive,—revealing to us atonement and pardon through the one great sacrifice. Let us see what this old sin-offering teaches us.
+Such was the symbol. Full and expressive,—revealing to us atonement and pardon through the one great sacrifice. 
+
+
+Let us see what this old sin-offering teaches us.
 
 I. _What God thinks of sin._ It is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which He hates; its beginning is wrath and death, its end is hell. And as _He_ thinks so does He wish _us_ to think. What think ye of sin? What is your opinion of its nature, its evil, its deservings?
 
