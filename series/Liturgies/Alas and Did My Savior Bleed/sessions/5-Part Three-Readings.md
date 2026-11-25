@@ -1507,8 +1507,6 @@ Our strength and righteousness!
 
 #### Title From the Excerpt
 
-We have here, the _sinner_. He is one of the common people; "any man;" "whosoever." The _sin_. It is one of ignorance; he is not aware of it; conscience did not take cognizance of it; he has forgotten it. The _remedy_. It is a sin-offering; this only can make it pass as completely from God's memory, as it has passed from his own. The _atonement_. It is by blood; through the intervention of priesthood; no atonement without the blood of a substitute. The _connection_ between the sinner and the atonement. He lays his hands on the sacrifice, for a two-fold reason; to identify himself with it; to transfer his sin to it; he says, Let this stand instead of me, its life and death for my life and death. The _forgiveness_. The sin passes away; there is no condemnation; it is instantaneous, complete, perpetual pardon. Such was the symbol. Full and expressive,—revealing to us atonement and pardon through the one great sacrifice. 
-
 Sin is something which must not be slighted. It is infinitely hateful, calling for condemnation and wrath. Nothing light or trivial about it. Not to be jested with, or transiently frowned upon, or forgotten in a day. It calls for special marks of wrath. It is the abominable thing which [God] hates; its beginning is wrath and death, its end is hell. 
 
 [God] deals with it as a Judge. He estimates it as a Judge. He condemns it as a Judge. He inflicts punishment as a Judge. This must be either executed on ourselves personally, or on our substitute. Condemnation must be proclaimed; the penalty must be executed. He gave the law to condemn sin. He set up the cross to condemn it more. The soul that sins, it shall die. The wages of sin is death.
