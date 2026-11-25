@@ -1991,7 +1991,7 @@ Preserve me, O God, for in You I take refuge. I said to the Lord, “You are my 
 
 << Psalm 16:1–11
 
-## - Twenty-Eighth of Lent
+## - Twenty-Eighth Day of Lent
 
 ### SCRIPTURE READING
 
@@ -2917,7 +2917,7 @@ The cross is that which is brighter than the sun, more brilliant than the sunbea
 
 The cross is the impregnable wall, the invulnerable shield, the safeguard of the rich, the resource of the poor, the defense of those who are exposed to snares, the armor of those who are attacked, the means of suppressing passion, and of acquiring virtue, the wonderful and marvelous sign. The cross opened Paradise, it brought in the robber, it conducted into the kingdom of Heaven the race of man which was about to perish, and was not worthy even of earth. So great are the benefits which have sprung and do spring from the cross.
 
-<< John Chrysostom, _Against Marcionists
+<< John Chrysostom, _Against Marcionists_
 
 ### POETICAL VERSE
 
